@@ -13,9 +13,11 @@ from docx.oxml.ns import qn
 from PIL import Image
 from content import TITLE, SUBTITLE, INTRO, NOTICE, QUESTIONS, COMMON
 import figures
+from suite_record import DOCX, write_record
 
 ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT.parents[1] / '模式题' / '国考判断推理原创模拟卷（一）-35题（含答案解析）.docx'
+assert OUTPUT == DOCX, 'Word 与 Markdown 索引的套卷路径不一致'
 
 # Base: compact_reference_guide. Named overrides for Chinese printed exams:
 # A4; margins 20 mm; SimSun 11pt / 1.25 lines; grayscale heading palette;
@@ -235,6 +237,7 @@ def main():
     doc.save(OUTPUT)
     meta={'file':str(OUTPUT),'questions':len(QUESTIONS),'categories':dict(Counter(q['category'] for q in QUESTIONS)),
           'answers':dict(Counter(q['answer'] for q in QUESTIONS)),'inline_images':len(doc.inline_shapes),'style_tokens':TOKENS}
+    meta['markdown_record']=str(write_record())
     (ROOT/'build_info.json').write_text(json.dumps(meta,ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps(meta,ensure_ascii=False,indent=2))
 
