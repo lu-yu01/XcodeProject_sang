@@ -1,0 +1,62 @@
+{
+  "status": "passed",
+  "mathematically_checked_questions": {
+    "1": "C",
+    "2": "A",
+    "3": "D",
+    "4": "B",
+    "5": "C",
+    "6": "A",
+    "7": "D",
+    "8": "B",
+    "9": "A",
+    "10": "C",
+    "30": "C",
+    "31": "A",
+    "32": "D",
+    "33": "B",
+    "34": "C",
+    "35": "D"
+  },
+  "case_solutions": [
+    "ABCDEF",
+    "ABCDFE",
+    "ABEDCF",
+    "ACBEDF",
+    "ACBFDE",
+    "ACEBFD",
+    "ACFBED",
+    "AEBCDF",
+    "AECBFD",
+    "BEDACF"
+  ],
+  "q35_solution_counts": [
+    5,
+    9,
+    3,
+    1
+  ],
+  "q7_constructible_heights": [
+    [],
+    [],
+    [],
+    [
+      [
+        0,
+        3,
+        1,
+        2,
+        0,
+        0
+      ]
+    ]
+  ],
+  "questions": 35,
+  "answers": {
+    "C": 9,
+    "A": 9,
+    "D": 9,
+    "B": 8
+  },
+  "note": "Finite-state and geometry checks passed. Other items reviewed against their stated definitions and arguments; no separate human blind test performed."
+}
