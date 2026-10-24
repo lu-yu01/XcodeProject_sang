@@ -10,6 +10,12 @@ sys.stdout.reconfigure(encoding='utf-8')
 root=Path(__file__).resolve().parent
 pdf=PdfReader(root/'preview.pdf')
 texts=[p.extract_text() for p in pdf.pages]
+expected_pages={f'page-{n:02d}.png' for n in range(1,len(pdf.pages)+1)}
+rendered_pages={p.name for p in (root/'render').glob('page-*.png')}
+assert rendered_pages==expected_pages, {
+    'missing': sorted(expected_pages-rendered_pages),
+    'stale': sorted(rendered_pages-expected_pages),
+}
 full='\n'.join(texts)
 question_text,answer_text=full.split('参考答案与解析',1)
 qn=[int(n) for n in re.findall(r'^\s*(\d+)\.\s',question_text,re.M)]

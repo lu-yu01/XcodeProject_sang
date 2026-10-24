@@ -1,6 +1,10 @@
 $ErrorActionPreference = 'Stop'
-$sourcePath = 'E:\sangsangXcode\模式题\国考判断推理原创模拟卷（一）-35题（含答案解析）.docx'
-$pdfPath = 'E:\sangsangXcode\.work\guokao35\preview.pdf'
+$projectRoot = (Resolve-Path -LiteralPath (Join-Path $PSScriptRoot '..\..')).Path
+$sourcePath = Join-Path $projectRoot '模式题\国考判断推理原创模拟卷（一）-35题（含答案解析）.docx'
+$pdfPath = Join-Path $PSScriptRoot 'preview.pdf'
+if (-not (Test-Path -LiteralPath $sourcePath -PathType Leaf)) {
+    throw "未找到模拟卷：$sourcePath"
+}
 $wordApp = $null
 $wordDoc = $null
 try {
@@ -14,6 +18,13 @@ try {
     $wordDoc.ExportAsFixedFormat($pdfPath, 17)
     [pscustomobject]@{ Source=$sourcePath; Preview=$pdfPath; Pages=$pageCount } | ConvertTo-Json
 } finally {
-    if ($null -ne $wordDoc) { $wordDoc.Close(0); [void][Runtime.InteropServices.Marshal]::ReleaseComObject($wordDoc) }
-    if ($null -ne $wordApp) { $wordApp.Quit(0); [void][Runtime.InteropServices.Marshal]::ReleaseComObject($wordApp) }
+    if ($null -ne $wordDoc) {
+        $wordDoc.Saved = $true
+        $wordDoc.Close()
+        [void][Runtime.InteropServices.Marshal]::ReleaseComObject($wordDoc)
+    }
+    if ($null -ne $wordApp) {
+        $wordApp.Quit()
+        [void][Runtime.InteropServices.Marshal]::ReleaseComObject($wordApp)
+    }
 }
