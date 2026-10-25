@@ -1,0 +1,60 @@
+{
+  "file": "E:\\XcodeProject_sang\\模式题\\国考判断推理原创模拟卷（二）-2026行政执法-35题（含答案解析）.docx",
+  "questions": 35,
+  "categories": {
+    "图形推理": 10,
+    "定义判断": 10,
+    "类比推理": 5,
+    "逻辑判断": 10
+  },
+  "answers": {
+    "C": 12,
+    "B": 11,
+    "D": 5,
+    "A": 7
+  },
+  "inline_images": 10,
+  "style_tokens": {
+    "page_mm": [
+      210,
+      297
+    ],
+    "margin_mm": 20,
+    "content_width_dxa": 9638,
+    "header_mm": 9,
+    "footer_mm": 10,
+    "body_font": "宋体",
+    "latin_font": "Calibri",
+    "body_size": 11,
+    "body_line": 1.25,
+    "body_after": 6,
+    "h1": [
+      16,
+      18,
+      10
+    ],
+    "h2": [
+      13,
+      14,
+      7
+    ],
+    "h3": [
+      12,
+      10,
+      5
+    ],
+    "question_before": 9,
+    "question_after": 4,
+    "option_after": 2,
+    "title_size": 21,
+    "title_before": 0,
+    "title_after": 5,
+    "table_margins": {
+      "top": 80,
+      "bottom": 80,
+      "start": 100,
+      "end": 100
+    }
+  },
+  "markdown_record": "E:\\XcodeProject_sang\\知识库\\套卷索引\\国考判断推理原创模拟卷（二）-2026行政执法-35题（含答案解析）.md"
+}

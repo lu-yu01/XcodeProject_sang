@@ -1,0 +1,737 @@
+{
+  "status": "completed",
+  "time": "2026-10-25T14:14:59.5708123+08:00",
+  "deleted_count": 97,
+  "deleted_bytes": 34754762.0,
+  "files": [
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-01.png",
+      "bytes": 113085,
+      "sha256": "f206f265d9dead2d7124cd95e1f1612507fb904693303706a6cfb21d0ad02223"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-02.png",
+      "bytes": 113816,
+      "sha256": "b52b2fd73780dd51e16179231026152ba5faa0235245f499bd9cece287c9b187"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-03.png",
+      "bytes": 104501,
+      "sha256": "6e6e382b87aecd83109cf99a8fb66d267e048bf85a9af6f27b73dd0ae86127ea"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-04.png",
+      "bytes": 95504,
+      "sha256": "f48eba9662620b7386945cf12c6757402d8145187f0c29640f5480795c3d9b81"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-05.png",
+      "bytes": 473597,
+      "sha256": "ce896fd166b44dcea082ed593f527bfe1353c08654078703940cd6711e30fd31"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-06.png",
+      "bytes": 468469,
+      "sha256": "aaaea651f2dbf029fedb5a567cd2ebd8b35729628b4d3b1df62019bb7e4ca028"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-07.png",
+      "bytes": 224705,
+      "sha256": "44fcef16a8fa851ca5c7e1912e0541fbed920a17ea9d4568c767d2044f30a5e2"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-08.png",
+      "bytes": 138858,
+      "sha256": "3aaaff8660ccb87567e615471ee22ea2d104c0533bb79a36874ec7cdbdb8762e"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-09.png",
+      "bytes": 374655,
+      "sha256": "48fd135de13921f48b24145581ab3b735438362b1ba020e3cb14f2f211a6681a"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-10.png",
+      "bytes": 189916,
+      "sha256": "3fa17f8f865848235a30231c98ee7b76acdf2ac7ba443c8cf74dd4717d9da994"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-11.png",
+      "bytes": 176368,
+      "sha256": "332b30667d60e95e4cfb21a1c46b8a96befbfd7b2d27daf709f5727e740a0d6f"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-12.png",
+      "bytes": 258032,
+      "sha256": "5b4105715d33ae1b8013ac237003b3182a70600ada9c3540af444ca7151779a4"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-13.png",
+      "bytes": 234098,
+      "sha256": "3053b440f731d92231cd7580c7fe6739ff374d2c1bd278942504f738f090941a"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-14.png",
+      "bytes": 317194,
+      "sha256": "c8829a89d8562ac8bc8da9b114209e90983c6936fd7934a558069d3948f2956a"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-15.png",
+      "bytes": 322780,
+      "sha256": "b57264d0dbe5b2fa9e1e19df64309934273b0a8b6ec942bf9bf6f13c2b024235"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-16.png",
+      "bytes": 317674,
+      "sha256": "738f36558cbf356b603d13ed910d8b866ce3d96b21cbd047f1740c2e472d8a9a"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-17.png",
+      "bytes": 314503,
+      "sha256": "0eacf400f25c432827bc154d1ddfeffdd8ad5734699d6950576b1ea09209abc8"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-18.png",
+      "bytes": 344725,
+      "sha256": "e22e3f0c386460e14ae8c5b4dc57fb63167ee5bd70682ee3e1c6eed6f5129ccb"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\render\\page-19.png",
+      "bytes": 354296,
+      "sha256": "af6e6d03d84b2fd8e8beadc247d23c01ab61127baaeb834b62464729c77464d3"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-01.png",
+      "bytes": 174167,
+      "sha256": "da361a4d69bf9658d9f1da171c89cb54d22e3f6643400d0ed8686df336cdbeae"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-02.png",
+      "bytes": 81321,
+      "sha256": "0658305e049e2796862e8ffb5229317c13bda771f1dfa115545f346e31aacd92"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-03.png",
+      "bytes": 99843,
+      "sha256": "de9580992a4f3d872fa83ab8aa7b63508ebfdd54599faff6e438d5a18910e50e"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-04.png",
+      "bytes": 108077,
+      "sha256": "1f327a1a41814dfdf257629e1a91eacf752c3648eae4ffcedd2d96e00c662af3"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-05.png",
+      "bytes": 124715,
+      "sha256": "f40edc5bb62b23c5427ee1cdba3baed8c0010ff277b61ff0f3ff6c9652a5d853"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-06.png",
+      "bytes": 72794,
+      "sha256": "992113468ffdb1cc9f643f8faa4fbaa14f7b7196adfa6d2a0f5f475841d77d24"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-07.png",
+      "bytes": 531798,
+      "sha256": "0a4149ba84c9899d763619b7150d757bec5d1d9122bf36527dcabd63255636cb"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-08.png",
+      "bytes": 527642,
+      "sha256": "5779f2f6da475582bfebcb50ac5a25e5d7067b608048147785930a5099f4041b"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-09.png",
+      "bytes": 241849,
+      "sha256": "ad0149e402bc1a46851ee529494205427d3d41c55da0cccb0763b121f6579cbc"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-10.png",
+      "bytes": 185206,
+      "sha256": "8c523c8e07fd47c2a179660b8f0f538b54d71ffb55aa43d78fb1b06e5a98ee16"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-11.png",
+      "bytes": 465909,
+      "sha256": "e094aac9372ca45a938ba2c6c19f38c05038ee3c29dbd9edc6c9c20f16072c22"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-12.png",
+      "bytes": 124730,
+      "sha256": "e88da8a664429f948d573845c1c0668a6de92583dd56e1590f14a84b141028e2"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-13.png",
+      "bytes": 202900,
+      "sha256": "32e20c6baaf86a4af07d1ed26e707dfac5b85579d5705e6d1b6dbea66ea941ec"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-14.png",
+      "bytes": 309282,
+      "sha256": "8219a9872ae3e339f01127a2068a0ab3046785887177c40f23b82b17639f226f"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-15.png",
+      "bytes": 445340,
+      "sha256": "e73909632615cba8f6b6b9c71b7ab9dd971f328a7d92da4e1ff6eca421c15221"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-16.png",
+      "bytes": 396689,
+      "sha256": "442740cc2441d889af7ecc3c2322e3f2412a290ee39661b7bb006d9daabc9815"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-17.png",
+      "bytes": 381197,
+      "sha256": "ad886d8c1ab90fc766b487925cd708d684ac2e98400d2a473db18282319036b0"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-18.png",
+      "bytes": 436684,
+      "sha256": "4c758781da81995c591bd32aad5ff34cb095a05195424d70fbe9f33538f7f901"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-19.png",
+      "bytes": 419426,
+      "sha256": "af3ad8ad7ef33f54fbb3b036c749f539c95d3345d112b8d702ba1a3886b79db9"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\page-20.png",
+      "bytes": 135376,
+      "sha256": "ee6563d35c9e7ec0ba58bbbc4d7e30addf0937bb913245081d16fd1c63cdc183"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\pair-01.png",
+      "bytes": 249365,
+      "sha256": "d3a55a9923d6703aea9ce842423715aae5de7ddd813400c80050cdbbd30e36dd"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\pair-02.png",
+      "bytes": 196381,
+      "sha256": "3176bfb46816e6c120aa01bba5283e81662009f8f6d2e588ef8d4b9b9ee6c4bc"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\pair-03.png",
+      "bytes": 164988,
+      "sha256": "ac1b1d48f8210670cfe2b17a3ecf710dcf7abc7275187fe0e9c08d1747862843"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\pair-04.png",
+      "bytes": 1065528,
+      "sha256": "80f40d9fc19db22a0fa330446c63508f53fac5c8e7d750bf8d5f51ab467fe46b"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\pair-05.png",
+      "bytes": 424019,
+      "sha256": "ff2a3d05d5c8a2142866b49fc171e199c0f45dffffcdcbaa5fcd39bcb73d970a"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\pair-06.png",
+      "bytes": 595156,
+      "sha256": "8f5d0fab513b446dc3074d45f9df73fd64d8a4252f036ce0ca42f4e8d92d9a6d"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\pair-07.png",
+      "bytes": 512773,
+      "sha256": "5c3c488c273d2eb70e0039fbaa52405f0400ebae74040e9fb3599648a168d067"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\pair-08.png",
+      "bytes": 836429,
+      "sha256": "fac6f3467a998dc7e74c8df5b96aeeb87267e5dd315729e2ef03a4bdb6c4cf97"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\pair-09.png",
+      "bytes": 787543,
+      "sha256": "124f3073ce558ea5616281a3ff0acab379d38fd973568bb897259b3e80530ea4"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\render\\pair-10.png",
+      "bytes": 549895,
+      "sha256": "72c47ff326cafa5ad4c474bd66e2d38dfbf189304be42610febfd1c7494ca22d"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-01.png",
+      "bytes": 181285,
+      "sha256": "f510d12db66a94279930f2ca393ac4bcaf1abbcab167f7f1beaf3cf4440f7c17"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-02.png",
+      "bytes": 92161,
+      "sha256": "85d3a0471372f15e214c3f3618bca6cb75ddae6758eae37c7cc27c32fca0cf74"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-03.png",
+      "bytes": 90844,
+      "sha256": "ee0655244099993a85a081a7daa4744b44fb298096e752592e8e9591e5423206"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-04.png",
+      "bytes": 94895,
+      "sha256": "7049c817a5a9e4ecb8ffc381a3c8f56bcceb8163c401a9acadc68a9193ff78b1"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-05.png",
+      "bytes": 85724,
+      "sha256": "2d3df514e59449d9781b73616d77ebec9075d52a7cc0a29b3779361a372a68df"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-06.png",
+      "bytes": 172007,
+      "sha256": "de58b6957335ddf668689f50528f43759dc6ce0be5c045a4226344c2aa6bbd5a"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-07.png",
+      "bytes": 132356,
+      "sha256": "2d284707d27f2be24bee5f7a863588458360f1a21541900727a5f9e901b3b59e"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-08.png",
+      "bytes": 124906,
+      "sha256": "2bf0d9286a14076472cce7649cb093769fbf627a27967aebc45959e186043f01"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-09.png",
+      "bytes": 134632,
+      "sha256": "46dd24ffb01aa3b69e8b718f3f817d9b4281c20b9398b75101a8af9e858b70c6"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-10.png",
+      "bytes": 116126,
+      "sha256": "8a90f93d7173cc8cd8fd29bc1f7d06637ae7674ac5c9f14583612aaf2d209e34"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-11.png",
+      "bytes": 143687,
+      "sha256": "e426b1c03ad8290f48e97d16f2d740eabbdc4639127b1ad5f8cbd805beefa9dd"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-12.png",
+      "bytes": 177907,
+      "sha256": "61576ec5605ed3ee792a8e04bc33d351f9545c6d614662b2ae0256867d1f4294"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-13.png",
+      "bytes": 156044,
+      "sha256": "690562caf8ced1888048bba0938ae0b580ce8be1755226e3f1048a1d3ab50a15"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-14.png",
+      "bytes": 200640,
+      "sha256": "754e370bced0bfd75ae968524267065c8527a7f96bd41b9ea29ab075663e9031"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-15.png",
+      "bytes": 136914,
+      "sha256": "2d96340e72c2ffc4dc66e6a0dc68f0f647b17671eacb1383f9500ba92543e735"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-16.png",
+      "bytes": 309944,
+      "sha256": "1be76e4ab11b5ace2fd65e3ca12287f94daff8fc1ff7f7bfe69a2d142cede13d"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-17.png",
+      "bytes": 271514,
+      "sha256": "6e18c0d284cf6197f6f02d2157be3c257a060d7879bfa0166ab70570bfe80d3c"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-18.png",
+      "bytes": 270048,
+      "sha256": "20c0f7e40e8867524eec8b9efbe942c48ad5361738bce7db6007f20ccc9e308c"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-19.png",
+      "bytes": 613663,
+      "sha256": "18a651247c303e57061ab1ffbee0a478d555beaa2b240a47cb6daaaeb89006f4"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-20.png",
+      "bytes": 636048,
+      "sha256": "138d54ec35bc36e5447b170104b5da0be9b2bdbab5a032720fb37bce4036384f"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-21.png",
+      "bytes": 322431,
+      "sha256": "377468c2a1d0727845cde7625dec654fca990bdcc26498ccae6f09c5f19b56fe"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-22.png",
+      "bytes": 317608,
+      "sha256": "db25b3d2ce15f925bef928bbdeac082b0fa5ebe9582ef6da281f2e0dd6f3afd4"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-23.png",
+      "bytes": 484531,
+      "sha256": "82bb13316b61173b07762af60b5f3c6a7c61b898e13fd5c7ad52ed2b79d96093"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-24.png",
+      "bytes": 472487,
+      "sha256": "62d8eaaa5f543d52090dc0bb6e8bfcea8d2e5eab999de1d3a98fdf0eb33e6469"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-25.png",
+      "bytes": 493353,
+      "sha256": "0b6625ca7c30e4b642332e7043acdb86fbafa1df231fe014439f5e436296b7a9"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-26.png",
+      "bytes": 425117,
+      "sha256": "17f35e75b6246e10d4815b15b4d15ca86bf040cbb991c7244d5985c73c2abe54"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-27.png",
+      "bytes": 523225,
+      "sha256": "571a0c101d619c90c33e0ee70fc3fe424fb5ff22e4dfc19c8c3e1b25c45e23c7"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-28.png",
+      "bytes": 469398,
+      "sha256": "8abb89d5081be2620ed257dd8632b49fe64a7c0d0051a25a0baa6b158c7564ef"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-29.png",
+      "bytes": 508860,
+      "sha256": "cd128c2d240386fe4d852e63a016e056918678947c93941c96768469327837cb"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-30.png",
+      "bytes": 623358,
+      "sha256": "37ddbffdc22a12bd1f363436f95453d4d8507b25a7fd72e9190bc70f37bb4a35"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-31.png",
+      "bytes": 600938,
+      "sha256": "46d9e54f5dafce120d1fb9584c51aac28ccdb86ae7c97a79870dadbd0a916fa8"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\page-32.png",
+      "bytes": 230994,
+      "sha256": "311ed7d03a43153e9a94919f879744ca3da80cf30880989282b8472e8d80281a"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-01.png",
+      "bytes": 270287,
+      "sha256": "d46f25bdfe047e9b4ee3162674a887bbd6bfa389527b4a8401ace6ceaaf0d623"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-02.png",
+      "bytes": 157881,
+      "sha256": "6e35598e9ed8691f7aed160657a8a221ebea29be48fa1b18e8dbb97cfa96bab3"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-03.png",
+      "bytes": 227153,
+      "sha256": "ee39e6260fe3631c41909d0190db9a029347d7ff6e0e6fa09ba79844c5018d4c"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-04.png",
+      "bytes": 240480,
+      "sha256": "373f84369b188d869e017827be8f3a73db88d11d4e449bb112cd1c7007d9cd6f"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-05.png",
+      "bytes": 230114,
+      "sha256": "977859730642ce9c6b1afb54827c55a92dfddb3ebb32269bba20b50dd5a9b856"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-06.png",
+      "bytes": 316048,
+      "sha256": "73d87721aae60cd124d40082c846435d2fb41d63a76cd26b360825fe7901a56c"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-07.png",
+      "bytes": 319815,
+      "sha256": "622617b2e270be1d796e33893937e3846b0ccbf299aa837dd0d527a0112d108e"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-08.png",
+      "bytes": 451917,
+      "sha256": "12ac425bedcddffa9e19244cc4818ba464e79d7c96bc34330a8e9b804d2a15f4"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-09.png",
+      "bytes": 514025,
+      "sha256": "2227814574529041e7ce03f6be18f348a74b9a8b89c681155a89240c6ff40a49"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-10.png",
+      "bytes": 1252221,
+      "sha256": "b311e2df613bf184528bbe74d48e046b018981ad01dd2d3b5b2bb373c45a6e13"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-11.png",
+      "bytes": 651524,
+      "sha256": "98e8a5f4396b9510646e94e251ee6b492da5ffede8db9c87cd880c686ade266a"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-12.png",
+      "bytes": 921110,
+      "sha256": "9a174ac1fb1b8fc5e1eb4f1d10f592a8d575f0a19dded3de3e75d29333a993cd"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-13.png",
+      "bytes": 890438,
+      "sha256": "396298499e1408362823cf90d6460b2b6f0b7f864085d9e6a9127f718d10b49c"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-14.png",
+      "bytes": 999640,
+      "sha256": "812ddaa4c8aa7552f996a348b10b1de9129dc267cc5de31754bbff96ab1c2d21"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-15.png",
+      "bytes": 1109621,
+      "sha256": "91b94a034371c3ad552e84e86fe565a17a3b02b8ef97a963759b75644fb5df1a"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\render\\pair-16.png",
+      "bytes": 805045,
+      "sha256": "4b38df0c7e1d534ea55c8fa08029c8adbeda0e973ee5dce7e2ce49d8da587fc8"
+    }
+  ],
+  "protected_files": [
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\assets\\q01.png",
+      "sha256": "143eb6f0fe4af03d740a4f79da20acbcb9d475a80320e356821d4a57ed88b75f"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\assets\\q02.png",
+      "sha256": "0d5b8c32f32fdaf58124158b586c05b44cc516a95719cd80d3f131a563c46a74"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\assets\\q03.png",
+      "sha256": "a7497222a99b7f31cfb29d0b655f03a8d339a3971b9d0f94ca4580733ba8ac51"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\assets\\q04.png",
+      "sha256": "636024f9bd2d0b7af64caf57aea502bed631313b1123109fe17dc72c6efa5bd3"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\assets\\q05_explain.png",
+      "sha256": "c894d229006c1d5edf71cca97a10e35d0ce620821a468eaa2e2bcdfdcb5fd3a8"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\assets\\q05.png",
+      "sha256": "2d6c14d828036b3d32a193746f5ee3a1926f5242f66c4328e0bd3dd058672260"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\assets\\q06_explain.png",
+      "sha256": "46cecef029f4668562014d4031da2a52c0578b1aa1f562aeb861458565fe0203"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\assets\\q06.png",
+      "sha256": "2e25c435890eb06fd787c4415004371f3ff1d25cbdbdd08a1068ef0d22fe594f"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\assets\\q07_explain.png",
+      "sha256": "4f05a475c8c701ce83c087664636dac0d0a47c7b7b785e95cb136a12dac6ce37"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\assets\\q07.png",
+      "sha256": "f5a2453bc41a728b879f71911ddc983f677b5eafc06b91782408918636ca42b9"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\assets\\q08.png",
+      "sha256": "731707a22dfd67f2e0429175d313b64dd4289e2631fe94a0cec27a208ed9cbe4"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\assets\\q09.png",
+      "sha256": "6aedabf1ddda4704320ba5278f90b69ff177e65de2f850fd357a53abbe332e64"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\assets\\q10.png",
+      "sha256": "e569af2799f3ece9c724258b6720d1c219ebcf120474fbc6d9857e7cb0e5103b"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\assets\\q01.png",
+      "sha256": "1946d2e34616bb3ecd7c63947b8c6e23daa6b4048d8d20375f0ff10c559f9d92"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\assets\\q02.png",
+      "sha256": "fab38c286fce76d6fe06cfb765d7952f3ef5758119a4b1a783a723623fdcd901"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\assets\\q03.png",
+      "sha256": "e12b28f560963adbb4e273e9795d0ca087989cc297974fb86002167664ada977"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\assets\\q04.png",
+      "sha256": "167edde5740e7aa49f713465f5fb344cc249c08d0fe0f5a54b0c4105fc7db6a8"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\assets\\q05.png",
+      "sha256": "129493ebec98442641321d896c4b6c49e6375db43d976863a8c9d19454910af9"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\assets\\q06.png",
+      "sha256": "e720f2a0251732459cfe74134d7bf830fa4209c0bfaa011156cf2cbdada79a8c"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\assets\\q07.png",
+      "sha256": "333041cd01ba24ca1bb9be611338a2427da7f38a28157a5d5eea9563faa2d421"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\assets\\q08.png",
+      "sha256": "64de2c7dc2e64e3f478e2b90f898fa87102464734bf0d4001269bb7e4f76b938"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\assets\\q09.png",
+      "sha256": "b7e1decb0ad45c11f320d3f9bc3c0f8e1f55e3044fc5d65006d40367ec12a940"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\assets\\q10.png",
+      "sha256": "2646d861c529bdbaa8fefa8e4d8300a44f1a20b036725e326109354c6a5a1013"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\reference\\figure_ref2026.png",
+      "sha256": "c86b397d166408b08a855c0c7bd5c3a5d4d19da24e615fef7c8d28b853c7e289"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q01.png",
+      "sha256": "5479889792a17ef1774aabafea48ffd26efe15e927d56189a325a954a40a01c9"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q02.png",
+      "sha256": "0d843806d8acd9843e0e1c54718e9b7814ba980a87ff9b4db0d5035ede4bab7e"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q03.png",
+      "sha256": "21e8a26dfd892fb9adf6bbea1f7373bedb7c72b73efe1a99593364c66c392461"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q04.png",
+      "sha256": "518ba0c24bace61881a39a9b4ced721157ee5d0e81e7801908d08d9560bc0cc0"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q05.png",
+      "sha256": "4861b4f3adaa7d57742726cdcc29be43ff6c0f6c7b7a9b7947f2bd37517683ee"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q06.png",
+      "sha256": "b8c35571f4a41622defbc96804420fb44088dca2d19935dfc02178c6f543266c"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q07.png",
+      "sha256": "55a73e53fa1ac5178db508874446e486234fcd397012ef3de1614c8a696dbef5"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q08.png",
+      "sha256": "eb2d5aafa833cde89522551ac3d61197a521b8e8bd02918cc99170b2b9111303"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q09.png",
+      "sha256": "160280146374cc929d033c3fb2a741f5a1d1a5d580052c915661778d8b316e64"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q10.png",
+      "sha256": "0138ccbf13e46bfa09f5d7629468ae03e99521ec50f9eee6b11d005420703183"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q11.png",
+      "sha256": "143b5cf6f65c2c5c324d7e437a347a6da1ea3a7d7a7d69f9b53c7e837a627fac"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q12.png",
+      "sha256": "77e80ce1294bfd52fb2d56ce8cc59269d2021338af73d50fd18a0826d02fbcbc"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q13.png",
+      "sha256": "45af189c21a8d9250d22b2531e3fb8074063db76921892dc3d586a4c992d2588"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q14.png",
+      "sha256": "7e34566d5fd48f7d684db6ce5e8d06c90683560ebcd2788e6f0201b77d148448"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q15.png",
+      "sha256": "5e3f4e5b3740806eaae11a3b4fbcf78d9ce3bc574bccbc4bc161833bfe90c269"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q16.png",
+      "sha256": "cd76936cb7b3b1dfbf8e6a17656cd2ed37f470d38fc21084428ee5c76e939427"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q17.png",
+      "sha256": "34be278a2c2e513ebb66bf99c68992725cacffa5ca2f12c10b31f7cb77121cec"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q18.png",
+      "sha256": "a230863eb0ce80862020b8a66a3efccd4f2b9ef18b8cd058ccddee7c333b9e69"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q19.png",
+      "sha256": "52f2b8988996029e2d264f0fd4a06b9fd4e93b807284b03cc581f13d018e1e22"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q20.png",
+      "sha256": "b45032641bccac640eea82b71c3a87b89adaf9bd3664eb16f469f072b2bc11c4"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q21.png",
+      "sha256": "df5cf70928c16a9d233370edd25c275848aa2257d1b6639838bc75b228ab157f"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q22.png",
+      "sha256": "5f799e80ec199c68486f30797b265fa36ddff862122ca813bb41ed715e2ecbaa"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q23.png",
+      "sha256": "d3501eef0be09d5386347dbf007e1bc7f6005617cc14c2cd7ab166cae3b9275d"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q24.png",
+      "sha256": "7f5eedfa0b500c623c58ad5a83435e07033c391457238b595a0f7a06d873b0c0"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q25.png",
+      "sha256": "b25c685c09c2e3d2254bb0b50839a8d945a530e77d3d7edf3248ca945cfd7656"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q26.png",
+      "sha256": "dfa79e70685f87dfec4b5e2fc9a00c05577a5b7320fa09bd8f1aa210946d01a2"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q27.png",
+      "sha256": "eaf83aeb2345bd287d70b00331bd8d97303cf256a78f2ee3cb6ea4182e2a5de1"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q28.png",
+      "sha256": "824b8bedb7042d1ecfee5f1cfbf077227b27d7cc63b8b0dc545c73c6b6fb76a0"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q29.png",
+      "sha256": "5921938125d1d9c9168af42213c1442492e1e127189ef43c4a32d5670529c145"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\assets\\q30.png",
+      "sha256": "e846c2d7d07fc5541a1c916c9dac89e4c934adb02d9a7a7c652b6d40b4c5cb8a"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\模式题\\国考判断推理原创模拟卷（二）-2026行政执法-35题（含答案解析）.docx",
+      "sha256": "a8bd82e613a58e17c89d832e7e8c1d9e4829e6a94d6994b428021e893c693dc6"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\模式题\\国考判断推理原创模拟卷（一）-35题（含答案解析）.docx",
+      "sha256": "153bfde38db868266388e3b1f00d34f3c995a208d02e4ee296e2ae16ab307ad0"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\模式题\\国考图形与逻辑专项练习-55题（含答案解析）.docx",
+      "sha256": "e169efd48fbcc95ba2cb75446bc0898860528e1b21cc6289e167cbaed93652da"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao35\\preview.pdf",
+      "sha256": "add5edb6eaa53429dcd8d77b06c1673044e9b417f6b6c81f11a6a5969c76d0db"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\preview.pdf",
+      "sha256": "efb833839ad7daba6b97f191b7e43ebe2aa3da51b3ce7854f70387cf0b62d8da"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025\\preview.pdf",
+      "sha256": "95cfc26df97ee4f5749096435ba3d2479b708e31dab26b9afa50e535fffb6ae9"
+    }
+  ],
+  "protected_png_count": 54,
+  "protected_hashes_unchanged": true
+}

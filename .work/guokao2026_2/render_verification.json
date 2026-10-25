@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "pages": 20,
+  "nonempty_text_pages": 20,
+  "page_pngs": 20,
+  "pdf_sha256": "efb833839ad7daba6b97f191b7e43ebe2aa3da51b3ce7854f70387cf0b62d8da",
+  "all_stems_options_analyses_present": true,
+  "note": "UTF-8输出下中文提取正常，35题题干、文字选项和解析全部匹配；先前终端乱码来自输出编码，不能据此认定PDF缺少ToUnicode映射。"
+}

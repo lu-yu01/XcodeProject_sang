@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "questions": 35,
+  "categories": {
+    "图形推理": 10,
+    "定义判断": 10,
+    "类比推理": 5,
+    "逻辑判断": 10
+  },
+  "answers": {
+    "C": 12,
+    "B": 11,
+    "D": 5,
+    "A": 7
+  },
+  "figure_items": 10,
+  "figure_estimated_levels": {
+    "中等": 6,
+    "较难": 3,
+    "基础": 1
+  },
+  "figure_uniqueness": "通过：1—10题的生成数据、空间约束和分组性质逐题检查",
+  "common_cases": 10,
+  "common_uniqueness": "通过：31—35题有限状态枚举",
+  "word_question_paragraphs": 35,
+  "word_answer_paragraphs": 35,
+  "word_images": 10,
+  "word_sha256": "a8bd82e613a58e17c89d832e7e8c1d9e4829e6a94d6994b428021e893c693dc6"
+}

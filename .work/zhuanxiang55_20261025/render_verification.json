@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "pages": 32,
+  "pdf_sha256": "95cfc26df97ee4f5749096435ba3d2479b708e31dab26b9afa50e535fffb6ae9",
+  "word_sha256": "e169efd48fbcc95ba2cb75446bc0898860528e1b21cc6289e167cbaed93652da",
+  "answer_headers": 55,
+  "all_stems_options_analyses_present": true,
+  "nonempty_pages": 32
+}

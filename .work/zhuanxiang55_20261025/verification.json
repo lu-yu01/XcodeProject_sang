@@ -1,0 +1,348 @@
+{
+  "passed": true,
+  "questions": 55,
+  "word_sha256": "e169efd48fbcc95ba2cb75446bc0898860528e1b21cc6289e167cbaed93652da",
+  "images": 30,
+  "categories": {
+    "图形推理": 30,
+    "逻辑判断一拖五": 15,
+    "逻辑判断加强削弱": 10
+  },
+  "answers": {
+    "B": 13,
+    "C": 15,
+    "A": 13,
+    "D": 14
+  },
+  "graphic_estimated_levels": {
+    "中等": 20,
+    "较难": 10
+  },
+  "horizontal_group_questions": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "model_reports": {
+    "graphics_a": {
+      "items": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        28,
+        29,
+        30
+      ],
+      "q3_faces": [
+        2,
+        4,
+        6,
+        3,
+        6
+      ],
+      "q6_strokes": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        4
+      ],
+      "q28_adjacent": [
+        1,
+        4,
+        5
+      ],
+      "q29_concave": [
+        2,
+        3,
+        3,
+        2,
+        3,
+        2
+      ],
+      "q30_clockwise": [
+        1,
+        4,
+        6
+      ]
+    },
+    "graphics_b": {
+      "spatial": 9,
+      "classification": 6,
+      "q14_models": 24,
+      "q16_section_vertices": [
+        [
+          "0",
+          "1/2",
+          "1"
+        ],
+        [
+          "0",
+          "1",
+          "1/2"
+        ],
+        [
+          "1/4",
+          "0",
+          "1"
+        ],
+        [
+          "1/4",
+          "1",
+          "0"
+        ],
+        [
+          "3/4",
+          "0",
+          "0"
+        ]
+      ],
+      "q18_models": 4,
+      "q18_minimum": 12,
+      "q18_witness": {
+        "(0, 0)": 1,
+        "(0, 1)": 2,
+        "(0, 2)": 1,
+        "(1, 0)": 3,
+        "(1, 2)": 3,
+        "(2, 0)": 1,
+        "(2, 2)": 1
+      },
+      "q20_witness": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      ],
+      "cube_nets_available": 11,
+      "passed": true
+    },
+    "groups": {
+      "passed": true,
+      "public_case_counts": {
+        "31—35": 35,
+        "36—40": 12,
+        "41—45": 10
+      },
+      "questions": {
+        "31": {
+          "type": "possible",
+          "option_results": [
+            false,
+            false,
+            true,
+            false
+          ]
+        },
+        "32": {
+          "cases": 3,
+          "option_true_counts": [
+            3,
+            1,
+            2,
+            2
+          ],
+          "type": "must"
+        },
+        "33": {
+          "cases": 6,
+          "option_true_counts": [
+            1,
+            1,
+            1,
+            0
+          ],
+          "type": "impossible"
+        },
+        "34": {
+          "option_solution_counts": [
+            3,
+            1,
+            2,
+            3
+          ],
+          "type": "unique"
+        },
+        "35": {
+          "replacement_case_counts": [
+            37,
+            25,
+            35,
+            24
+          ],
+          "equivalent": [
+            false,
+            false,
+            true,
+            false
+          ],
+          "type": "equivalence"
+        },
+        "36": {
+          "type": "possible",
+          "option_results": [
+            false,
+            true,
+            false,
+            false
+          ]
+        },
+        "37": {
+          "cases": 2,
+          "option_true_counts": [
+            1,
+            0,
+            0,
+            2
+          ],
+          "type": "must"
+        },
+        "38": {
+          "cases": 2,
+          "option_true_counts": [
+            1,
+            1,
+            2,
+            0
+          ],
+          "type": "must"
+        },
+        "39": {
+          "cases": 3,
+          "option_true_counts": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "type": "possible"
+        },
+        "40": {
+          "option_solution_counts": [
+            2,
+            2,
+            4,
+            1
+          ],
+          "type": "unique"
+        },
+        "41": {
+          "cases": 10,
+          "option_true_counts": [
+            10,
+            4,
+            3,
+            4
+          ],
+          "type": "must"
+        },
+        "42": {
+          "cases": 2,
+          "option_true_counts": [
+            1,
+            2,
+            1,
+            1
+          ],
+          "type": "must"
+        },
+        "43": {
+          "cases": 2,
+          "option_true_counts": [
+            1,
+            1,
+            2,
+            0
+          ],
+          "type": "must"
+        },
+        "44": {
+          "cases": 1,
+          "option_true_counts": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "type": "must"
+        },
+        "45": {
+          "option_solution_counts": [
+            1,
+            2,
+            2,
+            6
+          ],
+          "type": "unique"
+        }
+      }
+    },
+    "arguments": {
+      "passed": true,
+      "count": 10,
+      "strengthening": 5,
+      "weakening": 5,
+      "arithmetic_items": [
+        47,
+        51,
+        53
+      ],
+      "answers": {
+        "46": "C",
+        "47": "A",
+        "48": "D",
+        "49": "B",
+        "50": "A",
+        "51": "C",
+        "52": "B",
+        "53": "D",
+        "54": "C",
+        "55": "A"
+      },
+      "scope": "结构与三道算术检查；其余为逐项论证语义审查，不声称自动求解。"
+    }
+  }
+}
