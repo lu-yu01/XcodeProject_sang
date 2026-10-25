@@ -1,0 +1,14 @@
+{
+  "files": 5517,
+  "extensions": {
+    ".docx": 2739,
+    ".pdf": 111,
+    ".pptx": 102,
+    "": 2,
+    ".xls": 2561,
+    ".ini": 2
+  },
+  "errors": {
+    "BadZipFile": 7
+  }
+}

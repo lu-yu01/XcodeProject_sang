@@ -1,0 +1,667 @@
+{
+  "files": 5517,
+  "extensions": {
+    ".docx": 2739,
+    ".pdf": 111,
+    ".pptx": 102,
+    "": 2,
+    ".xls": 2561,
+    ".ini": 2
+  },
+  "subjects_by_path": {
+    "待分类": 48,
+    "行测候选": 1718,
+    "职测候选": 1132,
+    "综应/公基等": 1143,
+    "申论": 1476
+  },
+  "provenance_by_path": {
+    "来源待核": 50,
+    "真题标称（未核实来源）": 5291,
+    "模拟或自建": 176
+  },
+  "collections": [
+    {
+      "name": "试卷/公务员笔试-申论真题试卷",
+      "files": 1410,
+      "extensions": {
+        ".xls": 705,
+        ".docx": 705
+      },
+      "text_read": 705,
+      "text_chars": 6779566,
+      "errors": 0
+    },
+    {
+      "name": "试卷/公务员笔试-行测真题试卷",
+      "files": 1331,
+      "extensions": {
+        ".xls": 665,
+        ".docx": 666
+      },
+      "text_read": 666,
+      "text_chars": 46470934,
+      "errors": 0
+    },
+    {
+      "name": "试卷/事业单位笔试-职测真题试卷",
+      "files": 1132,
+      "extensions": {
+        ".xls": 563,
+        ".docx": 569
+      },
+      "text_read": 569,
+      "text_chars": 24287787,
+      "errors": 0
+    },
+    {
+      "name": "试卷/事业单位笔试-综应真题试卷",
+      "files": 1082,
+      "extensions": {
+        ".docx": 539,
+        ".xls": 541,
+        ".ini": 2
+      },
+      "text_read": 539,
+      "text_chars": 7507098,
+      "errors": 0
+    },
+    {
+      "name": "试卷/自建试卷",
+      "files": 174,
+      "extensions": {
+        ".docx": 87,
+        ".xls": 87
+      },
+      "text_read": 87,
+      "text_chars": 3998172,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/事业单位",
+      "files": 86,
+      "extensions": {
+        ".docx": 9,
+        ".pptx": 31,
+        ".pdf": 46
+      },
+      "text_read": 86,
+      "text_chars": 1064505,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/前图相关真题",
+      "files": 66,
+      "extensions": {
+        ".docx": 55,
+        ".pdf": 11
+      },
+      "text_read": 61,
+      "text_chars": 1670486,
+      "errors": 2
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/特殊省份",
+      "files": 55,
+      "extensions": {
+        ".pptx": 38,
+        ".docx": 17
+      },
+      "text_read": 55,
+      "text_chars": 798257,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/福建、安徽、事业单位真题&解析",
+      "files": 44,
+      "extensions": {
+        "": 2,
+        ".docx": 36,
+        ".pdf": 6
+      },
+      "text_read": 42,
+      "text_chars": 1260742,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/省考",
+      "files": 21,
+      "extensions": {
+        ".pptx": 8,
+        ".docx": 1,
+        ".pdf": 12
+      },
+      "text_read": 19,
+      "text_chars": 485111,
+      "errors": 2
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/国考",
+      "files": 19,
+      "extensions": {
+        ".pptx": 8,
+        ".docx": 5,
+        ".pdf": 6
+      },
+      "text_read": 18,
+      "text_chars": 449820,
+      "errors": 1
+    },
+    {
+      "name": "最新试卷/事业单位",
+      "files": 17,
+      "extensions": {
+        ".docx": 11,
+        ".pdf": 6
+      },
+      "text_read": 17,
+      "text_chars": 596522,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/1127",
+      "files": 12,
+      "extensions": {
+        ".pdf": 12
+      },
+      "text_read": 12,
+      "text_chars": 406278,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/未完成",
+      "files": 12,
+      "extensions": {
+        ".pdf": 6,
+        ".pptx": 6
+      },
+      "text_read": 12,
+      "text_chars": 192921,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/北京OK",
+      "files": 6,
+      "extensions": {
+        ".docx": 6
+      },
+      "text_read": 6,
+      "text_chars": 241226,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/近5年国考PDF",
+      "files": 5,
+      "extensions": {
+        ".pdf": 5
+      },
+      "text_read": 5,
+      "text_chars": 249318,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/江苏OK",
+      "files": 2,
+      "extensions": {
+        ".docx": 2
+      },
+      "text_read": 2,
+      "text_chars": 71774,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/浙江OK",
+      "files": 2,
+      "extensions": {
+        ".docx": 2
+      },
+      "text_read": 2,
+      "text_chars": 61686,
+      "errors": 0
+    },
+    {
+      "name": "17-18.2025-2023山东.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 50352,
+      "errors": 0
+    },
+    {
+      "name": "国京考套卷刷题（题干+答案）-正常题号.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 208897,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2023年上海公务员考试行测试卷（A卷）答案及解析.pdf",
+      "files": 1,
+      "extensions": {
+        ".pdf": 1
+      },
+      "text_read": 1,
+      "text_chars": 30106,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2023江苏省考行测AB判断部分(2).docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 10756,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2023江苏省考行测AB判断部解析.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 24328,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2024江苏B类真题.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 8868,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2024江苏B类真题解析.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 15238,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2024江苏C类真题.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 7445,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2024江苏C类真题解析.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 13810,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025上海判断解析.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 39176,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025上海判断题本.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 18966,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025北京判断解析.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 40064,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025北京判断题本.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 26818,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025四川判断解析.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 33586,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025四川判断题本.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 15654,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025山东判断解析.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 36832,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025山东判断题本.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 14870,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025年北京市公务员考试《行测》真题.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 13942,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025年北京市公务员考试《行测》答案及解析.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 24632,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025江苏BC卷.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 38903,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025江苏判断解析.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 48429,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025江苏判断题本.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 23345,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025津判断单招刷题.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 19129,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025津判断单招刷题解析.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 41567,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025浙江判断解析.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 44069,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/2025浙江判断题本.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 17617,
+      "errors": 0
+    },
+    {
+      "name": "最新试卷/山东",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 46868,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/22.2026广东考情.pptx",
+      "files": 1,
+      "extensions": {
+        ".pptx": 1
+      },
+      "text_read": 1,
+      "text_chars": 130,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/23-24.2025-2024广东.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 26051,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/23.2025广东.pptx",
+      "files": 1,
+      "extensions": {
+        ".pptx": 1
+      },
+      "text_read": 1,
+      "text_chars": 4485,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/24.2024广东.pptx",
+      "files": 1,
+      "extensions": {
+        ".pptx": 1
+      },
+      "text_read": 1,
+      "text_chars": 4281,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/25.2026江苏考情.pptx",
+      "files": 1,
+      "extensions": {
+        ".pptx": 1
+      },
+      "text_read": 1,
+      "text_chars": 130,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/26-27.2025-2024江苏A.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 47881,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/26.2025江苏A.pptx",
+      "files": 1,
+      "extensions": {
+        ".pptx": 1
+      },
+      "text_read": 1,
+      "text_chars": 8867,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/27.2024江苏A.pptx",
+      "files": 1,
+      "extensions": {
+        ".pptx": 1
+      },
+      "text_read": 1,
+      "text_chars": 9632,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/37.2026上海考情.pptx",
+      "files": 1,
+      "extensions": {
+        ".pptx": 1
+      },
+      "text_read": 1,
+      "text_chars": 130,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/38-39.2025-2024上海.docx",
+      "files": 1,
+      "extensions": {
+        ".docx": 1
+      },
+      "text_read": 1,
+      "text_chars": 20633,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/38.2025上海.pptx",
+      "files": 1,
+      "extensions": {
+        ".pptx": 1
+      },
+      "text_read": 1,
+      "text_chars": 3673,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/39.2024上海.pptx",
+      "files": 1,
+      "extensions": {
+        ".pptx": 1
+      },
+      "text_read": 1,
+      "text_chars": 3819,
+      "errors": 0
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/~$27.2024江苏A.pptx",
+      "files": 1,
+      "extensions": {
+        ".pptx": 1
+      },
+      "text_read": 0,
+      "text_chars": 0,
+      "errors": 1
+    },
+    {
+      "name": "真题录制（事业单位、独立省份、国省考）/~$29.2025浙江A.pptx",
+      "files": 1,
+      "extensions": {
+        ".pptx": 1
+      },
+      "text_read": 0,
+      "text_chars": 0,
+      "errors": 1
+    }
+  ],
+  "xls_with_matching_word_name": 2559,
+  "xls_total": 2561,
+  "exact_duplicate_sets": 61,
+  "extra_exact_duplicate_copies": 73,
+  "errors": [
+    {
+      "path": "真题/最新试卷/前图相关真题/~$推理刷题套题解析.docx",
+      "error": "BadZipFile: File is not a zip file"
+    },
+    {
+      "path": "真题/最新试卷/前图相关真题/~$推理刷题解析.docx",
+      "error": "BadZipFile: File is not a zip file"
+    },
+    {
+      "path": "真题/真题录制（事业单位、独立省份、国省考）/~$27.2024江苏A.pptx",
+      "error": "BadZipFile: File is not a zip file"
+    },
+    {
+      "path": "真题/真题录制（事业单位、独立省份、国省考）/~$29.2025浙江A.pptx",
+      "error": "BadZipFile: File is not a zip file"
+    },
+    {
+      "path": "真题/真题录制（事业单位、独立省份、国省考）/国考/~$2025国考套卷.pptx",
+      "error": "BadZipFile: File is not a zip file"
+    },
+    {
+      "path": "真题/真题录制（事业单位、独立省份、国省考）/省考/~$2025年安徽（直播）.pptx",
+      "error": "BadZipFile: File is not a zip file"
+    },
+    {
+      "path": "真题/真题录制（事业单位、独立省份、国省考）/省考/~$2025年福建（直播）.pptx",
+      "error": "BadZipFile: File is not a zip file"
+    }
+  ]
+}
