@@ -1,0 +1,1159 @@
+{
+  "reviewer": "final_audit (read-only independent consistency review)",
+  "time_utc": "2026-10-27T16:40:12.762534+00:00",
+  "scope": "Read-only audit of frozen first-answer records, follow-up review fingerprints, current answer data, Word image bindings, and old Word baseline. No source authoring/model edits.",
+  "word_sha256": "ac540f49cdb782133151386cfe77d3c27581a186bd8555c5e9af516efa603615",
+  "all_checks_passed": false,
+  "check_count": 22,
+  "checks": [
+    {
+      "check": "Frozen first answers first_answers_01_21.json",
+      "passed": true,
+      "details": "f91b350e969c78b9e9886d2fbaa999062bdd976898d0b0709f23e9fd7771b81b"
+    },
+    {
+      "check": "Frozen first answers first_answers_22_42.json",
+      "passed": true,
+      "details": "851a3afe30fed8a2fb67ff46e1f75c1ce3551caa91ea1b6d02e8d0bc3a948afa"
+    },
+    {
+      "check": "Frozen first answers first_answers_43_60.json",
+      "passed": true,
+      "details": "890cc226884f2d3520124ac55a63278fc833437622bab403c5af3d5643792fc4"
+    },
+    {
+      "check": "60 first choices each exactly once",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "All 60 frozen first choices match final preset",
+      "passed": false,
+      "details": null
+    },
+    {
+      "check": "First file hash bound in report 01-21",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "First file hash bound in report 22-42",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "First file hash bound in report 43-60",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Independent first-choice recomputation 01-21",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Independent first-choice recomputation 22-42",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Independent first-choice recomputation 43-60",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "All final reviews bind current public manifest",
+      "passed": true,
+      "details": "de4983b886019773cb3b23cee253d7d97093dadda09def2ea5c31931c3289e47"
+    },
+    {
+      "check": "Final review records cover 60 questions",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Final review hashes bind all current PNGs",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Final reported actual reopening, uniqueness, answer retained",
+      "passed": false,
+      "details": null
+    },
+    {
+      "check": "Group3 rule ambiguity closed",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Question28 source replacement closed and separately recorded",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "22-42 no remaining blockers",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "17/18 intro suggestions closed",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "12 old Word files unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Final Word expected hash",
+      "passed": true,
+      "details": "ac540f49cdb782133151386cfe77d3c27581a186bd8555c5e9af516efa603615"
+    },
+    {
+      "check": "All 120 retained source PNGs embedded byte-identically",
+      "passed": true,
+      "details": {
+        "source_pngs": 120,
+        "embedded_distinct_media": 120
+      }
+    }
+  ],
+  "frozen_first_choices": [
+    {
+      "n": 1,
+      "first_answer": "D",
+      "current_preset_answer": "D",
+      "matches": true
+    },
+    {
+      "n": 2,
+      "first_answer": "D",
+      "current_preset_answer": "D",
+      "matches": true
+    },
+    {
+      "n": 3,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 4,
+      "first_answer": "D",
+      "current_preset_answer": "D",
+      "matches": true
+    },
+    {
+      "n": 5,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 6,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 7,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 8,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 9,
+      "first_answer": "D",
+      "current_preset_answer": "D",
+      "matches": true
+    },
+    {
+      "n": 10,
+      "first_answer": "D",
+      "current_preset_answer": "D",
+      "matches": true
+    },
+    {
+      "n": 11,
+      "first_answer": "D",
+      "current_preset_answer": "D",
+      "matches": true
+    },
+    {
+      "n": 12,
+      "first_answer": "B",
+      "current_preset_answer": "D",
+      "matches": false
+    },
+    {
+      "n": 13,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 14,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 15,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 16,
+      "first_answer": "D",
+      "current_preset_answer": "D",
+      "matches": true
+    },
+    {
+      "n": 17,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 18,
+      "first_answer": "D",
+      "current_preset_answer": "D",
+      "matches": true
+    },
+    {
+      "n": 19,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 20,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 21,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 22,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 23,
+      "first_answer": "D",
+      "current_preset_answer": "D",
+      "matches": true
+    },
+    {
+      "n": 24,
+      "first_answer": "D",
+      "current_preset_answer": "D",
+      "matches": true
+    },
+    {
+      "n": 25,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 26,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 27,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 28,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 29,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 30,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 31,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 32,
+      "first_answer": "D",
+      "current_preset_answer": "D",
+      "matches": true
+    },
+    {
+      "n": 33,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 34,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 35,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 36,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 37,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 38,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 39,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 40,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 41,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 42,
+      "first_answer": "D",
+      "current_preset_answer": "D",
+      "matches": true
+    },
+    {
+      "n": 43,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 44,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 45,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 46,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 47,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 48,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 49,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 50,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 51,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 52,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 53,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 54,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 55,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 56,
+      "first_answer": "A",
+      "current_preset_answer": "A",
+      "matches": true
+    },
+    {
+      "n": 57,
+      "first_answer": "C",
+      "current_preset_answer": "C",
+      "matches": true
+    },
+    {
+      "n": 58,
+      "first_answer": "D",
+      "current_preset_answer": "D",
+      "matches": true
+    },
+    {
+      "n": 59,
+      "first_answer": "B",
+      "current_preset_answer": "B",
+      "matches": true
+    },
+    {
+      "n": 60,
+      "first_answer": "D",
+      "current_preset_answer": "D",
+      "matches": true
+    }
+  ],
+  "final_review_fingerprints": [
+    {
+      "n": 1,
+      "review_sha": "49bf9a41c20ebb892ecf3a03dbd7272d7f4a4fab94b6e26ec7b33458180422de",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "D",
+      "actual_sha": "49bf9a41c20ebb892ecf3a03dbd7272d7f4a4fab94b6e26ec7b33458180422de",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 2,
+      "review_sha": "4ebc689fdc853710b1b35457fc1085f27739ac1226da6c7fe7b5ea839513fa30",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "D",
+      "actual_sha": "4ebc689fdc853710b1b35457fc1085f27739ac1226da6c7fe7b5ea839513fa30",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 3,
+      "review_sha": "dc8e90a8911db2d291fff9bfac36d10534d2e9e2a5de68cfdbce672e8e639e42",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "dc8e90a8911db2d291fff9bfac36d10534d2e9e2a5de68cfdbce672e8e639e42",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 4,
+      "review_sha": "ad4e7d92d41e10555023576308310cfbea930832d04fef5c19bda27cc018d6d5",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "D",
+      "actual_sha": "ad4e7d92d41e10555023576308310cfbea930832d04fef5c19bda27cc018d6d5",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 5,
+      "review_sha": "daeeff195fa483a357ec6458711ac4bed556a25044d265b670291f6b9a8c4922",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "daeeff195fa483a357ec6458711ac4bed556a25044d265b670291f6b9a8c4922",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 6,
+      "review_sha": "03fe6e585a0cb7d78a474457bc26a9502a912e88427204b1c4b0b6bfdda66717",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "03fe6e585a0cb7d78a474457bc26a9502a912e88427204b1c4b0b6bfdda66717",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 7,
+      "review_sha": "6fe87c2f086dcece309c287ff97110c06a96061869537d0fa619291fc1ecc6f4",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "6fe87c2f086dcece309c287ff97110c06a96061869537d0fa619291fc1ecc6f4",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 8,
+      "review_sha": "5cbab3760372c9075d2a2e85c7160e85acc1961713dcdbfff6c9550eabeb90b5",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "5cbab3760372c9075d2a2e85c7160e85acc1961713dcdbfff6c9550eabeb90b5",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 9,
+      "review_sha": "87cafdc389f86cf94702f7ae90824e206e52c5a8471b9c49d0d7c0cea4607b8c",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "D",
+      "actual_sha": "87cafdc389f86cf94702f7ae90824e206e52c5a8471b9c49d0d7c0cea4607b8c",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 10,
+      "review_sha": "8ccf1cae7433f1ca843902898a317fc4f21e625df996a87b52a5a46fefd1eab8",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "D",
+      "actual_sha": "8ccf1cae7433f1ca843902898a317fc4f21e625df996a87b52a5a46fefd1eab8",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 11,
+      "review_sha": "f6f43cf925a1ac94315cfa6c9acc93b3b9f0f6d1775d839490f98b7529e7c8e4",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "D",
+      "actual_sha": "f6f43cf925a1ac94315cfa6c9acc93b3b9f0f6d1775d839490f98b7529e7c8e4",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 12,
+      "review_sha": "6c109d5cfa11df767b967b4def6850a173e2a952692871d10701ed44c3245aa7",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "6c109d5cfa11df767b967b4def6850a173e2a952692871d10701ed44c3245aa7",
+      "hash_matches": true,
+      "answer_matches": false
+    },
+    {
+      "n": 13,
+      "review_sha": "e7a64ab5f615084c96072c38bddb1afec41ceb1dbcbf7f59090f24e54d4bf762",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "e7a64ab5f615084c96072c38bddb1afec41ceb1dbcbf7f59090f24e54d4bf762",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 14,
+      "review_sha": "a578c770b053162bbaf73d8077ab2abf4a7eb9676a4d8254042e8ac6a56de2c6",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "a578c770b053162bbaf73d8077ab2abf4a7eb9676a4d8254042e8ac6a56de2c6",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 15,
+      "review_sha": "bb4fa72af61d90ce74f6f588e505dd74cd0c688b838c2cd6a99b7f4c05ad5d08",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "bb4fa72af61d90ce74f6f588e505dd74cd0c688b838c2cd6a99b7f4c05ad5d08",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 16,
+      "review_sha": "2c64e63abb06d5412469808bda45b1d1141de7e27faec5f7e13f4776ff85f8b7",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "D",
+      "actual_sha": "2c64e63abb06d5412469808bda45b1d1141de7e27faec5f7e13f4776ff85f8b7",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 17,
+      "review_sha": "fe6d4c8f485fbe1a292e34423cdc39d2bd27aaeb3b62d6d5504e37049a652c2a",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "fe6d4c8f485fbe1a292e34423cdc39d2bd27aaeb3b62d6d5504e37049a652c2a",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 18,
+      "review_sha": "4a344de97092238e65a0642f8c06cd482af7aeb8bf8b5939c0c9e27d03a99ed3",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "D",
+      "actual_sha": "4a344de97092238e65a0642f8c06cd482af7aeb8bf8b5939c0c9e27d03a99ed3",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 19,
+      "review_sha": "335306d1ed291983f214e5cec1ae7b7620ea9354f471ac81aa122638da79ed0b",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "335306d1ed291983f214e5cec1ae7b7620ea9354f471ac81aa122638da79ed0b",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 20,
+      "review_sha": "1c4b70d69e3ee40651d90d048ec5fb666917796f4d6176de106f7b25083f72e2",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "1c4b70d69e3ee40651d90d048ec5fb666917796f4d6176de106f7b25083f72e2",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 21,
+      "review_sha": "f240717c1db365983f839e0b3a0ec671be43372ae9c7fe75afb81cc2d0a8af42",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "f240717c1db365983f839e0b3a0ec671be43372ae9c7fe75afb81cc2d0a8af42",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 22,
+      "review_sha": "8f5792b7048ef140b6485fe50f73ace94af7b5a9170be1a4a69a2c14d8d66674",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "8f5792b7048ef140b6485fe50f73ace94af7b5a9170be1a4a69a2c14d8d66674",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 23,
+      "review_sha": "565f31c8ca5525d789fc9c9280956e233db203eeaa02e8ba1ae977ea4ef992a5",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "D",
+      "actual_sha": "565f31c8ca5525d789fc9c9280956e233db203eeaa02e8ba1ae977ea4ef992a5",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 24,
+      "review_sha": "14cef443d594eccd47d4bd57dc950deee680a769069528cce633f436cf41218d",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "D",
+      "actual_sha": "14cef443d594eccd47d4bd57dc950deee680a769069528cce633f436cf41218d",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 25,
+      "review_sha": "2ab0977db3e4cc41c39a773b6512e2c396846fae3cba21ea3b801cba463c045a",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "2ab0977db3e4cc41c39a773b6512e2c396846fae3cba21ea3b801cba463c045a",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 26,
+      "review_sha": "91d3503206b60548fb798cace8859f30dd9d92ead780be255ea521623b5d14dd",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "91d3503206b60548fb798cace8859f30dd9d92ead780be255ea521623b5d14dd",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 27,
+      "review_sha": "87ab6b63dac99f8547bb86f10c36b65b42b279ab0fc8e3bdc0ffacb8d20fed20",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "87ab6b63dac99f8547bb86f10c36b65b42b279ab0fc8e3bdc0ffacb8d20fed20",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 28,
+      "review_sha": "8360e53a568f492003322869d153be10b0a904c4188ab30e7e969872aad0b111",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "8360e53a568f492003322869d153be10b0a904c4188ab30e7e969872aad0b111",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 29,
+      "review_sha": "601798f2db5bc094204f87e64605dfb1fa47056b7e25ba30704fae1066d8b186",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "601798f2db5bc094204f87e64605dfb1fa47056b7e25ba30704fae1066d8b186",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 30,
+      "review_sha": "fc9db536acff81af619b668c998332f9a6111e86818cfbb39a7084419b14de8c",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "fc9db536acff81af619b668c998332f9a6111e86818cfbb39a7084419b14de8c",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 31,
+      "review_sha": "a031babb87f0f15afe3c6ab4b70c50e6f98368cbc061f7f3f05d2467ada2cfe1",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "a031babb87f0f15afe3c6ab4b70c50e6f98368cbc061f7f3f05d2467ada2cfe1",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 32,
+      "review_sha": "0f6e4c7e506e8df378796b10ff12ac1ab262079c6bfda3e7751fe2ec211b49cc",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "D",
+      "actual_sha": "0f6e4c7e506e8df378796b10ff12ac1ab262079c6bfda3e7751fe2ec211b49cc",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 33,
+      "review_sha": "3edb20f87d5628c78259a5a7a10151240d0e255d10407bd24bb3a8bfa6b87fdd",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "3edb20f87d5628c78259a5a7a10151240d0e255d10407bd24bb3a8bfa6b87fdd",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 34,
+      "review_sha": "2e85ac8c97ddcbda3299dacee823c3f2ade382180bea6d257e533e8e529f0383",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "2e85ac8c97ddcbda3299dacee823c3f2ade382180bea6d257e533e8e529f0383",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 35,
+      "review_sha": "aa35949a75ff69fa35f2b795bf6bef1982019c0d05375a9206ef7020f17acef6",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "aa35949a75ff69fa35f2b795bf6bef1982019c0d05375a9206ef7020f17acef6",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 36,
+      "review_sha": "52d7109481878bcb96af3049d06f76d20a87d2227b79ed89ec12e2d1fe66da54",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "52d7109481878bcb96af3049d06f76d20a87d2227b79ed89ec12e2d1fe66da54",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 37,
+      "review_sha": "34677a070c482c3173e95fe9c5410827356c3ac74056bf180c4ce37b36ea8e50",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "34677a070c482c3173e95fe9c5410827356c3ac74056bf180c4ce37b36ea8e50",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 38,
+      "review_sha": "59715f11efd072d9143fa48d73c49b85a8a421972b214646144737771ef45ad9",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "59715f11efd072d9143fa48d73c49b85a8a421972b214646144737771ef45ad9",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 39,
+      "review_sha": "febd07ffc9a28dac650de2fb926b5e67db8e44a0196fc32748ed7d7a29feec51",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "febd07ffc9a28dac650de2fb926b5e67db8e44a0196fc32748ed7d7a29feec51",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 40,
+      "review_sha": "3e1407135546d425f0d4268a44e456ed9d7512f2aa21ea693272fc8279efabb8",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "3e1407135546d425f0d4268a44e456ed9d7512f2aa21ea693272fc8279efabb8",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 41,
+      "review_sha": "70f306c34aca97dbdbdb718d99b7030df314aa6fee838ba05a79b414108f59e7",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "70f306c34aca97dbdbdb718d99b7030df314aa6fee838ba05a79b414108f59e7",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 42,
+      "review_sha": "19989b1113ba97a12786e7656cf37c57bf09457fe1be909ae1bad210cf767857",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "D",
+      "actual_sha": "19989b1113ba97a12786e7656cf37c57bf09457fe1be909ae1bad210cf767857",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 43,
+      "review_sha": "12f490b2a12ef1a4adb48b6c58efc877837147fe82c534b0415ecbe348efc985",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "12f490b2a12ef1a4adb48b6c58efc877837147fe82c534b0415ecbe348efc985",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 44,
+      "review_sha": "ad0aa6d176937e107f05648def8e912772fceda2a8c3a5e7e496f4041778e3c8",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "ad0aa6d176937e107f05648def8e912772fceda2a8c3a5e7e496f4041778e3c8",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 45,
+      "review_sha": "f2542460af3def1113d5951561ddd7a90519d144a61be36c99fcceaf90d304f4",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "f2542460af3def1113d5951561ddd7a90519d144a61be36c99fcceaf90d304f4",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 46,
+      "review_sha": "ef9d6a32df8a8c0e61b222a74125975476804db8671f9ff0bf398ca221a9e2f0",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "ef9d6a32df8a8c0e61b222a74125975476804db8671f9ff0bf398ca221a9e2f0",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 47,
+      "review_sha": "3514f15d794273f0554d6b4ab6a290ff2b111f19e92839b28c0d3f6e698d2e47",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "3514f15d794273f0554d6b4ab6a290ff2b111f19e92839b28c0d3f6e698d2e47",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 48,
+      "review_sha": "18cf3bc8fbed644b9a30dc418c12b54ec0b360d2968cabec5c8bec50a0ad094e",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "18cf3bc8fbed644b9a30dc418c12b54ec0b360d2968cabec5c8bec50a0ad094e",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 49,
+      "review_sha": "984bc0de957f7f39e6e9cf2f0f9f3a7f88d38571a77fb16e7f22b6157ea4bf51",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "984bc0de957f7f39e6e9cf2f0f9f3a7f88d38571a77fb16e7f22b6157ea4bf51",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 50,
+      "review_sha": "54da3a354369387e283c264eb70ec1c1376df9bf4e47f8d0216499d66f1c7666",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "54da3a354369387e283c264eb70ec1c1376df9bf4e47f8d0216499d66f1c7666",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 51,
+      "review_sha": "ae575462ea48d49a8975728fa68d1aff7eabef533b0842f2358bc5f55e610cc4",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "ae575462ea48d49a8975728fa68d1aff7eabef533b0842f2358bc5f55e610cc4",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 52,
+      "review_sha": "db000023d15d36e53cc2432513d137725caaceba28262025c4e53d2ba6ce6bc8",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "db000023d15d36e53cc2432513d137725caaceba28262025c4e53d2ba6ce6bc8",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 53,
+      "review_sha": "1e8500527d96b7a0a656d83d5a146fe486c3de69d9145f09dc0d0404b99cfcb2",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "1e8500527d96b7a0a656d83d5a146fe486c3de69d9145f09dc0d0404b99cfcb2",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 54,
+      "review_sha": "7ec9342e513f8641c1f9f61c4728e2df2225e43bb0f96f398f148575df106e86",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "7ec9342e513f8641c1f9f61c4728e2df2225e43bb0f96f398f148575df106e86",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 55,
+      "review_sha": "d55c9e4b6c9c462ac699347f5b4c4645c431d51e5eb181fe78e516ae801443ba",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "d55c9e4b6c9c462ac699347f5b4c4645c431d51e5eb181fe78e516ae801443ba",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 56,
+      "review_sha": "1609123b1a703a90a967fa6357be3136ad9170df03cae377389fe9990aefdeaf",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "A",
+      "actual_sha": "1609123b1a703a90a967fa6357be3136ad9170df03cae377389fe9990aefdeaf",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 57,
+      "review_sha": "f74ba516d879ed8a2b37c14dcffa20b24fc670d98480e6856341985dfcfee65c",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "C",
+      "actual_sha": "f74ba516d879ed8a2b37c14dcffa20b24fc670d98480e6856341985dfcfee65c",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 58,
+      "review_sha": "d37cc8bb0358a9e51bab493023c80a39ab4ae99eb21fdf8bc6fb957554b63ee3",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "D",
+      "actual_sha": "d37cc8bb0358a9e51bab493023c80a39ab4ae99eb21fdf8bc6fb957554b63ee3",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 59,
+      "review_sha": "ac6fc756ec491712bb4ba1ef22689653342257ca8d0424a5b564c47fcb7f65ec",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "B",
+      "actual_sha": "ac6fc756ec491712bb4ba1ef22689653342257ca8d0424a5b564c47fcb7f65ec",
+      "hash_matches": true,
+      "answer_matches": true
+    },
+    {
+      "n": 60,
+      "review_sha": "7deeda06772eb84ecae7dde7aed2711724ca0331f1bd982a88fb6f54e18d7470",
+      "actually_reopened": true,
+      "unique": true,
+      "answer": "D",
+      "actual_sha": "7deeda06772eb84ecae7dde7aed2711724ca0331f1bd982a88fb6f54e18d7470",
+      "hash_matches": true,
+      "answer_matches": true
+    }
+  ],
+  "old_word_baseline": [
+    {
+      "path": "模式题\\北京风格图形推理一拖三-1组3题（含答案解析）.docx",
+      "sha256": "8f6bfc65f747339780734e1bf0a9d567423ab3e2147441055311fd9355a855e9",
+      "matches": true
+    },
+    {
+      "path": "模式题\\北京风格图形操作进阶练习-20组60题（含答案解析）.docx",
+      "sha256": "9be856058968fd7b41b9a1e1552766ae052efd741c55b24bfb5f4890cdb2d835",
+      "matches": true
+    },
+    {
+      "path": "模式题\\北京风格情境方向图形推理-10题（含答案解析）.docx",
+      "sha256": "89dce87495adc6c03828fd5ee308758d46ef047529254ba636f66ec163e3b8d9",
+      "matches": true
+    },
+    {
+      "path": "模式题\\国考判断推理原创模拟卷（一）-35题（含答案解析）.docx",
+      "sha256": "153bfde38db868266388e3b1f00d34f3c995a208d02e4ee296e2ae16ab307ad0",
+      "matches": true
+    },
+    {
+      "path": "模式题\\国考判断推理原创模拟卷（一）-35题（图片规范版，含答案解析）.docx",
+      "sha256": "7a419f7150a5c90bab7dd0a705227f8e04850e71569fe1b6e3e6686877e36fe7",
+      "matches": true
+    },
+    {
+      "path": "模式题\\国考判断推理原创模拟卷（二）-2026行政执法-35题（含答案解析）.docx",
+      "sha256": "a8bd82e613a58e17c89d832e7e8c1d9e4829e6a94d6994b428021e893c693dc6",
+      "matches": true
+    },
+    {
+      "path": "模式题\\国考判断推理原创模拟卷（二）-2026行政执法-35题（图片规范版，含答案解析）.docx",
+      "sha256": "d01a77d1f6b6c979adefc308cbb970943b2f51bee5454a714732799f00ae47e7",
+      "matches": true
+    },
+    {
+      "path": "模式题\\国考判断推理进阶专项练习-110题（含答案解析）.docx",
+      "sha256": "96fa64a3dacbd047a827f7a7021cf4269f22d531c44a280d83c71d94120b4183",
+      "matches": true
+    },
+    {
+      "path": "模式题\\国考图形与逻辑专项练习-55题（含答案解析）.docx",
+      "sha256": "e169efd48fbcc95ba2cb75446bc0898860528e1b21cc6289e167cbaed93652da",
+      "matches": true
+    },
+    {
+      "path": "模式题\\国考图形与逻辑专项练习-55题（图片规范版，含答案解析）.docx",
+      "sha256": "8f22e32bc8e704c04511ae6229e83d458f299e6d55d8c60a3cc1773dc76b7031",
+      "matches": true
+    },
+    {
+      "path": "模式题\\国考图形推理进阶专项练习-30题（含答案解析）.docx",
+      "sha256": "4b71bbaa803211b012aaaa23e4301842b647e651af5debdbb4798fed8aad38f6",
+      "matches": true
+    },
+    {
+      "path": "模式题\\立体拼合专项练习-三黑块版10题（选项横框版，含答案解析）.docx",
+      "sha256": "c85f610506f23f384047c399b7d75d8ada12e7d2cd5e15d9f3e462e66f83af55",
+      "matches": true
+    }
+  ],
+  "remaining_issues": [
+    "All 60 frozen first choices match final preset",
+    "Final reported actual reopening, uniqueness, answer retained"
+  ],
+  "limits": [
+    "This audit compares preserved records and computes hashes. It is not a fresh independent solving session and did not newly open question or Word page images.",
+    "Recorded actual image views belong to the three prior reviewers; final Word page visual QA is performed by root.",
+    "Question 28 was replaced after its original first-choice record. The original remains unchanged, and a separate revised-source review still selects C.",
+    "A correct frozen choice and reported unique visual match are evidence of consistency, not learner-derived difficulty calibration."
+  ]
+}

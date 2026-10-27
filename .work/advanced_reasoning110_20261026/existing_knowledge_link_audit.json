@@ -1,0 +1,16 @@
+{
+  "checked": 297,
+  "missing": [
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\套卷索引\\立体拼合专项练习-10题（含答案解析）.md",
+      "target": "../../模式题/立体拼合专项练习-10题（含答案解析）.docx",
+      "resolved": "E:\\XcodeProject_sang\\模式题\\立体拼合专项练习-10题（含答案解析）.docx"
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\套卷索引\\立体拼合专项练习-三黑块版10题（含答案解析）.md",
+      "target": "../../模式题/立体拼合专项练习-三黑块版10题（含答案解析）.docx",
+      "resolved": "E:\\XcodeProject_sang\\模式题\\立体拼合专项练习-三黑块版10题（含答案解析）.docx"
+    }
+  ],
+  "scope": "对既有知识库的额外只读链接检查；未改历史记录或恢复用户已移走文件。"
+}

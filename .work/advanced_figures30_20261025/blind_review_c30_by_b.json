@@ -1,0 +1,13 @@
+{
+  "method": "代理独立求解；仅读当前无提示C30卡和题图，未读C源代码、答案/解析或其他代理反馈。",
+  "n": 30,
+  "answer": "A",
+  "natural_rule": "每幅由4个共边的小四边形组成。②④⑥呈T形连接，存在一个小面与其余3个小面均共边；①③⑤呈链状连接，每个小面至多与2个小面共边。",
+  "confidence": 0.98,
+  "ambiguities": [
+    "斜投影使小面看起来不是正方形，但上述共边连接关系与具体角度无关，不需要额外几何提示。"
+  ],
+  "alternative_equal_natural_partitions": [],
+  "actual_image_viewed": true,
+  "image_sha256": "ae233349171436835e4c9836e9cc19d6803393090fe4d83a27df1f24dad5140d"
+}

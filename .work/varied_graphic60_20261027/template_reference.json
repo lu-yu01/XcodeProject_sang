@@ -1,0 +1,140 @@
+{
+  "reference": "E:\\XcodeProject_sang\\模式题\\北京风格图形推理一拖三-1组3题（含答案解析）.docx",
+  "reference_sha256": "8f6bfc65f747339780734e1bf0a9d567423ab3e2147441055311fd9355a855e9",
+  "sections": [
+    "<w:sectPr xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:wpc=\"http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas\" xmlns:mo=\"http://schemas.microsoft.com/office/mac/office/2008/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:mv=\"urn:schemas-microsoft-com:mac:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:wp14=\"http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing\" xmlns:wp=\"http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing\" xmlns:w10=\"urn:schemas-microsoft-com:office:word\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" xmlns:wpg=\"http://schemas.microsoft.com/office/word/2010/wordprocessingGroup\" xmlns:wpi=\"http://schemas.microsoft.com/office/word/2010/wordprocessingInk\" xmlns:wne=\"http://schemas.microsoft.com/office/word/2006/wordml\" xmlns:wps=\"http://schemas.microsoft.com/office/word/2010/wordprocessingShape\" w:rsidR=\"00FC693F\" w:rsidRPr=\"0006063C\" w:rsidSect=\"00034616\">\n  <w:pgSz w:w=\"11906\" w:h=\"16838\"/>\n  <w:pgMar w:top=\"935\" w:right=\"1134\" w:bottom=\"935\" w:left=\"1134\" w:header=\"720\" w:footer=\"720\" w:gutter=\"0\"/>\n  <w:cols w:space=\"720\"/>\n  <w:docGrid w:linePitch=\"360\"/>\n</w:sectPr>\n"
+  ],
+  "styles": {
+    "Normal": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" w:type=\"paragraph\" w:default=\"1\" w:styleId=\"Normal\">\n  <w:name w:val=\"Normal\"/>\n  <w:qFormat/>\n  <w:rsid w:val=\"00FC693F\"/>\n  <w:pPr>\n    <w:widowControl/>\n    <w:spacing w:before=\"0\" w:after=\"80\" w:line=\"276\" w:lineRule=\"auto\"/>\n    <w:snapToGrid w:val=\"0\"/>\n  </w:pPr>\n  <w:rPr>\n    <w:rFonts w:ascii=\"Calibri\" w:hAnsi=\"Calibri\" w:eastAsia=\"宋体\"/>\n    <w:b w:val=\"0\"/>\n    <w:i w:val=\"0\"/>\n    <w:color w:val=\"000000\"/>\n    <w:sz w:val=\"21\"/>\n  </w:rPr>\n</w:style>\n",
+    "Title": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" w:type=\"paragraph\" w:styleId=\"Title\">\n  <w:name w:val=\"Title\"/>\n  <w:basedOn w:val=\"Normal\"/>\n  <w:next w:val=\"Normal\"/>\n  <w:link w:val=\"TitleChar\"/>\n  <w:uiPriority w:val=\"10\"/>\n  <w:qFormat/>\n  <w:rsid w:val=\"00FC693F\"/>\n  <w:pPr>\n    <w:widowControl/>\n    <w:spacing w:after=\"100\" w:line=\"264\" w:lineRule=\"auto\" w:before=\"0\"/>\n    <w:contextualSpacing/>\n    <w:snapToGrid w:val=\"0\"/>\n  </w:pPr>\n  <w:rPr>\n    <w:rFonts w:asciiTheme=\"majorHAnsi\" w:eastAsiaTheme=\"majorEastAsia\" w:hAnsiTheme=\"majorHAnsi\" w:cstheme=\"majorBidi\" w:ascii=\"Calibri\" w:hAnsi=\"Calibri\" w:eastAsia=\"黑体\"/>\n    <w:b/>\n    <w:i w:val=\"0\"/>\n    <w:color w:val=\"000000\"/>\n    <w:spacing w:val=\"5\"/>\n    <w:kern w:val=\"28\"/>\n    <w:sz w:val=\"38\"/>\n    <w:szCs w:val=\"52\"/>\n  </w:rPr>\n</w:style>\n",
+    "Subtitle": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" w:type=\"paragraph\" w:styleId=\"Subtitle\">\n  <w:name w:val=\"Subtitle\"/>\n  <w:basedOn w:val=\"Normal\"/>\n  <w:next w:val=\"Normal\"/>\n  <w:link w:val=\"SubtitleChar\"/>\n  <w:uiPriority w:val=\"11\"/>\n  <w:qFormat/>\n  <w:rsid w:val=\"00FC693F\"/>\n  <w:pPr>\n    <w:widowControl/>\n    <w:numPr>\n      <w:ilvl w:val=\"1\"/>\n    </w:numPr>\n    <w:spacing w:before=\"0\" w:after=\"160\" w:line=\"264\" w:lineRule=\"auto\"/>\n    <w:snapToGrid w:val=\"0\"/>\n  </w:pPr>\n  <w:rPr>\n    <w:rFonts w:asciiTheme=\"majorHAnsi\" w:eastAsiaTheme=\"majorEastAsia\" w:hAnsiTheme=\"majorHAnsi\" w:cstheme=\"majorBidi\" w:ascii=\"Calibri\" w:hAnsi=\"Calibri\" w:eastAsia=\"宋体\"/>\n    <w:b w:val=\"0\"/>\n    <w:i w:val=\"0\"/>\n    <w:iCs/>\n    <w:color w:val=\"000000\"/>\n    <w:spacing w:val=\"15\"/>\n    <w:sz w:val=\"21\"/>\n    <w:szCs w:val=\"24\"/>\n  </w:rPr>\n</w:style>\n",
+    "Heading 1": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" w:type=\"paragraph\" w:styleId=\"Heading1\">\n  <w:name w:val=\"heading 1\"/>\n  <w:basedOn w:val=\"Normal\"/>\n  <w:next w:val=\"Normal\"/>\n  <w:link w:val=\"Heading1Char\"/>\n  <w:uiPriority w:val=\"9\"/>\n  <w:qFormat/>\n  <w:rsid w:val=\"00FC693F\"/>\n  <w:pPr>\n    <w:keepNext/>\n    <w:keepLines/>\n    <w:widowControl/>\n    <w:spacing w:before=\"80\" w:after=\"120\" w:line=\"264\" w:lineRule=\"auto\"/>\n    <w:outlineLvl w:val=\"0\"/>\n    <w:snapToGrid w:val=\"0\"/>\n  </w:pPr>\n  <w:rPr>\n    <w:rFonts w:asciiTheme=\"majorHAnsi\" w:eastAsiaTheme=\"majorEastAsia\" w:hAnsiTheme=\"majorHAnsi\" w:cstheme=\"majorBidi\" w:ascii=\"Calibri\" w:hAnsi=\"Calibri\" w:eastAsia=\"黑体\"/>\n    <w:b/>\n    <w:bCs/>\n    <w:i w:val=\"0\"/>\n    <w:color w:val=\"000000\"/>\n    <w:sz w:val=\"26\"/>\n    <w:szCs w:val=\"28\"/>\n  </w:rPr>\n</w:style>\n",
+    "Heading 2": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" w:type=\"paragraph\" w:styleId=\"Heading2\">\n  <w:name w:val=\"heading 2\"/>\n  <w:basedOn w:val=\"Normal\"/>\n  <w:next w:val=\"Normal\"/>\n  <w:link w:val=\"Heading2Char\"/>\n  <w:uiPriority w:val=\"9\"/>\n  <w:unhideWhenUsed/>\n  <w:qFormat/>\n  <w:rsid w:val=\"00FC693F\"/>\n  <w:pPr>\n    <w:keepNext/>\n    <w:keepLines/>\n    <w:widowControl/>\n    <w:spacing w:before=\"140\" w:after=\"80\" w:line=\"264\" w:lineRule=\"auto\"/>\n    <w:outlineLvl w:val=\"1\"/>\n    <w:snapToGrid w:val=\"0\"/>\n  </w:pPr>\n  <w:rPr>\n    <w:rFonts w:asciiTheme=\"majorHAnsi\" w:eastAsiaTheme=\"majorEastAsia\" w:hAnsiTheme=\"majorHAnsi\" w:cstheme=\"majorBidi\" w:ascii=\"Calibri\" w:hAnsi=\"Calibri\" w:eastAsia=\"黑体\"/>\n    <w:b/>\n    <w:bCs/>\n    <w:i w:val=\"0\"/>\n    <w:color w:val=\"000000\"/>\n    <w:sz w:val=\"23\"/>\n    <w:szCs w:val=\"26\"/>\n  </w:rPr>\n</w:style>\n",
+    "Rules": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" w:type=\"paragraph\" w:customStyle=\"1\" w:styleId=\"Rules\">\n  <w:name w:val=\"Rules\"/>\n  <w:pPr>\n    <w:widowControl/>\n    <w:spacing w:before=\"0\" w:after=\"0\" w:line=\"259\" w:lineRule=\"auto\"/>\n    <w:snapToGrid w:val=\"0\"/>\n  </w:pPr>\n  <w:rPr>\n    <w:rFonts w:ascii=\"Calibri\" w:hAnsi=\"Calibri\" w:eastAsia=\"宋体\"/>\n    <w:b w:val=\"0\"/>\n    <w:i w:val=\"0\"/>\n    <w:color w:val=\"000000\"/>\n    <w:sz w:val=\"20\"/>\n  </w:rPr>\n</w:style>\n",
+    "Stem": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" w:type=\"paragraph\" w:customStyle=\"1\" w:styleId=\"Stem\">\n  <w:name w:val=\"Stem\"/>\n  <w:pPr>\n    <w:widowControl/>\n    <w:spacing w:before=\"0\" w:after=\"60\" w:line=\"259\" w:lineRule=\"auto\"/>\n    <w:snapToGrid w:val=\"0\"/>\n  </w:pPr>\n  <w:rPr>\n    <w:rFonts w:ascii=\"Calibri\" w:hAnsi=\"Calibri\" w:eastAsia=\"宋体\"/>\n    <w:b w:val=\"0\"/>\n    <w:i w:val=\"0\"/>\n    <w:color w:val=\"000000\"/>\n    <w:sz w:val=\"21\"/>\n  </w:rPr>\n</w:style>\n",
+    "Figure": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" w:type=\"paragraph\" w:customStyle=\"1\" w:styleId=\"Figure\">\n  <w:name w:val=\"Figure\"/>\n  <w:pPr>\n    <w:widowControl/>\n    <w:spacing w:before=\"0\" w:after=\"80\" w:line=\"240\" w:lineRule=\"auto\"/>\n    <w:snapToGrid w:val=\"0\"/>\n  </w:pPr>\n  <w:rPr>\n    <w:rFonts w:ascii=\"Calibri\" w:hAnsi=\"Calibri\" w:eastAsia=\"宋体\"/>\n    <w:b w:val=\"0\"/>\n    <w:i w:val=\"0\"/>\n    <w:color w:val=\"000000\"/>\n    <w:sz w:val=\"2\"/>\n  </w:rPr>\n</w:style>\n",
+    "Explanation": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" w:type=\"paragraph\" w:customStyle=\"1\" w:styleId=\"Explanation\">\n  <w:name w:val=\"Explanation\"/>\n  <w:pPr>\n    <w:widowControl/>\n    <w:spacing w:before=\"0\" w:after=\"80\" w:line=\"276\" w:lineRule=\"auto\"/>\n    <w:snapToGrid w:val=\"0\"/>\n  </w:pPr>\n  <w:rPr>\n    <w:rFonts w:ascii=\"Calibri\" w:hAnsi=\"Calibri\" w:eastAsia=\"宋体\"/>\n    <w:b w:val=\"0\"/>\n    <w:i w:val=\"0\"/>\n    <w:color w:val=\"000000\"/>\n    <w:sz w:val=\"21\"/>\n  </w:rPr>\n</w:style>\n"
+  },
+  "parts": [
+    {
+      "part": "[Content_Types].xml",
+      "bytes": 1788,
+      "sha256": "1a1b7bf7aeab6ab754ba491b21600be5de0b06b910a5e1034eed09dfba6f5f1e"
+    },
+    {
+      "part": "_rels/.rels",
+      "bytes": 734,
+      "sha256": "a9ae57efe9186f07d48303bcac5d54c7e359bf3f503939c03ad2954e5c59a5c4"
+    },
+    {
+      "part": "docProps/core.xml",
+      "bytes": 796,
+      "sha256": "41ac81814bf5a28596f9a6807afc78576ccc64546226b44cf80f4d12b450e1ab"
+    },
+    {
+      "part": "docProps/app.xml",
+      "bytes": 1132,
+      "sha256": "be664981c3141cddfc59362beb287ebf20d0773660e2dd6faac5968a5930a081"
+    },
+    {
+      "part": "word/document.xml",
+      "bytes": 15488,
+      "sha256": "e7e028220a4b4b167bc6f51f07950b5c5bba26022b106649f2d3e9234a4b0757"
+    },
+    {
+      "part": "word/_rels/document.xml.rels",
+      "bytes": 2024,
+      "sha256": "72d27f8473cabd04703e3278ace53be713fb45d6d0944f6ff8b0b4a640041f43"
+    },
+    {
+      "part": "word/styles.xml",
+      "bytes": 351556,
+      "sha256": "49b4b4d55a73ae74769c1db7593e3e04de6dda47c9b987f09c50e76bb0d88e38"
+    },
+    {
+      "part": "word/stylesWithEffects.xml",
+      "bytes": 438131,
+      "sha256": "463ae0928cf0d84775dbf8cf18d6c3029f6707c81bf590f6d6dd8757a5e93f15"
+    },
+    {
+      "part": "word/settings.xml",
+      "bytes": 2535,
+      "sha256": "51a0d348fe85965c66e4748a03c3c0d055d78455514f03cb121c334af7d73689"
+    },
+    {
+      "part": "word/webSettings.xml",
+      "bytes": 438,
+      "sha256": "349d36de7434d09f86987ff671d8814964a0588c1e630c06e562cda7e75e9f95"
+    },
+    {
+      "part": "word/fontTable.xml",
+      "bytes": 2811,
+      "sha256": "79385fb7f60247507ecaffc292e9ebd52ea0657b8634f629ba6fccc54011d6bb"
+    },
+    {
+      "part": "word/theme/theme1.xml",
+      "bytes": 10939,
+      "sha256": "e3a8ab7db9ca7afca56f5f2820a56e8b660016c647773555b060b0a02ac76941"
+    },
+    {
+      "part": "customXml/item1.xml",
+      "bytes": 262,
+      "sha256": "a86086ffc5d8e83ebd6c71a55d1d2efaa31b137977f5f3a752366e1023612144"
+    },
+    {
+      "part": "customXml/_rels/item1.xml.rels",
+      "bytes": 295,
+      "sha256": "1ca6c9a64edcebe24ee703a54403611b322d96da33371779e742d2d3f7ed7a6c"
+    },
+    {
+      "part": "customXml/itemProps1.xml",
+      "bytes": 354,
+      "sha256": "c542307b13ec29a8b546217bb37936ab4822e044b265d2952985ec3d6afed24e"
+    },
+    {
+      "part": "word/numbering.xml",
+      "bytes": 5880,
+      "sha256": "9a8dad7558431a67c8d768365dfd4c01595f4e649da081b5d3147a08d5a9ec58"
+    },
+    {
+      "part": "word/media/image1.png",
+      "bytes": 12897,
+      "sha256": "25b4606f389b5ed9d49e161ce2f1dc085901b7bce1afbdf71c0db9e79d2daccf"
+    },
+    {
+      "part": "word/media/image2.png",
+      "bytes": 12994,
+      "sha256": "887f2af24f8a8d0b7288982ff70e1d6757fb694e24d979bac0eed4e7c6d607af"
+    },
+    {
+      "part": "word/media/image3.png",
+      "bytes": 12756,
+      "sha256": "dfe67988af48c426162addb124ff1e25e5373b88bb55bfdcd54fd8f18b014815"
+    },
+    {
+      "part": "word/media/image4.png",
+      "bytes": 14556,
+      "sha256": "4d0f712ad7768c7009c61d922532d804d5e214e3e25059c79694f0c926f17965"
+    },
+    {
+      "part": "word/media/image5.png",
+      "bytes": 14764,
+      "sha256": "91b6469d573153729fb43e8c3672fa418e499d7497f1db8deda15ba9b3de03b2"
+    },
+    {
+      "part": "word/media/image6.png",
+      "bytes": 14545,
+      "sha256": "aa4abb34e8728fdc58b6bde855949d2aa9263c94bc74892be8e85eff6786eab7"
+    },
+    {
+      "part": "docProps/thumbnail.jpeg",
+      "bytes": 8324,
+      "sha256": "96367138dc44ce09bf2c8f0f8e49348a1478d2c5c0af69bbc2bbc38b63cdcead"
+    }
+  ],
+  "opaque_features": {
+    "sdt": 0,
+    "fldChar": 0,
+    "commentRangeStart": 0
+  }
+}

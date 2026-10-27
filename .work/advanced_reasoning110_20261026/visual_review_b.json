@@ -1,0 +1,333 @@
+{
+  "passed": true,
+  "word_path": "E:\\XcodeProject_sang\\模式题\\国考判断推理进阶专项练习-110题（含答案解析）.docx",
+  "word_sha256": "96fa64a3dacbd047a827f7a7021cf4269f22d531c44a280d83c71d94120b4183",
+  "pdf_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\preview.pdf",
+  "pdf_sha256": "1aefd1ff9834a0a1a0d34ca7123d49515bb4b8cfafa5368238aa32ecfc99a01b",
+  "pdf_pages": 58,
+  "pdf_page_count_source": "根代理最终导出页数；render目录亦为58张页图",
+  "pages_reviewed": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58
+  ],
+  "method": "最新页图逐页调用view_image，以original detail实际查看1241×1754原始150dpi图，未用文本抽取或文件存在代替图像检查。",
+  "scope": "核对解析完整性、页内答案字母与逐项比较/结论一致、裁切重叠、否定量词公式字形、页码留白；不是重新盲解全110题。",
+  "pages": [
+    {
+      "page": 41,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-41.png",
+      "png_sha256": "2a298a487649cb50e905016535a7e52d1314c62c7fac9b008f38792bae2240de",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "定义判断47—50解析完整；四项及选是/选非结论与答案字母一致；6→5等箭头正常，标题未越右界。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 42,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-42.png",
+      "png_sha256": "a9cc16f2c0a9c4b556706d0bff09972766831f2db7fe43172f14ab75259ea233",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "逻辑推理分节及51—54完整；B/B/D/D与逐项和末句一致，四站、至少、不能等限制词完整。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 43,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-43.png",
+      "png_sha256": "91c05010a93579873aada6f372df912c8b0078aeb69e7b983ce0f72177f2c6e4",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "55—57完整；A/C/B答案与正文一致，唯一配置和分工反例清楚，长段自然折行，未压行。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 44,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-44.png",
+      "png_sha256": "8162e33923895bf28165de0e0a8fdaa49c597656fb7dd8b07959c98502639627",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "58—61完整；A/C/D/B与逐项判断一致，四文件的分配及任务开始时段完整清楚。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 45,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-45.png",
+      "png_sha256": "f1f1137e86e1661a3bca39f4fd206c2fef3a5006d50444a3148ae05c4dd3aaa2",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "62—65完整，C/A/B/D一致；2+2+1=5、1—2和3—4等字符正常。Q63一处3—4在连接号后跨行，字符完整可读，为非阻断细节。",
+      "blocking_defects": [],
+      "nonblocking_notes": [
+        "Q63数字范围3—4在连接号后跨行，字符完整。"
+      ]
+    },
+    {
+      "page": 46,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-46.png",
+      "png_sha256": "f618ff287ce5e47c771c4eabd85f4fe1f447d4be565028b902d50195e856c05a",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "66—68完整，D/C/D一致；逆否箭头、全称/存在量词和未字清晰，多对象反例未截断。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 47,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-47.png",
+      "png_sha256": "d0dd90780c0d3eff167934a8bacfe1c72ca23c8d3751314d5378878b10f4e931",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "69—72完整，C/C/D/C一致；①②③④和恰好真假数量清楚，无裁切或重叠。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 48,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-48.png",
+      "png_sha256": "f9d58595f78d14c5ae725281141e97682933695b96859df971f310dcfa6e9225",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "73—76完整，B/B/C/A一致；甲<丙、甲+乙=丙+丁、乙>丁和顺时针人物序列完整可辨。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 49,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-49.png",
+      "png_sha256": "598204896894c461e44461a34bf96740c43f6794862e9cf4272458911970f4ec",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "77—80完整，D/B/D/C一致；P且Q→R及特称否定结构清楚。下半留白因下一分节另起页，未丢尾段。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 50,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-50.png",
+      "png_sha256": "2c3c25bd6d3ae84a1ac3f8907c8eb9df9d735199d45d9e6348ff8e26ec63a556",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "逻辑论证分节与81—83完整，B/D/A与比较段一致，末尾无裁切，层级清楚。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 51,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-51.png",
+      "png_sha256": "1049ae50ae4a2649d89ba536c7c0ce81c647506cf7c4683255e89ab3041f4a94",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "84—87完整，C/B/A/D一致，净增二百五十人等文字完整，87末尾离页脚有间距。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 52,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-52.png",
+      "png_sha256": "8a5a3553b9649bd55e8a5b91796f0f90451d3dfe116da5f9fd786e63020e2ff1",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "88—91完整，C/A/D/C一致；80%、0.8×1.5=1.2、20%字形正确，末尾比较完整。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 53,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-53.png",
+      "png_sha256": "05baa7159a3e48be9e6e93a81d9a5db9c9510468413a07799248a75c820c6f26",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "92—95完整，B/D/A/C一致；95同涨幅、各自加成不变和相对价格的修订完整，无压行。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 54,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-54.png",
+      "png_sha256": "de2ab593493f52e7242d9b015a1da6eae217e28c91b765512bbcd75b85b75671",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "96—99完整，B/A/D/B一致；否定词完整，99末尾比较未被页码遮挡。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 55,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-55.png",
+      "png_sha256": "da044314a624c85577b28b932f2187d665b7fdfafcc1946c746ddb803552845d",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "100—102完整，C/D/A一致；101本批范围和102净变化修订均完整，TUV及X→T、T→X正常。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 56,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-56.png",
+      "png_sha256": "803755e71ac1a8ef8ad9cb8a37a429c92dec85feb18a5f540ccfe6b57f5facca",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "103—106完整，C/B/A/C一致；每次/平均、同时段/终身范围词清楚，50%至27.5%正常，106未溢出页脚。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 57,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-57.png",
+      "png_sha256": "db8a3cd6f84ad255b29edd339f63d773ff2df7276f5a89c59031d544f028bc1f",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "107—109完整，D/B/A一致；0.8、0.6、4/3、60/40/20万元及评价问题正反说明完整。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    },
+    {
+      "page": 58,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-58.png",
+      "png_sha256": "2a4799220a4834d4ce9e00c63b280d56eef4056b13cfe4af775f3a9ddce41c0c",
+      "dimensions": [
+        1241,
+        1754
+      ],
+      "actually_viewed": true,
+      "view_tool": "view_image",
+      "detail": "original",
+      "passed": true,
+      "observation": "110末页完整，C与四项和比较结论一致；4%、5%、不低于与因果限制清楚。保持整题解析不拆分造成较大留白，非空白页，页码58正常。",
+      "blocking_defects": [],
+      "nonblocking_notes": []
+    }
+  ],
+  "blocking_defects": [],
+  "nonblocking_notes": [
+    {
+      "page": 45,
+      "question": 63,
+      "note": "3—4跨行，无缺字且含义清楚，已提前告知根代理，非阻断。"
+    }
+  ],
+  "only_output_written": "visual_review_b.json",
+  "source_or_output_document_modified": false
+}

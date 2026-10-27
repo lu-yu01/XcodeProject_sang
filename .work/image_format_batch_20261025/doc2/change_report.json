@@ -1,0 +1,170 @@
+{
+  "source_word": "E:\\XcodeProject_sang\\模式题\\国考判断推理原创模拟卷（二）-2026行政执法-35题（含答案解析）.docx",
+  "output_word": "E:\\XcodeProject_sang\\模式题\\国考判断推理原创模拟卷（二）-2026行政执法-35题（图片规范版，含答案解析）.docx",
+  "source_word_sha256": "a8bd82e613a58e17c89d832e7e8c1d9e4829e6a94d6994b428021e893c693dc6",
+  "changed_questions": [
+    2,
+    3,
+    5,
+    7
+  ],
+  "retained_questions": [
+    1,
+    4,
+    6,
+    8,
+    9,
+    10
+  ],
+  "text_replacements": {
+    "下图分为上下两组。": "下图分为左右两组。",
+    "先看上组：": "先看第一组：",
+    "用于下组：": "用于第二组：",
+    "下组第二格": "第二组第二格",
+    "下组第一格": "第二组第一格",
+    "正视图从左到右、右视图从前到后如图；": "左侧正视图从左到右、右侧右视图从前到后；"
+  },
+  "inserted_captions": [],
+  "details": {
+    "2": "上下两组三图改为左右同一横排两组三格；原五图及问号、四候选内容顺序和尺寸不变。",
+    "3": "上下两组线网改为同一横排两组三格；原五图及问号、四候选内容顺序和尺寸不变。",
+    "5": "删除图内冗余“P、Q、R确定一个截平面”；P/Q/R几何点标签和图形保留。",
+    "7": "删除图内正视图/右视图说明；原生题干改为左侧正视图/右侧右视图，信息移到图外。",
+    "other": "其余四候选本已共用横向四格大框、A-D在框外下方，保留原样；六图分类8-10保持六图和Word分组选项。"
+  },
+  "pixel_checks": [
+    {
+      "n": 1,
+      "scope": "whole image",
+      "pixel_identical": true
+    },
+    {
+      "n": 2,
+      "scope": "5 stem figures under integer translation + entire options area",
+      "pixel_identical": true
+    },
+    {
+      "n": 3,
+      "scope": "5 stem figures under integer translation + entire options area",
+      "pixel_identical": true
+    },
+    {
+      "n": 4,
+      "scope": "whole image",
+      "pixel_identical": true
+    },
+    {
+      "n": 5,
+      "scope": "solid, PQR labels and entire option row",
+      "pixel_identical": true
+    },
+    {
+      "n": 6,
+      "scope": "whole image",
+      "pixel_identical": true
+    },
+    {
+      "n": 7,
+      "scope": "2 elevations and entire option row",
+      "pixel_identical": true
+    },
+    {
+      "n": 8,
+      "scope": "whole image",
+      "pixel_identical": true
+    },
+    {
+      "n": 9,
+      "scope": "whole image",
+      "pixel_identical": true
+    },
+    {
+      "n": 10,
+      "scope": "whole image",
+      "pixel_identical": true
+    }
+  ],
+  "source_image_hashes": {
+    "q01.png": "1946d2e34616bb3ecd7c63947b8c6e23daa6b4048d8d20375f0ff10c559f9d92",
+    "q02.png": "fab38c286fce76d6fe06cfb765d7952f3ef5758119a4b1a783a723623fdcd901",
+    "q03.png": "e12b28f560963adbb4e273e9795d0ca087989cc297974fb86002167664ada977",
+    "q04.png": "167edde5740e7aa49f713465f5fb344cc249c08d0fe0f5a54b0c4105fc7db6a8",
+    "q05.png": "129493ebec98442641321d896c4b6c49e6375db43d976863a8c9d19454910af9",
+    "q06.png": "e720f2a0251732459cfe74134d7bf830fa4209c0bfaa011156cf2cbdada79a8c",
+    "q07.png": "333041cd01ba24ca1bb9be611338a2427da7f38a28157a5d5eea9563faa2d421",
+    "q08.png": "64de2c7dc2e64e3f478e2b90f898fa87102464734bf0d4001269bb7e4f76b938",
+    "q09.png": "b7e1decb0ad45c11f320d3f9bc3c0f8e1f55e3044fc5d65006d40367ec12a940",
+    "q10.png": "2646d861c529bdbaa8fefa8e4d8300a44f1a20b036725e326109354c6a5a1013"
+  },
+  "new_image_hashes": {
+    "q01.png": "1946d2e34616bb3ecd7c63947b8c6e23daa6b4048d8d20375f0ff10c559f9d92",
+    "q02.png": "b132fc76ab32053f135b94e612318b03efcccda60d401054aa4773ee8a911c76",
+    "q03.png": "719d67b37155281e4c2ee74f44627cdfffb652e4d5227d76e7591e89b8f1dd0b",
+    "q04.png": "167edde5740e7aa49f713465f5fb344cc249c08d0fe0f5a54b0c4105fc7db6a8",
+    "q05.png": "0f17bfe68b962ccf28d1d64cd75ec998740e5bb9495bb57554f62e0417fa7273",
+    "q06.png": "e720f2a0251732459cfe74134d7bf830fa4209c0bfaa011156cf2cbdada79a8c",
+    "q07.png": "8e8378faf6d4c1e3833e7213f187edb168e6c4b7d070f3e1acbbef4aab38e049",
+    "q08.png": "64de2c7dc2e64e3f478e2b90f898fa87102464734bf0d4001269bb7e4f76b938",
+    "q09.png": "b7e1decb0ad45c11f320d3f9bc3c0f8e1f55e3044fc5d65006d40367ec12a940",
+    "q10.png": "2646d861c529bdbaa8fefa8e4d8300a44f1a20b036725e326109354c6a5a1013"
+  },
+  "passed": true,
+  "image_bindings": [
+    {
+      "n": 2,
+      "part": "word/media/image2.png",
+      "source_asset": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\assets\\q02.png",
+      "new_asset": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc2\\assets\\q02.png"
+    },
+    {
+      "n": 3,
+      "part": "word/media/image3.png",
+      "source_asset": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\assets\\q03.png",
+      "new_asset": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc2\\assets\\q03.png"
+    },
+    {
+      "n": 5,
+      "part": "word/media/image5.png",
+      "source_asset": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\assets\\q05.png",
+      "new_asset": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc2\\assets\\q05.png"
+    },
+    {
+      "n": 7,
+      "part": "word/media/image7.png",
+      "source_asset": "E:\\XcodeProject_sang\\.work\\guokao2026_2\\assets\\q07.png",
+      "new_asset": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc2\\assets\\q07.png"
+    }
+  ],
+  "text_replacement_occurrences": {
+    "下图分为上下两组。": 1,
+    "先看上组：": 1,
+    "用于下组：": 1,
+    "下组第二格": 1,
+    "下组第一格": 1,
+    "正视图从左到右、右视图从前到后如图；": 1
+  },
+  "native_paragraph_count_unchanged": true,
+  "word_text_only_whitelisted_replacements": true,
+  "automatic_numbering_xml_unchanged": true,
+  "all_other_package_parts_unchanged": true,
+  "changed_package_parts": [
+    "word/document.xml",
+    "word/media/image2.png",
+    "word/media/image3.png",
+    "word/media/image5.png",
+    "word/media/image7.png"
+  ],
+  "output_word_sha256": "672695bb4b225fdd51abbe5174d4a8953be4d6fffb343ce3398a11c9422ea186",
+  "new_image_format": {
+    "choices": "one outer frame + 3 dividers + A-D below",
+    "two_group_stems": "3 + 3 in same horizontal row"
+  },
+  "limitations": "Q2/Q3 figures changed absolute position only; compared in local coordinates to prove exact pixels unchanged. Geometry, color, option order and mathematical models unchanged.",
+  "regenerated_assets_visually_reviewed": [
+    2,
+    3,
+    5,
+    7
+  ],
+  "regenerated_asset_visual_result": "All four changed assets inspected: two groups align horizontally; choice frames and A-D placement clear; PQR and elevation geometry retained."
+}

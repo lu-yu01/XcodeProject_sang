@@ -1,0 +1,146 @@
+{
+  "passed": true,
+  "pdf_sha256": "23fb39f66fbd50dd54e41a956b62ddf616c841de272e56d8db5949e4e6a30662",
+  "word_sha256": "4b71bbaa803211b012aaaa23e4301842b647e651af5debdbb4798fed8aad38f6",
+  "pages_reviewed": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "method": "此前已逐页调用 view_image 实际查看旧 PDF 对应的 render/page-11.png 至 page-20.png。本次未重新打开全部十页；逐页计算当前 PNG SHA256，并与旧版渲染验证清单中的实际查看页哈希核对，十页字节完全一致，沿用相同像素的检查结论并绑定最终 PDF。",
+  "observations": [
+    {
+      "page": 11,
+      "conclusion": "Q21、Q22 条件、设问、主图及四候选均在本页完整显示。阶梯体与四棱锥的 P、Q、R 标注清楚，R 位于侧棱的点标可辨；虚实线无丢失。两组候选均为四等格横框，A—D 在框下，无遮挡或越界。"
+    },
+    {
+      "page": 12,
+      "conclusion": "Q23 孔洞长方体的全部图外尺寸及 P、Q、R 定义完整。矩形孔洞、虚线与 P、Q、R 点名清楚，四项内孔的尺寸和位置差异均可辨，题图及候选未裁切。"
+    },
+    {
+      "page": 13,
+      "conclusion": "Q24 三视图顺序、前后朝向和连续堆放条件显示完整；三个视图及 ①②③ 编号清楚。四个立体候选位于同一横框，格线和方块边线可区分，未发生压图、断框或分页拆题。"
+    },
+    {
+      "page": 14,
+      "conclusion": "Q25 不得悬空、俯视有框格至少一块等条件完整，三视图及 ①②③ 编号无缺失。20、18、21、19 四个数量候选清晰，A—D 均在框下，主图与候选留有间距。"
+    },
+    {
+      "page": 15,
+      "conclusion": "Q26 正投影方向、水平轴、重合线合并等条件完整，透明线架的 P、Q、R 清楚。四个投影候选内部交点、平行线与中线差异可辨。Q27 的不得翻面条件、黑色面内图案、箭头和带内部线的三角形均完整，四个展开候选与 A—D 未被页脚遮挡，整题未跨页。"
+    },
+    {
+      "page": 16,
+      "conclusion": "Q28 两个正方体的 ①② 标识、不得翻面以及候选上下依次对应的条件显示完整。每个候选含上下两张展开图，黑块、箭头、三角形朝向均可见，行间与分栏间无重叠。"
+    },
+    {
+      "page": 17,
+      "conclusion": "Q29 完整体、部件①、部件②与四候选均完整，三黑块题面的黑色位置可辨，图外平移/旋转/不得翻面条件保留。Q30 仅使用通用六图分类设问，没有提示连接拓扑等具体规律；六图及 ①—⑥、四条原生文字分组选项均完整且在同一页。"
+    },
+    {
+      "page": 18,
+      "conclusion": "答案速查表 1—30 题号与答案完整，表头及五组题号/答案列对齐，无缺字或覆盖。Q1—Q3 解析编号连续。新增 E02 六幅解释图的红色对称轴、蓝色内折线、角度标签和图注均清楚，风筝轴线与文字说明对应，未裁切或压到后续 Q3。"
+    },
+    {
+      "page": 19,
+      "conclusion": "Q4—Q8 解析连续完整，中文、圈号、直角计算式、乘号与角度符号可辨；段间留白正常，题号和考点标题均与对应解析在一起，页底未截断文字。"
+    },
+    {
+      "page": 20,
+      "conclusion": "Q9—Q11 解析编号连续，分类组号及逐项说明可读。Q11 的部分数、接触边数与圆标关系文字、附加解释图均完整，底部有充足留白，没有遮挡或截断。"
+    }
+  ],
+  "issues": [],
+  "files_modified_during_review": [
+    "visual_pages_11_20.json"
+  ],
+  "original_actual_visual_review_pdf_sha256": "d4db11390c117464a40b495bfe0b748230674de7c22da313a4ceda3d5363312b",
+  "final_rebind_evidence": {
+    "baseline_manifest": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\revision_history\\q25_text_fix\\render_verification.json",
+    "comparison_report": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\q25_final_page_comparison.json",
+    "comparison_changed_pages": [
+      27
+    ],
+    "all_ten_png_hashes_identical": true,
+    "no_claim_of_repeated_full_visual_review": true,
+    "page_hash_checks": [
+      {
+        "page": 11,
+        "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-11.png",
+        "actually_reviewed_old_png_sha256": "a146203cfaf01be8d98b4510b3463a921700a9640fcd3d04998773d1651fbd6f",
+        "current_png_sha256": "a146203cfaf01be8d98b4510b3463a921700a9640fcd3d04998773d1651fbd6f",
+        "identical": true
+      },
+      {
+        "page": 12,
+        "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-12.png",
+        "actually_reviewed_old_png_sha256": "2a16920fd03ea0c6592950ffade5ed9533540936591df79bc7bbe68c15274d8e",
+        "current_png_sha256": "2a16920fd03ea0c6592950ffade5ed9533540936591df79bc7bbe68c15274d8e",
+        "identical": true
+      },
+      {
+        "page": 13,
+        "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-13.png",
+        "actually_reviewed_old_png_sha256": "41a683a6dfaaa4d13abc89354cf7189226a521b274c3bd5069eb42c1bf448191",
+        "current_png_sha256": "41a683a6dfaaa4d13abc89354cf7189226a521b274c3bd5069eb42c1bf448191",
+        "identical": true
+      },
+      {
+        "page": 14,
+        "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-14.png",
+        "actually_reviewed_old_png_sha256": "158b94c03d02cd0e6a328c0dab5d55b3f4d89716a34432b71b908012ba9424b1",
+        "current_png_sha256": "158b94c03d02cd0e6a328c0dab5d55b3f4d89716a34432b71b908012ba9424b1",
+        "identical": true
+      },
+      {
+        "page": 15,
+        "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-15.png",
+        "actually_reviewed_old_png_sha256": "84d329fb42cf5dc5be2672a1f274337576850489752cd3ede348027e58f57e13",
+        "current_png_sha256": "84d329fb42cf5dc5be2672a1f274337576850489752cd3ede348027e58f57e13",
+        "identical": true
+      },
+      {
+        "page": 16,
+        "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-16.png",
+        "actually_reviewed_old_png_sha256": "ae3884bb0091f4a875ddfa4c25f907e8217587285bce01baa26e9916b186789a",
+        "current_png_sha256": "ae3884bb0091f4a875ddfa4c25f907e8217587285bce01baa26e9916b186789a",
+        "identical": true
+      },
+      {
+        "page": 17,
+        "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-17.png",
+        "actually_reviewed_old_png_sha256": "cacc80fd498642208c0599ccbf91a60c9d4df8661607f65287c82f6d0ea92ee2",
+        "current_png_sha256": "cacc80fd498642208c0599ccbf91a60c9d4df8661607f65287c82f6d0ea92ee2",
+        "identical": true
+      },
+      {
+        "page": 18,
+        "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-18.png",
+        "actually_reviewed_old_png_sha256": "d194257c2eee221e881eade3c604f3ea9fa5e07aa1527515a60d98a49a701e0b",
+        "current_png_sha256": "d194257c2eee221e881eade3c604f3ea9fa5e07aa1527515a60d98a49a701e0b",
+        "identical": true
+      },
+      {
+        "page": 19,
+        "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-19.png",
+        "actually_reviewed_old_png_sha256": "7f574ece742c4c2b89fa96ce58e9fd1d7bbdc85f8722b4ff1295a929412e81e6",
+        "current_png_sha256": "7f574ece742c4c2b89fa96ce58e9fd1d7bbdc85f8722b4ff1295a929412e81e6",
+        "identical": true
+      },
+      {
+        "page": 20,
+        "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-20.png",
+        "actually_reviewed_old_png_sha256": "5b11d3ff0e13c31eb4d1f8e32e9ab1fc739389f1a6abf2ee6672025667559983",
+        "current_png_sha256": "5b11d3ff0e13c31eb4d1f8e32e9ab1fc739389f1a6abf2ee6672025667559983",
+        "identical": true
+      }
+    ]
+  }
+}

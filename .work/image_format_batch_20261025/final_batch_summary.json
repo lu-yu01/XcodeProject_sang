@@ -1,0 +1,37 @@
+{
+  "status": "complete",
+  "time": "2026-10-25T21:50:29.029579+08:00",
+  "documents": [
+    {
+      "key": "doc1",
+      "word": "E:\\XcodeProject_sang\\模式题\\国考判断推理原创模拟卷（一）-35题（图片规范版，含答案解析）.docx",
+      "index": "E:\\XcodeProject_sang\\知识库\\套卷索引\\国考判断推理原创模拟卷（一）-35题（图片规范版，含答案解析）.md",
+      "pages": 19,
+      "questions": 35,
+      "word_sha256": "68878e07e32ecabd859b80462817c2f2105bd5582be158a4c4815c6c2d6708eb",
+      "pdf_sha256": "744eb99c6092cd72c0d9bbcd840b516c41d85e2e540a437196cfbf7c2bcecaf5",
+      "temporary_png_cleaned": 19
+    },
+    {
+      "key": "doc2",
+      "word": "E:\\XcodeProject_sang\\模式题\\国考判断推理原创模拟卷（二）-2026行政执法-35题（图片规范版，含答案解析）.docx",
+      "index": "E:\\XcodeProject_sang\\知识库\\套卷索引\\国考判断推理原创模拟卷（二）-2026行政执法-35题（图片规范版，含答案解析）.md",
+      "pages": 20,
+      "questions": 35,
+      "word_sha256": "672695bb4b225fdd51abbe5174d4a8953be4d6fffb343ce3398a11c9422ea186",
+      "pdf_sha256": "5ce0608f850c22391a9e688f6a37ba1b7b03a56800af526f673225cf5b0197c3",
+      "temporary_png_cleaned": 20
+    },
+    {
+      "key": "doc55",
+      "word": "E:\\XcodeProject_sang\\模式题\\国考图形与逻辑专项练习-55题（图片规范版，含答案解析）.docx",
+      "index": "E:\\XcodeProject_sang\\知识库\\套卷索引\\国考图形与逻辑专项练习-55题（图片规范版，含答案解析）.md",
+      "pages": 32,
+      "questions": 55,
+      "word_sha256": "e7b5123e41ea0123f2d49589299ef5b2008144ebfa009e78480557e4ba3d09e6",
+      "pdf_sha256": "9fbe00a8215c08004718a384df467ef76d8dbe56f5d8f62434e5748dc81f6a5d",
+      "temporary_png_cleaned": 32
+    }
+  ],
+  "total_pages": 71
+}

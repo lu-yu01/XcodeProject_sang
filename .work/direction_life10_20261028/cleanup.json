@@ -1,0 +1,154 @@
+{
+  "scope": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028",
+  "deleted_count": 18,
+  "deleted": [
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-01.png",
+      "sha256": "51dfbf85c42af50886f045b65c90a8b941b16ba41cc0b8cee07fc2f3ae80b37f",
+      "bytes": 562668,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-02.png",
+      "sha256": "75221643615d78fcc3f564010c53de881577a355c91b6cf78b62748252155444",
+      "bytes": 449952,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-03.png",
+      "sha256": "884e8c43f7d797dd200a272bfc9c6501e7649a86f1ddbec85b8a5ab43dbcc368",
+      "bytes": 384630,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-04.png",
+      "sha256": "6fa79cef1197a00c7689bf19c7f8e810d0b1924832eb65e6d00013e17cb85536",
+      "bytes": 466461,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-05.png",
+      "sha256": "8c81c4d95510d2f4661a9a20e06c279c1a7024f5329b6098a3181e8dc949defe",
+      "bytes": 595495,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-06.png",
+      "sha256": "78d10caa71dd71351e52ab761caa540e2eca619f603dacbd3624716fa97507bc",
+      "bytes": 224024,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-07.png",
+      "sha256": "01cec5104321e8d601a48c1f3225b0534b696f9a67812b823f583dd0b86786d3",
+      "bytes": 223944,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-08.png",
+      "sha256": "c8c617bce61a9791b81c7c09bbd710b8f9dfb7ad496501a3adf4eb99e8d3a9e9",
+      "bytes": 198974,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-09.png",
+      "sha256": "a61d0dc22d3c94f08635d004fb44c963c4d95c9b274c10b7184e34bff2dd590c",
+      "bytes": 223354,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-10.png",
+      "sha256": "7ed078e517fe2ae5e4b260f3a792d846ffec30b590706ea3063ccb42aa5d6fdc",
+      "bytes": 203316,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\car-preview.png",
+      "sha256": "5053521b421af75b86918953b9615533c76f5e31fbe1c9751625806e1840f464",
+      "bytes": 53231,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\clock-preview.png",
+      "sha256": "7475b3a8958a21dcab10ce161394aa5cc6beae7d29d1b3330ab6da57df909283",
+      "bytes": 10654,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\house-preview.png",
+      "sha256": "54cdcdae7aa253f7761360aff2ba6ed46b2ca8a9238cc708e2bfa8bb6a5e5ffb",
+      "bytes": 53745,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\house2-preview.png",
+      "sha256": "15ee5ca76cde1e298fe69aca0f8961657e8566c7b491e73b0fe8d0caf99eddc5",
+      "bytes": 5489,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\lamp-preview.png",
+      "sha256": "8e151f4e333b6a33237a98cfebe0f45ff9532d156e8ce672a5c2b958a00997c2",
+      "bytes": 7304,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\library-preview.png",
+      "sha256": "5c187cbdb24d5ea14bbeac976f53bafc992dac40c1b3dd867f193cbf5181d3e9",
+      "bytes": 11124,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\person-preview.png",
+      "sha256": "9e6f0e643c7ac0bbbbd21219ce7d7a6690f17a741160f44d26e047bfdcde09e7",
+      "bytes": 38980,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\shop-preview.png",
+      "sha256": "13acb91cf5e488198377251f1123145511074de9c6e692f44df5478f94de839c",
+      "bytes": 7718,
+      "reason": "Temporary inspected final-page render or source-art preview; regenerable."
+    }
+  ],
+  "formal_pngs_retained": 20,
+  "used_original_svg_assets_retained": 9,
+  "all_retained_fingerprints_unchanged": true,
+  "retained": {
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-01.png": "a9bc3767744941b7b69fc22506de0ab63ef64d27c2f7eaf238e48720c7043071",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-02.png": "921abe21c2e19091fa87efb818e75adaf469059464cf93fdaef90077661d4f94",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-03.png": "7b1f4a937f292bf83a4aa29aad899b23fd956d638ff7e2afa58eeac1c7e8bc8f",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-04.png": "526ba0cfce44322abb514bb6783b3396a05c40a08104af4ba2f503dce27549e4",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-05.png": "83b997849ac2de090a14396f5fc6da467443a1aad3ef91b88bc722010881a27d",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-06.png": "fd34f40f334563780ca24b489c8a8445f28b2e02d757b844475718cb5d7d856d",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-07.png": "184d11fdebd9bfcc3aaebc38a6fd5a4c72a19abc5a1bb1e7caf4c163c374715c",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-08.png": "8c680bc492f9cec8594a2b7a692c0c961d99cdc76314dd570d2e4183f4c63001",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-09.png": "464c148b8cfb1cf28b4cb432aa430c582c3f6c21cfe7780619ab1cce57c49727",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-10.png": "d39fb8f3a56f0ecbe3290ab4dbd1c6b1dbdb9bdac832bd4abd2722766c7db4de",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-01.png": "33a2d3d03f96b2888e1ee776e0414700a4a26abddbfe97410f9429ef2dfa0277",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-02.png": "3505eb87cd66a396f34efe6c7f3e418871d2ead4c450904c289a4c7d3c41e926",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-03.png": "c69ed3a7d7d428befcf21da2b0302d72934619f200bf31b446fcb48fbb652eae",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-04.png": "66d6b72fa7806bed588f8b5c47c5a13ffe272ae52e7ac8881d6bb95077fef79f",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-05.png": "6d648e7ec5d24f456ded633dcef9a6db3455bf98488690d2ff98ebe0e0d7b013",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-06.png": "1852b09afd61bf78e6499e047b948d01c95506e5e19f3f230a93e3adec5489fe",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-07.png": "c914c0e2e7a3a26103b9148e6cbf635fc05ab56ae07ace5f430f4357b829b9ed",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-08.png": "a1007a21064640fcaff640f4244658458f15d93ff6b600d87971901e6b2f6f29",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-09.png": "ddb73bb9c92f50826c62251e8a20e447ddc6765fb429f9aceb489783c8805d78",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-10.png": "1baef5eb2df4d09d40c00313223c959e42468444b8313e8658399dfe566b221f",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\car.svg": "3f357f7f10b5e3b3bf32ab81834080b9780425638d251f32561baaed40f7b2fd",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\cinema.svg": "f93f3782fb96d80be48dbc195ca998b9f0445ea6436995eaaa1a972751971446",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\clock.svg": "f3762197fad2509a4a10d59f8548bdf3ca63af3c01010ebf4c1c60b2075e3b25",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\house.svg": "08c4f7ce4264055e50f95d2790c44950fc69ac537cff5f3b0c368f06f4fe4e03",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\house2.svg": "137fed8174886506118be22c75724e78ff6e1394c1c4a04ca041c892cf889a0f",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\lamp.svg": "9b598591424d8bd632ee5948c3f969808e0f846ea06d45b9198e9c60ddfa13ae",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\library.svg": "ba9e6005fb6e00d6b414663aafdf3469e5bba21f97628f18d948c135284d225e",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\person.svg": "ed42f6ead8330fd580bac9e6ea6fb2c0cfbf67a8c244f54d569362aa03eb2593",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\shop.svg": "c5676dfd42b1f61a4270952601f2aa5dfa58cf4377e03656e132a90a0a48c58e",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\sources\\tree.svg": "061b3c925711f6621dcc45abf905e4c63a6bb62f4e5df31b81db1bc14619f4f9",
+    "E:\\XcodeProject_sang\\模式题\\北京风格情境方向图形推理-10题（含答案解析）.docx": "8377b84094a4e786869fd46be0fe6e7add3a80211c5092a99d662c76d06d1b0f",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\source.docx": "89dce87495adc6c03828fd5ee308758d46ef047529254ba636f66ec163e3b8d9",
+    "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\preview.pdf": "6f5908d7fa1f610b588b07b9dac60b8d008cc587574aa8a8098106bf963fa003"
+  },
+  "final_word_sha256": "8377b84094a4e786869fd46be0fe6e7add3a80211c5092a99d662c76d06d1b0f",
+  "source_backup_sha256": "89dce87495adc6c03828fd5ee308758d46ef047529254ba636f66ec163e3b8d9"
+}

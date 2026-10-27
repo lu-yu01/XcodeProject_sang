@@ -1,0 +1,442 @@
+{
+  "scope": "2022—2026；最近2026国考行政执法为主，省考/职测为补充，非官方全量核实",
+  "primary_national_examples": 6,
+  "supplementary_local_examples": 14,
+  "filename_cautions": [
+    "2025江苏判断题本前段与2023江苏AB同图，不按文件名计作2025真题。",
+    "2025浙江判断题本开头正文标注2023年，本次按2023套题1记录。"
+  ],
+  "mechanism_correction": "浙江2023 Q78初看似符号叠加，配套解析交叉核对为对称属性，已纠正。",
+  "only_text_located_examples": [],
+  "examples": [
+    {
+      "id": "JS23-76",
+      "year": 2023,
+      "exam": "江苏省考AB判断部分",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\2023江苏省考行测AB判断部分(2).docx",
+      "question_number": 76,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d3_p79_i0.png"
+      ],
+      "image_sha256": [
+        "d9a8596d9804172dfb20eafc21bfeef6bc436b24d8eb36b4f4455af8bdd901a3"
+      ],
+      "mechanism": "轴对称及轴与原图线条是否重合共同限定",
+      "difficulty": "不能止于判断有无对称；还要比较隐含轴和图形对象的关系。",
+      "original_inspiration": "Q19先定位唯一轴再比较辅助线方向",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "配套解析已核对",
+      "paragraph_locations": [
+        79
+      ]
+    },
+    {
+      "id": "JS23-80",
+      "year": 2023,
+      "exam": "江苏省考AB判断部分",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\2023江苏省考行测AB判断部分(2).docx",
+      "question_number": 80,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d3_p108_i0.png"
+      ],
+      "image_sha256": [
+        "2fcb921a27b94aec7ac35bb77eaab40acf58aaa4121d84fca29cfd2c6aacc136"
+      ],
+      "mechanism": "按行曲线、直线、曲直混合的属性组合",
+      "difficulty": "图形有封闭区域但数面不是自然解释，属性先于盲目计数。",
+      "original_inspiration": "Q12按对象分开统计，不把不同载体都当数面题",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "配套解析已核对",
+      "paragraph_locations": [
+        108
+      ]
+    },
+    {
+      "id": "JS23-81",
+      "year": 2023,
+      "exam": "江苏省考AB判断部分",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\2023江苏省考行测AB判断部分(2).docx",
+      "question_number": 81,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d3_p113_i0.png"
+      ],
+      "image_sha256": [
+        "86cbf94d3928b2a5963c9aa1a724d2757ad9cce1585c6508367ac9511b7bd826"
+      ],
+      "mechanism": "轴对称、中心对称、兼有两者，再用轴数量筛选",
+      "difficulty": "单一属性可留下两个候选，必须继续细分。",
+      "original_inspiration": "Q11/Q12构造共同筛选条件，排除单一计数捷径",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "配套解析已核对",
+      "paragraph_locations": [
+        113
+      ]
+    },
+    {
+      "id": "JS24C-79",
+      "year": 2024,
+      "exam": "江苏省考C类",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\2024江苏C类真题.docx",
+      "question_number": 79,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d2_p73_i0.png"
+      ],
+      "image_sha256": [
+        "fed15038f2f810bc7445ae77069e7cdd84a2d50852d89dd0e6c9c1c50951b575"
+      ],
+      "mechanism": "沿线条由外向内编号，白球在线层编号递增且位于线段中部",
+      "difficulty": "位置要选定参照对象；仅层数不能区分A、B。",
+      "original_inspiration": "变换之前先定位对象及参照，干扰只漏一个关键关系",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "配套解析已核对",
+      "paragraph_locations": [
+        73
+      ]
+    },
+    {
+      "id": "JS24C-80",
+      "year": 2024,
+      "exam": "江苏省考C类",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\2024江苏C类真题.docx",
+      "question_number": 80,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d2_p77_i0.png"
+      ],
+      "image_sha256": [
+        "ef46eac96875c8168400612014989463ae029fdc1236b4a66b8df37570380aa5"
+      ],
+      "mechanism": "行内面数相同，并兼顾连通部分数、曲直属性",
+      "difficulty": "先数面仍不足，需要第三维属性筛掉等面数候选。",
+      "original_inspiration": "Q12分对象计数；Q20总笔画相同后检查各部分分布",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "配套解析已核对",
+      "paragraph_locations": [
+        77
+      ]
+    },
+    {
+      "id": "ZJ23-71",
+      "year": 2023,
+      "exam": "浙江省考判断套题1",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\2025浙江判断题本.docx",
+      "question_number": 71,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d1_p2_i0.png"
+      ],
+      "image_sha256": [
+        "af9eda5952bcfa46d90517b477965361f673e2cff19f5d5513ce73bff91e64b5"
+      ],
+      "mechanism": "黑块处在拐角，非黑块数量序列",
+      "difficulty": "载体看似黑白位置，实际抓局部拐角特征。",
+      "original_inspiration": "Q18固定黑白面积，转看拓扑关系",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "原文件名2025，但正文套题年标2023；解析已核对",
+      "paragraph_locations": [
+        2
+      ]
+    },
+    {
+      "id": "ZJ23-74",
+      "year": 2023,
+      "exam": "浙江省考判断套题1",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\2025浙江判断题本.docx",
+      "question_number": 74,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d1_p11_i0.png"
+      ],
+      "image_sha256": [
+        "fd35f5fbb2c5ef909dda9304b8811e7cbbafbab86b715760405cd35b2dfa7663"
+      ],
+      "mechanism": "黑、白、空三态：相同态消去，不同态按黑优先保留",
+      "difficulty": "空白不是白块；三态真值规则不能降成二值异或。",
+      "original_inspiration": "Q14三态消同后上下翻转，演示涵盖六类无序状态对",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "原文件名2025，但正文套题年标2023；解析已核对",
+      "paragraph_locations": [
+        11
+      ]
+    },
+    {
+      "id": "ZJ23-78",
+      "year": 2023,
+      "exam": "浙江省考判断套题1",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\2025浙江判断题本.docx",
+      "question_number": 78,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d1_p29_i0.png"
+      ],
+      "image_sha256": [
+        "55db6a177c09abbb09879d5203a99b19c5acedd26a48956a71e227f66a6ee502"
+      ],
+      "mechanism": "按列分别竖轴、横轴、双轴对称",
+      "difficulty": "视觉上符号叠加痕迹明显，但原解析为对称属性；初判已纠正。",
+      "original_inspiration": "避免把出现相似符号一律套成运算",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "配套解析已核对；不记为复合运算实例",
+      "paragraph_locations": [
+        29
+      ]
+    },
+    {
+      "id": "BJ22-77",
+      "year": 2022,
+      "exam": "北京公务员行测",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\北京OK\\2022年北京公务员考试《行测》真题_2023122615_50.docx",
+      "question_number": 77,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d4_p542_i0.png"
+      ],
+      "image_sha256": [
+        "0c3d672830cd9bd0172b4975daec23dcbddf826b651a573cfc13e1eb6adb6806"
+      ],
+      "mechanism": "4×4黑白圆阵，两组同坐标变化载体",
+      "difficulty": "黑圆总数接近，圆阵坐标叠合比单数面积更自然。",
+      "original_inspiration": "Q13使用黑白圆阵而非全部方格载体",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "仅原图与题号实际核对；本条不声称原题标准答案或算法已核实",
+      "paragraph_locations": [
+        542
+      ]
+    },
+    {
+      "id": "BJ22-78",
+      "year": 2022,
+      "exam": "北京公务员行测",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\北京OK\\2022年北京公务员考试《行测》真题_2023122615_50.docx",
+      "question_number": 78,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d4_p545_i0.png"
+      ],
+      "image_sha256": [
+        "ad9f15469ab62f1dfd0a44188903e7e87d1a9e7443b443eb169db828fafd05d9"
+      ],
+      "mechanism": "两组直线图形，线段合成和位置是视觉机制线索",
+      "difficulty": "图形的长短线、端点与局部轮廓可对应，不能只看整体外观。",
+      "original_inspiration": "Q16用可定位的线段集合做双输入变换",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "仅原图与题号实际核对；机制为视觉线索而非已核实标准解析",
+      "paragraph_locations": [
+        545
+      ]
+    },
+    {
+      "id": "GD25-47",
+      "year": 2025,
+      "exam": "广东省考",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\特殊省份\\23-24.2025-2024广东.docx",
+      "question_number": 47,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d5_p5_i0.png"
+      ],
+      "image_sha256": [
+        "a0a040aecdb9e6eaec211a0d548ab41e7f95400e4177e6d1d3d094a0480c2c25"
+      ],
+      "mechanism": "两幅输入叠合后保留共同部分",
+      "difficulty": "黑白几何载体与纯线图载体可承载同一求同规律。",
+      "original_inspiration": "复合运算保持熟悉国考式壳体，候选区分规则步骤",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "原文年标2025及配套解析已核对",
+      "paragraph_locations": [
+        5
+      ]
+    },
+    {
+      "id": "GD25-48",
+      "year": 2025,
+      "exam": "广东省考",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\特殊省份\\23-24.2025-2024广东.docx",
+      "question_number": 48,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d5_p8_i0.png"
+      ],
+      "image_sha256": [
+        "69dd24d4925ab28c8c01ebb1004f3eca6989276f77d5cbf0f4e1732ea40c9f5b"
+      ],
+      "mechanism": "第一图顺时针90°、第二图逆时针90°，随后相加",
+      "difficulty": "两对象变换方向不同，不能等价替成整体旋转。",
+      "original_inspiration": "Q16分别对两输入作相反方向旋转后求并",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "原文年标2025及配套解析已核对",
+      "paragraph_locations": [
+        8
+      ]
+    },
+    {
+      "id": "GD24-46",
+      "year": 2024,
+      "exam": "广东省考",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\特殊省份\\23-24.2025-2024广东.docx",
+      "question_number": 46,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d5_p299_i0.png"
+      ],
+      "image_sha256": [
+        "d50176bf147f3712bfaa2a989aedcce5c3ef4068a5fdbed5db49f288229475ed"
+      ],
+      "mechanism": "九宫格纵向黑白异或",
+      "difficulty": "横向不成立应考虑纵向；方格之外黑白分割区域也可运算。",
+      "original_inspiration": "Q13保留异或基础再加整体转向，Q15采用有向消除",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "原文年标2024及配套解析已核对",
+      "paragraph_locations": [
+        299
+      ]
+    },
+    {
+      "id": "JOB24C-61",
+      "year": 2024,
+      "exam": "3月30日全国事业单位联考职测C类",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\23-25联考职测ABC类试题\\2024年3月30日全国事业单位联考C类《职业能力倾向测验》试题.docx",
+      "question_number": 61,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d6_p468_i0.png",
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d6_p469_i0.png",
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d6_p470_i0.png",
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d6_p471_i0.png"
+      ],
+      "image_sha256": [
+        "83e1ea939d07f1c9bfc11b2f0bb892b1d67dac496f48a8727ea59271783842e5",
+        "00425813451bc2706dfd7a3b2940a5f17e232bc3f7ec0467dbce5746cc182436",
+        "2254934a33c15775eaa2a00b27d25007d1f47d69107849e34f21277eb6784f69",
+        "d00b53b2d94d6089083610fe972814b9694e9595a1e584f77dc0adb097127293"
+      ],
+      "mechanism": "四个六角形黑白圆阵，判断各图改涂一个白圆能否中心对称",
+      "difficulty": "同时处理多个独立图与单点修改，对称成对关系比总数重要。",
+      "original_inspiration": "固定黑圆数，设计对等数量仍需逐位置验证的候选",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "四幅原图及原生题干实际核对；未声称官方发布来源验证",
+      "paragraph_locations": [
+        468,
+        469,
+        470,
+        471
+      ]
+    },
+    {
+      "id": "N26-76",
+      "year": 2026,
+      "exam": "国考行政执法卷",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question_number": 76,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d7_p463_i0.png"
+      ],
+      "image_sha256": [
+        "347f90868285f01656755dcf54325d949511e3c4f3f317e45275450c8368afc1"
+      ],
+      "mechanism": "每图分为两个连通部分，黑球在两部分的分配为1与2",
+      "difficulty": "总黑球数3无法区分，需要先分对象再统计。",
+      "original_inspiration": "Q11总黑格数固定，以部分与边界计数跨对象对应",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "本地完整题本原图和配套解析已核对；非官方全量外部核实",
+      "paragraph_locations": [
+        463
+      ]
+    },
+    {
+      "id": "N26-78",
+      "year": 2026,
+      "exam": "国考行政执法卷",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question_number": 78,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d7_p478_i0.png"
+      ],
+      "image_sha256": [
+        "4699e17e1ccb6485c42d1c53a4eaf37750f34db260c7359ebc9a0c9c72b93d6f"
+      ],
+      "mechanism": "每格两对象的轴/中心对称属性和最少笔画分配共同限制",
+      "difficulty": "整体3笔相同还需分辨哪个主体1笔、哪个主体2笔。",
+      "original_inspiration": "Q12分对象计数；Q19先找隐含轴；Q20总5笔相同后比各部分分配",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "本地完整题本原图和配套解析已核对",
+      "paragraph_locations": [
+        478
+      ]
+    },
+    {
+      "id": "N26-79",
+      "year": 2026,
+      "exam": "国考行政执法卷",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question_number": 79,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d7_p487_i0.png"
+      ],
+      "image_sha256": [
+        "8e0a6a4cb1b6ac18571e06d29d9c2b131ef8935ba2a6edcec698a8b51b5f0e9a"
+      ],
+      "mechanism": "每行不同外轮廓的黑白分割，按位求同",
+      "difficulty": "每行轮廓不同而行内对应分割相同，检验的是运算而非图形同形。",
+      "original_inspiration": "Q13、Q14、Q15使用相同坐标分割，提升为运算与位置的复合",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "本地完整题本原图和配套解析已核对",
+      "paragraph_locations": [
+        487
+      ]
+    },
+    {
+      "id": "N26-83",
+      "year": 2026,
+      "exam": "国考行政执法卷",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question_number": 83,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d7_p520_i0.png"
+      ],
+      "image_sha256": [
+        "b75c30373dc74eed146de2d297a17148714dcc2d78f7bec6a63ecc9738b5e21f"
+      ],
+      "mechanism": "黑白菱形相交于线或不相交",
+      "difficulty": "相同复杂拼合轮廓要先锁定特定黑白对象，再看对象关系。",
+      "original_inspiration": "Q17指定两原始多边形和黑点的包含关系，保留中档国考式关系题",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "本地完整题本原图和配套解析已核对",
+      "paragraph_locations": [
+        520
+      ]
+    },
+    {
+      "id": "N26-84",
+      "year": 2026,
+      "exam": "国考行政执法卷",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question_number": 84,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d7_p526_i0.png"
+      ],
+      "image_sha256": [
+        "7265d4f208ad9540d860cbbd03a11f10e80c0bd1584e32325f62244659158443"
+      ],
+      "mechanism": "黑色面与同形白色面的个数关系",
+      "difficulty": "全部为1黑4白，总面数相同；需找同形对象而非总数。",
+      "original_inspiration": "Q11跨对象细化；Q18等黑白面积后转看颜色连通关系",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "本地完整题本原图和配套解析已核对",
+      "paragraph_locations": [
+        526
+      ]
+    },
+    {
+      "id": "N26-85",
+      "year": 2026,
+      "exam": "国考行政执法卷",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question_number": 85,
+      "image_paths": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_b\\d7_p532_i0.png"
+      ],
+      "image_sha256": [
+        "abe56bc996bccb4c5018b191871e8322082b7b8d46c15a9b722b636a5d7805ac"
+      ],
+      "mechanism": "线条十字交点在白圆内部或外部",
+      "difficulty": "密集同色圆和折线中需定位唯一十字交点，并辨参照对象。",
+      "original_inspiration": "Q17保留一题区域关系；原Q19同类方案因重复已改为隐含轴与直线方向关系",
+      "visual_review": "actual_original_pixels_viewed",
+      "verification_scope": "本地完整题本原图和配套解析已核对",
+      "paragraph_locations": [
+        532
+      ]
+    }
+  ]
+}

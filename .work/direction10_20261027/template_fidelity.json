@@ -1,0 +1,19 @@
+{
+  "reference_sha256": "8f6bfc65f747339780734e1bf0a9d567423ab3e2147441055311fd9355a855e9",
+  "word_sha256": "89dce87495adc6c03828fd5ee308758d46ef047529254ba636f66ec163e3b8d9",
+  "section_identical": true,
+  "preserve_only_identical": [
+    "_rels/.rels",
+    "docProps/app.xml",
+    "word/styles.xml",
+    "word/stylesWithEffects.xml",
+    "word/settings.xml",
+    "word/webSettings.xml",
+    "word/fontTable.xml",
+    "word/theme/theme1.xml",
+    "customXml/item1.xml",
+    "customXml/_rels/item1.xml.rels",
+    "customXml/itemProps1.xml",
+    "docProps/thumbnail.jpeg"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "word": "E:\\XcodeProject_sang\\模式题\\北京风格图形操作多样式专项练习-20组60题（含答案解析）.docx",
+  "word_sha256": "ac540f49cdb782133151386cfe77d3c27581a186bd8555c5e9af516efa603615",
+  "pdf_sha256": "0ab90a11d51afc695c43fbdb3064dc991e23174c9a1b340f7cc922521dbb3e84",
+  "model": {
+    "groups": 20,
+    "questions": 60,
+    "visible_carriers": 20,
+    "rules": 120,
+    "chain_steps": 180,
+    "candidate_paths_independently_checked": 240,
+    "answer_distribution": {
+      "D": 15,
+      "A": 15,
+      "C": 15,
+      "B": 15
+    },
+    "rule_coverage": {
+      "1": 6,
+      "2": 6,
+      "3": 6,
+      "4": 6,
+      "5": 6,
+      "6": 6,
+      "7": 6,
+      "8": 6,
+      "9": 6,
+      "10": 6,
+      "11": 6,
+      "12": 6,
+      "13": 6,
+      "14": 6,
+      "15": 6,
+      "16": 6,
+      "17": 6,
+      "18": 6,
+      "19": 6,
+      "20": 6
+    },
+    "questions_with_noncommuting_adjacent_steps": 51,
+    "distinct_source_images": 60,
+    "source_candidate_intermediate_crops_matched": true
+  },
+  "all_checks_passed": true,
+  "embedded_images": 120,
+  "source_assets": 120,
+  "rule_tables": 20,
+  "final_pdf_pages": 40,
+  "actual_page_review": true,
+  "template_preserved": true,
+  "word_and_pdf_text_verified": true,
+  "source_images_match_word": true,
+  "independent_audit_sha256": "07cf84c7bf9fb3fe2e372801c67edc29dc4573d1bff4637a90cb58aa7b7a46f5",
+  "independent_first_result": "59/60; frozen original records preserved",
+  "independent_final_result": "60/60 unique and consistent after correcting question12 candidate transcription",
+  "visual_review_sha256": "310b403c3373dd4af516a891f58c6e7b9fd92641c76e8bf1180c93db558019c1",
+  "knowledge_base_fingerprints": {
+    "知识库\\套卷索引\\北京风格图形操作多样式专项练习-20组60题（含答案解析）.md": "c986f543a651bb947fb883aebe27a92d7b44985388db7205daa052506c54b2d4",
+    "知识库\\项目说明.md": "b729d3d69d5823d12833d793c608ebdbf16261c628a1af49430b584f9442d335",
+    "知识库\\建议与变更记录.md": "f545f81260187e235e3754bc038352516c5f31ef15d77acdafa36b7fad337dd8",
+    "知识库\\北京一拖三图形操作题命题规则.md": "baf1e622e182271f8f3d86c6c44abc60e067f66e4f58ddb40a3e4280b2cc7ca5"
+  },
+  "report_sha256s": {
+    "groups.json": "8df8c3855519b236469bd3a6c101a80bb7ab3b365f1d4abeb9d8a6e143e29282",
+    "questions.json": "8471641a9e735a7cec912b3a0ce4df616d1c3ef190090e27b6be3f4f77c5321d",
+    "public_questions.json": "de4983b886019773cb3b23cee253d7d97093dadda09def2ea5c31931c3289e47",
+    "model_check.json": "3e1583acec253fd4e2186a8c06146daa7d10b52058ba8323658b9f18b038401d",
+    "template_fidelity.json": "2d1d8ce5ced802bae18e3dd71a2262f888473b7c81dae0af18bc1135c8cf0529",
+    "legibility_revision.json": "70ba5c97cb09f1eeb33a1bfbfed25d920a61a45074cdacbd8a7e909af2da462e"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "method": "代理交叉独立求解，非教师盲审；仅读blind_cards_a及题图，未读A代码/答案/解析/模型。",
+  "all_ten_images_actually_viewed": true,
+  "current_revised_2_4_9_reviewed": true,
+  "external_assistance": "Q4/Q9只对题图黑像素轮廓做测角辅助；未读取几何模型。",
+  "reviews": [
+    {
+      "n": 1,
+      "answer": "B",
+      "natural_rule": "三个黑点分主体运动：内圈黑点逐次逆时针移一格；外圈两个黑点分别顺时针移一格和两格，下一幅内点为左上，外点在右边相邻两点。",
+      "confidence": 0.97,
+      "ambiguities": [],
+      "image_sha256": "39281afa0a898b03b65b6a4c1c4275e969592f24d74085cc51d15c84e1984766",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 2,
+      "answer": "D",
+      "natural_rule": "先找外轮廓唯一对称轴：三角形竖轴、风筝四边形斜轴、箭头横轴，外轴每次顺时针45°；内部Z折线每次逆时针45°。右组第三图应为斜箭头及对应Z方向。",
+      "confidence": 0.92,
+      "ambiguities": [
+        "最初未认出风筝形对称轴，只凭边数和内部折线会留下B、D；重新沿风筝相邻等边寻找斜轴后自行消除了该疑问。"
+      ],
+      "image_sha256": "4aad60d56362645b4b3c6c8bb6f583f97a72235f21240859a57b3f3de4229e68",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 3,
+      "answer": "A",
+      "natural_rule": "每行先把第一幅黑格整体顺时针旋转90°，再和保持原位的第二幅逐格求异。第三行计算得到A。",
+      "confidence": 0.97,
+      "ambiguities": [],
+      "image_sha256": "765ed3d13e7c82601ae2babd4ca026acb2cfab4f5905a26ab361f7e9aa015196",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 4,
+      "answer": "C",
+      "natural_rule": "每格所有多边形的直角总数等于封闭图形数加黑点数。左组为5=2+3、7=3+4、4=2+2，右组亦一致；候选C的直角为3+3+1=7，等于3个图形加4个点。",
+      "confidence": 0.84,
+      "ambiguities": [
+        "斜放多边形的直角需细看；我用原图像素的轮廓向量辅助估计，未读取作者的几何源数据。图像粗化会增加人工辨认负担，但未恢复出另一个同样自然的正确候选。"
+      ],
+      "image_sha256": "ceda24cb26332ec80e19093f24b01e6334c35263e314307709faf3b21ab92a87",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 5,
+      "answer": "D",
+      "natural_rule": "每格主体方框内部的最小封闭面数等于主体框外连接短线的数量。前三图分别3、6、4，后两图7、5，D项为5面和5条外接短线。内部不封面的短线不能算新面。",
+      "confidence": 0.96,
+      "ambiguities": [],
+      "image_sha256": "29ac41b84e9baab6de42321defb297c8f1cdb2d51a981d6963c9aa999f2546d5",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 6,
+      "answer": "B",
+      "natural_rule": "每幅由两个线图组成，最少笔画总数依次为2、3、4、2、3，下一幅应4笔。B为一个3笔图加一个闭合一笔图，其余三项均3笔。",
+      "confidence": 0.96,
+      "ambiguities": [],
+      "image_sha256": "39c68857a49599ab3d4e1905f012045d2306ae1bd5304b5455568778ec1776b2",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 7,
+      "answer": "A",
+      "natural_rule": "忽略最外排版框，找各图最大封闭面，即内层多边形。①③⑥仅中心对称，②④⑤仅轴对称。外层小边和连接线是干扰。",
+      "confidence": 0.92,
+      "ambiguities": [
+        "此题需要先选定最大面；按全图外轮廓看不出同样稳定分法。"
+      ],
+      "image_sha256": "0fdb37b98e35ace0c48c0b37ae57891e9e8b921355b3138fd2fb4d18b21c6ffa",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 8,
+      "answer": "C",
+      "natural_rule": "只看黑色小格组成的子图，①④⑤是中心对称而无对称轴；②③⑥有竖直轴对称但非中心对称。",
+      "confidence": 0.97,
+      "ambiguities": [],
+      "image_sha256": "0f31103498980b5f40810b65a7a52f50c7a50c20bc6f37571f311f9f99a33610",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 9,
+      "answer": "D",
+      "natural_rule": "六图均含两个五边形，且每图直角总数均为4。①④⑥的两个五边形各有2个直角；②③⑤为一个1直角、另一个3直角。不能只数每幅总直角。",
+      "confidence": 0.93,
+      "ambiguities": [
+        "斜放的直角需逐角核对；同样用纯图像轮廓测角辅助，未读作者模型。"
+      ],
+      "image_sha256": "0e6730743ce74ed9660abd4e9693cd51830f521073acba814925ba560e0e1911",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 10,
+      "answer": "B",
+      "natural_rule": "两条虚线折线彼此只有一个相交点。①④⑤的交点在实线封闭图形外；②③⑥在内。实线四边形和虚线数量相同，分类依据是交点参照关系。",
+      "confidence": 0.98,
+      "ambiguities": [],
+      "image_sha256": "d13aecb0866531d22d7a2f3d645659a9345b51476df51f4830136b6b305f87bc",
+      "actual_image_viewed": true
+    }
+  ],
+  "unresolved_same_natural_rule_alternative_answers": []
+}

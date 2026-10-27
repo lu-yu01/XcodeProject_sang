@@ -1,0 +1,105 @@
+{
+  "instruction": "仅看题干、原图和选项独立求解，不读作者代码、答案、解析和模型；记录自然规则、选择、置信度及歧义。",
+  "cards": [
+    {
+      "n": 1,
+      "stem": "从所给的四个选项中，选择最合适的一项填入问号处，使图形呈现一定的规律性。",
+      "ask": "",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q01.png",
+      "image_sha256": "39281afa0a898b03b65b6a4c1c4275e969592f24d74085cc51d15c84e1984766"
+    },
+    {
+      "n": 2,
+      "stem": "左边三幅图形呈现一定的规律。将同样的规律应用到右边一组，问号处应选择哪一项？",
+      "ask": "",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q02.png",
+      "image_sha256": "4aad60d56362645b4b3c6c8bb6f583f97a72235f21240859a57b3f3de4229e68"
+    },
+    {
+      "n": 3,
+      "stem": "从所给的四个选项中，选择最合适的一项填入问号处，使九宫格呈现一定的规律性。",
+      "ask": "",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q03.png",
+      "image_sha256": "765ed3d13e7c82601ae2babd4ca026acb2cfab4f5905a26ab361f7e9aa015196"
+    },
+    {
+      "n": 4,
+      "stem": "左边三幅图形呈现一定的规律。将同样的规律应用到右边一组，问号处应选择哪一项？",
+      "ask": "",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q04.png",
+      "image_sha256": "ceda24cb26332ec80e19093f24b01e6334c35263e314307709faf3b21ab92a87"
+    },
+    {
+      "n": 5,
+      "stem": "从所给的四个选项中，选择最合适的一项填入问号处，使图形呈现一定的规律。图内连接短线的方框属于题目图形；最外层排版框不参与判断。",
+      "ask": "",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q05.png",
+      "image_sha256": "29ac41b84e9baab6de42321defb297c8f1cdb2d51a981d6963c9aa999f2546d5"
+    },
+    {
+      "n": 6,
+      "stem": "从所给的四个选项中，选择最合适的一项填入问号处，使图形呈现一定的规律性。",
+      "ask": "",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q06.png",
+      "image_sha256": "39c68857a49599ab3d4e1905f012045d2306ae1bd5304b5455568778ec1776b2"
+    },
+    {
+      "n": 7,
+      "stem": "将下面六幅图形分成两类，使每类图形各有共同特征或规律。",
+      "ask": "",
+      "options": [
+        "①、③、⑥，②、④、⑤",
+        "①、②、④，③、⑤、⑥",
+        "①、④、⑤，②、③、⑥",
+        "①、②、⑤，③、④、⑥"
+      ],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q07.png",
+      "image_sha256": "0fdb37b98e35ace0c48c0b37ae57891e9e8b921355b3138fd2fb4d18b21c6ffa"
+    },
+    {
+      "n": 8,
+      "stem": "将下面六幅图形分成两类，使每类图形各有共同特征或规律。",
+      "ask": "",
+      "options": [
+        "①、③、⑥，②、④、⑤",
+        "①、②、④，③、⑤、⑥",
+        "①、④、⑤，②、③、⑥",
+        "①、②、⑤，③、④、⑥"
+      ],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q08.png",
+      "image_sha256": "0f31103498980b5f40810b65a7a52f50c7a50c20bc6f37571f311f9f99a33610"
+    },
+    {
+      "n": 9,
+      "stem": "将下面六幅图形分成两类，使每类图形各有共同特征或规律。",
+      "ask": "",
+      "options": [
+        "①、③、⑥，②、④、⑤",
+        "①、②、④，③、⑤、⑥",
+        "①、④、⑤，②、③、⑥",
+        "①、④、⑥，②、③、⑤"
+      ],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q09.png",
+      "image_sha256": "0e6730743ce74ed9660abd4e9693cd51830f521073acba814925ba560e0e1911"
+    },
+    {
+      "n": 10,
+      "stem": "将下面六幅图形分成两类，使每类图形各有共同特征或规律。",
+      "ask": "",
+      "options": [
+        "①、③、⑥，②、④、⑤",
+        "①、④、⑤，②、③、⑥",
+        "①、②、④，③、⑤、⑥",
+        "①、②、⑤，③、④、⑥"
+      ],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q10.png",
+      "image_sha256": "d13aecb0866531d22d7a2f3d645659a9345b51476df51f4830136b6b305f87bc"
+    }
+  ]
+}

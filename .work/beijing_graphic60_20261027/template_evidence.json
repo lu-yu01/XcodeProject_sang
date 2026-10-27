@@ -1,0 +1,170 @@
+{
+  "reference": "E:\\XcodeProject_sang\\模式题\\北京风格图形推理一拖三-1组3题（含答案解析）.docx",
+  "reference_sha256": "8f6bfc65f747339780734e1bf0a9d567423ab3e2147441055311fd9355a855e9",
+  "final_sha256": "9be856058968fd7b41b9a1e1552766ae052efd741c55b24bfb5f4890cdb2d835",
+  "all_preserve_only_parts_identical": true,
+  "section_geometry_identical": true,
+  "parts": [
+    {
+      "part": "[Content_Types].xml",
+      "reference_bytes": 1788,
+      "reference_sha256": "1a1b7bf7aeab6ab754ba491b21600be5de0b06b910a5e1034eed09dfba6f5f1e",
+      "class": "editable content",
+      "final_same": true
+    },
+    {
+      "part": "_rels/.rels",
+      "reference_bytes": 734,
+      "reference_sha256": "a9ae57efe9186f07d48303bcac5d54c7e359bf3f503939c03ad2954e5c59a5c4",
+      "class": "preserve only",
+      "final_same": true
+    },
+    {
+      "part": "docProps/core.xml",
+      "reference_bytes": 796,
+      "reference_sha256": "41ac81814bf5a28596f9a6807afc78576ccc64546226b44cf80f4d12b450e1ab",
+      "class": "editable content",
+      "final_same": false
+    },
+    {
+      "part": "docProps/app.xml",
+      "reference_bytes": 1132,
+      "reference_sha256": "be664981c3141cddfc59362beb287ebf20d0773660e2dd6faac5968a5930a081",
+      "class": "preserve only",
+      "final_same": true
+    },
+    {
+      "part": "word/document.xml",
+      "reference_bytes": 15488,
+      "reference_sha256": "e7e028220a4b4b167bc6f51f07950b5c5bba26022b106649f2d3e9234a4b0757",
+      "class": "editable content",
+      "final_same": false
+    },
+    {
+      "part": "word/_rels/document.xml.rels",
+      "reference_bytes": 2024,
+      "reference_sha256": "72d27f8473cabd04703e3278ace53be713fb45d6d0944f6ff8b0b4a640041f43",
+      "class": "editable content",
+      "final_same": false
+    },
+    {
+      "part": "word/styles.xml",
+      "reference_bytes": 351556,
+      "reference_sha256": "49b4b4d55a73ae74769c1db7593e3e04de6dda47c9b987f09c50e76bb0d88e38",
+      "class": "preserve only",
+      "final_same": true
+    },
+    {
+      "part": "word/stylesWithEffects.xml",
+      "reference_bytes": 438131,
+      "reference_sha256": "463ae0928cf0d84775dbf8cf18d6c3029f6707c81bf590f6d6dd8757a5e93f15",
+      "class": "preserve only",
+      "final_same": true
+    },
+    {
+      "part": "word/settings.xml",
+      "reference_bytes": 2535,
+      "reference_sha256": "51a0d348fe85965c66e4748a03c3c0d055d78455514f03cb121c334af7d73689",
+      "class": "preserve only",
+      "final_same": true
+    },
+    {
+      "part": "word/webSettings.xml",
+      "reference_bytes": 438,
+      "reference_sha256": "349d36de7434d09f86987ff671d8814964a0588c1e630c06e562cda7e75e9f95",
+      "class": "preserve only",
+      "final_same": true
+    },
+    {
+      "part": "word/fontTable.xml",
+      "reference_bytes": 2811,
+      "reference_sha256": "79385fb7f60247507ecaffc292e9ebd52ea0657b8634f629ba6fccc54011d6bb",
+      "class": "preserve only",
+      "final_same": true
+    },
+    {
+      "part": "word/theme/theme1.xml",
+      "reference_bytes": 10939,
+      "reference_sha256": "e3a8ab7db9ca7afca56f5f2820a56e8b660016c647773555b060b0a02ac76941",
+      "class": "preserve only",
+      "final_same": true
+    },
+    {
+      "part": "customXml/item1.xml",
+      "reference_bytes": 262,
+      "reference_sha256": "a86086ffc5d8e83ebd6c71a55d1d2efaa31b137977f5f3a752366e1023612144",
+      "class": "preserve only",
+      "final_same": true
+    },
+    {
+      "part": "customXml/_rels/item1.xml.rels",
+      "reference_bytes": 295,
+      "reference_sha256": "1ca6c9a64edcebe24ee703a54403611b322d96da33371779e742d2d3f7ed7a6c",
+      "class": "preserve only",
+      "final_same": true
+    },
+    {
+      "part": "customXml/itemProps1.xml",
+      "reference_bytes": 354,
+      "reference_sha256": "c542307b13ec29a8b546217bb37936ab4822e044b265d2952985ec3d6afed24e",
+      "class": "preserve only",
+      "final_same": true
+    },
+    {
+      "part": "word/numbering.xml",
+      "reference_bytes": 5880,
+      "reference_sha256": "9a8dad7558431a67c8d768365dfd4c01595f4e649da081b5d3147a08d5a9ec58",
+      "class": "editable content",
+      "final_same": false
+    },
+    {
+      "part": "word/media/image1.png",
+      "reference_bytes": 12897,
+      "reference_sha256": "25b4606f389b5ed9d49e161ce2f1dc085901b7bce1afbdf71c0db9e79d2daccf",
+      "class": "editable content",
+      "final_same": true
+    },
+    {
+      "part": "word/media/image2.png",
+      "reference_bytes": 12994,
+      "reference_sha256": "887f2af24f8a8d0b7288982ff70e1d6757fb694e24d979bac0eed4e7c6d607af",
+      "class": "editable content",
+      "final_same": true
+    },
+    {
+      "part": "word/media/image3.png",
+      "reference_bytes": 12756,
+      "reference_sha256": "dfe67988af48c426162addb124ff1e25e5373b88bb55bfdcd54fd8f18b014815",
+      "class": "editable content",
+      "final_same": true
+    },
+    {
+      "part": "word/media/image4.png",
+      "reference_bytes": 14556,
+      "reference_sha256": "4d0f712ad7768c7009c61d922532d804d5e214e3e25059c79694f0c926f17965",
+      "class": "editable content",
+      "final_same": true
+    },
+    {
+      "part": "word/media/image5.png",
+      "reference_bytes": 14764,
+      "reference_sha256": "91b6469d573153729fb43e8c3672fa418e499d7497f1db8deda15ba9b3de03b2",
+      "class": "editable content",
+      "final_same": true
+    },
+    {
+      "part": "word/media/image6.png",
+      "reference_bytes": 14545,
+      "reference_sha256": "aa4abb34e8728fdc58b6bde855949d2aa9263c94bc74892be8e85eff6786eab7",
+      "class": "editable content",
+      "final_same": true
+    },
+    {
+      "part": "docProps/thumbnail.jpeg",
+      "reference_bytes": 8324,
+      "reference_sha256": "96367138dc44ce09bf2c8f0f8e49348a1478d2c5c0af69bbc2bbc38b63cdcead",
+      "class": "preserve only",
+      "final_same": true
+    }
+  ]
+}

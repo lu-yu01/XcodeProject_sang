@@ -1,0 +1,6 @@
+{
+  "n": 7,
+  "generated_path": "C:\\Users\\jiaga\\.codex\\generated_images\\01a16da3-8330-7892-93a5-156361f65801\\exec-a080d8eb-1d05-46b5-87e6-6252f82b6f26.png",
+  "prompt": "Precise scientific clarification only. Edit ONLY the UPPER SITE PLAN in this existing black-and-white exam diagram. Keep the streetlamp illustration. Add one small solid black dot EXACTLY at the bottom endpoint of the streetlamp's vertical shaft, where its base touches the plan: this dot is the point light source's vertical projection on the ground. Replace the nearby Chinese label 光源 with the clear text 光源投影, positioned just below/left of that dot without overlapping any column footprints. A fine short leader may connect label to dot if needed. The lamp head is decorative, the black dot at the base defines the actual coordinate. Keep every column footprint, observer, north arrow and other plan position unchanged. ABSOLUTELY preserve the entire bottom four candidate images and all three shadows in every candidate, their positions, lengths and directions, frame and A B C D labels unchanged. Do not redraw, improve or correct any shadows. Only add the top black point and clarify its top label. White paper and existing black-and-white style.",
+  "built_in": true
+}

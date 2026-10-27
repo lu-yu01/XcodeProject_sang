@@ -1,0 +1,239 @@
+{
+  "groups": 7,
+  "questions": 21,
+  "operator_checks": 8400,
+  "render_checks": 378,
+  "details": [
+    {
+      "id": 8,
+      "title": "双环弧的层间变换",
+      "chains": [
+        [
+          "C8_1",
+          "C8_2"
+        ],
+        [
+          "C8_3",
+          "C8_4",
+          "C8_5"
+        ],
+        [
+          "C8_6",
+          "C8_2",
+          "C8_4",
+          "C8_1"
+        ]
+      ],
+      "unique_candidate_results": [
+        11,
+        14,
+        21
+      ],
+      "noncommuting_questions": [
+        false,
+        true,
+        true
+      ]
+    },
+    {
+      "id": 9,
+      "title": "长短花瓣的属性联动",
+      "chains": [
+        [
+          "C9_1",
+          "C9_2"
+        ],
+        [
+          "C9_3",
+          "C9_4",
+          "C9_5"
+        ],
+        [
+          "C9_6",
+          "C9_2",
+          "C9_4",
+          "C9_1"
+        ]
+      ],
+      "unique_candidate_results": [
+        11,
+        14,
+        19
+      ],
+      "noncommuting_questions": [
+        false,
+        true,
+        true
+      ]
+    },
+    {
+      "id": 10,
+      "title": "三圆交叠区域重配",
+      "chains": [
+        [
+          "C10_1",
+          "C10_2"
+        ],
+        [
+          "C10_3",
+          "C10_4",
+          "C10_5"
+        ],
+        [
+          "C10_6",
+          "C10_2",
+          "C10_4",
+          "C10_1"
+        ]
+      ],
+      "unique_candidate_results": [
+        10,
+        13,
+        16
+      ],
+      "noncommuting_questions": [
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "id": 11,
+      "title": "波线双轨的珠点迁移",
+      "chains": [
+        [
+          "C11_1",
+          "C11_2"
+        ],
+        [
+          "C11_3",
+          "C11_4",
+          "C11_5"
+        ],
+        [
+          "C11_6",
+          "C11_2",
+          "C11_4",
+          "C11_1"
+        ]
+      ],
+      "unique_candidate_results": [
+        9,
+        12,
+        14
+      ],
+      "noncommuting_questions": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "id": 12,
+      "title": "嵌套开口与角点的双系统",
+      "chains": [
+        [
+          "C12_1",
+          "C12_2"
+        ],
+        [
+          "C12_3",
+          "C12_4",
+          "C12_5"
+        ],
+        [
+          "C12_6",
+          "C12_2",
+          "C12_5",
+          "C12_1"
+        ]
+      ],
+      "unique_candidate_results": [
+        9,
+        15,
+        18
+      ],
+      "noncommuting_questions": [
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "id": 13,
+      "title": "四枚水滴的方向与颜色",
+      "chains": [
+        [
+          "C13_1",
+          "C13_2"
+        ],
+        [
+          "C13_3",
+          "C13_4",
+          "C13_5"
+        ],
+        [
+          "C13_6",
+          "C13_2",
+          "C13_4",
+          "C13_1"
+        ]
+      ],
+      "unique_candidate_results": [
+        11,
+        16,
+        20
+      ],
+      "noncommuting_questions": [
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "id": 14,
+      "title": "弯带的曲向与线型耦合",
+      "chains": [
+        [
+          "C14_1",
+          "C14_2"
+        ],
+        [
+          "C14_3",
+          "C14_4",
+          "C14_5"
+        ],
+        [
+          "C14_6",
+          "C14_2",
+          "C14_4",
+          "C14_1"
+        ]
+      ],
+      "unique_candidate_results": [
+        11,
+        13,
+        19
+      ],
+      "noncommuting_questions": [
+        false,
+        true,
+        true
+      ]
+    }
+  ],
+  "module_sha256": "98630407416222ba10fe475ea452ed74cac767fdc26e21a931730b44bd61bb39",
+  "visual_review": {
+    "viewed_contact_sheet": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\curves_contact.png",
+    "carriers_viewed": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "result": "All seven carriers visibly distinct; no clipping or missing visible properties. The contact sheet displays source and the first three operations, rather than every final Word diagram. Group 12 final chain subsequently changed to include a noncommuting pair; this requires the root final document visual check."
+  }
+}

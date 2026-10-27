@@ -1,0 +1,55 @@
+{
+  "passed": true,
+  "staged_word_sha256": "8377b84094a4e786869fd46be0fe6e7add3a80211c5092a99d662c76d06d1b0f",
+  "source_word_sha256": "89dce87495adc6c03828fd5ee308758d46ef047529254ba636f66ec163e3b8d9",
+  "pdf_sha256": "6f5908d7fa1f610b588b07b9dac60b8d008cc587574aa8a8098106bf963fa003",
+  "questions": 10,
+  "answers_unchanged": true,
+  "question_illustrations_replaced": 10,
+  "explanation_illustrations_replaced": 10,
+  "formal_assets": 20,
+  "searched_source_vectors": 9,
+  "preserved_package_parts": 16,
+  "changed_stems": [
+    4,
+    7
+  ],
+  "all_figures_match_word": true,
+  "ratios_preserved": true,
+  "final_pdf_pages": 10,
+  "all_pages_actually_opened": true,
+  "other_word_files_unchanged": [
+    "模式题\\北京风格图形推理一拖三-1组3题（含答案解析）.docx",
+    "模式题\\北京风格图形操作多样式专项练习-20组60题（含答案解析）.docx",
+    "模式题\\北京风格图形操作进阶练习-20组60题（含答案解析）.docx",
+    "模式题\\国考判断推理原创模拟卷（一）-35题（含答案解析）.docx",
+    "模式题\\国考判断推理原创模拟卷（一）-35题（图片规范版，含答案解析）.docx",
+    "模式题\\国考判断推理原创模拟卷（二）-2026行政执法-35题（含答案解析）.docx",
+    "模式题\\国考判断推理原创模拟卷（二）-2026行政执法-35题（图片规范版，含答案解析）.docx",
+    "模式题\\国考判断推理进阶专项练习-110题（含答案解析）.docx",
+    "模式题\\国考图形与逻辑专项练习-55题（含答案解析）.docx",
+    "模式题\\国考图形与逻辑专项练习-55题（图片规范版，含答案解析）.docx",
+    "模式题\\国考图形推理进阶专项练习-30题（含答案解析）.docx",
+    "模式题\\立体拼合专项练习-三黑块版10题（选项横框版，含答案解析）.docx"
+  ],
+  "first_selections_match_original_answers": 10,
+  "revision_closures": [
+    1,
+    4,
+    7
+  ],
+  "remaining_delivery_blockers": [],
+  "limits": "Final artistic question PNGs were independently read for qualitative direction and uniqueness. Numerical model checks validate underlying native scenes, not exact photogrammetric fidelity of generated strokes. No learner difficulty calibration.",
+  "audit_fingerprints": {
+    "life_first_01_05.json": "a96dc90dc69a0ecca1fe571757ca9a91bb23108d274fc9022a67ea7641d3b603",
+    "life_first_06_10.json": "afda5e0becce3f71f4615e09fea701b1cff8f18fa5b5780bd696cbaee0de0a95",
+    "life_blind_01_05.json": "2448da3d4693370a896e645e6d46fd4146f97aa66906f41ad9966bce851c7d41",
+    "life_blind_06_10.json": "f4ea23b79dc9c660675dfd3eae20df975fe6460442062b0b5954144920b9e56f",
+    "life_revision_closure_01_05.json": "4dd7a4515e9061f944a18919544e76591958b555f6a4a0d278e268a0de653261",
+    "life_revision_closure_06_10.json": "0ef1e4548d80576321e3e14e8f8d7ff708427d935db83b23a7bbccf701bd76c9",
+    "visual_review.json": "f4bed1552d38096a872f39d2705faddbeb8cb1d86a23b45b768cde5cd0bc427d",
+    "source_manifest.json": "383302a6e209f9a819f34cf5a650d2cc0d4e058cf11772c77486b246bfb83463",
+    "selected_assets.json": "8f7cb4849448924fccc9c2860796f021af5003c112e98a168c38185e780d2f67"
+  },
+  "final_word_verified": "E:\\XcodeProject_sang\\模式题\\北京风格情境方向图形推理-10题（含答案解析）.docx"
+}

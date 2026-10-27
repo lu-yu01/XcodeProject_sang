@@ -1,0 +1,13 @@
+{
+  "reviewer": "independent_visual_solver_01_05",
+  "source": "public_questions.json questions 1-5 and actual final PNGs only",
+  "images_actually_opened": true,
+  "first_answers_frozen_before_recheck": true,
+  "questions": [
+    {"n":1,"image_sha256":"3a367c68ddb65bf9e64d93a295b4f236aa39930e9481d149cf0f9cf0962a65f9","first_option":"B","first_answer":"2—4—1—3","confidence":"high_for_order","reason":"车头朝东、左窗朝北，倒车向西相当于相机向画面左侧平移，近处路牌应向画面右侧移动。相对钟楼，路牌从最左到最右是②④①③。已注意到部分房屋屋顶造型不一致，待独立复核。"},
+    {"n":2,"image_sha256":"921abe21c2e19091fa87efb818e75adaf469059464cf93fdaef90077661d4f94","first_option":"D","first_answer":"3—1—4—2","confidence":"high_for_order","reason":"朝北前进、相机朝西，行进方向是画面右方，固定近柱向画面左方移动。柱相对钟楼的左右位置依次为③最右、①居中、④偏左、②最左。"},
+    {"n":3,"image_sha256":"7b1f4a937f292bf83a4aa29aad899b23fd956d638ff7e2afa58eeac1c7e8bc8f","first_option":"A","first_answer":"2—4—3—1","confidence":"high_for_landmark_order","reason":"俯视图中钟楼西北、尖顶馆东北、纪念柱偏南。东向西看应为柱左馆右，且馆在钟楼前，对应②；南向北看钟楼左、柱中、馆右，对应④；西向东看钟楼前方遮馆且柱右，对应③；北向南看馆左、柱中、楼右，对应①。"},
+    {"n":4,"image_sha256":"526ba0cfce44322abb514bb6783b3396a05c40a08104af4ba2f503dce27549e4","first_option":"C","first_answer":"4—2—1—3","confidence":"high_for_pan_order","reason":"首次正对钟楼的是④。持续向右转，钟楼及邻屋逐渐向左移，钟楼接着在②左部、①左缘，最后在③消失，因此④②①③。"},
+    {"n":5,"image_sha256":"83b997849ac2de090a14396f5fc6da467443a1aad3ef91b88bc722010881a27d","first_option":"C","first_answer":"西南","confidence":"tentative","reason":"图上影子从建筑向右下伸展，太阳在北则影向为南。把建筑朝左上退去的一组地面棱线理解为北向、右上退去的一组理解为东向，则视点在西南。影子侧边与建筑对应轴是否严格平行仍需复核，不把生活化图默认视为精确几何。"}
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "source": "E:\\XcodeProject_sang\\真题\\最新试卷\\北京OK\\2025年北京市公务员考试《行测》真题.docx",
+  "source_sha256": "cd058ee8677380c4ae1f4cdf844f1329f322e35cac1e25cdeddf8f288346a5e3",
+  "analysis_source": "E:\\XcodeProject_sang\\真题\\最新试卷\\北京OK\\2025年北京市公务员考试《行测》答案及解析.docx",
+  "shared_material_paragraphs": [
+    222,
+    238
+  ],
+  "questions": [
+    56,
+    57,
+    58
+  ],
+  "actual_views": [
+    "q240_contact.png",
+    "q243_contact.png",
+    "q246_contact.png"
+  ],
+  "format": "公开操作规则表加三个独立前向操作设问，每问三步；输入图与A—D候选，黑白图含半格三角形。",
+  "operations": [
+    {
+      "question": 56,
+      "chain": [
+        "左半反色",
+        "全图反色",
+        "下半内部左右镜像"
+      ],
+      "local_answer": "A"
+    },
+    {
+      "question": 57,
+      "chain": [
+        "左右换位",
+        "整体逆时针90°",
+        "四个角小格各自顺时针90°"
+      ],
+      "local_answer": "A"
+    },
+    {
+      "question": 58,
+      "chain": [
+        "全图左右镜像",
+        "上半内部左右镜像",
+        "右半反色"
+      ],
+      "local_answer": "A"
+    }
+  ],
+  "copyright_scope": "原创只借鉴公开规则表与前向操作的题型结构，不复用原题输入图或选项图。",
+  "year_boundary": "2025单年题本与本地合编首章一致；后一组所谓2026章的年份问题另见sources_2026_review.json。"
+}

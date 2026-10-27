@@ -1,0 +1,59 @@
+{
+  "revision_closure": {
+    "reviewer": "independent_visual_solver_01_05",
+    "supplements": "life_blind_01_05.json",
+    "original_first_answer_and_review_files_preserved": true,
+    "method": "Read current public_questions.json questions 1 and 4; actually reopened current question-01.png and question-04.png at original resolution. No author answers or other reviews consulted.",
+    "questions": [
+      {
+        "n": 1,
+        "current_stem": "汽车车头始终朝正东，沿东西向直路缓慢倒车。小陈始终垂直朝向左侧车窗外连拍，拍摄方向不变。近处路牌、稍远电线杆和远处建筑均静止。下列四幅画面按拍摄先后排列，正确的是哪一项？",
+        "previous_image_sha256": "3a367c68ddb65bf9e64d93a295b4f236aa39930e9481d149cf0f9cf0962a65f9",
+        "current_image_sha256": "a9bc3767744941b7b69fc22506de0ab63ef64d27c2f7eaf238e48720c7043071",
+        "image_actually_reopened": true,
+        "answer": {"option": "B", "sequence": "2—4—1—3"},
+        "option_unique": true,
+        "four_signs_present": true,
+        "same_pediment_identity_preserved": true,
+        "visible_checks": [
+          "①②③④各有且只有一块近处公交图标路牌，②路牌及支柱已完整恢复，未发现本次修复漏牌。",
+          "四图左邻建筑均为三层、中央门、三角山墙及山墙中央小装饰，原先②④低平瓦屋顶与①③三角山墙的地标身份冲突已关闭。",
+          "四图路牌仍按②④①③从左到右移动；相对钟楼的遮挡次序未被山墙修复改变。",
+          "电杆、钟楼和右侧楼的主要身份仍可追踪，未发现修复造成新增主要地标、左右颠倒或反向位移。"
+        ],
+        "closed_issues": ["Q1 major: static-building roof identity conflict"],
+        "remaining_issues": ["仍有轻微线条、窗格和远景相对位置漂移，不足以形成另一合理排序；不把生活化绘图认证为逐像素精确摄影。"],
+        "blocking_issues_remaining": [],
+        "delivery_assessment": "原阻断问题已关闭，B唯一，可按生活化空间判断示意题交付。"
+      },
+      {
+        "n": 4,
+        "current_stem": "小顾站在同一地点，先正对钟楼拍下第一幅画面，随后继续向自己的右侧转身，依次又拍了三幅画面。转动过程中相机不平移、不变焦，也未转满一周。四幅画面按拍摄先后排列，正确的是哪一项？",
+        "previous_image_sha256": "526ba0cfce44322abb514bb6783b3396a05c40a08104af4ba2f503dce27549e4",
+        "current_image_sha256": "526ba0cfce44322abb514bb6783b3396a05c40a08104af4ba2f503dce27549e4",
+        "image_actually_reopened": true,
+        "equal_angle_condition_removed": true,
+        "answer": {"option": "C", "sequence": "4—2—1—3"},
+        "option_unique": true,
+        "visible_checks": [
+          "④正对钟楼，②钟楼在左部，①钟楼被左边框裁切，③钟楼完全出框；连续右转唯一对应④②①③。",
+          "尖顶二层楼、天线三层楼与平顶低楼的可识别先后关系仍一致，未见必须依靠相机平移才能解释的新增遮挡反转。",
+          "相邻帧的水平移位不相等在现题干下被允许；此前用来阻断的等角横移矛盾已失去前提。",
+          "各图仍有侧墙比例、窗线和笔触差别，但没有达到阻止这道方向示意题交付的程度。"
+        ],
+        "closed_issues": ["Q4 major: equal-angle camera-motion conflict, closed by removing equal-angle claim"],
+        "remaining_issues": ["不将艺术化线稿作为严格定焦相机标定数据；细部比例漂移不支持精确测角。"],
+        "blocking_issues_remaining": [],
+        "delivery_assessment": "删除等角条件后，未发现需继续阻止交付的实质矛盾；现题干与图的定性右转排序相容，C唯一。"
+      }
+    ],
+    "summary": {
+      "previous_major_issues_closed": [1, 4],
+      "q1_four_bus_signs_confirmed": true,
+      "q1_all_four_pediments_confirmed": true,
+      "q4_removed_equal_angle_requirement_confirmed": true,
+      "new_delivery_blockers": [],
+      "answer_changes": false
+    }
+  }
+}

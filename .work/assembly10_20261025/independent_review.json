@@ -1,0 +1,372 @@
+{
+  "passed_math": true,
+  "passed_semantics": true,
+  "method": "BFS quarter-turn closure and anchor-alignment tiling search independent of solver.py",
+  "puzzles_sha256": "5542119a4362f3d4ee76fed467c137ab56fa74deace39cdf12187cc026f133f7",
+  "questions": [
+    {
+      "n": 1,
+      "options_can_tile": {
+        "A": false,
+        "B": false,
+        "C": true,
+        "D": false
+      },
+      "answer": "C",
+      "solution_for": "C",
+      "volumes_equal": true,
+      "options_not_rotation_equivalent": true,
+      "connected_all_shapes": true,
+      "targets_span_three_axes": true,
+      "solution_verified": true,
+      "dual_top_view_hidden_cells": []
+    },
+    {
+      "n": 2,
+      "options_can_tile": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false
+      },
+      "answer": "A",
+      "solution_for": "A",
+      "volumes_equal": true,
+      "options_not_rotation_equivalent": true,
+      "connected_all_shapes": true,
+      "targets_span_three_axes": true,
+      "solution_verified": true,
+      "dual_top_view_hidden_cells": []
+    },
+    {
+      "n": 3,
+      "options_can_tile": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": true
+      },
+      "answer": "D",
+      "solution_for": "D",
+      "volumes_equal": true,
+      "options_not_rotation_equivalent": true,
+      "connected_all_shapes": true,
+      "targets_span_three_axes": true,
+      "solution_verified": true,
+      "dual_top_view_hidden_cells": []
+    },
+    {
+      "n": 4,
+      "options_can_tile": {
+        "A": false,
+        "B": true,
+        "C": false,
+        "D": false
+      },
+      "answer": "B",
+      "solution_for": "B",
+      "volumes_equal": true,
+      "options_not_rotation_equivalent": true,
+      "connected_all_shapes": true,
+      "targets_span_three_axes": true,
+      "solution_verified": true,
+      "dual_top_view_hidden_cells": []
+    },
+    {
+      "n": 5,
+      "options_can_tile": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false
+      },
+      "answer": "A",
+      "solution_for": "A",
+      "volumes_equal": true,
+      "options_not_rotation_equivalent": true,
+      "connected_all_shapes": true,
+      "targets_span_three_axes": true,
+      "solution_verified": true,
+      "dual_top_view_hidden_cells": []
+    },
+    {
+      "n": 6,
+      "options_can_tile": {
+        "A": false,
+        "B": false,
+        "C": true,
+        "D": false
+      },
+      "answer": "C",
+      "solution_for": "C",
+      "volumes_equal": true,
+      "options_not_rotation_equivalent": true,
+      "connected_all_shapes": true,
+      "targets_span_three_axes": true,
+      "solution_verified": true,
+      "dual_top_view_hidden_cells": []
+    },
+    {
+      "n": 7,
+      "options_can_tile": {
+        "A": false,
+        "B": true,
+        "C": false,
+        "D": false
+      },
+      "answer": "B",
+      "solution_for": "B",
+      "volumes_equal": true,
+      "options_not_rotation_equivalent": true,
+      "connected_all_shapes": true,
+      "targets_span_three_axes": true,
+      "solution_verified": true,
+      "dual_top_view_hidden_cells": [
+        {
+          "shape": "target",
+          "fully_hidden_cells": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "invisible_empty_cells": [],
+          "resolution": "total block count shown uniformly in every shape title; full rectangular targets also dimensioned"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "options_can_tile": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": false
+      },
+      "answer": "D",
+      "solution_for": "A",
+      "volumes_equal": true,
+      "options_not_rotation_equivalent": true,
+      "connected_all_shapes": true,
+      "targets_span_three_axes": true,
+      "solution_verified": true,
+      "dual_top_view_hidden_cells": [
+        {
+          "shape": "optionA",
+          "fully_hidden_cells": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "invisible_empty_cells": [],
+          "resolution": "total block count shown uniformly in every shape title; full rectangular targets also dimensioned"
+        },
+        {
+          "shape": "optionC",
+          "fully_hidden_cells": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "invisible_empty_cells": [],
+          "resolution": "total block count shown uniformly in every shape title; full rectangular targets also dimensioned"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "options_can_tile": {
+        "A": false,
+        "B": false,
+        "C": true,
+        "D": false
+      },
+      "answer": "C",
+      "solution_for": "C",
+      "volumes_equal": true,
+      "options_not_rotation_equivalent": true,
+      "connected_all_shapes": true,
+      "targets_span_three_axes": true,
+      "solution_verified": true,
+      "dual_top_view_hidden_cells": [
+        {
+          "shape": "target",
+          "fully_hidden_cells": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "invisible_empty_cells": [],
+          "resolution": "total block count shown uniformly in every shape title; full rectangular targets also dimensioned"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "options_can_tile": {
+        "A": false,
+        "B": true,
+        "C": true,
+        "D": true
+      },
+      "answer": "A",
+      "solution_for": "B",
+      "volumes_equal": true,
+      "options_not_rotation_equivalent": true,
+      "connected_all_shapes": true,
+      "targets_span_three_axes": true,
+      "solution_verified": true,
+      "dual_top_view_hidden_cells": [
+        {
+          "shape": "optionA",
+          "fully_hidden_cells": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "invisible_empty_cells": [],
+          "resolution": "total block count shown uniformly in every shape title; full rectangular targets also dimensioned"
+        }
+      ]
+    }
+  ],
+  "visual_risks_resolved": [
+    {
+      "n": 7,
+      "type": "hidden_cells_in_dual_views",
+      "detail": [
+        {
+          "shape": "target",
+          "fully_hidden_cells": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "invisible_empty_cells": [],
+          "resolution": "total block count shown uniformly in every shape title; full rectangular targets also dimensioned"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "type": "hidden_cells_in_dual_views",
+      "detail": [
+        {
+          "shape": "optionA",
+          "fully_hidden_cells": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "invisible_empty_cells": [],
+          "resolution": "total block count shown uniformly in every shape title; full rectangular targets also dimensioned"
+        },
+        {
+          "shape": "optionC",
+          "fully_hidden_cells": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "invisible_empty_cells": [],
+          "resolution": "total block count shown uniformly in every shape title; full rectangular targets also dimensioned"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "type": "hidden_cells_in_dual_views",
+      "detail": [
+        {
+          "shape": "target",
+          "fully_hidden_cells": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "invisible_empty_cells": [],
+          "resolution": "total block count shown uniformly in every shape title; full rectangular targets also dimensioned"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "type": "hidden_cells_in_dual_views",
+      "detail": [
+        {
+          "shape": "optionA",
+          "fully_hidden_cells": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "invisible_empty_cells": [],
+          "resolution": "total block count shown uniformly in every shape title; full rectangular targets also dimensioned"
+        }
+      ]
+    }
+  ],
+  "required_visual_fix_present_in_renderer": true,
+  "semantic_checks": [
+    {
+      "n": 1,
+      "checked": "unique connected residual rotation class and actual mirror distractor"
+    },
+    {
+      "n": 2,
+      "checked": "unique connected residual rotation class and actual mirror distractor"
+    },
+    {
+      "n": 7,
+      "checked": "unique connected residual rotation class and actual mirror distractor"
+    },
+    {
+      "n": 3,
+      "checked": "A/B all remainders disconnected; C sole placement leaves branching remainder; corrected given A branching and given B chain"
+    },
+    {
+      "n": 4,
+      "checked": "A/D connected remainders branch; C remainder planar"
+    },
+    {
+      "n": 5,
+      "checked": "exactly two connected remainder classes square and planar skew chain"
+    },
+    {
+      "n": 6,
+      "checked": "A/B/D cannot leave degree-three branch needed by C component"
+    },
+    {
+      "n": 8,
+      "checked": "D every full first-component placement disconnects remainder"
+    },
+    {
+      "n": 9,
+      "checked": "final revised model two connected remainder classes and mirror A of C"
+    },
+    {
+      "n": 10,
+      "checked": "A even first two components have no nonoverlapping placements"
+    }
+  ],
+  "manual_image_review": "All ten initial full question diagrams viewed; frames, two viewpoints and option mapping clear. Final document raster QA remains separate."
+}

@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "added_image": "e02.png",
+  "explanation_question": 2,
+  "size": [
+    1800,
+    440
+  ],
+  "explanation_image_sha256": "e359def208093f8b84d4e4ccf122fdb03c7a24aa603e6de0304a5f3294dbbb03",
+  "question_images_byte_identical": true,
+  "question_answers_models_stems_options_unchanged": true,
+  "question_image_sha256": {
+    "1": "39281afa0a898b03b65b6a4c1c4275e969592f24d74085cc51d15c84e1984766",
+    "2": "4aad60d56362645b4b3c6c8bb6f583f97a72235f21240859a57b3f3de4229e68",
+    "3": "765ed3d13e7c82601ae2babd4ca026acb2cfab4f5905a26ab361f7e9aa015196",
+    "4": "ceda24cb26332ec80e19093f24b01e6334c35263e314307709faf3b21ab92a87",
+    "5": "29ac41b84e9baab6de42321defb297c8f1cdb2d51a981d6963c9aa999f2546d5",
+    "6": "39c68857a49599ab3d4e1905f012045d2306ae1bd5304b5455568778ec1776b2",
+    "7": "0fdb37b98e35ace0c48c0b37ae57891e9e8b921355b3138fd2fb4d18b21c6ffa",
+    "8": "0f31103498980b5f40810b65a7a52f50c7a50c20bc6f37571f311f9f99a33610",
+    "9": "0e6730743ce74ed9660abd4e9693cd51830f521073acba814925ba560e0e1911",
+    "10": "d13aecb0866531d22d7a2f3d645659a9345b51476df51f4830136b6b305f87bc"
+  },
+  "analysis_addition": "外部唯一对称轴的方向及内部折线转向见下图。风筝的轴线连接上下两个顶点，不能把它误读成竖直或水平轴。"
+}

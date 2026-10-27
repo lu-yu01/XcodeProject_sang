@@ -1,0 +1,155 @@
+{
+  "reviewer": "C组代理交叉解题",
+  "scope": "B组11—20；只读盲卡、题干和实际题图，未读取advanced_b.py、questions_b.json、答案、解析、作者模型。",
+  "method": "实际逐图目视；13/14/15/16额外从图片栅格或单位线段中点独立读数，检查有限常见图形运算。记录首轮未恢复与后续计算辅助恢复。",
+  "cards_source": "blind_cards_b.json",
+  "latest_q19_sha256": "c6c8bb6a1f1b47aa93579958099d92eb702c28a11edb9c9d4a2786771679ea46",
+  "reviews": [
+    {
+      "n": 11,
+      "answer": null,
+      "natural_rule": "独立恢复实心圆个数等于黑色格的四邻接连通块数；未恢复空心圆数量的统一含义。A、C均有两个黑色连通块，暂不能唯一选定。",
+      "confidence": 0.35,
+      "ambiguities": [
+        "第一轮未恢复完整规律；仅凭黑色连通块数不能排除A/C。",
+        "没有用作者答案或模型补全规律；此题暂列未解。"
+      ],
+      "first_pass": "unresolved",
+      "second_pass": "unresolved",
+      "image_sha256": "ced1eda32a37e928ddbf0aa67cc1b1d102bc778c79eb81e098f235a240b65ee2",
+      "image_actually_viewed": true
+    },
+    {
+      "n": 12,
+      "answer": "A",
+      "natural_rule": "上图有几条彼此分离的折线，下图就至少需要几笔画成；另观察到上图出现斜线时下图分为3面，纯横竖时分为2面，据两项对应选A。",
+      "confidence": 0.7,
+      "ambiguities": [
+        "第一轮只恢复连通折线数与最少笔画的对应。",
+        "斜线存在与下图面数的第二层对应可以筛A，但自然入口不如前一层明确，建议由另一位解题者核对。"
+      ],
+      "first_pass": "partially_recovered",
+      "second_pass": "tentative_A",
+      "image_sha256": "7f6f24b7b97eb55907828d2e4234abd5c3ec48e91adfb5d57bc4c0e21e09dd17",
+      "image_actually_viewed": true
+    },
+    {
+      "n": 13,
+      "answer": "B",
+      "natural_rule": "每行前两幅按同一格叠加，黑黑或白白抵消、黑白保留黑点，所得整体顺时针旋转90度为第三幅；空白位置按零处理。第三行对应B。",
+      "confidence": 0.99,
+      "ambiguities": [],
+      "first_pass": "solved",
+      "second_pass": "image_based_boolean_and_D4_check",
+      "image_sha256": "d208786d105d67cfa8a8a56d5613d571a7d0cc0f8060c6aca9790b48923b004a",
+      "image_actually_viewed": true
+    },
+    {
+      "n": 14,
+      "answer": "A",
+      "natural_rule": "前两图逐位置叠加：同色相消；一空一有保留有色；实心与空心相遇保留实心。然后整体上下翻转，得到第三图，故右组选A。浅灰定位点不参加运算。",
+      "confidence": 0.97,
+      "ambiguities": [],
+      "first_pass": "solved",
+      "second_pass": "image_based_three_state_check",
+      "image_sha256": "227d7077beefb118004ee69b2d9aa0c5ee16f86498b0a4ebb0b14f0d26a23adb",
+      "image_actually_viewed": true
+    },
+    {
+      "n": 15,
+      "answer": "D",
+      "natural_rule": "前两幅分别顺时针旋转90度，第二幅再向下循环移动一格；从前者黑格集合中删去后者所占黑格，得到第三幅。该操作同时符合前两行，第三行结果为D。",
+      "confidence": 0.91,
+      "ambiguities": [
+        "第一轮仅目视未自然恢复；常见叠加与整体D4变换无匹配。",
+        "第二轮通过读取实际图片格心的黑白状态，对有限D4/循环位移/差集规则独立检索才恢复此规则，属于计算辅助恢复，不能视为目视入口顺畅。"
+      ],
+      "first_pass": "unresolved",
+      "second_pass": "computationally_recovered_from_raster_only",
+      "image_sha256": "4ed21eef0b5d052bb7268c6967266334ab4488cecb4c1a17d2f297e59b5de630",
+      "image_actually_viewed": true
+    },
+    {
+      "n": 16,
+      "answer": "C",
+      "natural_rule": "每行第一幅顺时针旋转90度，第二幅逆时针旋转90度，然后叠加取并集，重合线段只保留一次，得到第三幅。第三行选C。",
+      "confidence": 0.99,
+      "ambiguities": [],
+      "first_pass": "solved_after_visual_rotation_check",
+      "second_pass": "image_midpoint_graph_and_D4_check",
+      "image_sha256": "6cd72862ac8a9e97cfe00d086785d2a55ab4c7cd09700cd87c728f676c7effa9",
+      "image_actually_viewed": true
+    },
+    {
+      "n": 17,
+      "answer": "A",
+      "natural_rule": "①③⑥黑点位于两个封闭图形共同覆盖的区域；②④⑤黑点只位于其中一个封闭图形内。",
+      "confidence": 0.99,
+      "ambiguities": [],
+      "first_pass": "solved",
+      "second_pass": "not_needed",
+      "image_sha256": "d70e41e70a81764a3b9117506a1e99e6989740d110277a0cda3fc35726d6b7c6",
+      "image_actually_viewed": true
+    },
+    {
+      "n": 18,
+      "answer": "D",
+      "natural_rule": "六图黑格数相同；①②④全部黑格以边相连成为一个整体，③⑤⑥黑格分成两个四邻接连通块。",
+      "confidence": 0.99,
+      "ambiguities": [],
+      "first_pass": "solved",
+      "second_pass": "not_needed",
+      "image_sha256": "fa2c945709264b33d2e495adce94918ad1521de8798463d7868756eb852c3be4",
+      "image_actually_viewed": true
+    },
+    {
+      "n": 19,
+      "answer": "B",
+      "natural_rule": "考查封闭图形自身的隐含对称轴与图外短线方向：①②⑤轴与短线平行；③④⑥轴与短线垂直。②五边形的斜对称轴与其上方斜线平行。",
+      "confidence": 0.99,
+      "ambiguities": [],
+      "first_pass": "solved",
+      "second_pass": "latest_card_and_hash_checked",
+      "image_sha256": "c6c8bb6a1f1b47aa93579958099d92eb702c28a11edb9c9d4a2786771679ea46",
+      "image_actually_viewed": true
+    },
+    {
+      "n": 20,
+      "answer": "C",
+      "natural_rule": "每图的三个小正方形外延短线总数均为5；①④⑤分别按3、1、1分配，②③⑥分别按2、2、1分配。旋转或位置不影响分组。",
+      "confidence": 0.99,
+      "ambiguities": [],
+      "first_pass": "solved",
+      "second_pass": "not_needed",
+      "image_sha256": "c40ec2d37804678f3f06bec2e3bdf86f48374354aa572e276497fb9acefa8b4c",
+      "image_actually_viewed": true
+    }
+  ],
+  "summary": {
+    "confident_answers": {
+      "13": "B",
+      "14": "A",
+      "16": "C",
+      "17": "A",
+      "18": "D",
+      "19": "B",
+      "20": "C"
+    },
+    "first_pass_unresolved": [
+      11,
+      15
+    ],
+    "first_pass_partial": [
+      12
+    ],
+    "later_computationally_recovered": {
+      "15": "D"
+    },
+    "tentative_answer": {
+      "12": "A"
+    },
+    "unresolved": [
+      11
+    ]
+  }
+}

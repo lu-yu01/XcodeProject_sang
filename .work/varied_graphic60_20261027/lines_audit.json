@@ -1,0 +1,238 @@
+{
+  "group_count": 7,
+  "question_count": 21,
+  "groups": [
+    {
+      "id": 1,
+      "title": "有向线网：节点与箭头",
+      "rules": 6,
+      "complete_rule_coverage": true,
+      "independent_checks": 1500,
+      "questions": [
+        {
+          "question": 1,
+          "steps": 2,
+          "distinct_decoys": 11,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        },
+        {
+          "question": 2,
+          "steps": 3,
+          "distinct_decoys": 16,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        },
+        {
+          "question": 3,
+          "steps": 4,
+          "distinct_decoys": 21,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "折线路径：高度与线型",
+      "rules": 6,
+      "complete_rule_coverage": true,
+      "independent_checks": 1500,
+      "questions": [
+        {
+          "question": 1,
+          "steps": 2,
+          "distinct_decoys": 11,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        },
+        {
+          "question": 2,
+          "steps": 3,
+          "distinct_decoys": 16,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        },
+        {
+          "question": 3,
+          "steps": 4,
+          "distinct_decoys": 16,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "三角构架：方向族与内外边",
+      "rules": 6,
+      "complete_rule_coverage": true,
+      "independent_checks": 1500,
+      "questions": [
+        {
+          "question": 1,
+          "steps": 2,
+          "distinct_decoys": 11,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        },
+        {
+          "question": 2,
+          "steps": 3,
+          "distinct_decoys": 16,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        },
+        {
+          "question": 3,
+          "steps": 4,
+          "distinct_decoys": 18,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "双排接线：端口与连接",
+      "rules": 6,
+      "complete_rule_coverage": true,
+      "independent_checks": 1500,
+      "questions": [
+        {
+          "question": 1,
+          "steps": 2,
+          "distinct_decoys": 11,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        },
+        {
+          "question": 2,
+          "steps": 3,
+          "distinct_decoys": 15,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        },
+        {
+          "question": 3,
+          "steps": 4,
+          "distinct_decoys": 20,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "平行线束：长度与端点",
+      "rules": 6,
+      "complete_rule_coverage": true,
+      "independent_checks": 1500,
+      "questions": [
+        {
+          "question": 1,
+          "steps": 2,
+          "distinct_decoys": 11,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        },
+        {
+          "question": 2,
+          "steps": 3,
+          "distinct_decoys": 16,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        },
+        {
+          "question": 3,
+          "steps": 4,
+          "distinct_decoys": 22,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "辐射线段：长度与端饰",
+      "rules": 6,
+      "complete_rule_coverage": true,
+      "independent_checks": 1500,
+      "questions": [
+        {
+          "question": 1,
+          "steps": 2,
+          "distinct_decoys": 11,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        },
+        {
+          "question": 2,
+          "steps": 3,
+          "distinct_decoys": 16,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        },
+        {
+          "question": 3,
+          "steps": 4,
+          "distinct_decoys": 19,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "双线框：集合运算与位置",
+      "rules": 6,
+      "complete_rule_coverage": true,
+      "independent_checks": 1500,
+      "questions": [
+        {
+          "question": 1,
+          "steps": 2,
+          "distinct_decoys": 10,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        },
+        {
+          "question": 2,
+          "steps": 3,
+          "distinct_decoys": 15,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        },
+        {
+          "question": 3,
+          "steps": 4,
+          "distinct_decoys": 18,
+          "all_steps_effective": true,
+          "every_step_necessary": true,
+          "order_sensitive": true
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

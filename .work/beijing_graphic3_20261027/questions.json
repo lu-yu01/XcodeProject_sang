@@ -1,0 +1,977 @@
+[
+  {
+    "n": 1,
+    "source": [
+      [
+        3,
+        6,
+        3,
+        12
+      ],
+      [
+        0,
+        15,
+        0,
+        15
+      ],
+      [
+        15,
+        0,
+        3,
+        0
+      ],
+      [
+        12,
+        12,
+        12,
+        15
+      ]
+    ],
+    "seq": [
+      "LR",
+      "CW",
+      "IT"
+    ],
+    "answer": "B",
+    "point": "整体镜像与旋转的先后，以及旋转后半区的位置",
+    "options": [
+      [
+        [
+          3,
+          15,
+          0,
+          12
+        ],
+        [
+          9,
+          0,
+          15,
+          12
+        ],
+        [
+          12,
+          0,
+          12,
+          3
+        ],
+        [
+          3,
+          15,
+          0,
+          15
+        ]
+      ],
+      [
+        [
+          0,
+          15,
+          0,
+          3
+        ],
+        [
+          3,
+          12,
+          15,
+          12
+        ],
+        [
+          12,
+          0,
+          15,
+          9
+        ],
+        [
+          12,
+          15,
+          0,
+          3
+        ]
+      ],
+      [
+        [
+          0,
+          15,
+          0,
+          3
+        ],
+        [
+          3,
+          12,
+          15,
+          12
+        ],
+        [
+          3,
+          15,
+          0,
+          6
+        ],
+        [
+          3,
+          0,
+          15,
+          12
+        ]
+      ],
+      [
+        [
+          15,
+          0,
+          0,
+          3
+        ],
+        [
+          12,
+          3,
+          15,
+          12
+        ],
+        [
+          12,
+          0,
+          0,
+          6
+        ],
+        [
+          12,
+          15,
+          15,
+          12
+        ]
+      ]
+    ],
+    "option_explanations": [
+      {
+        "letter": "A",
+        "correct": false,
+        "seq": [
+          "CW",
+          "LR",
+          "IT"
+        ],
+        "reason": "将前两步的先后顺序颠倒"
+      },
+      {
+        "letter": "B",
+        "correct": true,
+        "seq": [
+          "LR",
+          "CW",
+          "IT"
+        ],
+        "reason": "依次执行题面三步操作"
+      },
+      {
+        "letter": "C",
+        "correct": false,
+        "seq": [
+          "LR",
+          "CW",
+          "IALL"
+        ],
+        "reason": "把上半部分反色扩大为全图反色"
+      },
+      {
+        "letter": "D",
+        "correct": false,
+        "seq": [
+          "LR",
+          "IT",
+          "CW"
+        ],
+        "reason": "在旋转前就进行上半部分反色"
+      }
+    ],
+    "states": [
+      [
+        [
+          3,
+          6,
+          3,
+          12
+        ],
+        [
+          0,
+          15,
+          0,
+          15
+        ],
+        [
+          15,
+          0,
+          3,
+          0
+        ],
+        [
+          12,
+          12,
+          12,
+          15
+        ]
+      ],
+      [
+        [
+          6,
+          9,
+          12,
+          9
+        ],
+        [
+          15,
+          0,
+          15,
+          0
+        ],
+        [
+          0,
+          9,
+          0,
+          15
+        ],
+        [
+          15,
+          6,
+          6,
+          6
+        ]
+      ],
+      [
+        [
+          15,
+          0,
+          15,
+          12
+        ],
+        [
+          12,
+          3,
+          0,
+          3
+        ],
+        [
+          12,
+          0,
+          15,
+          9
+        ],
+        [
+          12,
+          15,
+          0,
+          3
+        ]
+      ],
+      [
+        [
+          0,
+          15,
+          0,
+          3
+        ],
+        [
+          3,
+          12,
+          15,
+          12
+        ],
+        [
+          12,
+          0,
+          15,
+          9
+        ],
+        [
+          12,
+          15,
+          0,
+          3
+        ]
+      ]
+    ],
+    "difficulty": "中等至中高（命题估计）",
+    "candidate_signatures": [
+      {
+        "black_sectors": 32,
+        "white_cells": 4,
+        "black_cells": 4,
+        "half_cells": 8,
+        "left_right_symmetric": false,
+        "up_down_symmetric": false
+      },
+      {
+        "black_sectors": 32,
+        "white_cells": 4,
+        "black_cells": 4,
+        "half_cells": 8,
+        "left_right_symmetric": false,
+        "up_down_symmetric": false
+      },
+      {
+        "black_sectors": 32,
+        "white_cells": 4,
+        "black_cells": 4,
+        "half_cells": 8,
+        "left_right_symmetric": false,
+        "up_down_symmetric": false
+      },
+      {
+        "black_sectors": 32,
+        "white_cells": 4,
+        "black_cells": 4,
+        "half_cells": 8,
+        "left_right_symmetric": false,
+        "up_down_symmetric": false
+      }
+    ]
+  },
+  {
+    "n": 2,
+    "source": [
+      [
+        9,
+        12,
+        0,
+        9
+      ],
+      [
+        0,
+        15,
+        12,
+        15
+      ],
+      [
+        15,
+        9,
+        9,
+        0
+      ],
+      [
+        3,
+        0,
+        9,
+        15
+      ]
+    ],
+    "seq": [
+      "CL",
+      "CCW",
+      "IR"
+    ],
+    "answer": "D",
+    "point": "半区镜像重建、旋转方向与当前图反色范围",
+    "options": [
+      [
+        [
+          12,
+          15,
+          15,
+          0
+        ],
+        [
+          0,
+          6,
+          3,
+          3
+        ],
+        [
+          0,
+          3,
+          6,
+          6
+        ],
+        [
+          9,
+          15,
+          15,
+          0
+        ]
+      ],
+      [
+        [
+          6,
+          15,
+          15,
+          12
+        ],
+        [
+          0,
+          3,
+          0,
+          6
+        ],
+        [
+          0,
+          6,
+          0,
+          3
+        ],
+        [
+          3,
+          15,
+          15,
+          9
+        ]
+      ],
+      [
+        [
+          6,
+          15,
+          15,
+          12
+        ],
+        [
+          12,
+          0,
+          9,
+          0
+        ],
+        [
+          9,
+          0,
+          12,
+          0
+        ],
+        [
+          3,
+          15,
+          15,
+          9
+        ]
+      ],
+      [
+        [
+          9,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          15,
+          6,
+          15
+        ],
+        [
+          6,
+          15,
+          3,
+          15
+        ],
+        [
+          12,
+          0,
+          0,
+          6
+        ]
+      ]
+    ],
+    "option_explanations": [
+      {
+        "letter": "A",
+        "correct": false,
+        "seq": [
+          "CR",
+          "CCW",
+          "IR"
+        ],
+        "reason": "把保留左半误读为保留右半"
+      },
+      {
+        "letter": "B",
+        "correct": false,
+        "seq": [
+          "CL",
+          "CW",
+          "IR"
+        ],
+        "reason": "把逆时针旋转90°误做顺时针旋转90°"
+      },
+      {
+        "letter": "C",
+        "correct": false,
+        "seq": [
+          "CL",
+          "CCW",
+          "IL"
+        ],
+        "reason": "最后对左半反色，误认当前图的右半"
+      },
+      {
+        "letter": "D",
+        "correct": true,
+        "seq": [
+          "CL",
+          "CCW",
+          "IR"
+        ],
+        "reason": "依次执行题面三步操作"
+      }
+    ],
+    "states": [
+      [
+        [
+          9,
+          12,
+          0,
+          9
+        ],
+        [
+          0,
+          15,
+          12,
+          15
+        ],
+        [
+          15,
+          9,
+          9,
+          0
+        ],
+        [
+          3,
+          0,
+          9,
+          15
+        ]
+      ],
+      [
+        [
+          9,
+          12,
+          6,
+          3
+        ],
+        [
+          0,
+          15,
+          15,
+          0
+        ],
+        [
+          15,
+          9,
+          3,
+          15
+        ],
+        [
+          3,
+          0,
+          0,
+          9
+        ]
+      ],
+      [
+        [
+          9,
+          0,
+          15,
+          12
+        ],
+        [
+          3,
+          15,
+          9,
+          0
+        ],
+        [
+          6,
+          15,
+          12,
+          0
+        ],
+        [
+          12,
+          0,
+          15,
+          9
+        ]
+      ],
+      [
+        [
+          9,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          15,
+          6,
+          15
+        ],
+        [
+          6,
+          15,
+          3,
+          15
+        ],
+        [
+          12,
+          0,
+          0,
+          6
+        ]
+      ]
+    ],
+    "difficulty": "中等至中高（命题估计）",
+    "candidate_signatures": [
+      {
+        "black_sectors": 32,
+        "white_cells": 4,
+        "black_cells": 4,
+        "half_cells": 8,
+        "left_right_symmetric": false,
+        "up_down_symmetric": true
+      },
+      {
+        "black_sectors": 32,
+        "white_cells": 4,
+        "black_cells": 4,
+        "half_cells": 8,
+        "left_right_symmetric": false,
+        "up_down_symmetric": true
+      },
+      {
+        "black_sectors": 32,
+        "white_cells": 4,
+        "black_cells": 4,
+        "half_cells": 8,
+        "left_right_symmetric": false,
+        "up_down_symmetric": true
+      },
+      {
+        "black_sectors": 32,
+        "white_cells": 4,
+        "black_cells": 4,
+        "half_cells": 8,
+        "left_right_symmetric": false,
+        "up_down_symmetric": true
+      }
+    ]
+  },
+  {
+    "n": 3,
+    "source": [
+      [
+        15,
+        6,
+        15,
+        6
+      ],
+      [
+        9,
+        0,
+        0,
+        3
+      ],
+      [
+        6,
+        0,
+        0,
+        15
+      ],
+      [
+        9,
+        15,
+        3,
+        12
+      ]
+    ],
+    "seq": [
+      "MT",
+      "UD",
+      "CW"
+    ],
+    "answer": "A",
+    "point": "半区内部镜像与全图镜像的区别，局部操作的时序",
+    "options": [
+      [
+        [
+          3,
+          9,
+          6,
+          9
+        ],
+        [
+          15,
+          0,
+          0,
+          15
+        ],
+        [
+          3,
+          0,
+          0,
+          12
+        ],
+        [
+          15,
+          12,
+          15,
+          3
+        ]
+      ],
+      [
+        [
+          3,
+          15,
+          6,
+          9
+        ],
+        [
+          0,
+          12,
+          0,
+          15
+        ],
+        [
+          0,
+          15,
+          0,
+          12
+        ],
+        [
+          6,
+          12,
+          15,
+          3
+        ]
+      ],
+      [
+        [
+          3,
+          9,
+          15,
+          6
+        ],
+        [
+          15,
+          0,
+          0,
+          9
+        ],
+        [
+          3,
+          0,
+          0,
+          15
+        ],
+        [
+          15,
+          12,
+          3,
+          12
+        ]
+      ],
+      [
+        [
+          15,
+          9,
+          15,
+          6
+        ],
+        [
+          6,
+          0,
+          0,
+          9
+        ],
+        [
+          15,
+          0,
+          0,
+          15
+        ],
+        [
+          6,
+          12,
+          3,
+          12
+        ]
+      ]
+    ],
+    "option_explanations": [
+      {
+        "letter": "A",
+        "correct": true,
+        "seq": [
+          "MT",
+          "UD",
+          "CW"
+        ],
+        "reason": "依次执行题面三步操作"
+      },
+      {
+        "letter": "B",
+        "correct": false,
+        "seq": [
+          "MTUD",
+          "UD",
+          "CW"
+        ],
+        "reason": "把上半内部的左右镜像误做上下镜像"
+      },
+      {
+        "letter": "C",
+        "correct": false,
+        "seq": [
+          "LR",
+          "UD",
+          "CW"
+        ],
+        "reason": "将仅上半镜像扩大为全图左右镜像"
+      },
+      {
+        "letter": "D",
+        "correct": false,
+        "seq": [
+          "UD",
+          "MT",
+          "CW"
+        ],
+        "reason": "把前两步颠倒，使局部镜像作用在另一半"
+      }
+    ],
+    "states": [
+      [
+        [
+          15,
+          6,
+          15,
+          6
+        ],
+        [
+          9,
+          0,
+          0,
+          3
+        ],
+        [
+          6,
+          0,
+          0,
+          15
+        ],
+        [
+          9,
+          15,
+          3,
+          12
+        ]
+      ],
+      [
+        [
+          12,
+          15,
+          12,
+          15
+        ],
+        [
+          9,
+          0,
+          0,
+          3
+        ],
+        [
+          6,
+          0,
+          0,
+          15
+        ],
+        [
+          9,
+          15,
+          3,
+          12
+        ]
+      ],
+      [
+        [
+          12,
+          15,
+          6,
+          9
+        ],
+        [
+          3,
+          0,
+          0,
+          15
+        ],
+        [
+          12,
+          0,
+          0,
+          6
+        ],
+        [
+          9,
+          15,
+          9,
+          15
+        ]
+      ],
+      [
+        [
+          3,
+          9,
+          6,
+          9
+        ],
+        [
+          15,
+          0,
+          0,
+          15
+        ],
+        [
+          3,
+          0,
+          0,
+          12
+        ],
+        [
+          15,
+          12,
+          15,
+          3
+        ]
+      ]
+    ],
+    "difficulty": "中等至中高（命题估计）",
+    "candidate_signatures": [
+      {
+        "black_sectors": 32,
+        "white_cells": 4,
+        "black_cells": 4,
+        "half_cells": 8,
+        "left_right_symmetric": false,
+        "up_down_symmetric": false
+      },
+      {
+        "black_sectors": 32,
+        "white_cells": 4,
+        "black_cells": 4,
+        "half_cells": 8,
+        "left_right_symmetric": false,
+        "up_down_symmetric": false
+      },
+      {
+        "black_sectors": 32,
+        "white_cells": 4,
+        "black_cells": 4,
+        "half_cells": 8,
+        "left_right_symmetric": false,
+        "up_down_symmetric": false
+      },
+      {
+        "black_sectors": 32,
+        "white_cells": 4,
+        "black_cells": 4,
+        "half_cells": 8,
+        "left_right_symmetric": false,
+        "up_down_symmetric": false
+      }
+    ]
+  }
+]

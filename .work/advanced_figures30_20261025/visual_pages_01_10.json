@@ -1,0 +1,145 @@
+{
+  "passed": true,
+  "pdf_sha256": "23fb39f66fbd50dd54e41a956b62ddf616c841de272e56d8db5949e4e6a30662",
+  "word_sha256": "4b71bbaa803211b012aaaa23e4301842b647e651af5debdbb4798fed8aad38f6",
+  "pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "method": "已实际逐页打开前次30页稿第1—10页。本轮Q25仅文字更正后重新导出，对当前第1—10页逐页计算SHA256，均与此前实际查看的PNG逐字节相同，因此沿用相同像素的实际查看证据；本记录不声称对新一轮重复目视查看。",
+  "observations": [
+    {
+      "pages": [
+        1
+      ],
+      "finding": "封面信息、排版框说明与第1—2题完整；六格序列和两组3+3横排均正确，四候选共框、ABCD框外下置，图形未贴边或遮挡。"
+    },
+    {
+      "pages": [
+        2
+      ],
+      "finding": "第3题九宫格外框及九格呈正方形，候选黑白格清楚；第4题五边形、黑点与各选项完整，点未碰选项框，题干已使用通用规律表述。"
+    },
+    {
+      "pages": [
+        3
+      ],
+      "finding": "第5题必要的题内图形框说明清楚；第5—6题序列、题图、候选和字母同页完整，无越框或裁切。"
+    },
+    {
+      "pages": [
+        4,
+        5
+      ],
+      "finding": "第7—10题均保留六图分类、圈号及原生Word文字分组选项；第9题两五边形已分开无重叠，第10题虚线交点可辨。"
+    },
+    {
+      "pages": [
+        6,
+        7
+      ],
+      "finding": "第11—14题上方符号、上下线图、九宫格及黑白/空白小点清楚；第14题左右两组同水平，定位说明与图形一致。"
+    },
+    {
+      "pages": [
+        8
+      ],
+      "finding": "第15题为新版题图，原题号15、方形九宫格和四选项正确绑定；第16题九宫格线段和端点完整，ABCD均在框外下方。另看q16源图确认字母完整。"
+    },
+    {
+      "pages": [
+        9,
+        10
+      ],
+      "finding": "第17—20题六图分类、圈号及文字选项完整，图形/黑点/外置线条有留边；无缺图、编号跳跃、遮挡、异常空白页或整题跨页。"
+    }
+  ],
+  "page_image_sha256": {
+    "1": "b7f508fbdb2945903ca317ce1ce640afa4102d9a0b7e2822bd0b3e43fea63ded",
+    "2": "0290b93cccde256360a75240de61ed5e3c236f98b6329a578f4baa91e0e719c8",
+    "3": "131fb5fcb1bb5cf16f026caea734f6d7a9da41b07fb37c7f756123f8c7372985",
+    "4": "329edae0656eba259c17a546422ca4b5a39b81edb502966fe384530a1fa2f3e9",
+    "5": "cd8601630ebfd2a31a71cc1dc138065e50910bdbc2599660622c5f2bd4e947c0",
+    "6": "379ded024e3c911e4b8383b395202d7c6edbdcbfd78257aba92cff19569db746",
+    "7": "13932a07583f8fcf8f969af1135bccc7974e44ff5919b6676cd239c30967fb0d",
+    "8": "fe9b64172398b3b8dc625177cccf62fa9b1acbebce6d2178304201de2bbe1358",
+    "9": "bff108bbe1d29d76d1aee53e52b84fe7ddb228ead897d6687f876a5e8119e97d",
+    "10": "438569b19b0a872e58b607a6932f056cf055baf4c72217114cea0eb482be8b16"
+  },
+  "issues": [],
+  "evidence_reuse": {
+    "previously_viewed_pdf_sha256": "d4db11390c117464a40b495bfe0b748230674de7c22da313a4ceda3d5363312b",
+    "comparison_report": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\q25_final_page_comparison.json",
+    "current_pages_compared_to_actual_viewed_evidence": [
+      {
+        "page": 1,
+        "previously_viewed_sha256": "b7f508fbdb2945903ca317ce1ce640afa4102d9a0b7e2822bd0b3e43fea63ded",
+        "current_sha256": "b7f508fbdb2945903ca317ce1ce640afa4102d9a0b7e2822bd0b3e43fea63ded",
+        "identical": true
+      },
+      {
+        "page": 2,
+        "previously_viewed_sha256": "0290b93cccde256360a75240de61ed5e3c236f98b6329a578f4baa91e0e719c8",
+        "current_sha256": "0290b93cccde256360a75240de61ed5e3c236f98b6329a578f4baa91e0e719c8",
+        "identical": true
+      },
+      {
+        "page": 3,
+        "previously_viewed_sha256": "131fb5fcb1bb5cf16f026caea734f6d7a9da41b07fb37c7f756123f8c7372985",
+        "current_sha256": "131fb5fcb1bb5cf16f026caea734f6d7a9da41b07fb37c7f756123f8c7372985",
+        "identical": true
+      },
+      {
+        "page": 4,
+        "previously_viewed_sha256": "329edae0656eba259c17a546422ca4b5a39b81edb502966fe384530a1fa2f3e9",
+        "current_sha256": "329edae0656eba259c17a546422ca4b5a39b81edb502966fe384530a1fa2f3e9",
+        "identical": true
+      },
+      {
+        "page": 5,
+        "previously_viewed_sha256": "cd8601630ebfd2a31a71cc1dc138065e50910bdbc2599660622c5f2bd4e947c0",
+        "current_sha256": "cd8601630ebfd2a31a71cc1dc138065e50910bdbc2599660622c5f2bd4e947c0",
+        "identical": true
+      },
+      {
+        "page": 6,
+        "previously_viewed_sha256": "379ded024e3c911e4b8383b395202d7c6edbdcbfd78257aba92cff19569db746",
+        "current_sha256": "379ded024e3c911e4b8383b395202d7c6edbdcbfd78257aba92cff19569db746",
+        "identical": true
+      },
+      {
+        "page": 7,
+        "previously_viewed_sha256": "13932a07583f8fcf8f969af1135bccc7974e44ff5919b6676cd239c30967fb0d",
+        "current_sha256": "13932a07583f8fcf8f969af1135bccc7974e44ff5919b6676cd239c30967fb0d",
+        "identical": true
+      },
+      {
+        "page": 8,
+        "previously_viewed_sha256": "fe9b64172398b3b8dc625177cccf62fa9b1acbebce6d2178304201de2bbe1358",
+        "current_sha256": "fe9b64172398b3b8dc625177cccf62fa9b1acbebce6d2178304201de2bbe1358",
+        "identical": true
+      },
+      {
+        "page": 9,
+        "previously_viewed_sha256": "bff108bbe1d29d76d1aee53e52b84fe7ddb228ead897d6687f876a5e8119e97d",
+        "current_sha256": "bff108bbe1d29d76d1aee53e52b84fe7ddb228ead897d6687f876a5e8119e97d",
+        "identical": true
+      },
+      {
+        "page": 10,
+        "previously_viewed_sha256": "438569b19b0a872e58b607a6932f056cf055baf4c72217114cea0eb482be8b16",
+        "current_sha256": "438569b19b0a872e58b607a6932f056cf055baf4c72217114cea0eb482be8b16",
+        "identical": true
+      }
+    ],
+    "all_current_pages_identical_to_actual_viewed": true
+  }
+}

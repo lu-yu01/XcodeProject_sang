@@ -1,0 +1,588 @@
+{
+  "passed": true,
+  "source_word": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc2\\before.docx",
+  "before_sha256": "672695bb4b225fdd51abbe5174d4a8953be4d6fffb343ce3398a11c9422ea186",
+  "output_word": "E:\\XcodeProject_sang\\模式题\\国考判断推理原创模拟卷（二）-2026行政执法-35题（图片规范版，含答案解析）.docx",
+  "output_word_sha256": "d01a77d1f6b6c979adefc308cbb970943b2f51bee5454a714732799f00ae47e7",
+  "affected_questions": [
+    4
+  ],
+  "all_true_3x3_questions_found": [
+    4
+  ],
+  "other_3x3_patterns": "Q4 motifs and Q7 occupancy choices already consist of square cells; Q2/Q3 are 3+3 horizontal groups and Q8-Q10 are six-figure classifications, not 3x3 stems.",
+  "old_image_dimensions": [
+    1800,
+    1220
+  ],
+  "new_image_dimensions": [
+    1800,
+    1220
+  ],
+  "old_outer_box": [
+    75,
+    45,
+    1725,
+    890
+  ],
+  "outer_box": [
+    450,
+    20,
+    1350,
+    920
+  ],
+  "old_outer_dimensions": [
+    1650,
+    845
+  ],
+  "new_outer_dimensions": [
+    900,
+    900
+  ],
+  "old_cell_sizes": {
+    "width": 550,
+    "height": 281.6666666666667
+  },
+  "cell_sizes": [
+    {
+      "row": 1,
+      "column": 1,
+      "width": 300,
+      "height": 300
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "width": 300,
+      "height": 300
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "width": 300,
+      "height": 300
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "width": 300,
+      "height": 300
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "width": 300,
+      "height": 300
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "width": 300,
+      "height": 300
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "width": 300,
+      "height": 300
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "width": 300,
+      "height": 300
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "grid_lines": {
+    "x": [
+      450,
+      750,
+      1050,
+      1350
+    ],
+    "y": [
+      20,
+      320,
+      620,
+      920
+    ]
+  },
+  "graphic_preservation_checks": [
+    {
+      "row": 1,
+      "column": 1,
+      "old_center": [
+        350.0,
+        185.83333333333334
+      ],
+      "new_center": [
+        600.0,
+        170.0
+      ],
+      "old_roi": [
+        268,
+        104,
+        433,
+        269
+      ],
+      "new_roi": [
+        518,
+        88,
+        683,
+        253
+      ],
+      "pixel_identical_after_translation": true,
+      "geometry_preserved": true,
+      "preservation_basis": "same source data and unchanged drawing function/size; only container center moved",
+      "content": "3x3 black-white tile",
+      "tile_size": 145,
+      "black_cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      "direction_changed": false
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "old_center": [
+        900.0,
+        185.83333333333334
+      ],
+      "new_center": [
+        900.0,
+        170.0
+      ],
+      "old_roi": [
+        818,
+        104,
+        983,
+        269
+      ],
+      "new_roi": [
+        818,
+        88,
+        983,
+        253
+      ],
+      "pixel_identical_after_translation": true,
+      "geometry_preserved": true,
+      "preservation_basis": "same source data and unchanged drawing function/size; only container center moved",
+      "content": "3x3 black-white tile",
+      "tile_size": 145,
+      "black_cells": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "direction_changed": false
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "old_center": [
+        1450.0,
+        185.83333333333334
+      ],
+      "new_center": [
+        1200.0,
+        170.0
+      ],
+      "old_roi": [
+        1368,
+        104,
+        1533,
+        269
+      ],
+      "new_roi": [
+        1118,
+        88,
+        1283,
+        253
+      ],
+      "pixel_identical_after_translation": true,
+      "geometry_preserved": true,
+      "preservation_basis": "same source data and unchanged drawing function/size; only container center moved",
+      "content": "3x3 black-white tile",
+      "tile_size": 145,
+      "black_cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      "direction_changed": false
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "old_center": [
+        350.0,
+        467.5
+      ],
+      "new_center": [
+        600.0,
+        470.0
+      ],
+      "old_roi": [
+        268,
+        386,
+        433,
+        551
+      ],
+      "new_roi": [
+        518,
+        388,
+        683,
+        553
+      ],
+      "pixel_identical_after_translation": false,
+      "geometry_preserved": true,
+      "preservation_basis": "same source data and unchanged drawing function/size; only container center moved",
+      "content": "3x3 black-white tile",
+      "tile_size": 145,
+      "black_cells": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "direction_changed": false
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "old_center": [
+        900.0,
+        467.5
+      ],
+      "new_center": [
+        900.0,
+        470.0
+      ],
+      "old_roi": [
+        818,
+        386,
+        983,
+        551
+      ],
+      "new_roi": [
+        818,
+        388,
+        983,
+        553
+      ],
+      "pixel_identical_after_translation": false,
+      "geometry_preserved": true,
+      "preservation_basis": "same source data and unchanged drawing function/size; only container center moved",
+      "content": "3x3 black-white tile",
+      "tile_size": 145,
+      "black_cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "direction_changed": false
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "old_center": [
+        1450.0,
+        467.5
+      ],
+      "new_center": [
+        1200.0,
+        470.0
+      ],
+      "old_roi": [
+        1368,
+        386,
+        1533,
+        551
+      ],
+      "new_roi": [
+        1118,
+        388,
+        1283,
+        553
+      ],
+      "pixel_identical_after_translation": false,
+      "geometry_preserved": true,
+      "preservation_basis": "same source data and unchanged drawing function/size; only container center moved",
+      "content": "3x3 black-white tile",
+      "tile_size": 145,
+      "black_cells": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "direction_changed": false
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "old_center": [
+        350.0,
+        749.1666666666666
+      ],
+      "new_center": [
+        600.0,
+        770.0
+      ],
+      "old_roi": [
+        268,
+        667,
+        433,
+        832
+      ],
+      "new_roi": [
+        518,
+        688,
+        683,
+        853
+      ],
+      "pixel_identical_after_translation": false,
+      "geometry_preserved": true,
+      "preservation_basis": "same source data and unchanged drawing function/size; only container center moved",
+      "content": "3x3 black-white tile",
+      "tile_size": 145,
+      "black_cells": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "direction_changed": false
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "old_center": [
+        900.0,
+        749.1666666666666
+      ],
+      "new_center": [
+        900.0,
+        770.0
+      ],
+      "old_roi": [
+        818,
+        667,
+        983,
+        832
+      ],
+      "new_roi": [
+        818,
+        688,
+        983,
+        853
+      ],
+      "pixel_identical_after_translation": false,
+      "geometry_preserved": true,
+      "preservation_basis": "same source data and unchanged drawing function/size; only container center moved",
+      "content": "3x3 black-white tile",
+      "tile_size": 145,
+      "black_cells": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      "direction_changed": false
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "old_center": [
+        1450.0,
+        749.1666666666666
+      ],
+      "new_center": [
+        1200.0,
+        770.0
+      ],
+      "old_roi": [
+        1368,
+        667,
+        1533,
+        832
+      ],
+      "new_roi": [
+        1118,
+        688,
+        1283,
+        853
+      ],
+      "pixel_identical_after_translation": true,
+      "geometry_preserved": true,
+      "preservation_basis": "same source data and unchanged drawing function/size; only container center moved",
+      "content": "?",
+      "font_size": 105
+    }
+  ],
+  "all_graphics_geometry_preserved": true,
+  "source_diff": {
+    "old": "grid=outer_matrix(d,(75,45,1725,890),3,3)",
+    "new": "grid=outer_matrix(d,(450,20,1350,920),3,3)",
+    "only_this_line_changed": true
+  },
+  "options_preservation": {
+    "entire_area_pixel_identical": true,
+    "area": [
+      0,
+      925,
+      1800,
+      1220
+    ],
+    "frame": [
+      180,
+      950,
+      1620,
+      1130
+    ],
+    "letters_center_y": 1172,
+    "gap_after_main_grid_px": 30,
+    "order": "ABCD",
+    "tile_size": 126
+  },
+  "image_binding": {
+    "part": "word/media/image4.png",
+    "relationship_id": "rId14",
+    "question": 4,
+    "old_image_sha256": "167edde5740e7aa49f713465f5fb344cc249c08d0fe0f5a54b0c4105fc7db6a8",
+    "new_image_sha256": "af21dc3bab390017c578e2cf1faef5952fb91d5b61ebb81dc574560ce73f0063"
+  },
+  "word_display": {
+    "wp_extent": {
+      "cx": 5733737,
+      "cy": 3886200
+    },
+    "a_xfrm_extent_matches": true,
+    "source_ratio": 1.4754098360655739,
+    "display_ratio": 1.4754096546755184,
+    "per_axis_scale_difference": 0.00039162112943813554,
+    "proportional_within_one_EMU": true,
+    "extent_unchanged": true
+  },
+  "native_text_byte_identical": true,
+  "numbering_byte_identical": true,
+  "changed_package_parts": [
+    "word/media/image4.png"
+  ],
+  "all_other_images_byte_identical": true,
+  "word_layout_preserved": "PNG canvas size, wp:extent and whole document.xml unchanged; parent will perform final render QA.",
+  "generated_asset_visual_review": "Q4 PNG inspected; square 3x3, centered motifs, 30px gap before unchanged option row, all A-D visible with no crop or overlap.",
+  "raster_note": "Old row centers included thirds/halves; integer new centers can shift internal antialias-free raster edges by one pixel. Original 145px geometry, black-cell sets, colors, directions and glyph settings are unchanged."
+}

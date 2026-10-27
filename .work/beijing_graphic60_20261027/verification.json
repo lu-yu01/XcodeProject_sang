@@ -1,0 +1,1251 @@
+{
+  "passed": true,
+  "groups": 20,
+  "questions": 60,
+  "rules_per_group": 12,
+  "operation_types": 32,
+  "primitive_sector_checks": 2048,
+  "operation_usage": {
+    "SX": 3,
+    "MT": 11,
+    "IL": 6,
+    "LR": 8,
+    "CW": 15,
+    "IR": 8,
+    "SY": 3,
+    "MR": 7,
+    "UD": 11,
+    "CCW": 14,
+    "ML": 7,
+    "QCW": 6,
+    "QCCW": 6,
+    "IT": 13,
+    "R180": 1,
+    "PCW": 4,
+    "PCCW": 4,
+    "MB": 5,
+    "KCW": 3,
+    "KCCW": 4,
+    "DL": 2,
+    "CL": 6,
+    "DR": 3,
+    "CR": 3,
+    "IB": 3,
+    "DT": 3,
+    "CT": 4,
+    "DB": 5,
+    "CB": 2,
+    "IA": 2,
+    "DM": 4,
+    "DA": 4
+  },
+  "answer_distribution": {
+    "A": 15,
+    "D": 15,
+    "B": 15,
+    "C": 15
+  },
+  "items": [
+    {
+      "n": 1,
+      "group": 1,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        32,
+        24,
+        24
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 2,
+      "group": 1,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        32,
+        8,
+        32
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 3,
+      "group": 1,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        12,
+        32,
+        32,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 4,
+      "group": 2,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        36,
+        24,
+        20,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 5,
+      "group": 2,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        20,
+        16,
+        22,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 6,
+      "group": 2,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        20,
+        20,
+        48,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 7,
+      "group": 3,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        22,
+        0,
+        20,
+        32
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 8,
+      "group": 3,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        18,
+        32,
+        0,
+        28
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 9,
+      "group": 3,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        20,
+        20,
+        16,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 10,
+      "group": 4,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        28,
+        32,
+        24
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 11,
+      "group": 4,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        32,
+        0,
+        24,
+        28
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 12,
+      "group": 4,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        24,
+        0,
+        32,
+        24
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 13,
+      "group": 5,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        16,
+        26,
+        24
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 14,
+      "group": 5,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        24,
+        20,
+        0,
+        16
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 15,
+      "group": 5,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        24,
+        20,
+        0,
+        22
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 16,
+      "group": 6,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        16,
+        4,
+        0,
+        18
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 17,
+      "group": 6,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        8,
+        0,
+        22,
+        8
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 18,
+      "group": 6,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        30,
+        16,
+        0,
+        32
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 19,
+      "group": 7,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        16,
+        20,
+        12
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 2
+    },
+    {
+      "n": 20,
+      "group": 7,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        32,
+        0,
+        32,
+        24
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 21,
+      "group": 7,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        28,
+        28,
+        8,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 22,
+      "group": 8,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        16,
+        0,
+        16,
+        16
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 2
+    },
+    {
+      "n": 23,
+      "group": 8,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        16,
+        24,
+        16,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 1
+    },
+    {
+      "n": 24,
+      "group": 8,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        28,
+        16,
+        0,
+        40
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 25,
+      "group": 9,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        24,
+        20,
+        0,
+        28
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 26,
+      "group": 9,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        24,
+        16,
+        0,
+        14
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 2
+    },
+    {
+      "n": 27,
+      "group": 9,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        20,
+        0,
+        32,
+        32
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 28,
+      "group": 10,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        12,
+        0,
+        20,
+        28
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 2
+    },
+    {
+      "n": 29,
+      "group": 10,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        8,
+        16,
+        0,
+        20
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 2
+    },
+    {
+      "n": 30,
+      "group": 10,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        8,
+        0,
+        20,
+        16
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 2
+    },
+    {
+      "n": 31,
+      "group": 11,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        24,
+        16,
+        0,
+        16
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 1
+    },
+    {
+      "n": 32,
+      "group": 11,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        16,
+        22,
+        16,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 1
+    },
+    {
+      "n": 33,
+      "group": 11,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        24,
+        20,
+        32
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 1
+    },
+    {
+      "n": 34,
+      "group": 12,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        16,
+        24,
+        12,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 35,
+      "group": 12,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        16,
+        16,
+        32
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 36,
+      "group": 12,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        12,
+        12,
+        24
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 37,
+      "group": 13,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        32,
+        0,
+        16,
+        24
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 38,
+      "group": 13,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        20,
+        8,
+        12
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 39,
+      "group": 13,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        36,
+        0,
+        16,
+        30
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 40,
+      "group": 14,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        32,
+        16,
+        0,
+        32
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 41,
+      "group": 14,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        32,
+        28,
+        18
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 42,
+      "group": 14,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        32,
+        24,
+        32
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 43,
+      "group": 15,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        32,
+        8,
+        32
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 44,
+      "group": 15,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        32,
+        0,
+        20,
+        32
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 45,
+      "group": 15,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        4,
+        0,
+        32,
+        26
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 46,
+      "group": 16,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        44,
+        30,
+        0,
+        16
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 47,
+      "group": 16,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        30,
+        8,
+        28,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 48,
+      "group": 16,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        16,
+        32,
+        0,
+        20
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 49,
+      "group": 17,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        32,
+        32,
+        16,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 1
+    },
+    {
+      "n": 50,
+      "group": 17,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        12,
+        16,
+        32
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 1
+    },
+    {
+      "n": 51,
+      "group": 17,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        16,
+        16,
+        20,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 2
+    },
+    {
+      "n": 52,
+      "group": 18,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        14,
+        20,
+        0,
+        32
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 53,
+      "group": 18,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        32,
+        18,
+        28
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 54,
+      "group": 18,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        20,
+        0,
+        20,
+        20
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 55,
+      "group": 19,
+      "answer": "A",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        0,
+        8,
+        16,
+        22
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 2
+    },
+    {
+      "n": 56,
+      "group": 19,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        16,
+        18,
+        16,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 1
+    },
+    {
+      "n": 57,
+      "group": 19,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        8,
+        4,
+        16,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 1
+    },
+    {
+      "n": 58,
+      "group": 20,
+      "answer": "B",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        24,
+        0,
+        32,
+        28
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 3
+    },
+    {
+      "n": 59,
+      "group": 20,
+      "answer": "D",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        10,
+        12,
+        20,
+        0
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 2
+    },
+    {
+      "n": 60,
+      "group": 20,
+      "answer": "C",
+      "unique": true,
+      "all_steps_essential": true,
+      "distances": [
+        24,
+        20,
+        0,
+        16
+      ],
+      "all_candidate_counts": [
+        32,
+        4,
+        4,
+        8
+      ],
+      "same_symmetry_wrong_count": 1
+    }
+  ],
+  "scope": "离散扇区与独立分数坐标几何交叉计算；输入与操作链不重复；每步必要；候选唯一；真实PNG及独立盲解另验。"
+}

@@ -1,0 +1,49 @@
+{
+  "status": "frozen_after_95_101_102_clarification",
+  "questions": [
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110
+  ],
+  "previous_freeze_snapshot": "revision_history/before_q101_q102_scope",
+  "changed_questions": [
+    101,
+    102
+  ],
+  "unchanged_question_count": 28,
+  "files": {
+    "arguments.py": "2cc226ee2a20d83148e9d918627709c2377b55c71ed43a51a06045fcad2bd903",
+    "questions_arguments.json": "e17a29dea2367e91a7a7cb97c4093527d8b930ad348c46c50e1b95019665d977",
+    "verification_arguments.json": "76766f6795f6ba0f4c15d2aefd54b637e1faf4b8084defa145c267582d77874f",
+    "sources_arguments.json": "ff8a75f9972c31c96835439a6bc0d3feeb9cea15dfd1869e1f2ce15db2377cbb",
+    "author_audit_arguments.json": "dd7a8ad7904fbe2af2e2948f30d970dec9866d2afc2d5320682805c99bf665f6"
+  },
+  "do_not_treat_author_audit_as_blind_review": true
+}

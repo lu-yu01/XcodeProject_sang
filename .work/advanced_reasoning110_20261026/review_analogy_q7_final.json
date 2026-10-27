@@ -1,0 +1,20 @@
+{
+  "review_type": "知晓前两轮选择与修订意见后的局部最终复核，不是首次盲审",
+  "input": "blind_cards_analogy_final.json",
+  "input_sha256": "6aa5922bebb9bfd0f9f380bbdcc1731e7da09aad26e02c1dbd6d3fb5cbb21a09",
+  "questions_reviewed": [7],
+  "author_module_answers_or_verification_read": false,
+  "answer": "D",
+  "confidence": 0.99,
+  "passed": true,
+  "relation": "通常工作的三个可区分的前后行动阶段。",
+  "option_comparison": {
+    "A": "审稿通常在录用之前，给定次序不对应。",
+    "B": "化验属于检测，第三词为包含第二词的活动类别，不是自然的下一独立阶段。",
+    "C": "初审、终审是审稿总过程中的阶段，第三词包含前两阶段，不能像题干一样排为三个独立阶段。",
+    "D": "选题、撰写、校订依次为独立可区分的工作环节，最相近。"
+  },
+  "revision_effect": "初审—终审—审稿明确形成阶段与总过程关系，已替代上一轮编辑一词的宽窄歧义。排除C不再需要武断宣布某种编辑顺序绝对不可能。",
+  "remaining_concern": "无阻断性歧义。难度约为中等以下，适合作为梯度题，不宜单凭C修订就称为难题。",
+  "previous_reports_preserved": ["review_analogy_blind.json", "review_analogy_revision.json"]
+}

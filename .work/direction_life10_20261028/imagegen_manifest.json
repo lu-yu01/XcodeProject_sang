@@ -1,0 +1,32 @@
+[
+  {
+    "n": 1,
+    "generated_path": "C:\\Users\\jiaga\\.codex\\generated_images\\01a16da3-8330-7892-93a5-156361f65801\\exec-7c8da015-47c7-4301-b1ff-5c4c624403ca.png",
+    "prompt": "Precise small edit of this existing four-panel black-and-white street puzzle: the tallest middle landmark is a CLOCK TOWER. Add the same clearly recognizable round clock face with simple black hands to the upper facade of that tall middle building in each of all four panels. Place the clock just beneath the tiled roof, above the upper window, without moving or resizing the building, sign or pole. Preserve every panel, every object position and all occlusion. No other changes. Black and white architectural pen line art. Keep all four circled panel labels below.",
+    "built_in": true
+  },
+  {
+    "n": 2,
+    "generated_path": "C:\\Users\\jiaga\\.codex\\generated_images\\01a16da3-8330-7892-93a5-156361f65801\\exec-e0e56858-e575-4764-978e-6d561058b39b.png",
+    "prompt": "Scientific educational illustration, black-and-white Chinese civil service direction question. Edit this exact four-panel geometry scaffold into attractive, recognizable everyday street architectural line art. Preserve the foreground utility post, midground single curved STREET LAMP, and three distant buildings in EXACTLY the same screen positions and same relative sizes in every panel; keep all occlusion and parallax shifts. Add believable doors, framed windows, tiled roof, masonry trim and lamp details. The central far building is a CLOCK TOWER: retain its round clock face in every frame, behind objects when occluded. Make the closest pole a smooth slim street-side utility/stone post, not an exaggerated transformer tower. The curved lamppost must be clearly recognizable, distinct from the closer straight post. All four images depict the very same fixed streetscape from slightly shifted camera positions, not four different streets. No people, no cars, no new buildings, no shadows or sun. White paper, elegant fine black outlines, minimal grey recesses. Avoid empty wireframe boxes and CAD rendering. Keep four equally wide panels in one horizontal common outer rectangle, ①②③④ outside below; preserve panel order.",
+    "built_in": true
+  },
+  {
+    "n": 3,
+    "generated_path": "C:\\Users\\jiaga\\.codex\\generated_images\\01a16da3-8330-7892-93a5-156361f65801\\exec-306a68b0-bf22-4e78-af37-d32bc76f06e2.png",
+    "prompt": "Precise scientific correction. Image 1 is the polished exam artwork to edit; image 2 is the exact geometry reference, not style. Change ONLY the PAVILION in the THIRD LOWER PANEL (circled③). In this third panel, the distant small pitched-roof hall must be almost entirely hidden BEHIND the clock tower and on its LEFT side, as in geometry reference image 2: only a very narrow left-side sliver of the hall remains visible, about a doorframe width. Remove the hall currently incorrectly visible to the right of the tower. Do not move the tower or the memorial column or any other object. Preserve all other panels, map, labels, frame, black-and-white architectural quality exactly. This matters because the same buildings must match one common map viewed from different sides.",
+    "built_in": true
+  },
+  {
+    "n": 4,
+    "generated_path": "C:\\Users\\jiaga\\.codex\\generated_images\\01a16da3-8330-7892-93a5-156361f65801\\exec-0a39f4d3-3a7a-4544-b18c-00ff398b2410.png",
+    "prompt": "Edit this four-panel black and white spatial exam puzzle into beautiful everyday town architectural pen illustrations. This is ONE camera at a fixed point turning right in successive equal increments; all four frames are views of the SAME fixed continuous town. Preserve the exact existing x positions, widths, heights, clipping at panel edges, and number and identity of all buildings in each frame. Do not center the compositions independently. Landmarks left-to-right in the real panorama: CLOCK TOWER with round clock face; small pitched-roof pavilion; taller flat-roof building with rooftop TV antenna; low flat-roof shop. The clock tower is centered in circled④ and partly clips off the left edge in circled①. Retain that clipping, do not bring it into frame. Circled③ has no clock tower. Add recognizable windows, tiled roofs, doors, eaves and masonry without changing their positions or screen footprints. Fine black outlines, white paper, restrained pale grey, no cast shadows, no sun, no people or extra buildings. A very simple paved public square is allowed. Four panels remain in one horizontal common frame, circled①②③④ outside below. Make it read like clear official exam line art, never wireframe cubes.",
+    "built_in": true
+  },
+  {
+    "n": 5,
+    "generated_path": "C:\\Users\\jiaga\\.codex\\generated_images\\01a16da3-8330-7892-93a5-156361f65801\\exec-a78fb441-4327-4642-8171-530608e6273f.png",
+    "prompt": "Edit this geometry scaffold into attractive realistic black-and-white architectural exam line art. It shows one simple FLAT-ROOFED rectangular building on level ground, viewed from above at a diagonal, with one cast shadow. Keep the building's exact rectangular footprint, vertical edges, wall orientation and flat roof volume. Make it a believable small public building by adding well-proportioned window frames, double entry doors, restrained masonry/course lines and a flat cornice that stays within the existing outer volume. Do NOT add a pitched roof, porch, steps, annex or any projection that changes the silhouette or shadow. The existing grey shadow polygon is mathematically essential: preserve its EXACT footprint, direction, contact with the building and full tip. It extends to the lower right toward the observer. Do not flip, shorten, rotate, blur or add any shadow. No light source/sun is drawn; the reader must infer it from the stem. Clean continuous ground, only faint paving lines if helpful, no other objects, no labels or text, no new framing. Attractive detailed architectural pen line art, white paper, not a CAD cube.",
+    "built_in": true
+  }
+]

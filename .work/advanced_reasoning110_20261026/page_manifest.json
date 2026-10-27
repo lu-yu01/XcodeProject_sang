@@ -1,0 +1,471 @@
+{
+  "word_sha256": "96fa64a3dacbd047a827f7a7021cf4269f22d531c44a280d83c71d94120b4183",
+  "pdf_sha256": "1aefd1ff9834a0a1a0d34ca7123d49515bb4b8cfafa5368238aa32ecfc99a01b",
+  "dpi": 150,
+  "pages": [
+    {
+      "page": 1,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-01.png",
+      "sha256": "035bc389e2af8a50a22947f97d81b2a8a120f2de90345cd57a274c2fa7aafe85",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 541
+    },
+    {
+      "page": 2,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-02.png",
+      "sha256": "578c3c62992c3aa40e81dcac663258dff0cf443124bb75f0f4630c0d63c4815a",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 526
+    },
+    {
+      "page": 3,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-03.png",
+      "sha256": "2a85493e6c75aa1c81633ca9a6858c780896d32bebb281488abb92a2e14377dc",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 488
+    },
+    {
+      "page": 4,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-04.png",
+      "sha256": "9e8e60a240faba7ad90e9dc421b359de125f98f0d613d2c5aae233d022fbd645",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 311
+    },
+    {
+      "page": 5,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-05.png",
+      "sha256": "50deb8199212990c53e14f93f5785c6a6a79b96edf3689c21d2f755e04862bd9",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1029
+    },
+    {
+      "page": 6,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-06.png",
+      "sha256": "c4d3b84d78f079bd3025835b1f7beb5d7251d9659eb460980bbb651c03bc66d0",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1028
+    },
+    {
+      "page": 7,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-07.png",
+      "sha256": "d6d1c1c5e8f2f6a4101df3d9040ca9609c8d2bd8d77aa13e53f111387916801d",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 988
+    },
+    {
+      "page": 8,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-08.png",
+      "sha256": "6e144a37ecf309d3dda3c2c749cc1487cffd8d8bfa3d1fa9eddf8ef337dfd4c5",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1271
+    },
+    {
+      "page": 9,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-09.png",
+      "sha256": "af835ca2228d9c6f9fb374e806cf4eeffce97eab6439e37daec5f233a9d276dc",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1027
+    },
+    {
+      "page": 10,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-10.png",
+      "sha256": "70757f6c8035051ae35e22b4c1cc21eb9e64f1804d40be4c4a0a296fb0028aa4",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 953
+    },
+    {
+      "page": 11,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-11.png",
+      "sha256": "cbb73a76f1c55fd0b9bb32045587519bdda42a816fb768421625a67022d4ff89",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1270
+    },
+    {
+      "page": 12,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-12.png",
+      "sha256": "d3704f8408070eac2d6f22e5e50815fc855285511e77d6e6ab844c6a163ae5a4",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1022
+    },
+    {
+      "page": 13,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-13.png",
+      "sha256": "ebe941641b25ec690ac79073e194b98bd38673d8e41d2c47a087b5dbcb69bab3",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1056
+    },
+    {
+      "page": 14,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-14.png",
+      "sha256": "c5573b21bff4ee031c11d4bbc7429afed2b79c9c91e68018f8c6e06e985cb32c",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 360
+    },
+    {
+      "page": 15,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-15.png",
+      "sha256": "697ec9b17e82c31d19da3f2a9af0d9aeced0ac6505fcff4ae051dc8e14fc4045",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 552
+    },
+    {
+      "page": 16,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-16.png",
+      "sha256": "9c09ae6026f2474f6767564908adb6c7c898566d66e42f48a96a32eb933d048b",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 675
+    },
+    {
+      "page": 17,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-17.png",
+      "sha256": "23132a0875dc0c6c0a37bff75221a22ebc219e4c3620def88fefd82a98b75395",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 721
+    },
+    {
+      "page": 18,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-18.png",
+      "sha256": "7e6aa18767aeb66c75db167743811b60f80fdb5bbb7b95b77801893b695a4f02",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 744
+    },
+    {
+      "page": 19,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-19.png",
+      "sha256": "2324488e2b122147d6b38badbfa8daebf83d0aadf0e6e8dc5dc22dda42ce09ff",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 638
+    },
+    {
+      "page": 20,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-20.png",
+      "sha256": "6feadb658662ba3126853c800cf4c957fd39a96bfd14d536dd28207b607c50f6",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 873
+    },
+    {
+      "page": 21,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-21.png",
+      "sha256": "e0816cb178759eab9349c01b452f52ac247ae27097763d1dcac9895d1c7fae53",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 282
+    },
+    {
+      "page": 22,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-22.png",
+      "sha256": "215f24eb1170ec7008f4af7d87b83f0dd510e7af2d3ca5e2aeae29cf1ddfedb7",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1018
+    },
+    {
+      "page": 23,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-23.png",
+      "sha256": "f46090c1d0e45f0c11db45d0a98015d0a695a85e27dd9d4b04fd0dbc7d089dd7",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1187
+    },
+    {
+      "page": 24,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-24.png",
+      "sha256": "bc8c2a2bf629447482fec018d75dc00b28651660869e21971acb0323c2618731",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1191
+    },
+    {
+      "page": 25,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-25.png",
+      "sha256": "ff784455dd8ff44fa60dbbb6c0b7bae8968f4bcbf72d44c58262bdada1c491a6",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1189
+    },
+    {
+      "page": 26,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-26.png",
+      "sha256": "2fa20d3ff538d0eff6bcacb0122dfce1d1be1d8ce8dbd49371eabc916dc90a35",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1217
+    },
+    {
+      "page": 27,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-27.png",
+      "sha256": "ab8d4c42fb626a994255230ed69577be7dfe08b6c9ea475f11c57733256d9595",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1057
+    },
+    {
+      "page": 28,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-28.png",
+      "sha256": "bc562de3c1556a906e85bb67aa8efe69fbe5be1a6eed45a58682d74760ede4a1",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 542
+    },
+    {
+      "page": 29,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-29.png",
+      "sha256": "2c32a214bffb426da53ebb5906137764b262104545e83ec93b4558dfde4098ef",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 462
+    },
+    {
+      "page": 30,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-30.png",
+      "sha256": "6905e593e79def73c22576e05bd0de04d0e4847c2ecf5180c9dde353919a541e",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 892
+    },
+    {
+      "page": 31,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-31.png",
+      "sha256": "6a074bb8ab30486c2aaaf1260205158708bc951265530dc387e156b0df4d3b02",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 881
+    },
+    {
+      "page": 32,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-32.png",
+      "sha256": "71c9b593b4fa18a585d9194147b9f620b78c6a11f7ceebec01602d3ab3f6556f",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 917
+    },
+    {
+      "page": 33,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-33.png",
+      "sha256": "65be708bbc64f5f5be7c87a0c3dd378e0acfa73e1bc096c92f3ee669a2b4c794",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 949
+    },
+    {
+      "page": 34,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-34.png",
+      "sha256": "7986300c208a43f848c440442c53d7d9b9099d5a5351eac9d01493f70b311c53",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 920
+    },
+    {
+      "page": 35,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-35.png",
+      "sha256": "130e2bf2d108fedb62c12b669e30abad708e98408990af5b0e93759fa4080080",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 968
+    },
+    {
+      "page": 36,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-36.png",
+      "sha256": "3bdf3326dc471b45e28c10b5d9efa35c42cc44bd4627fc236aec8f2fca2b7cef",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1138
+    },
+    {
+      "page": 37,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-37.png",
+      "sha256": "e71d2ad9629dd9532a92e666fd2ebc36f99afd3e0b8ed06011e579d890c42a03",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 941
+    },
+    {
+      "page": 38,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-38.png",
+      "sha256": "85031895f00877e4fcd8eeb4df084d5bb0b10f263acac3e35e54dd8d8c08c615",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 959
+    },
+    {
+      "page": 39,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-39.png",
+      "sha256": "725c29fc7dfa06b60c91aa9a4ca61fe8e1d4279ac40127928b9f533711e07e4c",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 989
+    },
+    {
+      "page": 40,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-40.png",
+      "sha256": "c8b994828eb01c4a0fa2a91a082d00dbd17fcf249021f7a89ad408335be8e7db",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1171
+    },
+    {
+      "page": 41,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-41.png",
+      "sha256": "2a298a487649cb50e905016535a7e52d1314c62c7fac9b008f38792bae2240de",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 953
+    },
+    {
+      "page": 42,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-42.png",
+      "sha256": "a9cc16f2c0a9c4b556706d0bff09972766831f2db7fe43172f14ab75259ea233",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 734
+    },
+    {
+      "page": 43,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-43.png",
+      "sha256": "91c05010a93579873aada6f372df912c8b0078aeb69e7b983ce0f72177f2c6e4",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 788
+    },
+    {
+      "page": 44,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-44.png",
+      "sha256": "8162e33923895bf28165de0e0a8fdaa49c597656fb7dd8b07959c98502639627",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1063
+    },
+    {
+      "page": 45,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-45.png",
+      "sha256": "f1f1137e86e1661a3bca39f4fd206c2fef3a5006d50444a3148ae05c4dd3aaa2",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 869
+    },
+    {
+      "page": 46,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-46.png",
+      "sha256": "f618ff287ce5e47c771c4eabd85f4fe1f447d4be565028b902d50195e856c05a",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 972
+    },
+    {
+      "page": 47,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-47.png",
+      "sha256": "d0dd90780c0d3eff167934a8bacfe1c72ca23c8d3751314d5378878b10f4e931",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 952
+    },
+    {
+      "page": 48,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-48.png",
+      "sha256": "f9d58595f78d14c5ae725281141e97682933695b96859df971f310dcfa6e9225",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1041
+    },
+    {
+      "page": 49,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-49.png",
+      "sha256": "598204896894c461e44461a34bf96740c43f6794862e9cf4272458911970f4ec",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 787
+    },
+    {
+      "page": 50,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-50.png",
+      "sha256": "2c3c25bd6d3ae84a1ac3f8907c8eb9df9d735199d45d9e6348ff8e26ec63a556",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 922
+    },
+    {
+      "page": 51,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-51.png",
+      "sha256": "1049ae50ae4a2649d89ba536c7c0ce81c647506cf7c4683255e89ab3041f4a94",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1239
+    },
+    {
+      "page": 52,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-52.png",
+      "sha256": "8a5a3553b9649bd55e8a5b91796f0f90451d3dfe116da5f9fd786e63020e2ff1",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1216
+    },
+    {
+      "page": 53,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-53.png",
+      "sha256": "05baa7159a3e48be9e6e93a81d9a5db9c9510468413a07799248a75c820c6f26",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1229
+    },
+    {
+      "page": 54,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-54.png",
+      "sha256": "de2ab593493f52e7242d9b015a1da6eae217e28c91b765512bbcd75b85b75671",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1175
+    },
+    {
+      "page": 55,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-55.png",
+      "sha256": "da044314a624c85577b28b932f2187d665b7fdfafcc1946c746ddb803552845d",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1013
+    },
+    {
+      "page": 56,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-56.png",
+      "sha256": "803755e71ac1a8ef8ad9cb8a37a429c92dec85feb18a5f540ccfe6b57f5facca",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 1260
+    },
+    {
+      "page": 57,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-57.png",
+      "sha256": "db8a3cd6f84ad255b29edd339f63d773ff2df7276f5a89c59031d544f028bc1f",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 933
+    },
+    {
+      "page": 58,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-58.png",
+      "sha256": "2a4799220a4834d4ce9e00c63b280d56eef4056b13cfe4af775f3a9ddce41c0c",
+      "width": 1241,
+      "height": 1754,
+      "content_chars": 358
+    }
+  ]
+}

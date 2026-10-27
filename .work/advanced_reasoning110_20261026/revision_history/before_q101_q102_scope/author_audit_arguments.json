@@ -1,0 +1,226 @@
+{
+  "review_type": "作者语义审计，非独立盲审或教师审查",
+  "question_count": 30,
+  "reviewed_questions": [
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110
+  ],
+  "scope": "逐题核对材料自足、作用对象/方向/范围、近似选项区分、前提否定检验、解释双事实与评价双向影响。",
+  "reviews": [
+    {
+      "n": 81,
+      "author_selected_answer": "B",
+      "checks": "费用优势已知，比较共享功能、性能与真正履约时间覆盖。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 82,
+      "author_selected_answer": "D",
+      "checks": "明确同一叶片兼具两特征，排除不同叶片拼成假联合特征；候选范围封闭。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 83,
+      "author_selected_answer": "A",
+      "checks": "总时间明确包含所有环节，A覆盖其余全部分项，C只覆盖一个步骤。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 84,
+      "author_selected_answer": "C",
+      "checks": "对照与繁殖位置同时给出，单纯敏感指标或来源分布不足以排除年份。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 85,
+      "author_selected_answer": "B",
+      "checks": "同一小时人数口径，600-350+0=250；速度和意愿不是净运人量。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 86,
+      "author_selected_answer": "A",
+      "checks": "限定原本能检出的类型，A既不误放又确实分流，C只保障仍精检的部分。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 87,
+      "author_selected_answer": "D",
+      "checks": "独立外部团队和实际论证同时指向目标，避免收录数量或内部互引冒充外部影响。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 88,
+      "author_selected_answer": "C",
+      "checks": "检验的是信号到损伤再到处置窗口，不把地点材质或取像成本当充分类比。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 89,
+      "author_selected_answer": "A",
+      "checks": "主要混杂相当且同期只有加装组降低；表面降温只补中间环节。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 90,
+      "author_selected_answer": "D",
+      "checks": "已补现场巡查标准，完整录像不能偷换为现场巡护；D须不挤占原任务。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 91,
+      "author_selected_answer": "C",
+      "checks": "人均0.8、人数1.5，总量1.2；实际同一口径为直接反例。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 92,
+      "author_selected_answer": "B",
+      "checks": "结论明含主要线下群体，问卷仅覆盖登录者，先看覆盖外推。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 93,
+      "author_selected_answer": "D",
+      "checks": "D说明原有杂乱驱动购买并有纵向改善，不宣称严格证明收纳盒的独立净效应。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 94,
+      "author_selected_answer": "A",
+      "checks": "已在题干明定满载由高度标线判断，重量测量错误不能凭外部常识升级为满载错报。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 95,
+      "author_selected_answer": "C",
+      "checks": "原单位生产成本相同、能源涨价幅度相同，其他成本及各自加成比例保持不变；甲成本比例增幅小于乙，甲乙售价比下降，不额外假定两地加成率彼此相同。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 96,
+      "author_selected_answer": "B",
+      "checks": "总口径含居民专门驾车，新增里程超过配送节省；不把步行或通知便利算作里程反例。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 97,
+      "author_selected_answer": "A",
+      "checks": "同口径失败样本被排除是确定缺陷；维护项只提示未量化的可能，不与A等强。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 98,
+      "author_selected_answer": "D",
+      "checks": "不可替代且年内必缺的数据凭证反驳两措施充分性，存在经验或因素重要性不够。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 99,
+      "author_selected_answer": "B",
+      "checks": "系统结案口径改变可制造数量下降，不把接听体验当实质解决。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 100,
+      "author_selected_answer": "C",
+      "checks": "后续各片区必需基础工程已超一年净收入，是回本反例而非泛称地区不同。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 101,
+      "author_selected_answer": "D",
+      "checks": "D限定三工艺内X→T，B为T→X；否定D允许非T含X，观察不足以排除。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 102,
+      "author_selected_answer": "A",
+      "checks": "A否定为新增耗油不小于节省，严格净减少失败；禁止全部空驶过强。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 103,
+      "author_selected_answer": "C",
+      "checks": "已用“短于”保持停机前严格时间口径，逐次反例即可破坏全称保证。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 104,
+      "author_selected_answer": "B",
+      "checks": "每次借还均准确记录；B仅禁止不同借用人同时共码，不多禁同人多件或非重叠码复用。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 105,
+      "author_selected_answer": "A",
+      "checks": "同一线路允许增加停站；实际行驶时间变长与相对于新核定时刻更准可同时成立。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 106,
+      "author_selected_answer": "C",
+      "checks": "甲19/20、乙36/180，分组升而总体由100/200降为55/200，口径完整。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 107,
+      "author_selected_answer": "D",
+      "checks": "以册数为分子分母，0.8/0.6使比率升；不偷换成超期天数或超期人数。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 108,
+      "author_selected_answer": "B",
+      "checks": "遗漏计划停机损失与20万元比较，低于则净增，不低于则净增不成立。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 109,
+      "author_selected_answer": "A",
+      "checks": "A为足以独立解释全变化的同步措施；否定只移除此质疑，不伪称因果已证明。",
+      "result": "author_review_passed_pending_independent_trial"
+    },
+    {
+      "n": 110,
+      "author_selected_answer": "C",
+      "checks": "仅描述5%不低于4%，保留组间不可比；不能从缺少因果证据推出零因果作用。",
+      "result": "author_review_passed_pending_independent_trial"
+    }
+  ],
+  "revisions": [
+    "把泛背景干扰改为同对象的局部证据、代理指标、条件倒置或过强前提。",
+    "修正82同一叶片、90现场巡查、94高度满载、103严格时间窗、104不同借用人同时共码及完整扫码记录。",
+    "长度模式由27题正确项并列或唯一最长调整为9题；不机械追求每题同长，未用废话填充。",
+    "根代理独立题面试解后建议Q95C明确“基数”为原单位成本与同幅能源涨价；已只澄清该语义和对应分析/模型。"
+  ],
+  "limits": "13项显式数值/有限反例检查不等于自然语言唯一性证明。独立试解尚待根代理安排。"
+}

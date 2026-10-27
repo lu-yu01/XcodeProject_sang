@@ -1,0 +1,125 @@
+{
+  "reviewer": "代理A",
+  "review_type": "代理交叉独立解题，不是教师盲审或学员试测",
+  "author_code_answers_models_read": false,
+  "source": "blind_cards_c.json及原生题图；第29题另按观察到的块坐标独立编写枚举，不读取C作者代码",
+  "questions": [
+    {
+      "n": 21,
+      "answer": "B",
+      "natural_rule": "以P=(0,0,0)、Q=(3,0,0)、R=(0,3,3)建系，截面为z=y。阶梯三个水平宽仍为1，截面各竖高为√2，整体高宽比为√2。B为等宽三阶且高宽比√2；A为方形比例，D三阶宽不等，C轮廓不符。",
+      "confidence": 0.99,
+      "ambiguities": [],
+      "image_sha256": "7e708d2d2e93059f7a0a93246888fda6903042172d832ac57c884307abcbe0d0",
+      "blind_status": "independent_from_card_and_image",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 22,
+      "answer": "C",
+      "natural_rule": "截面包含底棱PQ，设底面边长4，顶点高4。R在SC中点，平面z=2(y+2)/3；与SD交于中点。截面是下底4、上底2、高√13的等腰梯形，C比例相符。",
+      "confidence": 0.99,
+      "ambiguities": [],
+      "image_sha256": "8298f3e0b8e2ad92c04d00cb49db3173930ef1f4a666dd034d7d17c562f67ed2",
+      "blind_status": "independent_from_card_and_image",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 23,
+      "answer": "D",
+      "natural_rule": "截面z=y，外轮廓左右4、斜高3√2；贯穿孔的截孔左右2、斜高√2，且在正中。孔宽为外框1/2、高为1/3，D符合；A孔宽不足，B孔高过大，C偏心。",
+      "confidence": 0.99,
+      "ambiguities": [],
+      "image_sha256": "64cdc2be644191bb4f793177271b7c9714c5551bb8f23b56c0bc734b958b1c75",
+      "blind_status": "independent_from_card_and_image",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 24,
+      "answer": "C",
+      "natural_rule": "读取正视最大列高3、2、3，右视前中后最大高3、3、2；俯视后排110、中排111、前排101。C符合前排左高3及后排最高2，并保持占位。B前排高度不足，D后排存在3高，A多出的低位块与俯视占位不合。",
+      "confidence": 0.86,
+      "ambiguities": [
+        "立体遮挡较多，此项由原图直接还原判断的置信度低于截面比例题；未发现第二个自然成立选项。"
+      ],
+      "image_sha256": "05939dadb9c35a7d7d88ebda7b1df7ed6833e1b8fd4764d41f5dbad24e50408d",
+      "blind_status": "independent_from_card_and_image",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 25,
+      "answer": "D",
+      "natural_rule": "俯视10个占位先各放1块。前视列高2、4、2、3，右视行高4、3、3；4高只能放前排第2列，补3块。第1、3列各补1，第4列后排需3高补2，中排尚需3高再补2，总数10+3+1+1+2+2=19，选D。",
+      "confidence": 0.99,
+      "ambiguities": [],
+      "image_sha256": "b8c56cc81867939da97510b3db71f8de8ac49395b1f64687d5ccca407f208f63",
+      "blind_status": "independent_from_card_and_image",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 26,
+      "answer": "B",
+      "natural_rule": "沿PR方向投影消去深度。立方框成为方框，前后斜杆成为两条对角线；位于左侧面中的竖杆并入左边界，另一竖杆投影为中线；中高横杆投影为水平中线。B同时含X、竖中线和横中线。",
+      "confidence": 0.98,
+      "ambiguities": [],
+      "image_sha256": "9aedc1a446e634e3f8973d3666a80bd1dea278c57752c45d0bf6f285670d09cc",
+      "blind_status": "independent_from_card_and_image",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 27,
+      "answer": "C",
+      "natural_rule": "箭头必须指向与三角形面共用的棱，三角形尖端须朝向黑L面。A箭头朝向错误；B黑L在三角形下方，尖端朝反；D三角形尖端朝箭头面，方向错误。C同时符合三面及方向关系。",
+      "confidence": 0.96,
+      "ambiguities": [],
+      "image_sha256": "096e9dc1f2a151b1b6c22f031233107862b41a4d4081e47c601bd1d86e4469f5",
+      "blind_status": "independent_from_card_and_image",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 28,
+      "answer": "C",
+      "natural_rule": "①箭头朝黑L面、三角形尖端朝箭头面，黑L还须在对应公共顶点一侧，排除上图黑L反向的B及箭头朝三角形的D。A下图箭头朝下，不能对应②右面指向三角形面的箭头；C上下两展开图均满足。",
+      "confidence": 0.95,
+      "ambiguities": [],
+      "image_sha256": "87101cce3b520107792a8dc26b0703bbcee3f3b8003d93a8fb63c168137bac54",
+      "blind_status": "independent_from_card_and_image",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 29,
+      "answer": "B",
+      "natural_rule": "从可见块面独立重建两个6块部件及同形6块候选，目标为3×3×2。以目标前左下为(0,0,0)，黑块为(0,0,0)、(2,1,1)、(1,2,1)。独立枚举24种刚性转动和平移：A/C/D无配色一致的无重叠覆盖，B有1种。没有读取作者模型或答案。",
+      "confidence": 0.95,
+      "ambiguities": [],
+      "image_sha256": "5e914eb552767cd0d7e24d75d6eb056ea74c17a63fa33f2f7e0c2362ba31dd34",
+      "blind_status": "independent_from_card_and_image",
+      "actual_image_viewed": true
+    },
+    {
+      "n": 30,
+      "answer": "A",
+      "natural_rule": "把最小面作顶点，共边作连线。①③⑤共边图是4点链，②④⑥是一个中心面邻接其余三面的三叉结构，选A。",
+      "confidence": 0.99,
+      "ambiguities": [
+        "先前已看到含“只比较共边关系”的旧盲卡提示，所以本题仅可视为提示后的逻辑核对，不能作为无提示独立盲解。"
+      ],
+      "image_sha256": "ae233349171436835e4c9836e9cc19d6803393090fe4d83a27df1f24dad5140d",
+      "blind_status": "hinted_logic_check_only",
+      "actual_image_viewed": true
+    }
+  ],
+  "answers": {
+    "21": "B",
+    "22": "C",
+    "23": "D",
+    "24": "C",
+    "25": "D",
+    "26": "B",
+    "27": "C",
+    "28": "C",
+    "29": "B",
+    "30": "A"
+  },
+  "unresolved_possible_multiple_answers": []
+}

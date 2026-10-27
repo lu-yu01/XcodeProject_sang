@@ -1,0 +1,2671 @@
+{
+  "reviewer": "blind22_42独立代理",
+  "answers": {
+    "22": "B",
+    "23": "D",
+    "24": "C",
+    "25": "C",
+    "26": "C",
+    "27": "B",
+    "28": "B",
+    "29": "C",
+    "30": "B",
+    "31": "C",
+    "32": "D",
+    "33": "A",
+    "34": "D",
+    "35": "A",
+    "36": "A",
+    "37": "B",
+    "38": "A",
+    "39": "B",
+    "40": "C",
+    "41": "A",
+    "42": "A"
+  },
+  "items": [
+    {
+      "n": 22,
+      "group": 8,
+      "input_image_sha256": "1e248a32f6fb0c6c87b2f835f23b39ff3bf67c7ea5f3e92c6b4aa9df5f53af2a",
+      "image_actually_opened": true,
+      "first_answer": "B",
+      "first_answer_confirmed": true,
+      "selected": "B",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "DR",
+          "definition": "保留右半，向左平移复制以覆盖左半",
+          "observed_cells_NESW": [
+            [
+              15,
+              0,
+              15,
+              0
+            ],
+            [
+              9,
+              3,
+              9,
+              3
+            ],
+            [
+              9,
+              15,
+              9,
+              15
+            ],
+            [
+              0,
+              6,
+              0,
+              6
+            ]
+          ]
+        },
+        {
+          "operation": "MB",
+          "definition": "仅下半内部左右镜像，上半不变",
+          "observed_cells_NESW": [
+            [
+              15,
+              0,
+              15,
+              0
+            ],
+            [
+              9,
+              3,
+              9,
+              3
+            ],
+            [
+              15,
+              3,
+              15,
+              3
+            ],
+            [
+              12,
+              0,
+              12,
+              0
+            ]
+          ]
+        },
+        {
+          "operation": "LR",
+          "definition": "全图左右镜像",
+          "observed_cells_NESW": [
+            [
+              0,
+              15,
+              0,
+              15
+            ],
+            [
+              9,
+              3,
+              9,
+              3
+            ],
+            [
+              9,
+              15,
+              9,
+              15
+            ],
+            [
+              0,
+              6,
+              0,
+              6
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "C",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 64,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 23,
+      "group": 8,
+      "input_image_sha256": "c6b195cb4399a619be276a91687569ec2d8d0aba6b3a19faba96e5ac546f3ce7",
+      "image_actually_opened": true,
+      "first_answer": "C",
+      "first_answer_confirmed": false,
+      "selected": "D",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "CCW",
+          "definition": "全图逆时针旋转90°",
+          "observed_cells_NESW": [
+            [
+              15,
+              0,
+              15,
+              9
+            ],
+            [
+              3,
+              12,
+              12,
+              0
+            ],
+            [
+              12,
+              0,
+              9,
+              0
+            ],
+            [
+              6,
+              15,
+              15,
+              3
+            ]
+          ]
+        },
+        {
+          "operation": "CR",
+          "definition": "保留右半，将其左右镜像覆盖左半",
+          "observed_cells_NESW": [
+            [
+              3,
+              15,
+              15,
+              9
+            ],
+            [
+              0,
+              6,
+              12,
+              0
+            ],
+            [
+              0,
+              3,
+              9,
+              0
+            ],
+            [
+              9,
+              15,
+              15,
+              3
+            ]
+          ]
+        },
+        {
+          "operation": "UD",
+          "definition": "全图上下镜像",
+          "observed_cells_NESW": [
+            [
+              12,
+              15,
+              15,
+              6
+            ],
+            [
+              0,
+              6,
+              12,
+              0
+            ],
+            [
+              0,
+              3,
+              9,
+              0
+            ],
+            [
+              6,
+              15,
+              15,
+              12
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 96,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 0,
+          "matches": true
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 24,
+      "group": 8,
+      "input_image_sha256": "a7f132ff57b92b2b921638c920ed679699a6182fbde6e635b6d49afe94d2e085",
+      "image_actually_opened": true,
+      "first_answer": "C",
+      "first_answer_confirmed": true,
+      "selected": "C",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "MB",
+          "definition": "仅下半内部左右镜像，上半不变",
+          "observed_cells_NESW": [
+            [
+              9,
+              0,
+              3,
+              0
+            ],
+            [
+              15,
+              12,
+              15,
+              9
+            ],
+            [
+              15,
+              9,
+              12,
+              6
+            ],
+            [
+              9,
+              0,
+              15,
+              0
+            ]
+          ]
+        },
+        {
+          "operation": "UD",
+          "definition": "全图上下镜像",
+          "observed_cells_NESW": [
+            [
+              12,
+              0,
+              15,
+              0
+            ],
+            [
+              15,
+              12,
+              9,
+              3
+            ],
+            [
+              15,
+              9,
+              15,
+              12
+            ],
+            [
+              12,
+              0,
+              6,
+              0
+            ]
+          ]
+        },
+        {
+          "operation": "IB",
+          "definition": "仅下半黑白反色，上半不变",
+          "observed_cells_NESW": [
+            [
+              12,
+              0,
+              15,
+              0
+            ],
+            [
+              15,
+              12,
+              9,
+              3
+            ],
+            [
+              0,
+              6,
+              0,
+              3
+            ],
+            [
+              3,
+              15,
+              9,
+              15
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 112,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "D",
+          "different_samples": 160,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 25,
+      "group": 9,
+      "input_image_sha256": "5121681d57ee408021fdf7453f58de90121b366e3f7c237953674895cb349956",
+      "image_actually_opened": true,
+      "first_answer": "C",
+      "first_answer_confirmed": true,
+      "selected": "C",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "CCW",
+          "definition": "全图逆时针旋转90°",
+          "observed_cells_NESW": [
+            [
+              15,
+              12,
+              0,
+              3
+            ],
+            [
+              0,
+              6,
+              15,
+              3
+            ],
+            [
+              9,
+              15,
+              3,
+              0
+            ],
+            [
+              0,
+              3,
+              9,
+              15
+            ]
+          ]
+        },
+        {
+          "operation": "DT",
+          "definition": "保留上半，向下平移复制以覆盖下半",
+          "observed_cells_NESW": [
+            [
+              15,
+              12,
+              0,
+              3
+            ],
+            [
+              0,
+              6,
+              15,
+              3
+            ],
+            [
+              15,
+              12,
+              0,
+              3
+            ],
+            [
+              0,
+              6,
+              15,
+              3
+            ]
+          ]
+        },
+        {
+          "operation": "UD",
+          "definition": "全图上下镜像",
+          "observed_cells_NESW": [
+            [
+              0,
+              3,
+              15,
+              6
+            ],
+            [
+              15,
+              9,
+              0,
+              6
+            ],
+            [
+              0,
+              3,
+              15,
+              6
+            ],
+            [
+              15,
+              9,
+              0,
+              6
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 96,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 80,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "D",
+          "different_samples": 112,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 26,
+      "group": 9,
+      "input_image_sha256": "36667d6e45af012f4445689beb2c454e4321b5ccee72689a5556e2579100884b",
+      "image_actually_opened": true,
+      "first_answer": "C",
+      "first_answer_confirmed": true,
+      "selected": "C",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "CCW",
+          "definition": "全图逆时针旋转90°",
+          "observed_cells_NESW": [
+            [
+              12,
+              0,
+              0,
+              6
+            ],
+            [
+              9,
+              15,
+              12,
+              15
+            ],
+            [
+              9,
+              15,
+              15,
+              0
+            ],
+            [
+              3,
+              0,
+              3,
+              9
+            ]
+          ]
+        },
+        {
+          "operation": "CT",
+          "definition": "保留上半，将其上下镜像覆盖下半",
+          "observed_cells_NESW": [
+            [
+              12,
+              0,
+              0,
+              6
+            ],
+            [
+              9,
+              15,
+              12,
+              15
+            ],
+            [
+              12,
+              15,
+              9,
+              15
+            ],
+            [
+              9,
+              0,
+              0,
+              3
+            ]
+          ]
+        },
+        {
+          "operation": "IT",
+          "definition": "仅上半黑白反色，下半不变",
+          "observed_cells_NESW": [
+            [
+              3,
+              15,
+              15,
+              9
+            ],
+            [
+              6,
+              0,
+              3,
+              0
+            ],
+            [
+              12,
+              15,
+              9,
+              15
+            ],
+            [
+              9,
+              0,
+              0,
+              3
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 96,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "D",
+          "different_samples": 56,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 27,
+      "group": 9,
+      "input_image_sha256": "0f54bcb9338e769f3fc63d9986d5f78b6bfd8efcc7d3d7400db0eeb367696871",
+      "image_actually_opened": true,
+      "first_answer": "B",
+      "first_answer_confirmed": true,
+      "selected": "B",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "ML",
+          "definition": "仅左半内部上下镜像，右半不变",
+          "observed_cells_NESW": [
+            [
+              6,
+              0,
+              3,
+              3
+            ],
+            [
+              15,
+              3,
+              0,
+              15
+            ],
+            [
+              0,
+              3,
+              0,
+              15
+            ],
+            [
+              15,
+              12,
+              6,
+              6
+            ]
+          ]
+        },
+        {
+          "operation": "IT",
+          "definition": "仅上半黑白反色，下半不变",
+          "observed_cells_NESW": [
+            [
+              9,
+              15,
+              12,
+              12
+            ],
+            [
+              0,
+              12,
+              15,
+              0
+            ],
+            [
+              0,
+              3,
+              0,
+              15
+            ],
+            [
+              15,
+              12,
+              6,
+              6
+            ]
+          ]
+        },
+        {
+          "operation": "CCW",
+          "definition": "全图逆时针旋转90°",
+          "observed_cells_NESW": [
+            [
+              6,
+              0,
+              15,
+              3
+            ],
+            [
+              6,
+              15,
+              0,
+              3
+            ],
+            [
+              15,
+              6,
+              9,
+              6
+            ],
+            [
+              12,
+              0,
+              0,
+              15
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 80,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "C",
+          "different_samples": 128,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 128,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 28,
+      "group": 10,
+      "input_image_sha256": "e29a43d2288197935f7b06b8bfc5af00f7050d948571eca99d96155c5cbef270",
+      "image_actually_opened": true,
+      "first_answer": "A",
+      "first_answer_confirmed": false,
+      "selected": "B",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "IL",
+          "definition": "仅左半黑白反色，右半不变",
+          "observed_cells_NESW": [
+            [
+              0,
+              6,
+              15,
+              3
+            ],
+            [
+              15,
+              6,
+              9,
+              0
+            ],
+            [
+              6,
+              9,
+              15,
+              0
+            ],
+            [
+              15,
+              0,
+              3,
+              12
+            ]
+          ]
+        },
+        {
+          "operation": "UD",
+          "definition": "全图上下镜像",
+          "observed_cells_NESW": [
+            [
+              15,
+              0,
+              6,
+              9
+            ],
+            [
+              3,
+              12,
+              15,
+              0
+            ],
+            [
+              15,
+              3,
+              12,
+              0
+            ],
+            [
+              0,
+              3,
+              15,
+              6
+            ]
+          ]
+        },
+        {
+          "operation": "DB",
+          "definition": "保留下半，向上平移复制以覆盖上半",
+          "observed_cells_NESW": [
+            [
+              15,
+              3,
+              12,
+              0
+            ],
+            [
+              0,
+              3,
+              15,
+              6
+            ],
+            [
+              15,
+              3,
+              12,
+              0
+            ],
+            [
+              0,
+              3,
+              15,
+              6
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 48,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "C",
+          "different_samples": 80,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 112,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 29,
+      "group": 10,
+      "input_image_sha256": "eeb73d39a8fb3cbf0c32e0cdebb79b58c384e382c3f3af9531fde030ad968364",
+      "image_actually_opened": true,
+      "first_answer": "C",
+      "first_answer_confirmed": true,
+      "selected": "C",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "ML",
+          "definition": "仅左半内部上下镜像，右半不变",
+          "observed_cells_NESW": [
+            [
+              12,
+              9,
+              9,
+              0
+            ],
+            [
+              0,
+              15,
+              15,
+              12
+            ],
+            [
+              6,
+              15,
+              6,
+              15
+            ],
+            [
+              9,
+              0,
+              0,
+              6
+            ]
+          ]
+        },
+        {
+          "operation": "CB",
+          "definition": "保留下半，将其上下镜像覆盖上半",
+          "observed_cells_NESW": [
+            [
+              12,
+              0,
+              0,
+              3
+            ],
+            [
+              3,
+              15,
+              3,
+              15
+            ],
+            [
+              6,
+              15,
+              6,
+              15
+            ],
+            [
+              9,
+              0,
+              0,
+              6
+            ]
+          ]
+        },
+        {
+          "operation": "DT",
+          "definition": "保留上半，向下平移复制以覆盖下半",
+          "observed_cells_NESW": [
+            [
+              12,
+              0,
+              0,
+              3
+            ],
+            [
+              3,
+              15,
+              3,
+              15
+            ],
+            [
+              12,
+              0,
+              0,
+              3
+            ],
+            [
+              3,
+              15,
+              3,
+              15
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 32,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "D",
+          "different_samples": 80,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 30,
+      "group": 10,
+      "input_image_sha256": "56ee2438d280d6b5d02ebb04cece66d4ed78398f946d87907668d5b1c0c44c9e",
+      "image_actually_opened": true,
+      "first_answer": "B",
+      "first_answer_confirmed": true,
+      "selected": "B",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "DB",
+          "definition": "保留下半，向上平移复制以覆盖上半",
+          "observed_cells_NESW": [
+            [
+              0,
+              9,
+              3,
+              0
+            ],
+            [
+              6,
+              15,
+              15,
+              6
+            ],
+            [
+              0,
+              9,
+              3,
+              0
+            ],
+            [
+              6,
+              15,
+              15,
+              6
+            ]
+          ]
+        },
+        {
+          "operation": "MR",
+          "definition": "仅右半内部上下镜像，左半不变",
+          "observed_cells_NESW": [
+            [
+              0,
+              9,
+              15,
+              3
+            ],
+            [
+              6,
+              15,
+              6,
+              0
+            ],
+            [
+              0,
+              9,
+              15,
+              3
+            ],
+            [
+              6,
+              15,
+              6,
+              0
+            ]
+          ]
+        },
+        {
+          "operation": "UD",
+          "definition": "全图上下镜像",
+          "observed_cells_NESW": [
+            [
+              3,
+              15,
+              3,
+              0
+            ],
+            [
+              0,
+              12,
+              15,
+              6
+            ],
+            [
+              3,
+              15,
+              3,
+              0
+            ],
+            [
+              0,
+              12,
+              15,
+              6
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 32,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "C",
+          "different_samples": 80,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 64,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 31,
+      "group": 11,
+      "input_image_sha256": "8ee43f1a97003754c247a40e9a4570b8c07c3a54e14d8e480ac195699372258f",
+      "image_actually_opened": true,
+      "first_answer": "B",
+      "first_answer_confirmed": false,
+      "selected": "C",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "CL",
+          "definition": "保留左半，将其左右镜像覆盖右半",
+          "observed_cells_NESW": [
+            [
+              15,
+              6,
+              12,
+              15
+            ],
+            [
+              0,
+              9,
+              3,
+              0
+            ],
+            [
+              15,
+              9,
+              3,
+              15
+            ],
+            [
+              12,
+              0,
+              0,
+              6
+            ]
+          ]
+        },
+        {
+          "operation": "DB",
+          "definition": "保留下半，向上平移复制以覆盖上半",
+          "observed_cells_NESW": [
+            [
+              15,
+              9,
+              3,
+              15
+            ],
+            [
+              12,
+              0,
+              0,
+              6
+            ],
+            [
+              15,
+              9,
+              3,
+              15
+            ],
+            [
+              12,
+              0,
+              0,
+              6
+            ]
+          ]
+        },
+        {
+          "operation": "CW",
+          "definition": "全图顺时针旋转90°",
+          "observed_cells_NESW": [
+            [
+              9,
+              15,
+              9,
+              15
+            ],
+            [
+              0,
+              3,
+              0,
+              3
+            ],
+            [
+              0,
+              6,
+              0,
+              6
+            ],
+            [
+              12,
+              15,
+              12,
+              15
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 96,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "D",
+          "different_samples": 64,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 32,
+      "group": 11,
+      "input_image_sha256": "52e7d9a03d3a192edd3b9e9f78bf9a1028d73c2b16edc79886130a5cb86dd780",
+      "image_actually_opened": true,
+      "first_answer": "C",
+      "first_answer_confirmed": false,
+      "selected": "D",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "CL",
+          "definition": "保留左半，将其左右镜像覆盖右半",
+          "observed_cells_NESW": [
+            [
+              6,
+              15,
+              15,
+              12
+            ],
+            [
+              9,
+              0,
+              0,
+              3
+            ],
+            [
+              6,
+              0,
+              0,
+              12
+            ],
+            [
+              15,
+              3,
+              9,
+              15
+            ]
+          ]
+        },
+        {
+          "operation": "DR",
+          "definition": "保留右半，向左平移复制以覆盖左半",
+          "observed_cells_NESW": [
+            [
+              15,
+              12,
+              15,
+              12
+            ],
+            [
+              0,
+              3,
+              0,
+              3
+            ],
+            [
+              0,
+              12,
+              0,
+              12
+            ],
+            [
+              9,
+              15,
+              9,
+              15
+            ]
+          ]
+        },
+        {
+          "operation": "CW",
+          "definition": "全图顺时针旋转90°",
+          "observed_cells_NESW": [
+            [
+              3,
+              0,
+              0,
+              15
+            ],
+            [
+              15,
+              9,
+              6,
+              9
+            ],
+            [
+              3,
+              0,
+              0,
+              15
+            ],
+            [
+              15,
+              9,
+              6,
+              9
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 88,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 0,
+          "matches": true
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 33,
+      "group": 11,
+      "input_image_sha256": "cda0d0a93888fced2531b896c66536751961b612cdfc9db768d67b95bc830ca4",
+      "image_actually_opened": true,
+      "first_answer": "A",
+      "first_answer_confirmed": true,
+      "selected": "A",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "IR",
+          "definition": "仅右半黑白反色，左半不变",
+          "observed_cells_NESW": [
+            [
+              3,
+              15,
+              3,
+              3
+            ],
+            [
+              3,
+              0,
+              0,
+              15
+            ],
+            [
+              0,
+              6,
+              6,
+              0
+            ],
+            [
+              9,
+              15,
+              6,
+              15
+            ]
+          ]
+        },
+        {
+          "operation": "DB",
+          "definition": "保留下半，向上平移复制以覆盖上半",
+          "observed_cells_NESW": [
+            [
+              0,
+              6,
+              6,
+              0
+            ],
+            [
+              9,
+              15,
+              6,
+              15
+            ],
+            [
+              0,
+              6,
+              6,
+              0
+            ],
+            [
+              9,
+              15,
+              6,
+              15
+            ]
+          ]
+        },
+        {
+          "operation": "CT",
+          "definition": "保留上半，将其上下镜像覆盖下半",
+          "observed_cells_NESW": [
+            [
+              0,
+              6,
+              6,
+              0
+            ],
+            [
+              9,
+              15,
+              6,
+              15
+            ],
+            [
+              12,
+              15,
+              3,
+              15
+            ],
+            [
+              0,
+              3,
+              3,
+              0
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "B",
+          "different_samples": 96,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 80,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 128,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 34,
+      "group": 12,
+      "input_image_sha256": "7758e74cb25eaa52e9290d2f8c67f41d809d13189dd6c4432af4103ff6efc533",
+      "image_actually_opened": true,
+      "first_answer": "D",
+      "first_answer_confirmed": true,
+      "selected": "D",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "CW",
+          "definition": "全图顺时针旋转90°",
+          "observed_cells_NESW": [
+            [
+              0,
+              15,
+              6,
+              15
+            ],
+            [
+              3,
+              12,
+              3,
+              0
+            ],
+            [
+              6,
+              3,
+              6,
+              0
+            ],
+            [
+              15,
+              0,
+              15,
+              12
+            ]
+          ]
+        },
+        {
+          "operation": "QCCW",
+          "definition": "每个象限各自逆时针转90°，象限位置不变",
+          "observed_cells_NESW": [
+            [
+              15,
+              6,
+              15,
+              0
+            ],
+            [
+              0,
+              9,
+              3,
+              9
+            ],
+            [
+              9,
+              0,
+              0,
+              6
+            ],
+            [
+              3,
+              15,
+              3,
+              15
+            ]
+          ]
+        },
+        {
+          "operation": "MT",
+          "definition": "仅上半内部左右镜像，下半不变",
+          "observed_cells_NESW": [
+            [
+              0,
+              15,
+              12,
+              15
+            ],
+            [
+              3,
+              9,
+              3,
+              0
+            ],
+            [
+              9,
+              0,
+              0,
+              6
+            ],
+            [
+              3,
+              15,
+              3,
+              15
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 96,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 48,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 0,
+          "matches": true
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 35,
+      "group": 12,
+      "input_image_sha256": "964f76a6fbc9dfe239616bc4e8e792a90e53ed8ef6b33d765b334f466c501780",
+      "image_actually_opened": true,
+      "first_answer": "A",
+      "first_answer_confirmed": true,
+      "selected": "A",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "IT",
+          "definition": "仅上半黑白反色，下半不变",
+          "observed_cells_NESW": [
+            [
+              0,
+              12,
+              3,
+              12
+            ],
+            [
+              9,
+              15,
+              0,
+              15
+            ],
+            [
+              15,
+              9,
+              15,
+              3
+            ],
+            [
+              6,
+              0,
+              0,
+              6
+            ]
+          ]
+        },
+        {
+          "operation": "QCW",
+          "definition": "每个象限各自顺时针转90°，象限位置不变",
+          "observed_cells_NESW": [
+            [
+              3,
+              0,
+              0,
+              6
+            ],
+            [
+              15,
+              9,
+              15,
+              9
+            ],
+            [
+              12,
+              15,
+              0,
+              15
+            ],
+            [
+              0,
+              3,
+              12,
+              6
+            ]
+          ]
+        },
+        {
+          "operation": "MB",
+          "definition": "仅下半内部左右镜像，上半不变",
+          "observed_cells_NESW": [
+            [
+              3,
+              0,
+              0,
+              6
+            ],
+            [
+              15,
+              9,
+              15,
+              9
+            ],
+            [
+              15,
+              0,
+              15,
+              6
+            ],
+            [
+              12,
+              6,
+              9,
+              0
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "B",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 128,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 36,
+      "group": 12,
+      "input_image_sha256": "76bfaf909a3f7986382e5a9b26bbbf7c6503cd082976661e97f0616585e8fbf6",
+      "image_actually_opened": true,
+      "first_answer": "A",
+      "first_answer_confirmed": true,
+      "selected": "A",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "UD",
+          "definition": "全图上下镜像",
+          "observed_cells_NESW": [
+            [
+              3,
+              3,
+              3,
+              0
+            ],
+            [
+              15,
+              0,
+              9,
+              15
+            ],
+            [
+              0,
+              6,
+              15,
+              0
+            ],
+            [
+              15,
+              12,
+              3,
+              6
+            ]
+          ]
+        },
+        {
+          "operation": "MB",
+          "definition": "仅下半内部左右镜像，上半不变",
+          "observed_cells_NESW": [
+            [
+              3,
+              3,
+              3,
+              0
+            ],
+            [
+              15,
+              0,
+              9,
+              15
+            ],
+            [
+              0,
+              15,
+              12,
+              0
+            ],
+            [
+              12,
+              9,
+              6,
+              15
+            ]
+          ]
+        },
+        {
+          "operation": "LR",
+          "definition": "全图左右镜像",
+          "observed_cells_NESW": [
+            [
+              0,
+              9,
+              9,
+              9
+            ],
+            [
+              15,
+              3,
+              0,
+              15
+            ],
+            [
+              0,
+              6,
+              15,
+              0
+            ],
+            [
+              15,
+              12,
+              3,
+              6
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "B",
+          "different_samples": 48,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 48,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 96,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 37,
+      "group": 13,
+      "input_image_sha256": "7dd143685ee6e1427510bb0a1f2454a664f21d89f4b7d4fdc67fa3d5b3837547",
+      "image_actually_opened": true,
+      "first_answer": "D",
+      "first_answer_confirmed": false,
+      "selected": "B",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "CCW",
+          "definition": "全图逆时针旋转90°",
+          "observed_cells_NESW": [
+            [
+              15,
+              3,
+              3,
+              15
+            ],
+            [
+              0,
+              6,
+              12,
+              0
+            ],
+            [
+              9,
+              15,
+              0,
+              3
+            ],
+            [
+              9,
+              0,
+              15,
+              6
+            ]
+          ]
+        },
+        {
+          "operation": "LR",
+          "definition": "全图左右镜像",
+          "observed_cells_NESW": [
+            [
+              15,
+              9,
+              9,
+              15
+            ],
+            [
+              0,
+              6,
+              12,
+              0
+            ],
+            [
+              9,
+              0,
+              15,
+              3
+            ],
+            [
+              12,
+              15,
+              0,
+              3
+            ]
+          ]
+        },
+        {
+          "operation": "ML",
+          "definition": "仅左半内部上下镜像，右半不变",
+          "observed_cells_NESW": [
+            [
+              9,
+              15,
+              9,
+              15
+            ],
+            [
+              12,
+              0,
+              12,
+              0
+            ],
+            [
+              0,
+              3,
+              15,
+              3
+            ],
+            [
+              15,
+              12,
+              0,
+              3
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 128,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "C",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 96,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 38,
+      "group": 13,
+      "input_image_sha256": "d18c7e46bd40634f64108325f96eaa22b27e59e7ec48c5ba8020696ebe2091d4",
+      "image_actually_opened": true,
+      "first_answer": "A",
+      "first_answer_confirmed": true,
+      "selected": "A",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "UD",
+          "definition": "全图上下镜像",
+          "observed_cells_NESW": [
+            [
+              9,
+              0,
+              12,
+              15
+            ],
+            [
+              15,
+              6,
+              0,
+              9
+            ],
+            [
+              12,
+              15,
+              3,
+              12
+            ],
+            [
+              6,
+              0,
+              0,
+              15
+            ]
+          ]
+        },
+        {
+          "operation": "MR",
+          "definition": "仅右半内部上下镜像，左半不变",
+          "observed_cells_NESW": [
+            [
+              9,
+              0,
+              0,
+              15
+            ],
+            [
+              15,
+              6,
+              6,
+              9
+            ],
+            [
+              12,
+              15,
+              0,
+              12
+            ],
+            [
+              6,
+              0,
+              9,
+              15
+            ]
+          ]
+        },
+        {
+          "operation": "PCCW",
+          "definition": "象限位置逆时针轮换一格，内部朝向不变",
+          "observed_cells_NESW": [
+            [
+              0,
+              15,
+              0,
+              12
+            ],
+            [
+              6,
+              9,
+              9,
+              15
+            ],
+            [
+              9,
+              0,
+              12,
+              15
+            ],
+            [
+              15,
+              6,
+              6,
+              0
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "B",
+          "different_samples": 80,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 32,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 48,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 39,
+      "group": 13,
+      "input_image_sha256": "15c24e0841ead11b73c9e5bb8fba73d8501c81a53326725385702d34f9a3c7a4",
+      "image_actually_opened": true,
+      "first_answer": "B",
+      "first_answer_confirmed": true,
+      "selected": "B",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "CCW",
+          "definition": "全图逆时针旋转90°",
+          "observed_cells_NESW": [
+            [
+              15,
+              9,
+              0,
+              3
+            ],
+            [
+              0,
+              3,
+              9,
+              15
+            ],
+            [
+              0,
+              3,
+              15,
+              3
+            ],
+            [
+              12,
+              15,
+              6,
+              0
+            ]
+          ]
+        },
+        {
+          "operation": "LR",
+          "definition": "全图左右镜像",
+          "observed_cells_NESW": [
+            [
+              9,
+              0,
+              3,
+              15
+            ],
+            [
+              15,
+              3,
+              9,
+              0
+            ],
+            [
+              9,
+              15,
+              9,
+              0
+            ],
+            [
+              0,
+              12,
+              15,
+              6
+            ]
+          ]
+        },
+        {
+          "operation": "SY",
+          "definition": "上下半区直接换位，内部朝向不变",
+          "observed_cells_NESW": [
+            [
+              9,
+              15,
+              9,
+              0
+            ],
+            [
+              0,
+              12,
+              15,
+              6
+            ],
+            [
+              9,
+              0,
+              3,
+              15
+            ],
+            [
+              15,
+              3,
+              9,
+              0
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 144,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "C",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 120,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 40,
+      "group": 14,
+      "input_image_sha256": "f3738571bd6a8eff8b2b86f615f494264b964780d91b133b6f2948b094c67a48",
+      "image_actually_opened": true,
+      "first_answer": "C",
+      "first_answer_confirmed": true,
+      "selected": "C",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "IT",
+          "definition": "仅上半黑白反色，下半不变",
+          "observed_cells_NESW": [
+            [
+              0,
+              12,
+              6,
+              0
+            ],
+            [
+              15,
+              9,
+              15,
+              9
+            ],
+            [
+              15,
+              9,
+              12,
+              15
+            ],
+            [
+              0,
+              9,
+              9,
+              0
+            ]
+          ]
+        },
+        {
+          "operation": "PCCW",
+          "definition": "象限位置逆时针轮换一格，内部朝向不变",
+          "observed_cells_NESW": [
+            [
+              6,
+              0,
+              12,
+              15
+            ],
+            [
+              15,
+              9,
+              9,
+              0
+            ],
+            [
+              0,
+              12,
+              15,
+              9
+            ],
+            [
+              15,
+              9,
+              0,
+              9
+            ]
+          ]
+        },
+        {
+          "operation": "CW",
+          "definition": "全图顺时针旋转90°",
+          "observed_cells_NESW": [
+            [
+              15,
+              0,
+              15,
+              12
+            ],
+            [
+              3,
+              9,
+              3,
+              0
+            ],
+            [
+              0,
+              15,
+              3,
+              9
+            ],
+            [
+              3,
+              3,
+              0,
+              15
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 128,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "different_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "D",
+          "different_samples": 128,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 41,
+      "group": 14,
+      "input_image_sha256": "a7b7b13c0e2f6bffcb291ec53c9de48abd9173d4770e84681561fe21085f372f",
+      "image_actually_opened": true,
+      "first_answer": "A",
+      "first_answer_confirmed": true,
+      "selected": "A",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "CCW",
+          "definition": "全图逆时针旋转90°",
+          "observed_cells_NESW": [
+            [
+              0,
+              3,
+              3,
+              6
+            ],
+            [
+              6,
+              15,
+              15,
+              0
+            ],
+            [
+              6,
+              15,
+              0,
+              15
+            ],
+            [
+              12,
+              0,
+              12,
+              9
+            ]
+          ]
+        },
+        {
+          "operation": "MT",
+          "definition": "仅上半内部左右镜像，下半不变",
+          "observed_cells_NESW": [
+            [
+              12,
+              9,
+              9,
+              0
+            ],
+            [
+              0,
+              15,
+              15,
+              12
+            ],
+            [
+              6,
+              15,
+              0,
+              15
+            ],
+            [
+              12,
+              0,
+              12,
+              9
+            ]
+          ]
+        },
+        {
+          "operation": "IB",
+          "definition": "仅下半黑白反色，上半不变",
+          "observed_cells_NESW": [
+            [
+              12,
+              9,
+              9,
+              0
+            ],
+            [
+              0,
+              15,
+              15,
+              12
+            ],
+            [
+              9,
+              0,
+              15,
+              0
+            ],
+            [
+              3,
+              15,
+              3,
+              6
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "B",
+          "different_samples": 128,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 112,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 72,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    },
+    {
+      "n": 42,
+      "group": 14,
+      "input_image_sha256": "ca35a75ebfbfd9ad60229df6b2221a2a0880ed17fba4fb679bf2317d83c6a5ef",
+      "image_actually_opened": true,
+      "first_answer": "D",
+      "first_answer_confirmed": false,
+      "selected": "A",
+      "unique": true,
+      "steps": [
+        {
+          "operation": "IA",
+          "definition": "全图黑白反色",
+          "observed_cells_NESW": [
+            [
+              15,
+              0,
+              15,
+              0
+            ],
+            [
+              9,
+              3,
+              6,
+              6
+            ],
+            [
+              12,
+              15,
+              12,
+              3
+            ],
+            [
+              0,
+              9,
+              15,
+              0
+            ]
+          ]
+        },
+        {
+          "operation": "IR",
+          "definition": "仅右半黑白反色，左半不变",
+          "observed_cells_NESW": [
+            [
+              15,
+              0,
+              0,
+              15
+            ],
+            [
+              9,
+              3,
+              9,
+              9
+            ],
+            [
+              12,
+              15,
+              3,
+              12
+            ],
+            [
+              0,
+              9,
+              0,
+              15
+            ]
+          ]
+        },
+        {
+          "operation": "PCCW",
+          "definition": "象限位置逆时针轮换一格，内部朝向不变",
+          "observed_cells_NESW": [
+            [
+              0,
+              15,
+              3,
+              12
+            ],
+            [
+              9,
+              9,
+              0,
+              15
+            ],
+            [
+              15,
+              0,
+              12,
+              15
+            ],
+            [
+              9,
+              3,
+              0,
+              9
+            ]
+          ]
+        }
+      ],
+      "candidate_comparisons": [
+        {
+          "option": "A",
+          "different_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "B",
+          "different_samples": 128,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "different_samples": 96,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "different_samples": 128,
+          "matches": false
+        }
+      ],
+      "visible_layout_issues": []
+    }
+  ],
+  "author_model_or_answer_read": false,
+  "all_images_actually_opened": true,
+  "actual_scope": "第8—14组，即题22—42；只读公开规则manifest与指定21张题图。未读作者模型、题库答案、解析或Word。",
+  "method": "先实际查看题图并保存首次目视初选，再独立以240×240像素数组执行公开操作规则。在每个格子四扇区重心附近各选4点，每个选项256个内点避开格线/斜线比较。",
+  "all_unique": true,
+  "initial_answer_corrections": [
+    23,
+    28,
+    31,
+    32,
+    37,
+    42
+  ],
+  "visual_review": "21张图均原始尺寸实际打开；4×4方形网格、同框四选项、下方ABCD、符号与数字均可辨。未见裁切或重叠。",
+  "limitations": [
+    "首次目视初选含低置信度答案，纠正记录如实保留。",
+    "像素复算检查的是给定规则的几何执行与候选唯一性，不代替教师盲审、学员试测或全Word逐页排版检查。"
+  ]
+}

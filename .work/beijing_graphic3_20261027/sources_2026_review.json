@@ -1,0 +1,153 @@
+{
+  "source": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\特殊省份\\2026年最新试卷\\北京2025-2026.docx",
+  "source_sha256": "ce06e2f0b29742eeeb8ab9475da468c3d336d114152e15b00d388691398d0d5c",
+  "scope": "实际读取本地题本段落、题图和解析，并与前版同稿、配套PPT及2025题本比较；不是已联网确认的2026官方原卷。",
+  "local_chapter_label": "2026年北京，段492；解析标题却仍为2025年北京，段555。",
+  "form": {
+    "shared_material": "一个公开给定的操作符号与释义表",
+    "rule_count": 9,
+    "rule_types": [
+      "整体顺时针90度",
+      "整体顺时针180度",
+      "整体顺时针270度",
+      "整体左右镜像",
+      "整体上下镜像",
+      "保留上半以其上下镜像替下半",
+      "保留下半以其上下镜像替上半",
+      "保留左半以其左右镜像替右半",
+      "保留右半以其左右镜像替左半"
+    ],
+    "items": 3,
+    "per_item": "左侧输入4×4方格黑白图（含半格三角形）+按从左到右的两个操作符号+右侧四个图形选项。",
+    "burden": "查表理解局部覆盖与全图旋转/镜像，保持操作先后；不是凭3题归纳隐藏规则。"
+  },
+  "material": {
+    "paragraph": 505,
+    "image_paragraph": 506,
+    "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic3_20261027\\reference2026\\p0506_image38.png",
+    "sha256": "cb88b77d8966928adadb69a505991b0138fb826a18b38c6d41657a6fb2584aa5",
+    "actually_viewed": true
+  },
+  "questions": [
+    {
+      "local_question": 49,
+      "stem_paragraph": 507,
+      "image_paragraph": 508,
+      "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic3_20261027\\reference2026\\p0508_image39.png",
+      "actually_viewed": true,
+      "operations": [
+        "保留下半，将上半替为下半的上下镜像",
+        "整体顺时针旋转90度"
+      ],
+      "local_answer": "C",
+      "analysis_paragraphs": [
+        576,
+        577,
+        578,
+        579
+      ],
+      "design_lesson": "覆盖产生的新对称形状再旋转；错序或保留半区选错可以构成近似干扰。",
+      "image_sha256": "d138d64878ce4e3f76b7d5896f38f366a3226da596749d1a0c98940258a1bae5"
+    },
+    {
+      "local_question": 50,
+      "stem_paragraph": 510,
+      "image_paragraph": 511,
+      "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic3_20261027\\reference2026\\p0511_image40.png",
+      "actually_viewed": true,
+      "operations": [
+        "整体左右镜像",
+        "保留左半，将右半替为左半的左右镜像"
+      ],
+      "local_answer": "A",
+      "analysis_paragraphs": [
+        581,
+        582,
+        583,
+        584,
+        585
+      ],
+      "design_lesson": "镜像后再按当下左半重建，不能仍复制原始左半。",
+      "image_sha256": "8e43fe131447667e9151f509886ce0fd377bab1f8c15d3acad5502200dfd9894"
+    },
+    {
+      "local_question": 51,
+      "stem_paragraph": 513,
+      "image_paragraph": 514,
+      "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic3_20261027\\reference2026\\p0514_image41.png",
+      "actually_viewed": true,
+      "operations": [
+        "整体顺时针旋转270度",
+        "保留上半，将下半替为上半的上下镜像"
+      ],
+      "local_answer": "A",
+      "analysis_paragraphs": [
+        587,
+        588,
+        589,
+        590,
+        591
+      ],
+      "source_error": "原段590误写“上半部分的左右镜像”，但规则图此符号明确为上下镜像；研究与原创应按给定规则，不沿用该解析笔误。",
+      "design_lesson": "270度与逆时针90度一致，复制半区后画面必须关于中间水平线对称。",
+      "image_sha256": "ea3f8fcdeb842302aac750a61ca7093604b166691928f59636edf69909b63d41"
+    }
+  ],
+  "year_crosscheck": {
+    "docx_differences": [
+      {
+        "p": 0,
+        "new": "2025年北京",
+        "old": "2024年北京"
+      },
+      {
+        "p": 492,
+        "new": "2026年北京",
+        "old": "2025年北京"
+      }
+    ],
+    "all_embedded_media_hashes_equal": true,
+    "media_count": 67,
+    "raw_2025_common_rule_context": [
+      {
+        "p": 182,
+        "t": "49.工厂制造一种设备需要用到甲和乙两种零部件，甲价格如上涨m%, 则设备成本将上涨1%。乙价格如上 涨2%,则设备成本将上涨n%。则以下哪个等式最能准确描述m和n 之间的关系?"
+      },
+      {
+        "p": 197,
+        "t": "50.一块面积为10亩的等腰直角三角形土地中内接有一块正三角形土地，且该正三角形土地中又内接一个 正方形人工湖如右图中黑色部分所示，且人工湖的底边与等腰直角三角形的底边平行。现在等腰直角三角形土 地中标为灰色的部分种植甲作物，则甲作物的种植面积为多少亩?"
+      },
+      {
+        "p": 201,
+        "t": "51.现用1台仪器对32台性能不同的设备进行性能测试，仪器每次运行都能从6台设备中选出性能最好的 1台，或者从8台设备中选出性能最好的2台(仅选出但不分名次)。则最少要运行几次仪器， 一定能选出32 台设备中性能最好的4台?"
+      },
+      {
+        "p": 222,
+        "t": "下面呈现一组操作规则，根据要求完成56--58题"
+      },
+      {
+        "p": 239,
+        "t": "56.对左侧的图形依次进行相应的操作后，可以得到右侧哪个图形?"
+      },
+      {
+        "p": 242,
+        "t": "57.对左侧的图形依次进行相应的操作后，可以得到右侧哪个图形?"
+      },
+      {
+        "p": 245,
+        "t": "58.对左侧的图形依次进行相应的操作后，可以得到右侧哪个图形?"
+      }
+    ]
+  },
+  "year_conclusion": "不能凭文件名或新题本章标题认定已独立核准2026原卷。两DOCX仅2段年标题变化，媒体相同；但2025北京OK原题56—58对应新稿首章2025，故旧稿年份标签亦可能滞后。当前仅用后一组作为本地近年北京式操作题参考，保留年份不确定性。",
+  "ppt_crosscheck": {
+    "2025-2026_and_2024-2025": "均57页，slide38仍标北京2025，slide43—45对应本组49—51",
+    "2027北京考情": "slide3/4有2026及2025题量表，slide4标2026“题不全”；slide5—7展示3问操作题。培训材料统计不当作官方配额或确定原卷年份。"
+  },
+  "web_scope": "检索2026/2025北京一拖三与具体操作语句，未找到可独立核验本组原图年份的官方具体题页。未采用无关搜索结果或由招考公告推出具体题图。",
+  "not_done": [
+    "未写Word或Markdown",
+    "未读取root原创源稿、模型或答案",
+    "未声称已核实2026全卷、官方答案或试测难度"
+  ]
+}

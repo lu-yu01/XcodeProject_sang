@@ -1,0 +1,203 @@
+{
+  "status": "completed",
+  "time": "2026-10-25T22:13:00.979657+08:00",
+  "deleted_count": 32,
+  "deleted_bytes": 9603454,
+  "files": [
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-01.png",
+      "sha256": "f510d12db66a94279930f2ca393ac4bcaf1abbcab167f7f1beaf3cf4440f7c17",
+      "bytes": 181285
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-02.png",
+      "sha256": "85d3a0471372f15e214c3f3618bca6cb75ddae6758eae37c7cc27c32fca0cf74",
+      "bytes": 92161
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-03.png",
+      "sha256": "ee0655244099993a85a081a7daa4744b44fb298096e752592e8e9591e5423206",
+      "bytes": 90844
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-04.png",
+      "sha256": "7049c817a5a9e4ecb8ffc381a3c8f56bcceb8163c401a9acadc68a9193ff78b1",
+      "bytes": 94895
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-05.png",
+      "sha256": "fb4b4d25287fa31ff03dbd28e4d1b015667d313f3229fded44d3a35cebbd9b17",
+      "bytes": 85683
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-06.png",
+      "sha256": "d58cf20e194b6ace0448fa53918bd1bbd86d337914191a66b945512532f00fd0",
+      "bytes": 172101
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-07.png",
+      "sha256": "3330c3f919d2b1ede6488399fe7745023c4d3312963b00a09bac8e7b9c2da456",
+      "bytes": 127957
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-08.png",
+      "sha256": "2bf0d9286a14076472cce7649cb093769fbf627a27967aebc45959e186043f01",
+      "bytes": 124906
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-09.png",
+      "sha256": "6b2e477f471000f2e030268c49c439bbcfbd5df20cbdb80afaada2338d571b23",
+      "bytes": 130669
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-10.png",
+      "sha256": "9ce947c1ee0429899f98a7bacb29eb001b8333f89d5696909cb815cddb93d613",
+      "bytes": 121780
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-11.png",
+      "sha256": "623053df6361d0d8aafd04e4da74b11a57e5ff60990a6451befd8cfbfea80169",
+      "bytes": 136151
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-12.png",
+      "sha256": "61576ec5605ed3ee792a8e04bc33d351f9545c6d614662b2ae0256867d1f4294",
+      "bytes": 177907
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-13.png",
+      "sha256": "690562caf8ced1888048bba0938ae0b580ce8be1755226e3f1048a1d3ab50a15",
+      "bytes": 156044
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-14.png",
+      "sha256": "754e370bced0bfd75ae968524267065c8527a7f96bd41b9ea29ab075663e9031",
+      "bytes": 200640
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-15.png",
+      "sha256": "2d96340e72c2ffc4dc66e6a0dc68f0f647b17671eacb1383f9500ba92543e735",
+      "bytes": 136914
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-16.png",
+      "sha256": "1be76e4ab11b5ace2fd65e3ca12287f94daff8fc1ff7f7bfe69a2d142cede13d",
+      "bytes": 309944
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-17.png",
+      "sha256": "6e18c0d284cf6197f6f02d2157be3c257a060d7879bfa0166ab70570bfe80d3c",
+      "bytes": 271514
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-18.png",
+      "sha256": "20c0f7e40e8867524eec8b9efbe942c48ad5361738bce7db6007f20ccc9e308c",
+      "bytes": 270048
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-19.png",
+      "sha256": "18a651247c303e57061ab1ffbee0a478d555beaa2b240a47cb6daaaeb89006f4",
+      "bytes": 613663
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-20.png",
+      "sha256": "138d54ec35bc36e5447b170104b5da0be9b2bdbab5a032720fb37bce4036384f",
+      "bytes": 636048
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-21.png",
+      "sha256": "377468c2a1d0727845cde7625dec654fca990bdcc26498ccae6f09c5f19b56fe",
+      "bytes": 322431
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-22.png",
+      "sha256": "db25b3d2ce15f925bef928bbdeac082b0fa5ebe9582ef6da281f2e0dd6f3afd4",
+      "bytes": 317608
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-23.png",
+      "sha256": "82bb13316b61173b07762af60b5f3c6a7c61b898e13fd5c7ad52ed2b79d96093",
+      "bytes": 484531
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-24.png",
+      "sha256": "62d8eaaa5f543d52090dc0bb6e8bfcea8d2e5eab999de1d3a98fdf0eb33e6469",
+      "bytes": 472487
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-25.png",
+      "sha256": "0b6625ca7c30e4b642332e7043acdb86fbafa1df231fe014439f5e436296b7a9",
+      "bytes": 493353
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-26.png",
+      "sha256": "17f35e75b6246e10d4815b15b4d15ca86bf040cbb991c7244d5985c73c2abe54",
+      "bytes": 425117
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-27.png",
+      "sha256": "571a0c101d619c90c33e0ee70fc3fe424fb5ff22e4dfc19c8c3e1b25c45e23c7",
+      "bytes": 523225
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-28.png",
+      "sha256": "8abb89d5081be2620ed257dd8632b49fe64a7c0d0051a25a0baa6b158c7564ef",
+      "bytes": 469398
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-29.png",
+      "sha256": "cd128c2d240386fe4d852e63a016e056918678947c93941c96768469327837cb",
+      "bytes": 508860
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-30.png",
+      "sha256": "37ddbffdc22a12bd1f363436f95453d4d8507b25a7fd72e9190bc70f37bb4a35",
+      "bytes": 623358
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-31.png",
+      "sha256": "46d9e54f5dafce120d1fb9584c51aac28ccdb86ae7c97a79870dadbd0a916fa8",
+      "bytes": 600938
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\render\\page-32.png",
+      "sha256": "311ed7d03a43153e9a94919f879744ca3da80cf30880989282b8472e8d80281a",
+      "bytes": 230994
+    }
+  ],
+  "protected_files": [
+    {
+      "path": "E:\\XcodeProject_sang\\模式题\\国考图形与逻辑专项练习-55题（图片规范版，含答案解析）.docx",
+      "sha256": "8f22e32bc8e704c04511ae6229e83d458f299e6d55d8c60a3cc1773dc76b7031"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\preview.pdf",
+      "sha256": "bf3989b666167a8ba7e552dac5acec6c63db6e035ae74fef5a5503c283153451"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\before.docx",
+      "sha256": "e7b5123e41ea0123f2d49589299ef5b2008144ebfa009e78480557e4ba3d09e6"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\模式题\\国考图形与逻辑专项练习-55题（含答案解析）.docx",
+      "sha256": "e169efd48fbcc95ba2cb75446bc0898860528e1b21cc6289e167cbaed93652da"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\assets\\q09.png",
+      "sha256": "6402aaeda45ccdd8d980611bb4b23d5d811c651c912b52ff0e038728eabcd036"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\assets\\q10.png",
+      "sha256": "5710a3bc90bb094ac4a8ee2afbbcb1d7230ff977715b3f766c123e5b4c68e07b"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\assets\\q11.png",
+      "sha256": "795e0eb0f1e7d30e8362d6527f0e641191cf677d882367050a8741247421d990"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\assets\\q12.png",
+      "sha256": "55d29db30fdacbc0356a4aa3580821b60fd5a63977ea28250655351b71189afc"
+    }
+  ],
+  "protected_hashes_unchanged": true
+}

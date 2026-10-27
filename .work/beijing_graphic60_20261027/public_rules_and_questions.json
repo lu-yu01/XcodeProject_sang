@@ -1,0 +1,1087 @@
+{
+  "instructions": "每组独立，三问共用该组12项规则。按从左至右顺序，每步作用于上一步结果，上下左右以当前图为准。符号右侧数字是标识的一部分，含义全卷一致。象限为4×4图中四个2×2区域；四角小格为整图的四个最外角单元。镜像改变格内朝向；平移复制保持朝向。",
+  "rules": [
+    {
+      "id": "CW",
+      "symbol": "●1",
+      "definition": "全图顺时针旋转90°"
+    },
+    {
+      "id": "CCW",
+      "symbol": "●2",
+      "definition": "全图逆时针旋转90°"
+    },
+    {
+      "id": "R180",
+      "symbol": "●3",
+      "definition": "全图旋转180°"
+    },
+    {
+      "id": "IA",
+      "symbol": "●4",
+      "definition": "全图黑白反色"
+    },
+    {
+      "id": "LR",
+      "symbol": "○1",
+      "definition": "全图左右镜像"
+    },
+    {
+      "id": "UD",
+      "symbol": "○2",
+      "definition": "全图上下镜像"
+    },
+    {
+      "id": "SX",
+      "symbol": "○3",
+      "definition": "左右半区直接换位，内部朝向不变"
+    },
+    {
+      "id": "SY",
+      "symbol": "○4",
+      "definition": "上下半区直接换位，内部朝向不变"
+    },
+    {
+      "id": "MT",
+      "symbol": "◆1",
+      "definition": "仅上半内部左右镜像，下半不变"
+    },
+    {
+      "id": "MB",
+      "symbol": "◆2",
+      "definition": "仅下半内部左右镜像，上半不变"
+    },
+    {
+      "id": "ML",
+      "symbol": "◆3",
+      "definition": "仅左半内部上下镜像，右半不变"
+    },
+    {
+      "id": "MR",
+      "symbol": "◆4",
+      "definition": "仅右半内部上下镜像，左半不变"
+    },
+    {
+      "id": "IT",
+      "symbol": "◇1",
+      "definition": "仅上半黑白反色，下半不变"
+    },
+    {
+      "id": "IB",
+      "symbol": "◇2",
+      "definition": "仅下半黑白反色，上半不变"
+    },
+    {
+      "id": "IL",
+      "symbol": "◇3",
+      "definition": "仅左半黑白反色，右半不变"
+    },
+    {
+      "id": "IR",
+      "symbol": "◇4",
+      "definition": "仅右半黑白反色，左半不变"
+    },
+    {
+      "id": "CL",
+      "symbol": "▲1",
+      "definition": "保留左半，将其左右镜像覆盖右半"
+    },
+    {
+      "id": "CR",
+      "symbol": "▲2",
+      "definition": "保留右半，将其左右镜像覆盖左半"
+    },
+    {
+      "id": "CT",
+      "symbol": "▲3",
+      "definition": "保留上半，将其上下镜像覆盖下半"
+    },
+    {
+      "id": "CB",
+      "symbol": "▲4",
+      "definition": "保留下半，将其上下镜像覆盖上半"
+    },
+    {
+      "id": "DL",
+      "symbol": "△1",
+      "definition": "保留左半，向右平移复制以覆盖右半"
+    },
+    {
+      "id": "DR",
+      "symbol": "△2",
+      "definition": "保留右半，向左平移复制以覆盖左半"
+    },
+    {
+      "id": "DT",
+      "symbol": "△3",
+      "definition": "保留上半，向下平移复制以覆盖下半"
+    },
+    {
+      "id": "DB",
+      "symbol": "△4",
+      "definition": "保留下半，向上平移复制以覆盖上半"
+    },
+    {
+      "id": "PCW",
+      "symbol": "■1",
+      "definition": "象限位置顺时针轮换一格，内部朝向不变"
+    },
+    {
+      "id": "PCCW",
+      "symbol": "■2",
+      "definition": "象限位置逆时针轮换一格，内部朝向不变"
+    },
+    {
+      "id": "QCW",
+      "symbol": "■3",
+      "definition": "每个象限各自顺时针转90°，象限位置不变"
+    },
+    {
+      "id": "QCCW",
+      "symbol": "■4",
+      "definition": "每个象限各自逆时针转90°，象限位置不变"
+    },
+    {
+      "id": "KCW",
+      "symbol": "□1",
+      "definition": "四角小格各自顺时针转90°，格子位置不变"
+    },
+    {
+      "id": "KCCW",
+      "symbol": "□2",
+      "definition": "四角小格各自逆时针转90°，格子位置不变"
+    },
+    {
+      "id": "DM",
+      "symbol": "□3",
+      "definition": "全图关于左上至右下对角线镜像"
+    },
+    {
+      "id": "DA",
+      "symbol": "□4",
+      "definition": "全图关于右上至左下对角线镜像"
+    }
+  ],
+  "groups": [
+    {
+      "group": 1,
+      "rules": [
+        "SX",
+        "LR",
+        "UD",
+        "SY",
+        "CW",
+        "CCW",
+        "MT",
+        "MB",
+        "IT",
+        "IB",
+        "IL",
+        "IR"
+      ],
+      "items": [
+        {
+          "n": 1,
+          "seq": [
+            "SX",
+            "MT",
+            "IL"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-01.png"
+        },
+        {
+          "n": 2,
+          "seq": [
+            "LR",
+            "CW",
+            "IR"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-02.png"
+        },
+        {
+          "n": 3,
+          "seq": [
+            "IR",
+            "MT",
+            "IL"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-03.png"
+        }
+      ]
+    },
+    {
+      "group": 2,
+      "rules": [
+        "SY",
+        "UD",
+        "LR",
+        "SX",
+        "CW",
+        "CCW",
+        "ML",
+        "MR",
+        "IT",
+        "IB",
+        "IL",
+        "IR"
+      ],
+      "items": [
+        {
+          "n": 4,
+          "seq": [
+            "CW",
+            "SY",
+            "MR"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-04.png"
+        },
+        {
+          "n": 5,
+          "seq": [
+            "UD",
+            "CCW",
+            "ML"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-05.png"
+        },
+        {
+          "n": 6,
+          "seq": [
+            "SX",
+            "ML",
+            "LR"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-06.png"
+        }
+      ]
+    },
+    {
+      "group": 3,
+      "rules": [
+        "CW",
+        "CCW",
+        "R180",
+        "QCW",
+        "QCCW",
+        "PCW",
+        "PCCW",
+        "LR",
+        "UD",
+        "MT",
+        "IT",
+        "IR"
+      ],
+      "items": [
+        {
+          "n": 7,
+          "seq": [
+            "MT",
+            "IR",
+            "QCW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-07.png"
+        },
+        {
+          "n": 8,
+          "seq": [
+            "QCCW",
+            "IT",
+            "CW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-08.png"
+        },
+        {
+          "n": 9,
+          "seq": [
+            "R180",
+            "MT",
+            "CW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-09.png"
+        }
+      ]
+    },
+    {
+      "group": 4,
+      "rules": [
+        "PCW",
+        "PCCW",
+        "QCW",
+        "QCCW",
+        "SX",
+        "SY",
+        "CW",
+        "CCW",
+        "LR",
+        "UD",
+        "IT",
+        "IL"
+      ],
+      "items": [
+        {
+          "n": 10,
+          "seq": [
+            "PCW",
+            "UD",
+            "CW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-10.png"
+        },
+        {
+          "n": 11,
+          "seq": [
+            "QCW",
+            "IT",
+            "PCCW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-11.png"
+        },
+        {
+          "n": 12,
+          "seq": [
+            "IT",
+            "SX",
+            "CW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-12.png"
+        }
+      ]
+    },
+    {
+      "group": 5,
+      "rules": [
+        "PCW",
+        "PCCW",
+        "QCW",
+        "QCCW",
+        "CW",
+        "CCW",
+        "MT",
+        "MB",
+        "ML",
+        "MR",
+        "IT",
+        "IR"
+      ],
+      "items": [
+        {
+          "n": 13,
+          "seq": [
+            "MR",
+            "QCCW",
+            "PCW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-13.png"
+        },
+        {
+          "n": 14,
+          "seq": [
+            "QCW",
+            "MT",
+            "MR"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-14.png"
+        },
+        {
+          "n": 15,
+          "seq": [
+            "MB",
+            "QCCW",
+            "MR"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-15.png"
+        }
+      ]
+    },
+    {
+      "group": 6,
+      "rules": [
+        "KCW",
+        "KCCW",
+        "QCW",
+        "QCCW",
+        "CW",
+        "CCW",
+        "MT",
+        "MB",
+        "LR",
+        "UD",
+        "IT",
+        "IB"
+      ],
+      "items": [
+        {
+          "n": 16,
+          "seq": [
+            "KCW",
+            "MT",
+            "CCW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-16.png"
+        },
+        {
+          "n": 17,
+          "seq": [
+            "KCCW",
+            "QCCW",
+            "CW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-17.png"
+        },
+        {
+          "n": 18,
+          "seq": [
+            "LR",
+            "CCW",
+            "QCW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-18.png"
+        }
+      ]
+    },
+    {
+      "group": 7,
+      "rules": [
+        "DL",
+        "CL",
+        "DR",
+        "CR",
+        "CW",
+        "CCW",
+        "LR",
+        "UD",
+        "MT",
+        "MB",
+        "IT",
+        "IR"
+      ],
+      "items": [
+        {
+          "n": 19,
+          "seq": [
+            "DL",
+            "CCW",
+            "MT"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-19.png"
+        },
+        {
+          "n": 20,
+          "seq": [
+            "CL",
+            "DR",
+            "IR"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-20.png"
+        },
+        {
+          "n": 21,
+          "seq": [
+            "UD",
+            "MT",
+            "CW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-21.png"
+        }
+      ]
+    },
+    {
+      "group": 8,
+      "rules": [
+        "DR",
+        "CR",
+        "DL",
+        "CL",
+        "CW",
+        "CCW",
+        "LR",
+        "UD",
+        "MT",
+        "MB",
+        "IB",
+        "IL"
+      ],
+      "items": [
+        {
+          "n": 22,
+          "seq": [
+            "DR",
+            "MB",
+            "LR"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-22.png"
+        },
+        {
+          "n": 23,
+          "seq": [
+            "CCW",
+            "CR",
+            "UD"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-23.png"
+        },
+        {
+          "n": 24,
+          "seq": [
+            "MB",
+            "UD",
+            "IB"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-24.png"
+        }
+      ]
+    },
+    {
+      "group": 9,
+      "rules": [
+        "DT",
+        "CT",
+        "DB",
+        "CB",
+        "CW",
+        "CCW",
+        "LR",
+        "UD",
+        "ML",
+        "MR",
+        "IT",
+        "IR"
+      ],
+      "items": [
+        {
+          "n": 25,
+          "seq": [
+            "CCW",
+            "DT",
+            "UD"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-25.png"
+        },
+        {
+          "n": 26,
+          "seq": [
+            "CCW",
+            "CT",
+            "IT"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-26.png"
+        },
+        {
+          "n": 27,
+          "seq": [
+            "ML",
+            "IT",
+            "CCW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-27.png"
+        }
+      ]
+    },
+    {
+      "group": 10,
+      "rules": [
+        "DB",
+        "CB",
+        "DT",
+        "CT",
+        "CW",
+        "CCW",
+        "LR",
+        "UD",
+        "ML",
+        "MR",
+        "IB",
+        "IL"
+      ],
+      "items": [
+        {
+          "n": 28,
+          "seq": [
+            "IL",
+            "UD",
+            "DB"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-28.png"
+        },
+        {
+          "n": 29,
+          "seq": [
+            "ML",
+            "CB",
+            "DT"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-29.png"
+        },
+        {
+          "n": 30,
+          "seq": [
+            "DB",
+            "MR",
+            "UD"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-30.png"
+        }
+      ]
+    },
+    {
+      "group": 11,
+      "rules": [
+        "CL",
+        "CR",
+        "DL",
+        "DR",
+        "CT",
+        "CB",
+        "DT",
+        "DB",
+        "CW",
+        "CCW",
+        "IT",
+        "IR"
+      ],
+      "items": [
+        {
+          "n": 31,
+          "seq": [
+            "CL",
+            "DB",
+            "CW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-31.png"
+        },
+        {
+          "n": 32,
+          "seq": [
+            "CL",
+            "DR",
+            "CW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-32.png"
+        },
+        {
+          "n": 33,
+          "seq": [
+            "IR",
+            "DB",
+            "CT"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-33.png"
+        }
+      ]
+    },
+    {
+      "group": 12,
+      "rules": [
+        "MT",
+        "MB",
+        "LR",
+        "UD",
+        "SX",
+        "SY",
+        "CW",
+        "CCW",
+        "IT",
+        "IB",
+        "QCW",
+        "QCCW"
+      ],
+      "items": [
+        {
+          "n": 34,
+          "seq": [
+            "CW",
+            "QCCW",
+            "MT"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-34.png"
+        },
+        {
+          "n": 35,
+          "seq": [
+            "IT",
+            "QCW",
+            "MB"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-35.png"
+        },
+        {
+          "n": 36,
+          "seq": [
+            "UD",
+            "MB",
+            "LR"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-36.png"
+        }
+      ]
+    },
+    {
+      "group": 13,
+      "rules": [
+        "ML",
+        "MR",
+        "LR",
+        "UD",
+        "SX",
+        "SY",
+        "CW",
+        "CCW",
+        "IL",
+        "IR",
+        "PCW",
+        "PCCW"
+      ],
+      "items": [
+        {
+          "n": 37,
+          "seq": [
+            "CCW",
+            "LR",
+            "ML"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-37.png"
+        },
+        {
+          "n": 38,
+          "seq": [
+            "UD",
+            "MR",
+            "PCCW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-38.png"
+        },
+        {
+          "n": 39,
+          "seq": [
+            "CCW",
+            "LR",
+            "SY"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-39.png"
+        }
+      ]
+    },
+    {
+      "group": 14,
+      "rules": [
+        "IT",
+        "IB",
+        "IL",
+        "IR",
+        "IA",
+        "CW",
+        "CCW",
+        "MT",
+        "MB",
+        "PCW",
+        "PCCW",
+        "KCW"
+      ],
+      "items": [
+        {
+          "n": 40,
+          "seq": [
+            "IT",
+            "PCCW",
+            "CW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-40.png"
+        },
+        {
+          "n": 41,
+          "seq": [
+            "CCW",
+            "MT",
+            "IB"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-41.png"
+        },
+        {
+          "n": 42,
+          "seq": [
+            "IA",
+            "IR",
+            "PCCW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-42.png"
+        }
+      ]
+    },
+    {
+      "group": 15,
+      "rules": [
+        "IL",
+        "IR",
+        "IT",
+        "IB",
+        "IA",
+        "CW",
+        "CCW",
+        "ML",
+        "MR",
+        "QCW",
+        "QCCW",
+        "KCCW"
+      ],
+      "items": [
+        {
+          "n": 43,
+          "seq": [
+            "KCCW",
+            "QCW",
+            "IL"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-43.png"
+        },
+        {
+          "n": 44,
+          "seq": [
+            "CW",
+            "IR",
+            "IL"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-44.png"
+        },
+        {
+          "n": 45,
+          "seq": [
+            "KCCW",
+            "QCCW",
+            "IA"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-45.png"
+        }
+      ]
+    },
+    {
+      "group": 16,
+      "rules": [
+        "DM",
+        "DA",
+        "LR",
+        "UD",
+        "SX",
+        "SY",
+        "CW",
+        "CCW",
+        "MT",
+        "ML",
+        "IT",
+        "IR"
+      ],
+      "items": [
+        {
+          "n": 46,
+          "seq": [
+            "IT",
+            "SY",
+            "DM"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-46.png"
+        },
+        {
+          "n": 47,
+          "seq": [
+            "UD",
+            "DA",
+            "IT"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-47.png"
+        },
+        {
+          "n": 48,
+          "seq": [
+            "LR",
+            "IR",
+            "DA"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-48.png"
+        }
+      ]
+    },
+    {
+      "group": 17,
+      "rules": [
+        "CL",
+        "CT",
+        "DL",
+        "DT",
+        "CW",
+        "CCW",
+        "R180",
+        "IT",
+        "IB",
+        "IL",
+        "IR",
+        "LR"
+      ],
+      "items": [
+        {
+          "n": 49,
+          "seq": [
+            "CL",
+            "IL",
+            "IT"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-49.png"
+        },
+        {
+          "n": 50,
+          "seq": [
+            "CL",
+            "CT",
+            "IB"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-50.png"
+        },
+        {
+          "n": 51,
+          "seq": [
+            "DT",
+            "CW",
+            "CT"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-51.png"
+        }
+      ]
+    },
+    {
+      "group": 18,
+      "rules": [
+        "MT",
+        "MB",
+        "ML",
+        "MR",
+        "IT",
+        "IB",
+        "IL",
+        "IR",
+        "CW",
+        "CCW",
+        "DM",
+        "DA"
+      ],
+      "items": [
+        {
+          "n": 52,
+          "seq": [
+            "IT",
+            "MT",
+            "CW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-52.png"
+        },
+        {
+          "n": 53,
+          "seq": [
+            "ML",
+            "IT",
+            "DM"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-53.png"
+        },
+        {
+          "n": 54,
+          "seq": [
+            "MR",
+            "DA",
+            "ML"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-54.png"
+        }
+      ]
+    },
+    {
+      "group": 19,
+      "rules": [
+        "KCW",
+        "KCCW",
+        "CR",
+        "DR",
+        "CB",
+        "DB",
+        "QCW",
+        "QCCW",
+        "CW",
+        "CCW",
+        "IT",
+        "IR"
+      ],
+      "items": [
+        {
+          "n": 55,
+          "seq": [
+            "DB",
+            "CCW",
+            "KCW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-55.png"
+        },
+        {
+          "n": 56,
+          "seq": [
+            "KCCW",
+            "CCW",
+            "CR"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-56.png"
+        },
+        {
+          "n": 57,
+          "seq": [
+            "CR",
+            "KCW",
+            "CCW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-57.png"
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "rules": [
+        "DA",
+        "DM",
+        "PCW",
+        "PCCW",
+        "QCW",
+        "QCCW",
+        "DL",
+        "CL",
+        "DB",
+        "CB",
+        "IT",
+        "IR"
+      ],
+      "items": [
+        {
+          "n": 58,
+          "seq": [
+            "DA",
+            "IT",
+            "PCW"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-58.png"
+        },
+        {
+          "n": 59,
+          "seq": [
+            "CL",
+            "PCW",
+            "DM"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-59.png"
+        },
+        {
+          "n": 60,
+          "seq": [
+            "CB",
+            "DL",
+            "DM"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-60.png"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "passed_structural_and_explicit_checks": true,
+  "count": 30,
+  "subtype_counts": {
+    "加强": 10,
+    "削弱": 10,
+    "前提": 4,
+    "解释": 3,
+    "评价": 2,
+    "归纳": 1
+  },
+  "answer_distribution": {
+    "B": 7,
+    "D": 7,
+    "A": 8,
+    "C": 8
+  },
+  "difficulty_distribution": {
+    "中高": 21,
+    "中等": 9
+  },
+  "length_pattern_review": {
+    "correct_tied_or_unique_longest_count": 10,
+    "correct_tied_or_unique_longest_questions": [
+      84,
+      89,
+      91,
+      94,
+      95,
+      99,
+      103,
+      105,
+      106,
+      108
+    ],
+    "correct_tied_or_unique_shortest_count": 7,
+    "correct_tied_or_unique_shortest_questions": [
+      83,
+      87,
+      96,
+      101,
+      104,
+      107,
+      109
+    ],
+    "not_a_uniqueness_or_difficulty_test": true
+  },
+  "explicit_checks": [
+    {
+      "n": 83,
+      "check": "sum upper bound negative",
+      "passed": true
+    },
+    {
+      "n": 85,
+      "check": "same-hour total capacity change positive",
+      "net_people": 250,
+      "passed": true
+    },
+    {
+      "n": 91,
+      "check": "per-capita decrease and total increase coexist",
+      "passed": true
+    },
+    {
+      "n": 95,
+      "check": "comparable competitor cost rises more",
+      "cost_a": 120.0,
+      "cost_b": 130.0,
+      "passed": true
+    },
+    {
+      "n": 98,
+      "check": "proposed pair can hold while necessary bottleneck absent",
+      "passed": true
+    },
+    {
+      "n": 101,
+      "check": "negation produces within-batch counterexample; an outside-batch non-T-with-X does not invalidate batch conclusion",
+      "passed": true
+    },
+    {
+      "n": 102,
+      "check": "net-change negation destroys positive saving; gross-added bound has explicit counterexample and is not necessary",
+      "passed": true
+    },
+    {
+      "n": 103,
+      "check": "a longer repair supplies counterexample to every-alert guarantee",
+      "passed": true
+    },
+    {
+      "n": 104,
+      "check": "concurrent duplicate identifier yields ambiguous two-tool assignment",
+      "passed": true
+    },
+    {
+      "n": 106,
+      "check": "two group rates improve while overall declines",
+      "before": 0.5,
+      "after": 0.275,
+      "passed": true
+    },
+    {
+      "n": 107,
+      "check": "overdue count down, rate up",
+      "passed": true
+    },
+    {
+      "n": 108,
+      "check": "evaluation answers can reverse net benefit sign",
+      "passed": true
+    },
+    {
+      "n": 110,
+      "check": "descriptive group comparison and unavailable before-after data",
+      "passed": true
+    }
+  ],
+  "length_warnings": [],
+  "semantic_uniqueness_proved_by_program": false,
+  "manual_review_required": [
+    "普通语言含义与指向是否清楚",
+    "各项作用对象、方向、范围及比较强度",
+    "前提否定检验是否针对论证而非仅针对结论偶然真假",
+    "解释同时保留两项事实",
+    "评价问题正反答案确有不同作用",
+    "强度接近项是否有可辩护区分，是否存在意外同强选项"
+  ],
+  "materials_status": "人物、机构、数字和场景均为练习设定；真实源题只用作结构参考，未伪造真实权威研究。"
+}

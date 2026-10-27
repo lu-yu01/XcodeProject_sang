@@ -1,0 +1,327 @@
+{
+  "reviewer": "varied_tokens (非第1—7组作者)",
+  "scope": "仅公开intro/rules/chain、question PNG；未读取lines.py、questions.json、groups.json或解答图。",
+  "method": "逐张实际打开原图，依据文字规则独立目视试解；先冻结首次选择，再另做复核。",
+  "public_manifest_first_sha256": "ac94d7672500da0109670a68f88169945379e6b1d0faab734e4fe9cd7829dd1c",
+  "answers": [
+    {
+      "n": 1,
+      "first_choice": "D",
+      "basis": "黑点5经P到1；I仅翻转1—5箭头，成为5→1，其余边及线型不变。四项仅D满足。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-01.png",
+      "image_sha256": "8eb09ceb31bdf9adfe0d67751aa92d9b7cdcb211c84d61dfa70fb55e0d2e1b03",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "P",
+        "I"
+      ]
+    },
+    {
+      "n": 2,
+      "first_choice": "D",
+      "basis": "D交换虚实后C令端点+1；黑点仍3。I反向接3的边。最终虚线2→1、3→1、5→3，实线2→5、2→4。",
+      "concerns": [
+        "原尺寸箭头细小，已额外打开D选项放大核对箭头指向。"
+      ],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-02.png",
+      "image_sha256": "53f91faf3ac1890b0152c18116195ac6589181f989de58eb5879a23e54f7a99b",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "D",
+        "C",
+        "I"
+      ]
+    },
+    {
+      "n": 3,
+      "first_choice": "A",
+      "basis": "镜像映射2↔5、3↔4，黑点5→2，经P到3。I及全反向后为实线1→5、5→2、2→3和虚线4→1、4→5；A唯一。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-03.png",
+      "image_sha256": "2a91291c0fa3214273669afd2ef52e00faf6e3d15d8b8f4bff74b965a05ff5a1",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "M",
+        "P",
+        "I",
+        "↶"
+      ]
+    },
+    {
+      "n": 4,
+      "first_choice": "D",
+      "basis": "H后高度依次为3、2、4、0、1；U作用于第2、4段，最终四段均为虚线。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-04.png",
+      "image_sha256": "fc68f988ad932ec36b2b6428b4b600952939e2f30513b9c3bbdfffd5f7074b92",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "H",
+        "U"
+      ]
+    },
+    {
+      "n": 5,
+      "first_choice": "C",
+      "basis": "原高度3、2、0、1、4，经V、H后为0、1、2、4、3；U翻第1—3段，线型为实、虚、虚、实。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-05.png",
+      "image_sha256": "18843a0f3873549b2f3ec8fae1e3389205d27bb27661acbe9c0344c198ad2923",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "V",
+        "H",
+        "U"
+      ]
+    },
+    {
+      "n": 6,
+      "first_choice": "B",
+      "basis": "S先倒序线型，E、J交换高度后为3、4、0、2、1；U翻第1、3段，最终虚、实、虚、虚。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-06.png",
+      "image_sha256": "6c0573a8331ae49e769d7738cfc42b6828975a85906e910924e2437984ef87c8",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "S",
+        "E",
+        "J",
+        "U"
+      ]
+    },
+    {
+      "n": 7,
+      "first_choice": "B",
+      "basis": "方向族按各自中点从左到右编号。H后水平为实虚实，C后水平虚实虚、右上斜实虚实、右下斜实实虚。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-07.png",
+      "image_sha256": "b152b7e111124d88fe41960e2456318593664f670d327500279c579af6aa1054",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "H",
+        "C"
+      ]
+    },
+    {
+      "n": 8,
+      "first_choice": "A",
+      "basis": "M后中心倒三角上虚右虚左实，T后上实右虚左虚；H使三个水平全虚，其余边对应A。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-08.png",
+      "image_sha256": "0fb14a0cbc0136ab56e871f2f75874c23aa24df7c4ab50adb1bb971f34c2b395",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "M",
+        "T",
+        "H"
+      ]
+    },
+    {
+      "n": 9,
+      "first_choice": "D",
+      "basis": "把X的最下方左右两边解释为底边左、右两段；F、X、C、H后水平虚虚实、右上斜全虚、右下斜虚实实，对应D。",
+      "concerns": [
+        "X中最下方左右两边可能被理解为外侧下方斜边，建议明确写底边左、右两段。"
+      ],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-09.png",
+      "image_sha256": "9ddaee0501b7abd26d9c0b4f840ecb7363a1894aecef685fd5ab8d31dd879341",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "F",
+        "X",
+        "C",
+        "H"
+      ]
+    },
+    {
+      "n": 10,
+      "first_choice": "D",
+      "basis": "B后上端1—4接丁乙甲丙，D使接甲乙两线翻虚实；最终1丁虚、2乙实、3甲实、4丙实。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-10.png",
+      "image_sha256": "f313553ee18c50541321e268bc75cce593db961cdbe5d965dcd7cffbf0cf5a40",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "B",
+        "D"
+      ]
+    },
+    {
+      "n": 11,
+      "first_choice": "D",
+      "basis": "U上端循环后，E交换甲丁，再D翻接甲乙线；最终1丙虚、2乙虚、3甲实、4丁实。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-11.png",
+      "image_sha256": "5e9babd3f325e7ffda0feceb42ace3a149688cf4a85deb3596adc7b79e6fa35a",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "U",
+        "E",
+        "D"
+      ]
+    },
+    {
+      "n": 12,
+      "first_choice": "B",
+      "basis": "M翻下端、X换上1与4、B下端循环，得1甲实2丁虚3乙实4丙虚；D后四条全虚，连接为甲丁乙丙。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-12.png",
+      "image_sha256": "c4170c39077e6616f8efa39cea119de3bd9569b696b32c9a4721a4a3366578e4",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "M",
+        "X",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "n": 13,
+      "first_choice": "A",
+      "basis": "L后长度为1、4、4、3、2，D只翻第2、3、4行线型，实虚为实虚实实虚，黑圆仍第3行。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-13.png",
+      "image_sha256": "85d787b7a75cc441daa6465c3b66646cf3d59aaa4cd5f9fa2683578789dcbe1e",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "L",
+        "D"
+      ]
+    },
+    {
+      "n": 14,
+      "first_choice": "C",
+      "basis": "C后长度1、2、2、1、3；S后线型虚虚实虚虚；D只翻第5行，成为虚虚实虚实。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-14.png",
+      "image_sha256": "c970311ba680fa56dee10418f905091051892205f034cedc7b43eef1400732df",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "C",
+        "S",
+        "D"
+      ]
+    },
+    {
+      "n": 15,
+      "first_choice": "C",
+      "basis": "P后黑圆为第1、3、4行；E、L后长度2、1、4、2、4，D后仅第3、5行实线。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-15.png",
+      "image_sha256": "046362f51ddb28bbe6f3e9b8966c9787089c76892f4478ce677708ac8c010ad1",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "P",
+        "E",
+        "L",
+        "D"
+      ]
+    },
+    {
+      "n": 16,
+      "first_choice": "D",
+      "basis": "端饰逆时针移位后自上顺时针为三角、三角、黑圆、空圆、黑圆、空圆；D翻第3、5射线，连同原第1射线为虚线。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-16.png",
+      "image_sha256": "0d3ae643b234480d83de88f7aebc0516154f6d8c66cdf7c684f3b537390f06dc",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "T",
+        "D"
+      ]
+    },
+    {
+      "n": 17,
+      "first_choice": "A",
+      "basis": "S交换黑圆与三角，T逆时针移位后端饰为三角、空圆、空圆、三角、三角、黑圆；D只翻左上射线。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-17.png",
+      "image_sha256": "bdec6672c018f3704d1840caaea1229e9f436a2e73acf58bd0d91b50cd8101d1",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "S",
+        "T",
+        "D"
+      ]
+    },
+    {
+      "n": 18,
+      "first_choice": "D",
+      "basis": "原长度3、2、1、2、3、1，经C、E、L后为3、2、2、3、1、1；D只将上方黑圆射线翻为虚线。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-18.png",
+      "image_sha256": "a559db5d35f02314e6b4ae1992686b908aaf69dcad8119228e2c69e611325dc0",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "C",
+        "E",
+        "L",
+        "D"
+      ]
+    },
+    {
+      "n": 19,
+      "first_choice": "B",
+      "basis": "乙经T去掉中横线，仅余右上竖、底横；甲与其异或后余顶横、左下竖、右下竖，乙保持，对应B。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-19.png",
+      "image_sha256": "432c00dc15c857b29008070fa25a00d407421b9f2e890a16fb8ffa3b84e621f4",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "T",
+        "⊕"
+      ]
+    },
+    {
+      "n": 20,
+      "first_choice": "B",
+      "basis": "M后甲为顶横、右上竖、中横、左下竖；互换后异或，甲成顶横加两侧完整竖，乙保留镜像后的原甲，对应B。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-20.png",
+      "image_sha256": "c29ca1bc2be755f8c887563cc0556172d8bd0e2d054c3ee531c1a33cc52d0d50",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "M",
+        "⇄",
+        "⊕"
+      ]
+    },
+    {
+      "n": 21,
+      "first_choice": "A",
+      "basis": "R后甲为中横、右上竖；乙合并后含顶横、左上竖、左下竖、右上竖、中横。互换并异或后甲余顶横、左上竖、左下竖，乙为中横、右上竖。",
+      "concerns": [],
+      "actual_opened": true,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-21.png",
+      "image_sha256": "36e3332a236db91b9e2eb31df83168b29dae9e38189b7680f8f63a2d7709a869",
+      "manifest_image_hash_matches": true,
+      "chain": [
+        "R",
+        "∪",
+        "⇄",
+        "⊕"
+      ]
+    }
+  ]
+}

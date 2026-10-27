@@ -1,0 +1,297 @@
+{
+  "passed": true,
+  "scope": "代理交叉独立求解，非教师盲审或学员试测；每题至少一份最终图像绑定且答案一致的独立推理记录。",
+  "questions": [
+    {
+      "n": 1,
+      "answer": "B",
+      "review_file": "blind_review_a_by_b.json",
+      "image_sha256": "39281afa0a898b03b65b6a4c1c4275e969592f24d74085cc51d15c84e1984766",
+      "natural_rule": "三个黑点分主体运动：内圈黑点逐次逆时针移一格；外圈两个黑点分别顺时针移一格和两格，下一幅内点为左上，外点在右边相邻两点。",
+      "confidence": 0.97,
+      "notes": []
+    },
+    {
+      "n": 2,
+      "answer": "D",
+      "review_file": "blind_review_a_by_b.json",
+      "image_sha256": "4aad60d56362645b4b3c6c8bb6f583f97a72235f21240859a57b3f3de4229e68",
+      "natural_rule": "先找外轮廓唯一对称轴：三角形竖轴、风筝四边形斜轴、箭头横轴，外轴每次顺时针45°；内部Z折线每次逆时针45°。右组第三图应为斜箭头及对应Z方向。",
+      "confidence": 0.92,
+      "notes": [
+        "最初未认出风筝形对称轴，只凭边数和内部折线会留下B、D；重新沿风筝相邻等边寻找斜轴后自行消除了该疑问。"
+      ]
+    },
+    {
+      "n": 3,
+      "answer": "A",
+      "review_file": "blind_review_a_by_b.json",
+      "image_sha256": "765ed3d13e7c82601ae2babd4ca026acb2cfab4f5905a26ab361f7e9aa015196",
+      "natural_rule": "每行先把第一幅黑格整体顺时针旋转90°，再和保持原位的第二幅逐格求异。第三行计算得到A。",
+      "confidence": 0.97,
+      "notes": []
+    },
+    {
+      "n": 4,
+      "answer": "C",
+      "review_file": "blind_review_a_by_b.json",
+      "image_sha256": "ceda24cb26332ec80e19093f24b01e6334c35263e314307709faf3b21ab92a87",
+      "natural_rule": "每格所有多边形的直角总数等于封闭图形数加黑点数。左组为5=2+3、7=3+4、4=2+2，右组亦一致；候选C的直角为3+3+1=7，等于3个图形加4个点。",
+      "confidence": 0.84,
+      "notes": [
+        "斜放多边形的直角需细看；我用原图像素的轮廓向量辅助估计，未读取作者的几何源数据。图像粗化会增加人工辨认负担，但未恢复出另一个同样自然的正确候选。"
+      ]
+    },
+    {
+      "n": 5,
+      "answer": "D",
+      "review_file": "blind_review_a_by_b.json",
+      "image_sha256": "29ac41b84e9baab6de42321defb297c8f1cdb2d51a981d6963c9aa999f2546d5",
+      "natural_rule": "每格主体方框内部的最小封闭面数等于主体框外连接短线的数量。前三图分别3、6、4，后两图7、5，D项为5面和5条外接短线。内部不封面的短线不能算新面。",
+      "confidence": 0.96,
+      "notes": []
+    },
+    {
+      "n": 6,
+      "answer": "B",
+      "review_file": "blind_review_a_by_b.json",
+      "image_sha256": "39c68857a49599ab3d4e1905f012045d2306ae1bd5304b5455568778ec1776b2",
+      "natural_rule": "每幅由两个线图组成，最少笔画总数依次为2、3、4、2、3，下一幅应4笔。B为一个3笔图加一个闭合一笔图，其余三项均3笔。",
+      "confidence": 0.96,
+      "notes": []
+    },
+    {
+      "n": 7,
+      "answer": "A",
+      "review_file": "blind_review_a_by_b.json",
+      "image_sha256": "0fdb37b98e35ace0c48c0b37ae57891e9e8b921355b3138fd2fb4d18b21c6ffa",
+      "natural_rule": "忽略最外排版框，找各图最大封闭面，即内层多边形。①③⑥仅中心对称，②④⑤仅轴对称。外层小边和连接线是干扰。",
+      "confidence": 0.92,
+      "notes": [
+        "此题需要先选定最大面；按全图外轮廓看不出同样稳定分法。"
+      ]
+    },
+    {
+      "n": 8,
+      "answer": "C",
+      "review_file": "blind_review_a_by_b.json",
+      "image_sha256": "0f31103498980b5f40810b65a7a52f50c7a50c20bc6f37571f311f9f99a33610",
+      "natural_rule": "只看黑色小格组成的子图，①④⑤是中心对称而无对称轴；②③⑥有竖直轴对称但非中心对称。",
+      "confidence": 0.97,
+      "notes": []
+    },
+    {
+      "n": 9,
+      "answer": "D",
+      "review_file": "blind_review_a_by_b.json",
+      "image_sha256": "0e6730743ce74ed9660abd4e9693cd51830f521073acba814925ba560e0e1911",
+      "natural_rule": "六图均含两个五边形，且每图直角总数均为4。①④⑥的两个五边形各有2个直角；②③⑤为一个1直角、另一个3直角。不能只数每幅总直角。",
+      "confidence": 0.93,
+      "notes": [
+        "斜放的直角需逐角核对；同样用纯图像轮廓测角辅助，未读作者模型。"
+      ]
+    },
+    {
+      "n": 10,
+      "answer": "B",
+      "review_file": "blind_review_a_by_b.json",
+      "image_sha256": "d13aecb0866531d22d7a2f3d645659a9345b51476df51f4830136b6b305f87bc",
+      "natural_rule": "两条虚线折线彼此只有一个相交点。①④⑤的交点在实线封闭图形外；②③⑥在内。实线四边形和虚线数量相同，分类依据是交点参照关系。",
+      "confidence": 0.98,
+      "notes": []
+    },
+    {
+      "n": 11,
+      "answer": "C",
+      "review_file": "blind_review_b_11_12_15_by_a.json",
+      "image_sha256": "ced1eda32a37e928ddbf0aa67cc1b1d102bc778c79eb81e098f235a240b65ee2",
+      "natural_rule": "上方实心圆个数=下方黑格按共边连通的部分数；上方空心圆个数=有黑格接触的方格框边数。五幅题干分别为(1部分,3边)、(2,4)、(3,3)、(2,2)、(3,4)。问号给2实心3空心，需2个黑色连通部分且接触3条框边；C符合。A接触4边，B有3部分，D仅1部分。",
+      "confidence": 0.97,
+      "notes": []
+    },
+    {
+      "n": 12,
+      "answer": "A",
+      "review_file": "blind_review_b_11_12_15_by_a.json",
+      "image_sha256": "7f6f24b7b97eb55907828d2e4234abd5c3ec48e91adfb5d57bc4c0e21e09dd17",
+      "natural_rule": "上、下两个线图的最少笔画数应相等；同时上图不同直线方向的种类数等于下图封闭面数。五个题干上方方向种类依次2、3、3、2、2，下方面数同为2、3、3、2、2；上下最少笔画分别均为1、2、1、2、1。A上图有3种方向且2笔，下图3面且2笔。B下图只有2面；C下图仅1笔；D上下笔画不等且面数不合。",
+      "confidence": 0.9,
+      "notes": [
+        "上方只有“有/无一种斜线”两种取值，也可等价表述为斜线出现与下方三角形面出现对应；两种表述均只选A，未发现影响答案的多解。"
+      ]
+    },
+    {
+      "n": 13,
+      "answer": "B",
+      "review_file": "blind_review_b_by_c.json",
+      "image_sha256": "d208786d105d67cfa8a8a56d5613d571a7d0cc0f8060c6aca9790b48923b004a",
+      "natural_rule": "每行前两幅按同一格叠加，黑黑或白白抵消、黑白保留黑点，所得整体顺时针旋转90度为第三幅；空白位置按零处理。第三行对应B。",
+      "confidence": 0.99,
+      "notes": []
+    },
+    {
+      "n": 14,
+      "answer": "A",
+      "review_file": "blind_review_b_by_c.json",
+      "image_sha256": "227d7077beefb118004ee69b2d9aa0c5ee16f86498b0a4ebb0b14f0d26a23adb",
+      "natural_rule": "前两图逐位置叠加：同色相消；一空一有保留有色；实心与空心相遇保留实心。然后整体上下翻转，得到第三图，故右组选A。浅灰定位点不参加运算。",
+      "confidence": 0.97,
+      "notes": []
+    },
+    {
+      "n": 15,
+      "answer": "D",
+      "review_file": "blind_review_b15_revised_by_a.json",
+      "image_sha256": "c1a7aee18442aae043c747ac00c0d66c8990e9be5d1aa8d5357493b7816fdccb",
+      "natural_rule": "第一轮自然观察到每行第三图的黑格都是第一图黑格的子集，先考虑删除关系；直接同位求差不成立。将第二图顺时针旋转90°后，删去第一图中与其黑格重合的位置，恰得到第三图，即C=A−R90(B)。前两行均逐格成立。第三行留下(0,1)、(0,2)、(1,3)、(3,1)四格，对应D。无需任何循环平移。",
+      "confidence": 0.97,
+      "notes": []
+    },
+    {
+      "n": 16,
+      "answer": "C",
+      "review_file": "blind_review_b_by_c.json",
+      "image_sha256": "6cd72862ac8a9e97cfe00d086785d2a55ab4c7cd09700cd87c728f676c7effa9",
+      "natural_rule": "每行第一幅顺时针旋转90度，第二幅逆时针旋转90度，然后叠加取并集，重合线段只保留一次，得到第三幅。第三行选C。",
+      "confidence": 0.99,
+      "notes": []
+    },
+    {
+      "n": 17,
+      "answer": "A",
+      "review_file": "blind_review_b_by_c.json",
+      "image_sha256": "d70e41e70a81764a3b9117506a1e99e6989740d110277a0cda3fc35726d6b7c6",
+      "natural_rule": "①③⑥黑点位于两个封闭图形共同覆盖的区域；②④⑤黑点只位于其中一个封闭图形内。",
+      "confidence": 0.99,
+      "notes": []
+    },
+    {
+      "n": 18,
+      "answer": "D",
+      "review_file": "blind_review_b_by_c.json",
+      "image_sha256": "fa2c945709264b33d2e495adce94918ad1521de8798463d7868756eb852c3be4",
+      "natural_rule": "六图黑格数相同；①②④全部黑格以边相连成为一个整体，③⑤⑥黑格分成两个四邻接连通块。",
+      "confidence": 0.99,
+      "notes": []
+    },
+    {
+      "n": 19,
+      "answer": "B",
+      "review_file": "blind_review_b_by_c.json",
+      "image_sha256": "c6c8bb6a1f1b47aa93579958099d92eb702c28a11edb9c9d4a2786771679ea46",
+      "natural_rule": "考查封闭图形自身的隐含对称轴与图外短线方向：①②⑤轴与短线平行；③④⑥轴与短线垂直。②五边形的斜对称轴与其上方斜线平行。",
+      "confidence": 0.99,
+      "notes": []
+    },
+    {
+      "n": 20,
+      "answer": "C",
+      "review_file": "blind_review_b_by_c.json",
+      "image_sha256": "c40ec2d37804678f3f06bec2e3bdf86f48374354aa572e276497fb9acefa8b4c",
+      "natural_rule": "每图的三个小正方形外延短线总数均为5；①④⑤分别按3、1、1分配，②③⑥分别按2、2、1分配。旋转或位置不影响分组。",
+      "confidence": 0.99,
+      "notes": []
+    },
+    {
+      "n": 21,
+      "answer": "B",
+      "review_file": "blind_review_c_by_a.json",
+      "image_sha256": "7e708d2d2e93059f7a0a93246888fda6903042172d832ac57c884307abcbe0d0",
+      "natural_rule": "以P=(0,0,0)、Q=(3,0,0)、R=(0,3,3)建系，截面为z=y。阶梯三个水平宽仍为1，截面各竖高为√2，整体高宽比为√2。B为等宽三阶且高宽比√2；A为方形比例，D三阶宽不等，C轮廓不符。",
+      "confidence": 0.99,
+      "notes": []
+    },
+    {
+      "n": 22,
+      "answer": "C",
+      "review_file": "blind_review_c_by_a.json",
+      "image_sha256": "8298f3e0b8e2ad92c04d00cb49db3173930ef1f4a666dd034d7d17c562f67ed2",
+      "natural_rule": "截面包含底棱PQ，设底面边长4，顶点高4。R在SC中点，平面z=2(y+2)/3；与SD交于中点。截面是下底4、上底2、高√13的等腰梯形，C比例相符。",
+      "confidence": 0.99,
+      "notes": []
+    },
+    {
+      "n": 23,
+      "answer": "D",
+      "review_file": "blind_review_c_by_a.json",
+      "image_sha256": "64cdc2be644191bb4f793177271b7c9714c5551bb8f23b56c0bc734b958b1c75",
+      "natural_rule": "截面z=y，外轮廓左右4、斜高3√2；贯穿孔的截孔左右2、斜高√2，且在正中。孔宽为外框1/2、高为1/3，D符合；A孔宽不足，B孔高过大，C偏心。",
+      "confidence": 0.99,
+      "notes": []
+    },
+    {
+      "n": 24,
+      "answer": "C",
+      "review_file": "blind_review_c_by_a.json",
+      "image_sha256": "05939dadb9c35a7d7d88ebda7b1df7ed6833e1b8fd4764d41f5dbad24e50408d",
+      "natural_rule": "读取正视最大列高3、2、3，右视前中后最大高3、3、2；俯视后排110、中排111、前排101。C符合前排左高3及后排最高2，并保持占位。B前排高度不足，D后排存在3高，A多出的低位块与俯视占位不合。",
+      "confidence": 0.86,
+      "notes": [
+        "立体遮挡较多，此项由原图直接还原判断的置信度低于截面比例题；未发现第二个自然成立选项。"
+      ]
+    },
+    {
+      "n": 25,
+      "answer": "D",
+      "review_file": "blind_review_c_by_a.json",
+      "image_sha256": "b8c56cc81867939da97510b3db71f8de8ac49395b1f64687d5ccca407f208f63",
+      "natural_rule": "俯视10个占位先各放1块。前视列高2、4、2、3，右视行高4、3、3；4高只能放前排第2列，补3块。第1、3列各补1，第4列后排需3高补2，中排尚需3高再补2，总数10+3+1+1+2+2=19，选D。",
+      "confidence": 0.99,
+      "notes": []
+    },
+    {
+      "n": 26,
+      "answer": "B",
+      "review_file": "blind_review_c_by_a.json",
+      "image_sha256": "9aedc1a446e634e3f8973d3666a80bd1dea278c57752c45d0bf6f285670d09cc",
+      "natural_rule": "沿PR方向投影消去深度。立方框成为方框，前后斜杆成为两条对角线；位于左侧面中的竖杆并入左边界，另一竖杆投影为中线；中高横杆投影为水平中线。B同时含X、竖中线和横中线。",
+      "confidence": 0.98,
+      "notes": []
+    },
+    {
+      "n": 27,
+      "answer": "C",
+      "review_file": "blind_review_c_by_a.json",
+      "image_sha256": "096e9dc1f2a151b1b6c22f031233107862b41a4d4081e47c601bd1d86e4469f5",
+      "natural_rule": "箭头必须指向与三角形面共用的棱，三角形尖端须朝向黑L面。A箭头朝向错误；B黑L在三角形下方，尖端朝反；D三角形尖端朝箭头面，方向错误。C同时符合三面及方向关系。",
+      "confidence": 0.96,
+      "notes": []
+    },
+    {
+      "n": 28,
+      "answer": "C",
+      "review_file": "blind_review_c_by_a.json",
+      "image_sha256": "87101cce3b520107792a8dc26b0703bbcee3f3b8003d93a8fb63c168137bac54",
+      "natural_rule": "①箭头朝黑L面、三角形尖端朝箭头面，黑L还须在对应公共顶点一侧，排除上图黑L反向的B及箭头朝三角形的D。A下图箭头朝下，不能对应②右面指向三角形面的箭头；C上下两展开图均满足。",
+      "confidence": 0.95,
+      "notes": []
+    },
+    {
+      "n": 29,
+      "answer": "B",
+      "review_file": "blind_review_c_by_a.json",
+      "image_sha256": "5e914eb552767cd0d7e24d75d6eb056ea74c17a63fa33f2f7e0c2362ba31dd34",
+      "natural_rule": "从可见块面独立重建两个6块部件及同形6块候选，目标为3×3×2。以目标前左下为(0,0,0)，黑块为(0,0,0)、(2,1,1)、(1,2,1)。独立枚举24种刚性转动和平移：A/C/D无配色一致的无重叠覆盖，B有1种。没有读取作者模型或答案。",
+      "confidence": 0.95,
+      "notes": []
+    },
+    {
+      "n": 30,
+      "answer": "A",
+      "review_file": "blind_review_c30_by_b.json",
+      "image_sha256": "ae233349171436835e4c9836e9cc19d6803393090fe4d83a27df1f24dad5140d",
+      "natural_rule": "每幅由4个共边的小四边形组成。②④⑥呈T形连接，存在一个小面与其余3个小面均共边；①③⑤呈链状连接，每个小面至多与2个小面共边。",
+      "confidence": 0.98,
+      "notes": [
+        "斜投影使小面看起来不是正方形，但上述共边连接关系与具体角度无关，不需要额外几何提示。"
+      ]
+    }
+  ],
+  "history": [
+    "B11首位试解者未恢复空心标记意义；另一个独立试解者从图面恢复黑区部分数与框边接触数双对应。",
+    "B12由补充独立试解恢复直线方向种数和封闭面数对应；记录保留首轮较低置信度。",
+    "原B15两位试解者均借图片数据的有限运算枚举才恢复，因发现成本偏高已改题；旧题和旧试解放revision_history/b15_initial，不能作为新15验收。",
+    "原C30有直接提示，已删除；A曾看到提示的第30题结果不计入无提示独立证据，采用B对无提示最终图的补充独立解题。"
+  ],
+  "unresolved_answer_disagreements": []
+}

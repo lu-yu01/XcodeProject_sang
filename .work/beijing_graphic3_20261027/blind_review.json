@@ -1,0 +1,166 @@
+{
+  "reviewer": "bj2026_source独立代理",
+  "read_only_inputs": [
+    "parent supplied 8 operation definitions",
+    "assets/question-01.png",
+    "assets/question-02.png",
+    "assets/question-03.png"
+  ],
+  "forbidden_author_files_read": false,
+  "actual_view_all_three_images": true,
+  "first_natural_answers_saved_before_pixel_check": "blind_first_answers.json",
+  "independent_check_method": "自己从给定图片左侧方格截取黑白像素，根据任务给定语义实现数组翻转、90度旋转、半区拷贝/反色；只在远离格线/对角线的内点比较各选项，未导入任何作者模型或答案。每项256个内点。该验证独立复算当前离散几何，并非自动理解自然语言。",
+  "questions": [
+    {
+      "n": 1,
+      "first_answer": "B",
+      "independent_sample_matches": [
+        {
+          "option": "A",
+          "differing_interior_samples": 80,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "differing_interior_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "C",
+          "differing_interior_samples": 128,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "differing_interior_samples": 128,
+          "matches": false
+        }
+      ],
+      "unique": true,
+      "selected": "B",
+      "first_answer_confirmed": true,
+      "input_image_sha256": "25b4606f389b5ed9d49e161ce2f1dc085901b7bce1afbdf71c0db9e79d2daccf",
+      "steps": [
+        {
+          "operation": "LR",
+          "safe_sample_black_bits": "0000000100110111111111101100100001110011000100001111111011001000111111111111111100000000000000001111111111111111000000000000000000000000000000001111111011001000000000000000000011111111111111111111111111111111000000010011011100000001001101110000000100110111"
+        },
+        {
+          "operation": "CW",
+          "safe_sample_black_bits": "1111111111111111000000000000000011111111111111110111001100010000011100110001000010001100111011110000000000000000100011001110111101110011000100000000000000000000111111111111111111111110110010000111001100010000111111111111111100000000000000001000110011101111"
+        },
+        {
+          "operation": "INVTOP",
+          "safe_sample_black_bits": "0000000000000000111111111111111100000000000000001000110011101111100011001110111101110011000100001111111111111111011100110001000001110011000100000000000000000000111111111111111111111110110010000111001100010000111111111111111100000000000000001000110011101111"
+        }
+      ],
+      "visible_layout_issues": [],
+      "independent_natural_trace": "◆后●相当于沿副对角线翻转；再将当下上半反色。左上黑角反色成白，可先排A/D；第三行末格必须为左上黑三角，选B。"
+    },
+    {
+      "n": 2,
+      "first_answer": "D",
+      "independent_sample_matches": [
+        {
+          "option": "A",
+          "differing_interior_samples": 160,
+          "matches": false
+        },
+        {
+          "option": "B",
+          "differing_interior_samples": 192,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "differing_interior_samples": 256,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "differing_interior_samples": 0,
+          "matches": true
+        }
+      ],
+      "unique": true,
+      "selected": "D",
+      "first_answer_confirmed": true,
+      "input_image_sha256": "887f2af24f8a8d0b7288982ff70e1d6757fb694e24d979bac0eed4e7c6d607af",
+      "steps": [
+        {
+          "operation": "COPYLEFT",
+          "safe_sample_black_bits": "1111111011001000011100110001000000000001001101111000110011101111000000000000000011111111111111111111111111111111000000000000000011111111111111111111111011001000100011001110111111111111111111111000110011101111000000000000000000000000000000001111111011001000"
+        },
+        {
+          "operation": "CCW",
+          "safe_sample_black_bits": "1111111011001000000000000000000011111111111111110111001100010000100011001110111111111111111111111111111011001000000000000000000000000001001101111111111111111111011100110001000000000000000000000111001100010000000000000000000011111111111111111111111011001000"
+        },
+        {
+          "operation": "INVRIGHT",
+          "safe_sample_black_bits": "1111111011001000000000000000000000000000000000001000110011101111100011001110111111111111111111110000000100110111111111111111111100000001001101111111111111111111100011001110111111111111111111110111001100010000000000000000000000000000000000000000000100110111"
+        }
+      ],
+      "visible_layout_issues": [],
+      "independent_natural_trace": "■先用左半镜像重建右半，○后得到上下对称，再△使右半反色。左上角为左上黑三角，顶行中间两格为白，选D。"
+    },
+    {
+      "n": 3,
+      "first_answer": "A",
+      "independent_sample_matches": [
+        {
+          "option": "A",
+          "differing_interior_samples": 0,
+          "matches": true
+        },
+        {
+          "option": "B",
+          "differing_interior_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "C",
+          "differing_interior_samples": 64,
+          "matches": false
+        },
+        {
+          "option": "D",
+          "differing_interior_samples": 96,
+          "matches": false
+        }
+      ],
+      "unique": true,
+      "selected": "A",
+      "first_answer_confirmed": true,
+      "input_image_sha256": "dfe67988af48c426162addb124ff1e25e5373b88bb55bfdcd54fd8f18b014815",
+      "steps": [
+        {
+          "operation": "TOPLR",
+          "safe_sample_black_bits": "0111001100010000111111111111111101110011000100001111111111111111111111101100100000000000000000000000000000000000100011001110111100000001001101110000000000000000000000000000000011111111111111111111111011001000111111111111111110001100111011110111001100010000"
+        },
+        {
+          "operation": "UD",
+          "safe_sample_black_bits": "0111001100010000111111111111111100000001001101111111111011001000100011001110111100000000000000000000000000000000111111111111111101110011000100000000000000000000000000000000000000000001001101111111111011001000111111111111111111111110110010001111111111111111"
+        },
+        {
+          "operation": "CW",
+          "safe_sample_black_bits": "1000110011101111111111101100100000000001001101111111111011001000111111111111111100000000000000000000000000000000111111111111111110001100111011110000000000000000000000000000000001110011000100001111111111111111011100110001000011111111111111111000110011101111"
+        }
+      ],
+      "visible_layout_issues": [],
+      "independent_natural_trace": "□先仅镜像上半，再◇与●合成对当前图的转置；原下半对应最终右半。中央四白格保留，排B；左上应为右上黑三角排D，顶行第三格是右下黑三角而非全黑，选A。"
+    }
+  ],
+  "all_first_answers_confirmed": true,
+  "all_unique": true,
+  "visual_review": "3张题图均实际原始尺寸打开。4×4方格外形正方，输入与选项比例一致，操作符号●/○◆/◇▲/△■/□可辨，3次操作有箭头连接，4候选同一横向大框、ABCD均在下方，无图文重叠或裁切。",
+  "scope_notes": [
+    "我看到了3张问题题图，未查看完整Word规则表、页面、解析；报告不替代最终Word逐页排版验收。",
+    "必须保留规则区的语义释义，否则仅符号题干不足以作答。",
+    "上下/左右半区以每一步当前图划分；题干必须交代从左到右及每题独立。"
+  ],
+  "answers": {
+    "1": "B",
+    "2": "D",
+    "3": "A"
+  }
+}

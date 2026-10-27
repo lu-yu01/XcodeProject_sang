@@ -1,0 +1,728 @@
+{
+  "passed": true,
+  "initial_independent_choices": 110,
+  "first_choices_matching_author": 110,
+  "independent_semantic_agreement_does_not_prove_uniqueness": true,
+  "reviewer_type": "AI代理非作者试解；不是教师盲审或学员试测",
+  "reports": [
+    {
+      "path": "review_analogy_blind.json",
+      "sha256": "520717eff7812df28de197f8c9431b6866bf7eca6e39e728f13fa2629ee96ec3",
+      "count": 20
+    },
+    {
+      "path": "review_definitions_blind.json",
+      "sha256": "cd3244530efaeff44f11bb3bd23faeb8fa88ffcf38ec3969dcbec9fc02b40f8a",
+      "count": 30
+    },
+    {
+      "path": "review_formal_blind.json",
+      "sha256": "422458ea9b4bc872b32762a03aa367d5d4a2eb5e29f01862c73a44c7265b0266",
+      "count": 30
+    },
+    {
+      "path": "review_arguments_root_first.json",
+      "sha256": "447db226a1eb7626fc3024980225118d8b2f66958b3d42c9d88c7892c8436b8a",
+      "count": 14
+    },
+    {
+      "path": "review_arguments_b_blind.json",
+      "sha256": "b0ebb82db2d0eff23d9967b7776ff1b6b74dc3389333bdbfb6c6809a934def20",
+      "count": 16
+    }
+  ],
+  "items": {
+    "1": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "2": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "3": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "4": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "5": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "6": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "7": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "8": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "9": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "10": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "11": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "12": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "13": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "14": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "15": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "16": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "17": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "18": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "19": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "20": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_analogy_blind.json"
+    },
+    "21": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "22": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "23": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "24": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "25": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "26": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "27": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "28": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "29": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "30": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "31": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "32": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "33": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "34": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "35": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "36": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "37": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "38": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "39": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "40": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "41": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "42": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "43": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "44": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "45": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "46": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "47": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "48": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "49": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "50": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_definitions_blind.json"
+    },
+    "51": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "52": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "53": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "54": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "55": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "56": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "57": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "58": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "59": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "60": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "61": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "62": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "63": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "64": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "65": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "66": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "67": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "68": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "69": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "70": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "71": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "72": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "73": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "74": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "75": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "76": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "77": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "78": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "79": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "80": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_formal_blind.json"
+    },
+    "82": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_arguments_root_first.json"
+    },
+    "83": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_arguments_root_first.json"
+    },
+    "84": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_arguments_root_first.json"
+    },
+    "85": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_arguments_root_first.json"
+    },
+    "86": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_arguments_root_first.json"
+    },
+    "87": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_arguments_root_first.json"
+    },
+    "88": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_arguments_root_first.json"
+    },
+    "89": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_arguments_root_first.json"
+    },
+    "90": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_arguments_root_first.json"
+    },
+    "91": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_arguments_root_first.json"
+    },
+    "92": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_arguments_root_first.json"
+    },
+    "93": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_arguments_root_first.json"
+    },
+    "94": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_arguments_root_first.json"
+    },
+    "95": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_arguments_root_first.json"
+    },
+    "81": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "96": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "97": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "98": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "99": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "100": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "101": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "102": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "103": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "104": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "105": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "106": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "107": {
+      "first_answer": "D",
+      "author_answer": "D",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "108": {
+      "first_answer": "B",
+      "author_answer": "B",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "109": {
+      "first_answer": "A",
+      "author_answer": "A",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    },
+    "110": {
+      "first_answer": "C",
+      "author_answer": "C",
+      "agrees": true,
+      "report": "review_arguments_b_blind.json"
+    }
+  },
+  "issues_retained": [
+    "类比6命名层级及17方法/目的表述",
+    "类比7编辑多义与基础干扰项偏弱",
+    "定义28未明示参与者盲",
+    "定义27/37/48必要条件明示",
+    "论证95成本基数",
+    "论证101对象范围",
+    "论证102净变化与毛新增区别"
+  ],
+  "revision_reports": [
+    {
+      "path": "review_analogy_revision.json",
+      "sha256": "0eff0b768f1f076042c483a3f13afe56a04afe688d1dda571844ca048558423c"
+    },
+    {
+      "path": "review_analogy_q7_final.json",
+      "sha256": "129506d693ce5eb26068be84b287ab8fb2b0ccfa4b2a3dd0495892c4068d30d9"
+    },
+    {
+      "path": "review_definitions_revised_c.json",
+      "sha256": "58aef3750fd56addfb9f65e54d1a7dd34e33da7bbd4226aa301409d7397d0857"
+    },
+    {
+      "path": "review_arguments_revised_b.json",
+      "sha256": "fb30b69cd86a30e2ce7cfd6ee3c6856657e6a2bd1ad565d904adb840bd588a15"
+    }
+  ],
+  "limitations": [
+    "首次选项一致并不等于原题面没有歧义；首轮异议单列并修订",
+    "修订复核者知晓自己首轮选择，不能冒充全新盲审",
+    "类比部分条目保留中等难度梯度，未用外部试测标定难度"
+  ]
+}

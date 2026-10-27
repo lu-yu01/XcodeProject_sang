@@ -1,0 +1,105 @@
+{
+  "instruction": "仅看题干、原图和选项独立求解，不读作者代码、答案、解析和模型；记录自然规则、选择、置信度及歧义。",
+  "cards": [
+    {
+      "n": 11,
+      "stem": "从所给的四个选项中，选择最合适的一项填入问号处，使之呈现一定的规律性。",
+      "ask": "",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q11.png",
+      "image_sha256": "ced1eda32a37e928ddbf0aa67cc1b1d102bc778c79eb81e098f235a240b65ee2"
+    },
+    {
+      "n": 12,
+      "stem": "每格中有上、下两个线图。从四个选项中选出使整组图形规律成立的一项。",
+      "ask": "",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q12.png",
+      "image_sha256": "7f6f24b7b97eb55907828d2e4234abd5c3ec48e91adfb5d57bc4c0e21e09dd17"
+    },
+    {
+      "n": 13,
+      "stem": "观察九宫格每行三幅图的关系，从四个选项中选出最合适的一项。",
+      "ask": "",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q13.png",
+      "image_sha256": "d208786d105d67cfa8a8a56d5613d571a7d0cc0f8060c6aca9790b48923b004a"
+    },
+    {
+      "n": 14,
+      "stem": "左、右两组图形遵循同一种变化方式。从四个选项中选出填入问号处的一项。浅灰小点仅用于定位。",
+      "ask": "",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q14.png",
+      "image_sha256": "227d7077beefb118004ee69b2d9aa0c5ee16f86498b0a4ebb0b14f0d26a23adb"
+    },
+    {
+      "n": 15,
+      "stem": "观察九宫格每行三幅图的关系，从四个选项中选出最合适的一项。",
+      "ask": "",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q15.png",
+      "image_sha256": "4ed21eef0b5d052bb7268c6967266334ab4488cecb4c1a17d2f297e59b5de630"
+    },
+    {
+      "n": 16,
+      "stem": "观察九宫格每行线段的关系，从四个选项中选出最合适的一项。",
+      "ask": "",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q16.png",
+      "image_sha256": "6cd72862ac8a9e97cfe00d086785d2a55ab4c7cd09700cd87c728f676c7effa9"
+    },
+    {
+      "n": 17,
+      "stem": "把下面六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的是：",
+      "ask": "",
+      "options": [
+        "①③⑥，②④⑤",
+        "①②⑤，③④⑥",
+        "①④⑤，②③⑥",
+        "①②④，③⑤⑥"
+      ],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q17.png",
+      "image_sha256": "d70e41e70a81764a3b9117506a1e99e6989740d110277a0cda3fc35726d6b7c6"
+    },
+    {
+      "n": 18,
+      "stem": "把下面六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的是：",
+      "ask": "",
+      "options": [
+        "①③⑥，②④⑤",
+        "①②⑤，③④⑥",
+        "①④⑤，②③⑥",
+        "①②④，③⑤⑥"
+      ],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q18.png",
+      "image_sha256": "fa2c945709264b33d2e495adce94918ad1521de8798463d7868756eb852c3be4"
+    },
+    {
+      "n": 19,
+      "stem": "把下面六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的是：",
+      "ask": "",
+      "options": [
+        "①③⑥，②④⑤",
+        "①②⑤，③④⑥",
+        "①④⑤，②③⑥",
+        "①②④，③⑤⑥"
+      ],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q19.png",
+      "image_sha256": "c6c8bb6a1f1b47aa93579958099d92eb702c28a11edb9c9d4a2786771679ea46"
+    },
+    {
+      "n": 20,
+      "stem": "把下面六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的是：",
+      "ask": "",
+      "options": [
+        "①③⑥，②④⑤",
+        "①②⑤，③④⑥",
+        "①④⑤，②③⑥",
+        "①②④，③⑤⑥"
+      ],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q20.png",
+      "image_sha256": "c40ec2d37804678f3f06bec2e3bdf86f48374354aa572e276497fb9acefa8b4c"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "instruction": "仅看题干、原图和选项独立求解，不读作者代码、答案、解析和模型；记录自然规则、选择、置信度及歧义。",
+  "cards": [
+    {
+      "n": 21,
+      "stem": "图示实体由一个阶梯形截面沿水平方向等距延伸而成。三个台阶的宽和高均为1，前后长度为3。P、Q是同一条前侧底棱的两个端点，R是与P对应的后侧最高顶点。",
+      "ask": "用过P、Q、R三点的平面切开实体，所得截面的形状与比例最符合哪一项？",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q21.png",
+      "image_sha256": "7e708d2d2e93059f7a0a93246888fda6903042172d832ac57c884307abcbe0d0"
+    },
+    {
+      "n": 22,
+      "stem": "正四棱锥S-PQCD的底边长为4，高为4。P、Q是同一条底棱的两个端点，R为侧棱SC的中点。",
+      "ask": "过P、Q、R三点的截面，按真实边长比例绘出，应为哪一项？",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q22.png",
+      "image_sha256": "8298f3e0b8e2ad92c04d00cb49db3173930ef1f4a666dd034d7d17c562f67ed2"
+    },
+    {
+      "n": 23,
+      "stem": "图示长方体左右长4，前后长3，高3，中央有一个上下贯通的矩形孔。孔的左右宽为2、前后长为1，孔壁与外侧相应各面平行，且孔口居中。P、Q为前侧底棱两端，R为与P对应的后侧上顶点。",
+      "ask": "用过P、Q、R三点的平面截开，截面轮廓与孔洞的位置、比例均正确的是哪一项？",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q23.png",
+      "image_sha256": "64cdc2be644191bb4f793177271b7c9714c5551bb8f23b56c0bc734b958b1c75"
+    },
+    {
+      "n": 24,
+      "stem": "某积木由相同的小正方体组成，各竖列从地面连续堆放。题干三图从左到右依次为正视图、右视图、俯视占位图；右视图从左到右对应前、中、后排，俯视图下方为前方。",
+      "ask": "下列哪一个立体图形与题干三个视图同时相符？",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q24.png",
+      "image_sha256": "05939dadb9c35a7d7d88ebda7b1df7ed6833e1b8fd4764d41f5dbad24e50408d"
+    },
+    {
+      "n": 25,
+      "stem": "相同的小正方体从地面连续堆放，不得悬空。题干三图从左到右依次为正视图、右视图、俯视占位图；右视图从左到右对应前、中、后排，俯视图下方为前方。俯视图每个有框小格都至少放一块。",
+      "ask": "要同时得到这三个视图，至少需要多少个小正方体？",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q25.png",
+      "image_sha256": "b8c56cc81867939da97510b3db71f8de8ac49395b1f64687d5ccca407f208f63"
+    },
+    {
+      "n": 26,
+      "stem": "图示为透明线架，所有杆件均以实线画出；交叉处不另增杆。P、Q、R分别是底面前左、前右、后左三个顶点。沿PR方向由前向后作正投影，投影的水平方向由P指向Q。",
+      "ask": "将完全重合的线段合并、投影成点的杆不画出，得到的正视图是哪一项？",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q26.png",
+      "image_sha256": "9aedc1a446e634e3f8973d3666a80bd1dea278c57752c45d0bf6f285670d09cc"
+    },
+    {
+      "n": 27,
+      "stem": "图示为一个正方体。图中三个有图案的面均已画出，其余面为空白；图案随所在面一起折叠，不得翻面。",
+      "ask": "下列哪一幅外表面展开图能够折成该正方体？",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q27.png",
+      "image_sha256": "096e9dc1f2a151b1b6c22f031233107862b41a4d4081e47c601bd1d86e4469f5"
+    },
+    {
+      "n": 28,
+      "stem": "题干中的两个正方体①、②各有三个有图案的面，其余面为空白。它们可各自转动，但不得翻面；每个选项上、下两幅展开图依次对应①、②。",
+      "ask": "哪一项中的两幅展开图都能折成对应的正方体？",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q28.png",
+      "image_sha256": "87101cce3b520107792a8dc26b0703bbcee3f3b8003d93a8fb63c168137bac54"
+    },
+    {
+      "n": 29,
+      "stem": "完整长方体由18个相同的小正方体组成，其中3块为黑色，其余为白色。题干从左到右依次给出完整形体、部件①、部件②；各部件只能作空间转动和平移，不得翻面、拆分或重叠。",
+      "ask": "哪一个选项能够与部件①、②共同拼成题干完整形体，且黑色方块的位置也完全相符？",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q29.png",
+      "image_sha256": "5e914eb552767cd0d7e24d75d6eb056ea74c17a63fa33f2f7e0c2362ba31dd34"
+    },
+    {
+      "n": 30,
+      "stem": "将下面六幅图形分成两类，使每一类图形都有各自的共同特征或规律。",
+      "ask": "分类正确的是哪一项？",
+      "options": [
+        "①③⑤，②④⑥",
+        "①②⑤，③④⑥",
+        "①③⑥，②④⑤",
+        "①④⑤，②③⑥"
+      ],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q30.png",
+      "image_sha256": "ae233349171436835e4c9836e9cc19d6803393090fe4d83a27df1f24dad5140d"
+    }
+  ]
+}

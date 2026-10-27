@@ -1,0 +1,152 @@
+{
+  "passed": true,
+  "frozen": true,
+  "author_estimated_difficulty_only": true,
+  "source_case_count": 29,
+  "national_cases": 26,
+  "local_cases": 3,
+  "read_2026_all_definitions": [
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95
+  ],
+  "read_2025_all_class_sections": {
+    "执法": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "地市": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "副省": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ]
+  },
+  "originality": "原创情境与叙述；只参考真题的要件结构和干扰方式。研究/生态情境为题设，不声称真实研究结论。",
+  "specific_semantic_repairs": [
+    "Q24不以公开学号查表当作可直接识别，改为保留姓名及完整证件的明确反例。",
+    "Q25第二次错误归类改为基于现有照度偏差，避免未给出的前馈模型假设。",
+    "Q31避免宣称中介与调节在理论上永远互斥，仅按已给作用判断。",
+    "Q36明确不成比例负担已发生，避免将承诺无限成本直接当作现实负担。",
+    "Q44设问明确要求内心呈现，排除纯外部片段在知识范围上的真空满足。",
+    "Q48明确正确情境存在效果不确定性。"
+  ],
+  "verification": {
+    "necessary_condition_matrix": 30,
+    "negative_direction_count": 9,
+    "paired_classification_recomputed_from_underlying_mechanisms": 7,
+    "raw_procedure_truth_world_rates_individual_recomputations": 4,
+    "all_unique": true
+  },
+  "choice_length_audit": {
+    "strictly_longest_correct_option_count": 3,
+    "items": [
+      {
+        "n": 27,
+        "lengths": [
+          40,
+          42,
+          44,
+          45
+        ],
+        "difference": 1
+      },
+      {
+        "n": 37,
+        "lengths": [
+          44,
+          44,
+          41,
+          48
+        ],
+        "difference": 4
+      },
+      {
+        "n": 45,
+        "lengths": [
+          43,
+          44,
+          41,
+          41
+        ],
+        "difference": 1
+      }
+    ],
+    "note": "长度差多数仅1—3个字，已削减显著长度偏差；不以选项长度作为正确性依据。"
+  },
+  "reading_load_characters": {
+    "min": 276,
+    "max": 376,
+    "average": 315.9
+  },
+  "frozen_sha256": {
+    "definitions.py": "557dfd825fee54299ce692a2fcff5b5b61270cb58a0c155da6fd1289d514d9ef",
+    "questions_definitions.json": "5cb708c0b00cbe869e40f2c081f98b71a02b33093862695b95be0ed0a2d7a242",
+    "verification_definitions.json": "0dd0a0668364efb50ab2a46ddb0e62cf3cee6da1f9a1847d7ec97a54187e153d",
+    "sources_definitions.json": "9b93455ae1cb67408ec9e3d0fe5c7e4c0e95feb34ce25463de8f36c48eab4f19"
+  },
+  "not_generated": [
+    "Word",
+    "Markdown"
+  ],
+  "review_status": "30题首次独立求解报告已保留；Q27/28/37/48在必要事实明示后，由原求解代理仅看修订题卡复核，四题与作者模型一致且无剩余歧义。修订复核不冒称全新盲解。",
+  "revisions": [
+    {
+      "n": 28,
+      "reason": "独立无答案求解发现原Q28D未明示志愿者也不知具体方法，不能由同样界面推知受试者盲。",
+      "report": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\revision_q28.json",
+      "only_change": "选项D显式补明志愿者也不知代码对应方法",
+      "first_version_preserved": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\definition_revisions\\q28_before_explicit_participant_blind"
+    },
+    {
+      "questions": [
+        27,
+        37,
+        48
+      ],
+      "reason": "独立首次求解完成后，作者审计补明正确情境中应有文字支持的必要条件，避免读者自行补入独立抽样、模块原理或管理目标。",
+      "report": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\revision_explicit_conditions_27_37_48.json",
+      "first_version_preserved": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\definition_revisions\\before_explicit_conditions_27_37_48"
+    }
+  ],
+  "revised_cross_review": {
+    "path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\review_definitions_revised_c.json",
+    "sha256": "58aef3750fd56addfb9f65e54d1a7dd34e33da7bbd4226aa301409d7397d0857",
+    "all_four_consistent_with_author": true,
+    "remaining_ambiguities": [],
+    "fresh_blind_trial": false
+  }
+}

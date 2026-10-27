@@ -1,0 +1,93 @@
+{
+  "research_scope": "2022—2026为主、2021补充，国考为主、地方/职测为辅；本文件为根代理2022—2025国考主段复核，2026及地方详见sources_a/b/c.json。",
+  "source_pages_reviewed": 12,
+  "source_question_appearances": 40,
+  "not_unique_case_count": true,
+  "entries": [
+    {
+      "year": 2022,
+      "source": "真题/最新试卷/近5年国考PDF/22年行测.pdf",
+      "pdf_pages_actually_viewed": [
+        26,
+        27,
+        28
+      ],
+      "question_range_on_pdf": "合订本主段76—85",
+      "visual_review": true,
+      "reviewer": "/root",
+      "observations": "六格序列（分面线图、黑白圆团、实心轮廓）、九宫格黑白圆阵；纸盒折叠、空心实体截面、三部件拼合；六图分类中有分面方框、实心折线轮廓及三角形网络。",
+      "caution": "PDF为本地合订/转录资料，类别及题号与不同Word版本存在差异；不能将相同题号直接跨版本绑定。按图形和内文来源链比对。",
+      "reference_images": [
+        "reference_national/2022-p26.png",
+        "reference_national/2022-p27.png",
+        "reference_national/2022-p28.png"
+      ]
+    },
+    {
+      "year": 2023,
+      "source": "真题/最新试卷/近5年国考PDF/23年行测.pdf",
+      "pdf_pages_actually_viewed": [
+        24,
+        25,
+        26
+      ],
+      "question_range_on_pdf": "合订本主段71—80",
+      "visual_review": true,
+      "reviewer": "/root",
+      "observations": "分割图形的黑白面关系、黑白圆阵、分行三角形位置变化、跨线/实体/圆阵三种载体的九宫格；折纸面积、空心实体截面、三灰块拼合；一笔画、黑白连通部分、圆方数量关系分类。",
+      "caution": "PDF为本地合订/转录资料，类别及题号与不同Word版本存在差异；不能将相同题号直接跨版本绑定。按图形和内文来源链比对。",
+      "reference_images": [
+        "reference_national/2023-p24.png",
+        "reference_national/2023-p25.png",
+        "reference_national/2023-p26.png"
+      ]
+    },
+    {
+      "year": 2024,
+      "source": "真题/最新试卷/近5年国考PDF/24年行测.pdf",
+      "pdf_pages_actually_viewed": [
+        27,
+        28,
+        29
+      ],
+      "question_range_on_pdf": "合订本主段76—85",
+      "visual_review": true,
+      "reviewer": "/root",
+      "observations": "黑色面积与整体、圆阵和路径、黑白圆团、圆阵九宫格；规整顶点定面的有色积木截面、三块拼合、外表面展开；黑白面关系、最少笔画和黑面与外轮廓共边分类。",
+      "caution": "PDF为本地合订/转录资料，类别及题号与不同Word版本存在差异；不能将相同题号直接跨版本绑定。按图形和内文来源链比对。",
+      "reference_images": [
+        "reference_national/2024-p27.png",
+        "reference_national/2024-p28.png",
+        "reference_national/2024-p29.png"
+      ]
+    },
+    {
+      "year": 2025,
+      "source": "真题/最新试卷/近5年国考PDF/25年行测.pdf",
+      "pdf_pages_actually_viewed": [
+        27,
+        28,
+        29
+      ],
+      "question_range_on_pdf": "合订本主段76—85",
+      "visual_review": true,
+      "reviewer": "/root",
+      "observations": "最大面属性、圆/方在参考框上独立移动、黑白矩形块、线段网络；三点截面、黑白长方体外面展开、三灰块正反视拼合；黑白部分、黑面边数及线条网络分类。",
+      "caution": "PDF为本地合订/转录资料，类别及题号与不同Word版本存在差异；不能将相同题号直接跨版本绑定。按图形和内文来源链比对。",
+      "reference_images": [
+        "reference_national/2025-p27.png",
+        "reference_national/2025-p28.png",
+        "reference_national/2025-p29.png"
+      ]
+    }
+  ],
+  "linked_docx_explanations": "national_analysis_leads.json",
+  "broad_text_scan": "425份题本的关键词扫描仅作定位，不代替图形核对；222份元数据也不当官方频率。",
+  "official_boundary": {
+    "checked_on": "2026-10-25",
+    "announcement": "https://shanghai.chinatax.gov.cn/xxgk/rsxx/202610/t481763.html",
+    "2027_public_written_date": "2026-11-29",
+    "latest_completed_national_year_for_this_research": 2026,
+    "outline": "https://www.forestry.gov.cn/c/www/gsgg/645383.jhtml"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "changed_questions": [
+    95
+  ],
+  "old_option_c": "乙地能源占成本六成，基数及涨幅同甲，两地其他成本与定价加成未变",
+  "new_option_c": "乙地能源占成本六成，两地原单位成本相同、能源涨幅相同，其他成本及定价加成比例均未变",
+  "stem_ask_answer_unchanged": true,
+  "other_29_questions_identical": true,
+  "old_snapshot": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\revision_history\\before_q95_clarification"
+}

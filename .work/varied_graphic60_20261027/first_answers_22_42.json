@@ -1,0 +1,218 @@
+{
+  "reviewer": "non_author_agent_varied_lines",
+  "source_policy": "Only public_questions.json groups 8–14 and the 21 question PNGs were read. No author module, solution, groups.json or questions.json was read.",
+  "frozen": true,
+  "note": "Question 28 records the original image viewed before root's announced source replacement. A later version must be reviewed separately, never overwrite this record.",
+  "answers": [
+    {
+      "n": 22,
+      "answer": "C",
+      "reason": "槽位从正上起顺时针0—7。外环黑槽{1,5,6}右移为{2,6,7}；内环{0,1,3,5,6}左移为{0,2,4,5,7}，仅C相符。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-22.png",
+      "actual_image_sha256": "008fe303d3e93e0bf5139b0bd5600ae9436b158bd36fa1d7136ffbebff8aff31",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 23,
+      "answer": "D",
+      "reason": "源外环黑槽{1,2,3,6}、内环{1,2,3}。交换后内环作异或仅余槽6黑，外环反色后黑槽{0,4,5,6,7}，对应D。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-23.png",
+      "actual_image_sha256": "4160f2373117afb9454828315633c74bf138105e71ffbecc6bfeb8af7e8683ee",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 24,
+      "answer": "D",
+      "reason": "源内环{2,4,6,7}左右翻再逆移得{0,1,3,5}，与外环{0,2,4,5}异或得{1,2,3,4}；外环最后顺移为{1,3,5,6}，对应D。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-24.png",
+      "actual_image_sha256": "2249e44cade68182518f7ceee6bbf5580cf0a2db2079d044c295792c26536815",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 25,
+      "answer": "C",
+      "reason": "从正上顺时针，源长短110001、颜色011101；颜色顺移成101110，长短逆移成100011。故上长黑、右上短白、右下短黑、下短黑、左下长黑、左上长白，仅C。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-25.png",
+      "actual_image_sha256": "e37c4cf0459c7901a23e5e2954657b8eda1ff5f4edcf82df84706470a24fedd8",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 26,
+      "answer": "C",
+      "reason": "将长记1、黑记1，源长短101101、颜色010101。N后010010，X后颜色000111，S交换两属性，最终长短000111、颜色010010，C唯一。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-26.png",
+      "actual_image_sha256": "15cb948bc7df41db9b4bd60465883093ca2e834bf1df8e15cda1599c4c32976f",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 27,
+      "answer": "A",
+      "reason": "源长短000101、颜色010001；J后长短001010、颜色100010，Q后长短010100，X后颜色110110，P后颜色011011，结果为A。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-27.png",
+      "actual_image_sha256": "1e12567b8d2b68969c5c4a1137b06e0914f54d48688a6f3e7eaf54483a19d6ac",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 28,
+      "answer": "C",
+      "reason": "源黑区为①单独区、①②、①③、中央。A把单独黑区移至②；B把①②移至②③、①③移至①②，中央保持黑，恰构成整个圆②，选C。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-28.png",
+      "actual_image_sha256": "85ce79cdfb67b9eb012746febe7f3dae8533f37cfa4d3ea0720ff2baa63d9912",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 29,
+      "answer": "B",
+      "reason": "源黑区为①单独、③单独、①③。S后为②单独、①②、②③；T使中央变黑；N使双叠区仅①③黑。最终②单独＋①③＋中央，对应B。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-29.png",
+      "actual_image_sha256": "00cf916d9b3eb2b60826ac4f45178eea0c5fd5ce2104ada917b50af19a346f9c",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 30,
+      "answer": "C",
+      "reason": "源为②单独及②③黑。归属交换后为①单独及①③；B使①③移至①②，T中央变黑，A单独区①移至②。最终②单独、①②、中央黑，为C。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-30.png",
+      "actual_image_sha256": "71457dbe9137acd6637b59810520afaaec29b2a4117cf604abb18a44562672db",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 31,
+      "answer": "A",
+      "reason": "源上轨110001、下轨010100；S后上010100、下110001，再仅上右移得到001010，A匹配。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-31.png",
+      "actual_image_sha256": "348dae065d84f03bc1ee86ff002ff34e84f7b967635d883960ae1106bc770e99",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 32,
+      "answer": "D",
+      "reason": "源上101010、下011010；下左移为110100，与上异或得011110；上反序为010101。仅D上下轨都匹配。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-32.png",
+      "actual_image_sha256": "48ced97d4d8ea56e88fb23f647d08a8c70152aba4de9c7a7cdb4ddb1b4a0c0df",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 33,
+      "answer": "A",
+      "reason": "源上010101、下101101；J后上101010、下011110；上右移010101，下异或成001011，S后上001011、下010101，对应A。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-33.png",
+      "actual_image_sha256": "650ec0a16fa37c65b2141db63fa4f23259267709b3a141afb06f95a2b7f4ce71",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 34,
+      "answer": "A",
+      "reason": "三层源开口均下，顺时针后均左；源角点外右上、中右下、内左上，逆时针后依次左上、右上、左下，仅A。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-34.png",
+      "actual_image_sha256": "77cef684c7b5158ca108a0560ba4fac312a4f64efa57771f62c43ad500711559",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 35,
+      "answer": "B",
+      "reason": "源开口外左中右内下，S后外下中右内左，再左右翻成下、左、右。P后角点为右上、右上、左上，翻后左上、左上、右上，对应B。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-35.png",
+      "actual_image_sha256": "96e43d35ffda6df84dfc2fa81e200ba9d87f4a662431eedf418d687daa044512",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 36,
+      "answer": "A",
+      "reason": "开口源左、左、右，Q轮换为右、左、左，镜像为左、右、右，再顺移为上、下、下。角点源右上、右下、右上，逆时针并镜像后右上、左上、右上，为A。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-36.png",
+      "actual_image_sha256": "7a522839a6450a1c0ad5057ea218250a53ce6076018aa9742c1c66dfcc0dc602",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 37,
+      "answer": "A",
+      "reason": "原左、左、下、左四滴顺时针转后为上、上、左、上，再H交换两行左右位置。最终左上黑上、右上白上、左下白上、右下白左，仅A。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-37.png",
+      "actual_image_sha256": "b3d6e25a83bb9351271397d2c0074b876f0e9ebabc939fa6a965fe3b744716e3",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 38,
+      "answer": "C",
+      "reason": "V后四滴依次白下、白上、黑下、白下。仅黑滴逆转使左下改朝右，N将右上朝上的白滴变黑。最终白下、黑上、黑右、白下，选C。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-38.png",
+      "actual_image_sha256": "28bfe9fbba504a8fa29063c0fd37e7ccdc5012834df56cff488ed2351674fba4",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 39,
+      "answer": "A",
+      "reason": "D再H后依次白上、白左、白下、黑右。黑滴先逆转再全体顺转，黑滴方向恢复朝右；其余白滴顺转为右、上、左。A唯一。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-39.png",
+      "actual_image_sha256": "4682f8c20e0717349abbbb9ebe7490c23b2eaa73d4c4ddd1199739bb581678c9",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 40,
+      "answer": "B",
+      "reason": "上弯记1、虚线记1。源曲向101100、线型111000；曲向右移后010110，线型左移后110001。第4、5段均上弯实线，其余匹配，仅B。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-40.png",
+      "actual_image_sha256": "86163d44fb131479601f1c430afdc8570241ca5b4b218cf1cc061436e2025264",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 41,
+      "answer": "B",
+      "reason": "源曲向001110、虚实111101。J后001101/111110，U后曲向110011，N后虚实001101；即前两上实、中两下虚、第5上实、第6上虚，B。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-41.png",
+      "actual_image_sha256": "fee893a0b580130056b2417fb5ebc8fd50ae68ac785779a54bbe0a178f63835e",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    },
+    {
+      "n": 42,
+      "answer": "D",
+      "reason": "源曲向110101、虚实101000；S后010111/001010；虚实左移010100，U后曲向000011，再曲向右移100001。最终首尾上实，中间下弯，偶数2、4段虚，D。",
+      "uncertain": false,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-42.png",
+      "actual_image_sha256": "9428032ba8e04e2d0d625d7f79a0c2e2950c3d01fcabd64391cbb4df49f86144",
+      "actually_viewed": true,
+      "first_choice_frozen": true
+    }
+  ]
+}

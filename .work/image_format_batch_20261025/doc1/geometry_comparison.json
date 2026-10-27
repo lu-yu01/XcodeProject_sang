@@ -1,0 +1,1220 @@
+{
+  "passed": true,
+  "regions": [
+    {
+      "question": 1,
+      "source_box": [
+        50,
+        35,
+        230,
+        215
+      ],
+      "new_box": [
+        50,
+        35,
+        230,
+        215
+      ],
+      "rgb_sha256": "675e05cf3d155ee89666dc8bd2fc49dcbd95289ec0cef0ac84279a1b7eab93c7"
+    },
+    {
+      "question": 1,
+      "source_box": [
+        294,
+        35,
+        474,
+        215
+      ],
+      "new_box": [
+        294,
+        35,
+        474,
+        215
+      ],
+      "rgb_sha256": "d90f8f0fd9d9b0648483d7112540139128da1cc680b7d389f12e21151c98f269"
+    },
+    {
+      "question": 1,
+      "source_box": [
+        538,
+        35,
+        718,
+        215
+      ],
+      "new_box": [
+        538,
+        35,
+        718,
+        215
+      ],
+      "rgb_sha256": "50e21b61656e0a62b58a392d32cbe57f792bc897f69bc9dcbde36579166a985e"
+    },
+    {
+      "question": 1,
+      "source_box": [
+        782,
+        35,
+        962,
+        215
+      ],
+      "new_box": [
+        782,
+        35,
+        962,
+        215
+      ],
+      "rgb_sha256": "6b5f055d44ae122f801efe2e701bd0c7524a31c6770346008fc31da62438ddee"
+    },
+    {
+      "question": 1,
+      "source_box": [
+        1026,
+        35,
+        1206,
+        215
+      ],
+      "new_box": [
+        1026,
+        35,
+        1206,
+        215
+      ],
+      "rgb_sha256": "8951618894bf8790bf81877671dbdd792b86201b16824a2f6b77284af01c9432"
+    },
+    {
+      "question": 1,
+      "source_box": [
+        1270,
+        35,
+        1450,
+        215
+      ],
+      "new_box": [
+        1270,
+        35,
+        1450,
+        215
+      ],
+      "rgb_sha256": "0a04fbd4e5717bdc6ee035ee63ac42fdceab379e35950d59273ac2a0af25db92"
+    },
+    {
+      "question": 1,
+      "source_box": [
+        210,
+        265,
+        390,
+        445
+      ],
+      "new_box": [
+        210,
+        265,
+        390,
+        445
+      ],
+      "rgb_sha256": "1dad6ff6a2fbea10848dc19af7baa702292ff08f98432b962e9afd93185f5ea2"
+    },
+    {
+      "question": 1,
+      "source_box": [
+        510,
+        265,
+        690,
+        445
+      ],
+      "new_box": [
+        510,
+        265,
+        690,
+        445
+      ],
+      "rgb_sha256": "fbac3423c20d206debfac6990ae110e9a4382141759a677cd4337a504efa203e"
+    },
+    {
+      "question": 1,
+      "source_box": [
+        810,
+        265,
+        990,
+        445
+      ],
+      "new_box": [
+        810,
+        265,
+        990,
+        445
+      ],
+      "rgb_sha256": "98917401ee5fe4560f492295b80a9264705a2e50d9022fe75e73d694df7d7061"
+    },
+    {
+      "question": 1,
+      "source_box": [
+        1110,
+        265,
+        1290,
+        445
+      ],
+      "new_box": [
+        1110,
+        265,
+        1290,
+        445
+      ],
+      "rgb_sha256": "574839ad2c55c77f82e43379826f87ab5dc2942a378fb029b1fe9167cfc666ca"
+    },
+    {
+      "question": 2,
+      "source_box": [
+        400,
+        20,
+        580,
+        200
+      ],
+      "new_box": [
+        400,
+        20,
+        580,
+        200
+      ],
+      "rgb_sha256": "5ac88f6c38f561551eb8c0249b2866d7877d984f5f482dd170eb3d5687375460"
+    },
+    {
+      "question": 2,
+      "source_box": [
+        660,
+        20,
+        840,
+        200
+      ],
+      "new_box": [
+        660,
+        20,
+        840,
+        200
+      ],
+      "rgb_sha256": "64b3b22614067be488fb183a4de2da5b5bf359f93bb3d2076fd989f0efdc73fb"
+    },
+    {
+      "question": 2,
+      "source_box": [
+        920,
+        20,
+        1100,
+        200
+      ],
+      "new_box": [
+        920,
+        20,
+        1100,
+        200
+      ],
+      "rgb_sha256": "27d19df90207b8ee4077c2a6906aa8cda632206423e9cb48e63d552304f4e6d0"
+    },
+    {
+      "question": 2,
+      "source_box": [
+        400,
+        230,
+        580,
+        410
+      ],
+      "new_box": [
+        400,
+        230,
+        580,
+        410
+      ],
+      "rgb_sha256": "06d90651c498c4b8fec0b32cc9807477119ba9874d67a561eab7639941a57573"
+    },
+    {
+      "question": 2,
+      "source_box": [
+        660,
+        230,
+        840,
+        410
+      ],
+      "new_box": [
+        660,
+        230,
+        840,
+        410
+      ],
+      "rgb_sha256": "d496115a2837f4ced0cf3e1bcb3dce866525e969251706471f73abf5a28a5d65"
+    },
+    {
+      "question": 2,
+      "source_box": [
+        920,
+        230,
+        1100,
+        410
+      ],
+      "new_box": [
+        920,
+        230,
+        1100,
+        410
+      ],
+      "rgb_sha256": "ccd90bfdfd1d429fe1689b23ed2fab278337693e0442e4b92f658243375b0214"
+    },
+    {
+      "question": 2,
+      "source_box": [
+        400,
+        440,
+        580,
+        620
+      ],
+      "new_box": [
+        400,
+        440,
+        580,
+        620
+      ],
+      "rgb_sha256": "9e7e9847824608cbf463ccc6eb5cb7f4afd07e2104c0350885719d15204ed133"
+    },
+    {
+      "question": 2,
+      "source_box": [
+        660,
+        440,
+        840,
+        620
+      ],
+      "new_box": [
+        660,
+        440,
+        840,
+        620
+      ],
+      "rgb_sha256": "4c6ce2ecf928363a9d9d81fb67fc4124c6b2bb346b5c5d44068152b36d7eaf59"
+    },
+    {
+      "question": 2,
+      "source_box": [
+        920,
+        440,
+        1100,
+        620
+      ],
+      "new_box": [
+        920,
+        440,
+        1100,
+        620
+      ],
+      "rgb_sha256": "be9cd52b046408cf1de6bd9c3ec12a15a8ead4010945ba1582f0fc0cf2bfc79d"
+    },
+    {
+      "question": 2,
+      "source_box": [
+        225,
+        625,
+        375,
+        775
+      ],
+      "new_box": [
+        225,
+        685,
+        375,
+        835
+      ],
+      "rgb_sha256": "f3a675bda34c3a01729de41a6f6b80517ad40493859d793e22ab677153a54423"
+    },
+    {
+      "question": 2,
+      "source_box": [
+        525,
+        625,
+        675,
+        775
+      ],
+      "new_box": [
+        525,
+        685,
+        675,
+        835
+      ],
+      "rgb_sha256": "3258e59d09f87720d36bdc143745023dbe22476f15534e84609328a59e06b95b"
+    },
+    {
+      "question": 2,
+      "source_box": [
+        825,
+        625,
+        975,
+        775
+      ],
+      "new_box": [
+        825,
+        685,
+        975,
+        835
+      ],
+      "rgb_sha256": "c19aa71422ef1012d85c19c0e3e8d9e1a4dea7a923f8bc02fa17cf298abe919e"
+    },
+    {
+      "question": 2,
+      "source_box": [
+        1125,
+        625,
+        1275,
+        775
+      ],
+      "new_box": [
+        1125,
+        685,
+        1275,
+        835
+      ],
+      "rgb_sha256": "e584fbf0062a0a003bc9d814a560da94ecb3a0338b9afbde74ac5c9a5bb480b3"
+    },
+    {
+      "question": 3,
+      "source_box": [
+        85,
+        15,
+        255,
+        185
+      ],
+      "new_box": [
+        85,
+        15,
+        255,
+        185
+      ],
+      "rgb_sha256": "e486571e28f9a197f350fcc4c07697474b248b344aae08bed1a4b4e81c914238"
+    },
+    {
+      "question": 3,
+      "source_box": [
+        370,
+        15,
+        540,
+        185
+      ],
+      "new_box": [
+        370,
+        15,
+        540,
+        185
+      ],
+      "rgb_sha256": "c48cd88d658584545cb6df078157e8b29558398869024e48c68f2c796b3ca60a"
+    },
+    {
+      "question": 3,
+      "source_box": [
+        655,
+        15,
+        825,
+        185
+      ],
+      "new_box": [
+        655,
+        15,
+        825,
+        185
+      ],
+      "rgb_sha256": "b6d18e97573fd27deeb0e2a7806e106e75b69f62c5d83863790345f058405f62"
+    },
+    {
+      "question": 3,
+      "source_box": [
+        940,
+        15,
+        1110,
+        185
+      ],
+      "new_box": [
+        940,
+        15,
+        1110,
+        185
+      ],
+      "rgb_sha256": "89dc6752a62388fc7648c9cd822dad2c78651fbbca349e800d0482704da6ff89"
+    },
+    {
+      "question": 3,
+      "source_box": [
+        1225,
+        15,
+        1395,
+        185
+      ],
+      "new_box": [
+        1225,
+        15,
+        1395,
+        185
+      ],
+      "rgb_sha256": "ed68c80eb24d3a7e439396421aafbb93d75ce372e8f436555dd7ede03490278e"
+    },
+    {
+      "question": 3,
+      "source_box": [
+        215,
+        220,
+        385,
+        390
+      ],
+      "new_box": [
+        215,
+        220,
+        385,
+        390
+      ],
+      "rgb_sha256": "d531ecedfdbbe53c6ea48ca608d24baa581399fa452c02a7605193263b0f345e"
+    },
+    {
+      "question": 3,
+      "source_box": [
+        515,
+        220,
+        685,
+        390
+      ],
+      "new_box": [
+        515,
+        220,
+        685,
+        390
+      ],
+      "rgb_sha256": "41c723ec5f3bf2ccb57d51c04d5a19a6f59cc3f853754c671a033af21b63b6a5"
+    },
+    {
+      "question": 3,
+      "source_box": [
+        815,
+        220,
+        985,
+        390
+      ],
+      "new_box": [
+        815,
+        220,
+        985,
+        390
+      ],
+      "rgb_sha256": "c48cd88d658584545cb6df078157e8b29558398869024e48c68f2c796b3ca60a"
+    },
+    {
+      "question": 3,
+      "source_box": [
+        1115,
+        220,
+        1285,
+        390
+      ],
+      "new_box": [
+        1115,
+        220,
+        1285,
+        390
+      ],
+      "rgb_sha256": "1687d00e0ec24c60d17f283ea08273be4b8e03d3bd705e36a9d3d7b6aeabd469"
+    },
+    {
+      "question": 4,
+      "source_box": [
+        85,
+        20,
+        255,
+        190
+      ],
+      "new_box": [
+        85,
+        20,
+        255,
+        190
+      ],
+      "rgb_sha256": "36169e603d000ea3e0a6b70518c3c223b01ee26adbf9053423e33dafea5cce5f"
+    },
+    {
+      "question": 4,
+      "source_box": [
+        370,
+        20,
+        540,
+        190
+      ],
+      "new_box": [
+        370,
+        20,
+        540,
+        190
+      ],
+      "rgb_sha256": "e31883dc4ba0a2e51cd6afa1acae66fd4d13b90f190af56a9436faf1e678ac5a"
+    },
+    {
+      "question": 4,
+      "source_box": [
+        655,
+        20,
+        825,
+        190
+      ],
+      "new_box": [
+        655,
+        20,
+        825,
+        190
+      ],
+      "rgb_sha256": "0a51e094b35cbc26b9528b847bc04cdb5359c2bed58f8b80fc653bbb9856912e"
+    },
+    {
+      "question": 4,
+      "source_box": [
+        940,
+        20,
+        1110,
+        190
+      ],
+      "new_box": [
+        940,
+        20,
+        1110,
+        190
+      ],
+      "rgb_sha256": "df95215e291f56e65e2f3b17a770869556374a51061e24e622dfa588d77c65ef"
+    },
+    {
+      "question": 4,
+      "source_box": [
+        1225,
+        20,
+        1395,
+        190
+      ],
+      "new_box": [
+        1225,
+        20,
+        1395,
+        190
+      ],
+      "rgb_sha256": "ed68c80eb24d3a7e439396421aafbb93d75ce372e8f436555dd7ede03490278e"
+    },
+    {
+      "question": 4,
+      "source_box": [
+        218,
+        238,
+        382,
+        402
+      ],
+      "new_box": [
+        218,
+        238,
+        382,
+        402
+      ],
+      "rgb_sha256": "d2b7e6f6990378ad8933bfc948689f47c25c0499355cf1e1a4ddbd26db5a22a1"
+    },
+    {
+      "question": 4,
+      "source_box": [
+        518,
+        238,
+        682,
+        402
+      ],
+      "new_box": [
+        518,
+        238,
+        682,
+        402
+      ],
+      "rgb_sha256": "58972b1714b60caabc44f29214bcb2a3df169351d029da66a7a3d7c2aa5e6038"
+    },
+    {
+      "question": 4,
+      "source_box": [
+        818,
+        238,
+        982,
+        402
+      ],
+      "new_box": [
+        818,
+        238,
+        982,
+        402
+      ],
+      "rgb_sha256": "8f2575a924111be23b4d8cb5c6682530854976dcbd47edf7b003b89e8d16e257"
+    },
+    {
+      "question": 4,
+      "source_box": [
+        1118,
+        238,
+        1282,
+        402
+      ],
+      "new_box": [
+        1118,
+        238,
+        1282,
+        402
+      ],
+      "rgb_sha256": "812e98f9c92d5be89602ddbdc71e3080fb79f41651ee3b7cc39e4f81eece9f5d"
+    },
+    {
+      "question": 5,
+      "source_box": [
+        70,
+        30,
+        335,
+        380
+      ],
+      "new_box": [
+        70,
+        30,
+        335,
+        380
+      ],
+      "rgb_sha256": "69e0f2afe8c17ae72261502de89af394e0b3b8b8a80e86ac3a66fd6ff9f4f6dc"
+    },
+    {
+      "question": 5,
+      "source_box": [
+        465,
+        80,
+        655,
+        295
+      ],
+      "new_box": [
+        465,
+        80,
+        655,
+        295
+      ],
+      "rgb_sha256": "d7468dbaaa355aa414465579155e0484197b976d753eb34977ff837a9e06dec4"
+    },
+    {
+      "question": 5,
+      "source_box": [
+        730,
+        80,
+        920,
+        295
+      ],
+      "new_box": [
+        730,
+        80,
+        920,
+        295
+      ],
+      "rgb_sha256": "b641bbd3fb75a4e15066d2f9a538cec3d6bfc19afd6a156518c9d588c3fcb6e6"
+    },
+    {
+      "question": 5,
+      "source_box": [
+        995,
+        80,
+        1185,
+        295
+      ],
+      "new_box": [
+        995,
+        80,
+        1185,
+        295
+      ],
+      "rgb_sha256": "4cce0439cdf1a13522424fca00bbb163ec8aa3438a381037cf1e725aa8f033f8"
+    },
+    {
+      "question": 5,
+      "source_box": [
+        1260,
+        80,
+        1450,
+        295
+      ],
+      "new_box": [
+        1260,
+        80,
+        1450,
+        295
+      ],
+      "rgb_sha256": "c13f0a9eb8bc1f242c28993eb7c5f0c33d493d891f3517071d252bfa0f89be1a"
+    },
+    {
+      "question": 6,
+      "source_box": [
+        60,
+        45,
+        425,
+        345
+      ],
+      "new_box": [
+        60,
+        45,
+        425,
+        345
+      ],
+      "rgb_sha256": "f59bd6d4bfd5319a30c7828910d7ab66819a51a376e5946234e03fff7d1cbf51"
+    },
+    {
+      "question": 6,
+      "source_box": [
+        520,
+        110,
+        700,
+        290
+      ],
+      "new_box": [
+        520,
+        110,
+        700,
+        290
+      ],
+      "rgb_sha256": "03c99896f11f98563679ed987147d1e6f4f81d55976690f5195fa3b44e963fc0"
+    },
+    {
+      "question": 6,
+      "source_box": [
+        760,
+        110,
+        940,
+        290
+      ],
+      "new_box": [
+        760,
+        110,
+        940,
+        290
+      ],
+      "rgb_sha256": "cbbe2b7d4a20fa74ba30ed3d6cdd8286d775853546240df78832979aa1b0573b"
+    },
+    {
+      "question": 6,
+      "source_box": [
+        1000,
+        110,
+        1180,
+        290
+      ],
+      "new_box": [
+        1000,
+        110,
+        1180,
+        290
+      ],
+      "rgb_sha256": "0025145796a4fcd95e47ceb7fcbe444718aa4dff48bb7ac2312c931e542e9d66"
+    },
+    {
+      "question": 6,
+      "source_box": [
+        1240,
+        110,
+        1420,
+        290
+      ],
+      "new_box": [
+        1240,
+        110,
+        1420,
+        290
+      ],
+      "rgb_sha256": "4dd339103fdb6a8fb1225bc813a91928a9372ecbd0c2a69b49a44f379caf472d"
+    },
+    {
+      "question": 7,
+      "source_box": [
+        465,
+        30,
+        660,
+        220
+      ],
+      "new_box": [
+        465,
+        30,
+        660,
+        220
+      ],
+      "rgb_sha256": "84ed70eac81bf376503586d73d201d405c524471c9f20af0b5abb8db2b364ec4"
+    },
+    {
+      "question": 7,
+      "source_box": [
+        895,
+        30,
+        1025,
+        220
+      ],
+      "new_box": [
+        895,
+        30,
+        1025,
+        220
+      ],
+      "rgb_sha256": "01d9243ee967686fad78dcc64a14cdc220b263a383839c9fd53e91ff6f675d0e"
+    },
+    {
+      "question": 7,
+      "source_box": [
+        205,
+        315,
+        395,
+        445
+      ],
+      "new_box": [
+        205,
+        315,
+        395,
+        445
+      ],
+      "rgb_sha256": "ff85dbc38eeabcd5eb109d694f39fbe034edbfe46bc79d38d4e8f56439e22080"
+    },
+    {
+      "question": 7,
+      "source_box": [
+        505,
+        315,
+        695,
+        445
+      ],
+      "new_box": [
+        505,
+        315,
+        695,
+        445
+      ],
+      "rgb_sha256": "76778da097adf8db73a7b2cc9d2c74b608993b4d404c68aaa8937e7aff3094ae"
+    },
+    {
+      "question": 7,
+      "source_box": [
+        805,
+        315,
+        995,
+        445
+      ],
+      "new_box": [
+        805,
+        315,
+        995,
+        445
+      ],
+      "rgb_sha256": "fcd4a421a0ab08b66218736c32d074496b6f4b91d6f88f0a545b97d2dd152e47"
+    },
+    {
+      "question": 7,
+      "source_box": [
+        1105,
+        315,
+        1295,
+        445
+      ],
+      "new_box": [
+        1105,
+        315,
+        1295,
+        445
+      ],
+      "rgb_sha256": "f0c6ff294ef87992dfed0f87412c09a1bd6a3debf057dfc83d16210df6178eaa"
+    },
+    {
+      "question": 8,
+      "source_box": [
+        225,
+        25,
+        415,
+        215
+      ],
+      "new_box": [
+        225,
+        25,
+        415,
+        215
+      ],
+      "rgb_sha256": "f517b771d7ea3377c7193dfc854fbd468b7e3650342b0028418a4aa03277a11f"
+    },
+    {
+      "question": 8,
+      "source_box": [
+        655,
+        25,
+        845,
+        215
+      ],
+      "new_box": [
+        655,
+        25,
+        845,
+        215
+      ],
+      "rgb_sha256": "af7162959c7fd041d0c0ea61e6893c163968ba62588d38fc61b78396433677b5"
+    },
+    {
+      "question": 8,
+      "source_box": [
+        1085,
+        25,
+        1275,
+        215
+      ],
+      "new_box": [
+        1085,
+        25,
+        1275,
+        215
+      ],
+      "rgb_sha256": "729c20707701f457ce772813704a8da627e0d239483315e55917d2a60c3b4a91"
+    },
+    {
+      "question": 8,
+      "source_box": [
+        225,
+        275,
+        415,
+        465
+      ],
+      "new_box": [
+        225,
+        275,
+        415,
+        465
+      ],
+      "rgb_sha256": "dabd750de750086510dd5c489be5d80e94bc5825a93d3c2abb7cc438bfb74c1f"
+    },
+    {
+      "question": 8,
+      "source_box": [
+        655,
+        275,
+        845,
+        465
+      ],
+      "new_box": [
+        655,
+        275,
+        845,
+        465
+      ],
+      "rgb_sha256": "fd17b1e337aa6da5bd875e8e0545bca06ec3c36d2f73551697c2f4165dda191d"
+    },
+    {
+      "question": 8,
+      "source_box": [
+        1085,
+        275,
+        1275,
+        465
+      ],
+      "new_box": [
+        1085,
+        275,
+        1275,
+        465
+      ],
+      "rgb_sha256": "a4f1fd29fdf948f8a811a2f90e37a6002131f874a9bb30f566b55d080a9478fd"
+    },
+    {
+      "question": 9,
+      "source_box": [
+        225,
+        25,
+        415,
+        215
+      ],
+      "new_box": [
+        225,
+        25,
+        415,
+        215
+      ],
+      "rgb_sha256": "50bb4337d61044cd4e903c4880ff6aa4e4d039a85026382d0fe4f602797542bc"
+    },
+    {
+      "question": 9,
+      "source_box": [
+        655,
+        25,
+        845,
+        215
+      ],
+      "new_box": [
+        655,
+        25,
+        845,
+        215
+      ],
+      "rgb_sha256": "1297938fbfe251e8fc9b65e7632520a841a5543463b6267e28d27a27fffd60cd"
+    },
+    {
+      "question": 9,
+      "source_box": [
+        1085,
+        25,
+        1275,
+        215
+      ],
+      "new_box": [
+        1085,
+        25,
+        1275,
+        215
+      ],
+      "rgb_sha256": "94f2ad0c1c024fe3f8ea79917071681eccbaffeabe728359bff42933612af5b0"
+    },
+    {
+      "question": 9,
+      "source_box": [
+        225,
+        275,
+        415,
+        465
+      ],
+      "new_box": [
+        225,
+        275,
+        415,
+        465
+      ],
+      "rgb_sha256": "f50bbe5a26919e3adba475f3e88df9c3c64672a35fd041e6e2fcc9276d8c42ef"
+    },
+    {
+      "question": 9,
+      "source_box": [
+        655,
+        275,
+        845,
+        465
+      ],
+      "new_box": [
+        655,
+        275,
+        845,
+        465
+      ],
+      "rgb_sha256": "ad715ca816312cf9defeb35beb941500dc0c7e768166f1a9627a69aad3427bbf"
+    },
+    {
+      "question": 9,
+      "source_box": [
+        1085,
+        275,
+        1275,
+        465
+      ],
+      "new_box": [
+        1085,
+        275,
+        1275,
+        465
+      ],
+      "rgb_sha256": "d1c18c5dc63fc41070e62ae6c3a50d045f4ae5cd8dbd33c34cd7ca1567d63f3e"
+    },
+    {
+      "question": 10,
+      "source_box": [
+        225,
+        25,
+        415,
+        215
+      ],
+      "new_box": [
+        225,
+        25,
+        415,
+        215
+      ],
+      "rgb_sha256": "ca4b95163a87a1773c6d2a59140368e549253c7834129f540dc6b887ca00b74f"
+    },
+    {
+      "question": 10,
+      "source_box": [
+        655,
+        25,
+        845,
+        215
+      ],
+      "new_box": [
+        655,
+        25,
+        845,
+        215
+      ],
+      "rgb_sha256": "ad188db3534fbf7d585acd00594ed0c587f6ec8cdcbe5bc4d17ac04f71943dcb"
+    },
+    {
+      "question": 10,
+      "source_box": [
+        1085,
+        25,
+        1275,
+        215
+      ],
+      "new_box": [
+        1085,
+        25,
+        1275,
+        215
+      ],
+      "rgb_sha256": "10742b782e71d219da549cac31dc1a57386d5bd752eef8227fb633bf5340d6e1"
+    },
+    {
+      "question": 10,
+      "source_box": [
+        225,
+        275,
+        415,
+        465
+      ],
+      "new_box": [
+        225,
+        275,
+        415,
+        465
+      ],
+      "rgb_sha256": "f0f5ce6e329a791c75f2cf01b7f028910d65e9aae6e1947496f334cbe6adb46c"
+    },
+    {
+      "question": 10,
+      "source_box": [
+        655,
+        275,
+        845,
+        465
+      ],
+      "new_box": [
+        655,
+        275,
+        845,
+        465
+      ],
+      "rgb_sha256": "b1d53f35dc3d18332f89bf92da1ffc3c33504498984a26111b61b28c494a1e63"
+    },
+    {
+      "question": 10,
+      "source_box": [
+        1085,
+        275,
+        1275,
+        465
+      ],
+      "new_box": [
+        1085,
+        275,
+        1275,
+        465
+      ],
+      "rgb_sha256": "ebca5f31510cdfb293452cb49e7d1da96f834ad9d5ce8319c4d356da6579a5b8"
+    }
+  ],
+  "count": 75,
+  "explanation_images_unchanged": [
+    {
+      "name": "q05_explain.png",
+      "sha256": "c894d229006c1d5edf71cca97a10e35d0ce620821a468eaa2e2bcdfdcb5fd3a8"
+    },
+    {
+      "name": "q06_explain.png",
+      "sha256": "46cecef029f4668562014d4031da2a52c0578b1aa1f562aeb861458565fe0203"
+    },
+    {
+      "name": "q07_explain.png",
+      "sha256": "4f05a475c8c701ce83c087664636dac0d0a47c7b7b785e95cb136a12dac6ce37"
+    }
+  ]
+}

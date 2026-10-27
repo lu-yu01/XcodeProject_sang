@@ -1,0 +1,88 @@
+{
+  "passed": true,
+  "questions": 10,
+  "checks": {
+    "1": {
+      "chronological_photo_labels": [
+        2,
+        4,
+        1,
+        3
+      ],
+      "unique_option": "B",
+      "near_object_pixel_x_by_time": [
+        145.0,
+        200.0,
+        255.0,
+        310.0
+      ]
+    },
+    "2": {
+      "chronological_photo_labels": [
+        3,
+        1,
+        4,
+        2
+      ],
+      "unique_option": "D",
+      "near_object_pixel_x_by_time": [
+        300.0,
+        250.0,
+        200.0,
+        150.0
+      ]
+    },
+    "3": {
+      "chronological_photo_labels": [
+        2,
+        4,
+        3,
+        1
+      ],
+      "unique_option": "A"
+    },
+    "4": {
+      "chronological_photo_labels": [
+        4,
+        2,
+        1,
+        3
+      ],
+      "unique_option": "C"
+    },
+    "8": {
+      "matching_options": [
+        "B"
+      ]
+    },
+    "9": {
+      "arrival_heading": "南",
+      "after_right_turn": "西",
+      "home_relative": "左前",
+      "store_relative": "右前"
+    },
+    "10": {
+      "front_to_back": [
+        "矮塔",
+        "树",
+        "高塔"
+      ],
+      "matching_options": [
+        "A"
+      ]
+    },
+    "7": {
+      "point_light_away_and_concurrent": true
+    },
+    "6": {
+      "parallel_world_shadows": "西北",
+      "observer": "西南"
+    },
+    "5": {
+      "sun": "正北",
+      "world_shadow": "正南",
+      "observer": "西南"
+    }
+  },
+  "limits": "程序验证几何和唯一性边界；最终还须独立图面试解及Word全部页图复核。"
+}

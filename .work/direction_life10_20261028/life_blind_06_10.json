@@ -1,0 +1,112 @@
+{
+  "reviewer": "life_blind_06_10",
+  "scope": [6, 7, 8, 9, 10],
+  "blind_review": true,
+  "allowed_sources_used": [
+    "public_questions.json",
+    "assets/question-06.png",
+    "assets/question-07.png",
+    "assets/question-08.png",
+    "assets/question-09.png",
+    "assets/question-10.png"
+  ],
+  "prohibited_sources_read": false,
+  "first_answers_file": "life_first_06_10.json",
+  "first_answers_preserved": true,
+  "first_answers": {"6": "A", "7": "D", "8": "B", "9": "C", "10": "A"},
+  "final_answers": {"6": "A", "7": "D", "8": "B", "9": "C", "10": "A"},
+  "answer_changes": [],
+  "overall_result": "第6、8、9、10题可由当前题图唯一支持；第7题最可能为D，但光源平面位置存在图标锚点歧义，建议加明确标记后再作无保留通过。",
+  "items": [
+    {
+      "n": 6,
+      "answer": "A",
+      "image_sha256": "FD34F40F334563780CA24B489C8A8445F28B2E02D757B844475718CB5D7D856D",
+      "status": "pass",
+      "unique_from_current_image": true,
+      "world_to_view_check": "俯视图北朝上，观察者位于两柱西南，朝东北；图示旗杆地面影子朝西北，即与观察者朝向近乎垂直、位于观察者左侧。投到地面透视画面后，柱影应向画面左方延伸，不能把画面上方直接当作北方。近柱画面偏左、远柱偏右也与俯视布置相符。",
+      "option_checks": {
+        "A": "两根柱影均在地面上向左延伸；远柱影在画面较短，与透视缩短相容。",
+        "B": "两影向右，左右方向与世界朝向变换相反。",
+        "C": "影子主要朝观察者方向延伸，未保持西北影向相对东北视线应在左侧的关系。",
+        "D": "两影方向明显不同，不符同一时刻阳光下平行地面影向。"
+      },
+      "text_image_conflicts": [],
+      "required_revisions": []
+    },
+    {
+      "n": 7,
+      "answer": "D",
+      "image_sha256": "06F935DE1052FDA7430A8E158D030B0C4501BEE81AFCDCF126D3801323A88C48",
+      "status": "needs_source_position_clarification",
+      "unique_from_current_image": "conditional",
+      "world_to_view_check": "按路灯图标立杆底端或图标中心代表光源地面投影理解，观察者从东南面向西北。左下柱在画面左侧；中间较近的柱在画面中部；上方较远柱在画面右侧。三根影子各沿从光源地面投影经柱脚向外的射线延伸。变换到观察画面后，左柱影朝左下，中柱影朝右下，右柱影朝右且较平，D最相符。",
+      "option_checks": {
+        "A": "左柱影也朝右下，把三根影子都画到右侧，不符上述光源平面位置下左柱应向左侧发散。",
+        "B": "影子伸向远离观察者的一侧，与光源在柱群更后方、影子总体向观察者一侧延伸的关系相反。",
+        "C": "中柱、右柱的影子主要向左，与上述地面投影关系相反。",
+        "D": "三根影子分开朝左下、右下、右方，与点光源向外发散及柱群前后位置相容。"
+      },
+      "text_image_conflicts": [],
+      "clarity_issue": "题干说上方俯视图给出点光源位置，但当前用一个有高度的路灯立面图标表示，未明确哪个平面点是点光源的地面投影。灯头在画面中约为(797,55)，立杆底端约为(780,110)。按后者或图标中心理解可得到D；若严格把灯头在俯视图中的落点当作光源位置，中柱的影向会接近朝观察者或略偏左，便不能严格得到D的中柱向右下影子。当前不能无条件宣称图示完全无歧义。",
+      "required_revisions": [
+        "在俯视图中用明确小圆点标出光源的地面投影，并以引线标注‘光源正下方’；让路灯装饰图标与该点的对应关系清楚。标点应保留使左柱影向左、另两柱影向右的几何关系。"
+      ]
+    },
+    {
+      "n": 8,
+      "answer": "B",
+      "image_sha256": "8C680BC492F9CEC8594A2B7A692C0C961D99CDC76314DD570D2E4183F4C63001",
+      "status": "pass",
+      "unique_from_current_image": true,
+      "constraints": [
+        "家门口面向北：商店在家西北，影院在家东北。",
+        "影院门口面向西：家在影院左前，即西南；图书馆在影院右前，即西北。"
+      ],
+      "option_checks": {
+        "A": "商店在家左上、影院在家上方稍右，第一幅关系基本相符；但图书馆明确在影院右上，即东北，不符影院朝西时图书馆右前所要求的西北。",
+        "B": "商店在家西北，影院在家东北；家在影院西南，图书馆在影院西北，全部满足。",
+        "C": "影院在家东北，图书馆在影院西北；但商店在家右上，即东北，不符商店应在家西北。",
+        "D": "影院在家左上、商店在家右上，与家朝北时的左右相反；图书馆也在影院东北，不符影院朝西时的右前。"
+      },
+      "text_image_conflicts": [],
+      "required_revisions": []
+    },
+    {
+      "n": 9,
+      "answer": "C",
+      "image_sha256": "464C148B8CFB1CF28B4CB432AA430C582C3F6C21CFE7780619AB1CCE57C49727",
+      "status": "pass",
+      "unique_from_current_image": true,
+      "rotation_check": "上方北箭头斜指画面右上，故西为画面左上、南为画面左下。路线最后一段在影院附近朝画面左下，是朝南行走；到影院后右转90度即朝西，对应原图画面左上。把该朝向转作下方选项的上方后，家在左前、书店在右前。此判断使用旋转后的北箭头，不把原图的上方误当北。",
+      "option_checks": {
+        "A": "家在右前，书店在右后，两者均不符。",
+        "B": "家在右后，书店在左后，不符两者均在前方。",
+        "C": "家在左前，书店在右前，符合旋转后的相对方向。",
+        "D": "两者均在前方，但家、书店的左右互换。"
+      },
+      "text_image_conflicts": [],
+      "required_revisions": []
+    },
+    {
+      "n": 10,
+      "answer": "A",
+      "image_sha256": "D39FB8F3A56F0ECBE3290AB4DBD1C6B1DBDB9BDAC832BD4ABD2722766C7DB4DE",
+      "status": "pass",
+      "unique_from_current_image": true,
+      "occlusion_checks": [
+        "实际放大照片中矮塔右边缘与树干接触处：矮塔右侧的连续墙体边界截住树干左边一部分，树干其余部分从矮塔右侧露出，可见矮塔在树前。",
+        "树冠覆盖高塔左侧墙面并遮住其左侧部分窗墙，树枝、树冠轮廓位于高塔墙面之前，可见树在高塔前。"
+      ],
+      "depth_order": "摄影者 → 矮塔 → 树 → 高塔",
+      "option_checks": {
+        "A": "前方从近到远为矮塔、树、高塔，符合两处遮挡。",
+        "B": "高塔最近、树居中、矮塔最远，与两处遮挡推得的顺序相反。",
+        "C": "矮塔近、高塔居中、树最远，只满足矮塔在树前，违背树遮挡高塔。",
+        "D": "树最近、矮塔居中、高塔最远，只满足树在高塔前，违背矮塔遮挡树干。"
+      },
+      "text_image_conflicts": [],
+      "required_revisions": []
+    }
+  ]
+}

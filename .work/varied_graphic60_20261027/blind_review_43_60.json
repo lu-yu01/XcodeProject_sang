@@ -1,0 +1,2310 @@
+{
+  "scope": "Groups 15-20, questions 43-60. Group 20 uses the final eight-ray public images.",
+  "materials": "Public instructions and actual PNGs only; no author model, answer or solution read.",
+  "first_choices_preserved": true,
+  "independent_method": "Manually transcribed image states; independent tuple permutations, modular token replacement, 2x2 glyph matrices and eight-bit set masks.",
+  "results": [
+    {
+      "n": 43,
+      "first_choice": "C",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          1,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "states": [
+        [
+          [
+            1,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          3,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "0281fcabf00a31f45bf208e87bbb4cefadb54a1882d06fbd234d91adbbc71eef",
+      "final_reviewed_image_sha256": "12f490b2a12ef1a4adb48b6c58efc877837147fe82c534b0415ecbe348efc985",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "◇",
+        "B"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 44,
+      "first_choice": "B",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          0,
+          1
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "states": [
+        [
+          [
+            0,
+            1
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ]
+        ],
+        [
+          [
+            3,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            3,
+            1
+          ]
+        ],
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "f0337237a16f953765affbc1eb63e704b3f46ea71c78169b65d198688a424ba8",
+      "final_reviewed_image_sha256": "ad0aa6d176937e107f05648def8e912772fceda2a8c3a5e7e496f4041778e3c8",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "↻",
+        "↕",
+        "↷"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 45,
+      "first_choice": "C",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "states": [
+        [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            2,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "e7ce532130a60238c7c6af81d0624f2b2f042003b900e8947e228899d0a9450b",
+      "final_reviewed_image_sha256": "f2542460af3def1113d5951561ddd7a90519d144a61be36c99fcceaf90d304f4",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "↔",
+        "↻",
+        "B",
+        "◇"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 46,
+      "first_choice": "C",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          "F",
+          [
+            1,
+            0,
+            0,
+            -1
+          ]
+        ],
+        [
+          "R",
+          [
+            0,
+            1,
+            -1,
+            0
+          ]
+        ],
+        [
+          "P",
+          [
+            1,
+            0,
+            0,
+            1
+          ]
+        ]
+      ],
+      "states": [
+        [
+          [
+            "F",
+            [
+              1,
+              0,
+              0,
+              -1
+            ]
+          ],
+          [
+            "R",
+            [
+              0,
+              1,
+              -1,
+              0
+            ]
+          ],
+          [
+            "P",
+            [
+              1,
+              0,
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            "P",
+            [
+              1,
+              0,
+              0,
+              -1
+            ]
+          ],
+          [
+            "F",
+            [
+              0,
+              1,
+              -1,
+              0
+            ]
+          ],
+          [
+            "R",
+            [
+              1,
+              0,
+              0,
+              1
+            ]
+          ]
+        ],
+        [
+          [
+            "P",
+            [
+              1,
+              0,
+              0,
+              -1
+            ]
+          ],
+          [
+            "F",
+            [
+              0,
+              -1,
+              1,
+              0
+            ]
+          ],
+          [
+            "R",
+            [
+              1,
+              0,
+              0,
+              1
+            ]
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          "P",
+          [
+            1,
+            0,
+            0,
+            -1
+          ]
+        ],
+        [
+          "F",
+          [
+            0,
+            -1,
+            1,
+            0
+          ]
+        ],
+        [
+          "R",
+          [
+            1,
+            0,
+            0,
+            1
+          ]
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "91c4f15f474cd8a995b1411378cd341a7e2d3fec7c4c45da93dfd98364e0890c",
+      "final_reviewed_image_sha256": "ef9d6a32df8a8c0e61b222a74125975476804db8671f9ff0bf398ca221a9e2f0",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "C",
+        "F²"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 47,
+      "first_choice": "A",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          "R",
+          [
+            0,
+            1,
+            -1,
+            0
+          ]
+        ],
+        [
+          "P",
+          [
+            0,
+            1,
+            1,
+            0
+          ]
+        ],
+        [
+          "F",
+          [
+            -1,
+            0,
+            0,
+            -1
+          ]
+        ]
+      ],
+      "states": [
+        [
+          [
+            "R",
+            [
+              0,
+              1,
+              -1,
+              0
+            ]
+          ],
+          [
+            "P",
+            [
+              0,
+              1,
+              1,
+              0
+            ]
+          ],
+          [
+            "F",
+            [
+              -1,
+              0,
+              0,
+              -1
+            ]
+          ]
+        ],
+        [
+          [
+            "F",
+            [
+              -1,
+              0,
+              0,
+              -1
+            ]
+          ],
+          [
+            "R",
+            [
+              0,
+              1,
+              -1,
+              0
+            ]
+          ],
+          [
+            "P",
+            [
+              0,
+              1,
+              1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            "F",
+            [
+              -1,
+              0,
+              0,
+              -1
+            ]
+          ],
+          [
+            "P",
+            [
+              0,
+              1,
+              1,
+              0
+            ]
+          ],
+          [
+            "R",
+            [
+              0,
+              1,
+              -1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            "F",
+            [
+              1,
+              0,
+              0,
+              -1
+            ]
+          ],
+          [
+            "P",
+            [
+              0,
+              -1,
+              1,
+              0
+            ]
+          ],
+          [
+            "R",
+            [
+              0,
+              -1,
+              -1,
+              0
+            ]
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          "F",
+          [
+            1,
+            0,
+            0,
+            -1
+          ]
+        ],
+        [
+          "P",
+          [
+            0,
+            -1,
+            1,
+            0
+          ]
+        ],
+        [
+          "R",
+          [
+            0,
+            -1,
+            -1,
+            0
+          ]
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "8bb27a770228fcc1911b3eca6c0ca84a05730c166340840f4d4c508fdc7d3bb9",
+      "final_reviewed_image_sha256": "3514f15d794273f0554d6b4ab6a290ff2b111f19e92839b28c0d3f6e698d2e47",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "△",
+        "↔",
+        "⇆"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 48,
+      "first_choice": "B",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          "F",
+          [
+            0,
+            -1,
+            1,
+            0
+          ]
+        ],
+        [
+          "P",
+          [
+            1,
+            0,
+            0,
+            -1
+          ]
+        ],
+        [
+          "R",
+          [
+            0,
+            -1,
+            -1,
+            0
+          ]
+        ]
+      ],
+      "states": [
+        [
+          [
+            "F",
+            [
+              0,
+              -1,
+              1,
+              0
+            ]
+          ],
+          [
+            "P",
+            [
+              1,
+              0,
+              0,
+              -1
+            ]
+          ],
+          [
+            "R",
+            [
+              0,
+              -1,
+              -1,
+              0
+            ]
+          ]
+        ],
+        [
+          [
+            "F",
+            [
+              -1,
+              0,
+              0,
+              -1
+            ]
+          ],
+          [
+            "P",
+            [
+              0,
+              1,
+              1,
+              0
+            ]
+          ],
+          [
+            "R",
+            [
+              1,
+              0,
+              0,
+              -1
+            ]
+          ]
+        ],
+        [
+          [
+            "F",
+            [
+              1,
+              0,
+              0,
+              1
+            ]
+          ],
+          [
+            "P",
+            [
+              0,
+              1,
+              1,
+              0
+            ]
+          ],
+          [
+            "R",
+            [
+              1,
+              0,
+              0,
+              -1
+            ]
+          ]
+        ],
+        [
+          [
+            "P",
+            [
+              1,
+              0,
+              0,
+              1
+            ]
+          ],
+          [
+            "R",
+            [
+              0,
+              1,
+              1,
+              0
+            ]
+          ],
+          [
+            "F",
+            [
+              1,
+              0,
+              0,
+              -1
+            ]
+          ]
+        ],
+        [
+          [
+            "P",
+            [
+              -1,
+              0,
+              0,
+              1
+            ]
+          ],
+          [
+            "R",
+            [
+              0,
+              -1,
+              1,
+              0
+            ]
+          ],
+          [
+            "F",
+            [
+              -1,
+              0,
+              0,
+              -1
+            ]
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          "P",
+          [
+            -1,
+            0,
+            0,
+            1
+          ]
+        ],
+        [
+          "R",
+          [
+            0,
+            -1,
+            1,
+            0
+          ]
+        ],
+        [
+          "F",
+          [
+            -1,
+            0,
+            0,
+            -1
+          ]
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "70464bf835442c1fd6c1184396e65631d204e64f2bf04d0d0751999659e84ad2",
+      "final_reviewed_image_sha256": "18cf3bc8fbed644b9a30dc418c12b54ec0b360d2968cabec5c8bec50a0ad094e",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "↷",
+        "F²",
+        "C",
+        "⇆"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 49,
+      "first_choice": "B",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "states": [
+        [
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "07c8d7a38ff550d35bc72ce0f0fdd369bec429e51f19c4958db4c760a661d801",
+      "final_reviewed_image_sha256": "984bc0de957f7f39e6e9cf2f0f9f3a7f88d38571a77fb16e7f22b6157ea4bf51",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "◇",
+        "B"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 50,
+      "first_choice": "A",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      "states": [
+        [
+          [
+            2,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ]
+        ],
+        [
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "4638044cca1a4a2c98a2269034dc9a06371c179d7dc2b2da30f8cc1f0fe8027f",
+      "final_reviewed_image_sha256": "54da3a354369387e283c264eb70ec1c1376df9bf4e47f8d0216499d66f1c7666",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "↻",
+        "↕",
+        "S"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 51,
+      "first_choice": "C",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "states": [
+        [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            0
+          ]
+        ],
+        [
+          [
+            2,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "92dfe8b8ba7169c98fa91c9f50f893d68b7e3f7baa7bc97393e9cdf3cb8f486b",
+      "final_reviewed_image_sha256": "ae575462ea48d49a8975728fa68d1aff7eabef533b0842f2358bc5f55e610cc4",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "⇆",
+        "↻",
+        "B",
+        "◇"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 52,
+      "first_choice": "B",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "states": [
+        [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          2,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "5cd8c17656e925dffc5e9e9a22997af73c95ae46242bf8371fb6e1fd4fd77dd1",
+      "final_reviewed_image_sha256": "db000023d15d36e53cc2432513d137725caaceba28262025c4e53d2ba6ce6bc8",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "⇄",
+        "L"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 53,
+      "first_choice": "B",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "states": [
+        [
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            2,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            0,
+            1
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "f3a147c9cb0e7a5dd90a2201f7536a02b61e418b028f9480ace01550d9edb782",
+      "final_reviewed_image_sha256": "1e8500527d96b7a0a656d83d5a146fe486c3de69d9145f09dc0d0404b99cfcb2",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "↔",
+        "M",
+        "B"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 54,
+      "first_choice": "C",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "states": [
+        [
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            2,
+            0
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            2,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            0,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "da3e702edcaa849c251f344aab01b45c404bb6bacb7330eaa53bb70b1899f650",
+      "final_reviewed_image_sha256": "7ec9342e513f8641c1f9f61c4728e2df2225e43bb0f96f398f148575df106e86",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "◇",
+        "L",
+        "⇄",
+        "B"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 55,
+      "first_choice": "B",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          2,
+          0,
+          1,
+          3
+        ],
+        [
+          2,
+          1,
+          0,
+          0
+        ]
+      ],
+      "states": [
+        [
+          [
+            2,
+            0,
+            1,
+            3
+          ],
+          [
+            2,
+            1,
+            0,
+            0
+          ]
+        ],
+        [
+          [
+            2,
+            0,
+            1,
+            3
+          ],
+          [
+            0,
+            2,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            2,
+            0,
+            1,
+            3
+          ],
+          [
+            0,
+            1,
+            2,
+            0
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          2,
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          1,
+          2,
+          0
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "3b4a4e276de97ee873aaca76bfe3b6a88ce50924f27af2c0f4b3429ee37ae658",
+      "final_reviewed_image_sha256": "d55c9e4b6c9c462ac699347f5b4c4645c431d51e5eb181fe78e516ae801443ba",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "K",
+        "M"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 56,
+      "first_choice": "A",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          2,
+          3,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          2,
+          0
+        ]
+      ],
+      "states": [
+        [
+          [
+            2,
+            3,
+            0,
+            1
+          ],
+          [
+            1,
+            1,
+            2,
+            0
+          ]
+        ],
+        [
+          [
+            3,
+            0,
+            1,
+            2
+          ],
+          [
+            1,
+            1,
+            2,
+            0
+          ]
+        ],
+        [
+          [
+            2,
+            1,
+            0,
+            3
+          ],
+          [
+            0,
+            2,
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            1,
+            0,
+            3
+          ],
+          [
+            1,
+            0,
+            2,
+            2
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          2,
+          1,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          2,
+          2
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "2b2a47d17a4fe199667a03def3bb551a643d22638ff5604c37a8c9e862d7b958",
+      "final_reviewed_image_sha256": "1609123b1a703a90a967fa6357be3136ad9170df03cae377389fe9990aefdeaf",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "E",
+        "⇆",
+        "T"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 57,
+      "first_choice": "C",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        [
+          3,
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2,
+          2
+        ]
+      ],
+      "states": [
+        [
+          [
+            3,
+            0,
+            1,
+            2
+          ],
+          [
+            1,
+            0,
+            2,
+            2
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            2,
+            3
+          ],
+          [
+            1,
+            0,
+            2,
+            2
+          ]
+        ],
+        [
+          [
+            1,
+            2,
+            3,
+            0
+          ],
+          [
+            1,
+            0,
+            2,
+            2
+          ]
+        ],
+        [
+          [
+            1,
+            2,
+            3,
+            0
+          ],
+          [
+            2,
+            1,
+            0,
+            2
+          ]
+        ],
+        [
+          [
+            1,
+            2,
+            3,
+            0
+          ],
+          [
+            2,
+            0,
+            1,
+            2
+          ]
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        [
+          1,
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          0,
+          1,
+          2
+        ]
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "3fe7d931702128178e23ad33deaa09447fc4232692491f5e028867eead118ff9",
+      "final_reviewed_image_sha256": "f74ba516d879ed8a2b37c14dcffa20b24fc670d98480e6856341985dfcfee65c",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "S",
+        "E",
+        "K",
+        "M"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 58,
+      "first_choice": "D",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        41,
+        55
+      ],
+      "states": [
+        [
+          41,
+          55
+        ],
+        [
+          30,
+          55
+        ],
+        [
+          30,
+          200
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        30,
+        200
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "ae2db7f85cb4b1fc681de9b87929170a2a8aa18e49cd004afddd79dd15b9618c",
+      "final_reviewed_image_sha256": "d37cc8bb0358a9e51bab493023c80a39ab4ae99eb21fdf8bc6fb957554b63ee3",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "⊕",
+        "¬"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 59,
+      "first_choice": "B",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        49,
+        60
+      ],
+      "states": [
+        [
+          49,
+          60
+        ],
+        [
+          60,
+          49
+        ],
+        [
+          60,
+          48
+        ],
+        [
+          195,
+          3
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        195,
+        3
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "3e73affce2408dfa5589baf11d23b1f954cd9b143491d36982a48c9c978d50f3",
+      "final_reviewed_image_sha256": "ac6fc756ec491712bb4ba1ef22689653342257ca8d0424a5b564c47fcb7f65ec",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "⇄",
+        "∩",
+        "↶"
+      ],
+      "final_visible_match_remains_unique": true
+    },
+    {
+      "n": 60,
+      "first_choice": "D",
+      "independently_recomputed": true,
+      "source_transcribed_from_image": [
+        222,
+        205
+      ],
+      "states": [
+        [
+          222,
+          205
+        ],
+        [
+          222,
+          50
+        ],
+        [
+          254,
+          50
+        ],
+        [
+          50,
+          254
+        ],
+        [
+          204,
+          254
+        ]
+      ],
+      "selected_option_transcribed_from_image": [
+        204,
+        254
+      ],
+      "matches_selected_option": true,
+      "original_frozen_image_sha256": "ea19a5104b9e5f2eb8afe3dee723c85d4325805ce37f9bcadd40d48883b4f1f1",
+      "final_reviewed_image_sha256": "7deeda06772eb84ecae7dde7aed2711724ca0331f1bd982a88fb6f54e18d7470",
+      "final_image_actually_reopened": true,
+      "final_public_chain": [
+        "¬",
+        "∪",
+        "⇄",
+        "⊕"
+      ],
+      "final_visible_match_remains_unique": true
+    }
+  ],
+  "text_suggestions": [
+    {
+      "groups": [
+        17,
+        18
+      ],
+      "suggestion": "Explicitly fix newly generated triangles to point upward.",
+      "impact": "No present option ambiguity; improves the full rule definition.",
+      "status": "Closed: updated public introductions reread and accepted. All 18 revised PNGs actually reopened; first choices remain unchanged.",
+      "accepted_final_intros": {
+        "17": "六站自最上方起顺时针排列。轨道只定位；三角形均尖端朝上。形状替换只改形状，保留空实。",
+        "18": "树形连线固定不变，只操作四个末端图形。末端从左到右计数；形状替换保留空实，新三角形均尖端朝上。"
+      }
+    }
+  ],
+  "pending": [],
+  "final_revision": {
+    "reported_change": "Operation-chain spaces reduced; group 16 code F→P replaced by C and group 19 code ·→× replaced by T; author reports scene data and option ordering unchanged.",
+    "reviewer_confirmation": "All 18 final question PNGs actually reopened, public rules and final codes reread, same visible source and candidate content observed; independently recomputed answers unchanged. This review does not itself claim pixel-level identity.",
+    "code_mapping": {
+      "group16": {
+        "old": "F→P",
+        "final": "C",
+        "meaning": "F→P→R→F; glyph pose preserved"
+      },
+      "group19": {
+        "old": "·→×",
+        "final": "T",
+        "meaning": "point→cross→dash→point"
+      }
+    },
+    "final_public_manifest_sha256": "de4983b886019773cb3b23cee253d7d97093dadda09def2ea5c31931c3289e47",
+    "original_first_record_sha256": "890cc226884f2d3520124ac55a63278fc833437622bab403c5af3d5643792fc4"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "status": "frozen_after_q95_clarification",
+  "questions": [
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110
+  ],
+  "previous_freeze_snapshot": "revision_history/before_q95_clarification",
+  "changed_questions": [
+    95
+  ],
+  "unchanged_question_count": 29,
+  "files": {
+    "arguments.py": "7cb01bdcfc35200f8097e570e01754297c2aa4196449abe7987aa927419c79f5",
+    "questions_arguments.json": "ceb4121d9b94dd05d7d5d63829c151daf176df48d0b5683db8f6da5d089803ba",
+    "verification_arguments.json": "a8680f997efb87025fc9b7028f73368dd39113e9d86fe63bff7d6e69a0a615ab",
+    "sources_arguments.json": "ff8a75f9972c31c96835439a6bc0d3feeb9cea15dfd1869e1f2ce15db2377cbb",
+    "author_audit_arguments.json": "e6b30e38b00ed850c706f4f814ee3b73fda816b035bc4d5a6074b1d038732ca3"
+  },
+  "do_not_treat_author_audit_as_blind_review": true
+}

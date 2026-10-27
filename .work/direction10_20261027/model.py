@@ -1,0 +1,131 @@
+from pathlib import Path
+import json,math,itertools,hashlib
+ROOT=Path(__file__).resolve().parent
+PROJECT=ROOT.parents[1]
+OUT=PROJECT/'模式题'/'北京风格情境方向图形推理-10题（含答案解析）.docx'
+REF=PROJECT/'模式题'/'北京风格图形推理一拖三-1组3题（含答案解析）.docx'
+
+def dot(a,b):return sum(x*y for x,y in zip(a,b))
+def sub(a,b):return tuple(x-y for x,y in zip(a,b))
+def unit(v):
+ d=math.hypot(*v);return tuple(x/d for x in v)
+def screen_axes(forward):
+ f=unit(forward);return f,(f[1],-f[0])
+def relative(p,origin,forward):
+ f,r=screen_axes(forward);v=sub(p,origin);return (dot(v,r),dot(v,f))
+def project(p,cam,forward,w=420,h=340,focal=250,eye=1.6,horizon=140):
+ a,b=relative(p[:2],cam,forward)
+ if b<=.02:return None
+ return (w/2+focal*a/b,horizon-focal*(p[2]-eye)/b,b)
+def shadow_point(p,light,height):
+ k=height/(light[2]-height)
+ return (p[0]+k*(p[0]-light[0]),p[1]+k*(p[1]-light[1]))
+def sign(x):return 1 if x>1e-8 else -1 if x< -1e-8 else 0
+
+Q=[
+ {'n':1,'kind':'reverse','stem':'汽车车头始终朝正东，沿东西向直路缓慢倒车。小陈始终垂直朝向左侧车窗外连拍，拍摄方向不变。近处路牌、稍远电线杆和远处建筑均静止。下列四幅画面按拍摄先后排列，正确的是哪一项？',
+  'display_times':[2,0,3,1],'positions':[(1.6,0),(.5,0),(-.6,0),(-1.7,0)],'forward':(0,1),
+  'options':['2—4—3—1','2—4—1—3','3—1—4—2','3—1—2—4'],'answer':'B',
+  'explanation':'车头朝东，左窗朝北；倒车时观察者向西移动，静止景物在画面中向右移。近处路牌的右移幅度大于远处建筑。以路牌相对钟楼的位置追踪，先后为②、④、①、③。',
+  'distractors':'A项把最后两幅对调；C项将全部过程倒排；D项同时混淆首尾和中间的视差变化。不能按车头朝向代替倒车方向。'},
+ {'n':2,'kind':'forward','stem':'汽车车头朝正北，沿南北向直路向北前进。小吴保持相机朝向左侧车窗外，垂直道路连续拍摄；相机不转向。四幅画面中的立柱、路灯和远楼均固定不动。按时间先后排列，正确的是哪一项？',
+  'display_times':[1,3,0,2],'positions':[(0,-1.5),(0,-.5),(0,.5),(0,1.5)],'forward':(-1,0),
+  'options':['2—4—1—3','3—4—1—2','1—3—4—2','3—1—4—2'],'answer':'D',
+  'explanation':'左窗朝西，画面右侧对应北。汽车向北前进，固定景物向画面左侧移动，近处立柱移动更快。依立柱相对远楼的变化，可排出③、①、④、②。',
+  'distractors':'A项把前进过程倒排；B项交换两幅中间画面；C项先把①当作起点。画面移动方向与车辆平移方向相反，且近远景移动幅度不同。'},
+ {'n':3,'kind':'plaza','stem':'广场内的钟楼、尖顶馆和纪念柱位置如上方俯视图所示。小许从广场东侧拍摄点出发，沿外侧顺时针依次到南侧、西侧、北侧拍摄点；每次都面向广场中心，拍摄高度相同。下方四幅画面按拍摄先后排列，正确的是哪一项？',
+  'display_times':[3,0,2,1],'positions':[(9,0),(0,-9),(-9,0),(0,9)],
+  'options':['2—4—3—1','2—3—4—1','1—3—4—2','4—2—1—3'],'answer':'A',
+  'explanation':'依次把东、南、西、北四个拍摄点的面朝方向换成图中前方。从东向西看，纪念柱在画面左侧，对应②；从南向北看，钟楼在左、纪念柱偏右，对应④；从西向东看，纪念柱在右，对应③；从北向南看，尖顶馆在左，对应①。因此为②④③①。',
+  'distractors':'B项把南侧、西侧照片调换；C项将顺时针行走倒排；D项误把南侧当起点。照片左右取决于面朝方向，不能固定为地图的东西。'},
+ {'n':4,'kind':'panorama','stem':'小顾站在同一地点，先正对钟楼拍下第一幅画面，随后连续向自己的右侧转身，每次转过相同角度，再拍一幅，共拍四幅。转动过程中相机不平移、不变焦，也未转满一周。四幅画面按拍摄先后排列，正确的是哪一项？',
+  'display_times':[2,1,3,0],
+  'options':['3—1—2—4','4—1—2—3','4—2—1—3','2—4—1—3'],'answer':'C',
+  'explanation':'钟楼正对镜头的是④。观察者原地向右转，固定景物依次向画面左侧退出，右侧新景物进入。沿钟楼、尖顶楼、天线楼、平顶楼的重叠部分追踪，接续顺序为④、②、①、③。',
+  'distractors':'A项为整体倒序；B项交换两幅中间画面；D项把钟楼偏左的一幅当成开始。原地转身没有平移视差，不应按近景移动更快来排序。'},
+ {'n':5,'kind':'sun_observer','stem':'某时刻太阳位于正北方向。一栋长方体建筑的四面墙分别朝向东、南、西、北，建筑所在的地面水平。小林从建筑周边一处高台向下观察，画出下图所示的建筑及地面投影。此时小林在建筑的哪个方向？',
+  'options':['东北','西北','西南','东南'],'answer':'C',
+  'explanation':'太阳在正北，影子在水平地面上朝正南。图中影子从建筑向观察者一侧并向画面右侧延伸，故南在右前方；结合建筑互相垂直的两组地面棱线，可知观察者位于西南。',
+  'distractors':'东北观察时南影应朝远处偏左；西北观察时朝远处偏右；东南观察时朝近处偏左。仅看影子在纸面右侧还不足以确定方位。'},
+ {'n':6,'kind':'sun_posts','stem':'上方是阳光照射下某广场的俯视布置。两根圆柱竖直、等高，地面水平；长箭头表示同一时刻附近一根旗杆的地面影子方向。小周站在图示位置，面向两根圆柱观察。忽略其他遮挡，他看到的柱子与影子的方向关系，可能是哪一项？',
+  'options':['图A','图B','图C','图D'],'answer':'A',
+  'explanation':'太阳光可按平行光处理，两根圆柱的地面影子应与参照箭头同向，均指向西北。再按观察者从西南向东北看的方向转换画面左右，A项的两个影子与布置一致。',
+  'distractors':'B项把两个影子均画向东南；C项把它们画向西南；D项使两个影子在地面上分叉，混入点光源式发散。透视投影中的线未必在纸面上平行，应比较地面上的方向。'},
+ {'n':7,'kind':'point_light','stem':'上方俯视图给出一个点光源、三根相同竖直圆柱以及观察者的位置。点光源高于柱顶，地面水平，光源到三柱之间无遮挡。观察者面向三柱，看到的柱子和影子最可能是哪一项？',
+  'options':['图A','图B','图C','图D'],'answer':'D',
+  'explanation':'点光源形成的每根影子均沿“光源地面投影到该圆柱”的方向继续向外延伸，三条影子的延长线应回指同一光源投影。把俯视图转到观察者视角后，D项同时满足柱子左右次序和三条背光方向。',
+  'distractors':'A项把三条影子统一画成平行日影；B项将影子反画到光源一侧；C项左右翻转影向，未同时转换光源的位置。不能只检查最靠前的一根柱子。'},
+ {'n':8,'kind':'home_views','stem':'小孟在家门口面向正北，又到电影院门口面向正西，分别画下两张相对位置草图。两图上方均表示当时的正前方，下方表示身后，图形不表示距离比例。下列俯视位置图中，哪一项与两次观察都相符？',
+  'options':['图A','图B','图C','图D'],'answer':'B',
+  'explanation':'在家朝北，影院在东北、商店在西北。在影院朝西，画面右侧对应北、前方对应西：图书馆在影院的西北，家在影院的西南。B项同时满足这些关系。',
+  'distractors':'A项把图书馆画在影院东北，误将“前”当成东；C项把商店放到家的东北；D项颠倒家与影院的东西关系。需分别建立两次观察的面朝方向。'},
+ {'n':9,'kind':'home_route','stem':'上方是家、书店、影院附近的道路俯视图，指北箭头随图给出；实线箭头为小周从家走到影院的路线。到影院后，他保持最后一段行走时的朝向，再原地向右转90°。若以转身后的正前方为图中上方，家和书店的位置关系应是哪一项？只判断前后左右，不比较距离。',
+  'options':['图A','图B','图C','图D'],'answer':'C',
+  'explanation':'依指北箭头，路线为先向北、再向东、最后向南，到影院后朝南；右转90°后朝西。影院的西南是家、西北是书店，转换为朝西的相对位置：家在左前，书店在右前，对应C项。',
+  'distractors':'A项保留到达影院时朝南的视角；B项把右转误作左转；D项把相对左右整体颠倒。地图被旋转放置不改变指北箭头代表的地理方位。'},
+ {'n':10,'kind':'occlusion','stem':'摄影者在同一水平地面上拍下矮塔、树和高塔。画面中，矮塔遮住树干的一部分，树冠又遮住高塔左侧的一部分。下方各图上方均为拍摄正前方，各物体横向位置均为示意。哪一项俯视位置关系能与照片中的遮挡关系相符？',
+  'options':['图A','图B','图C','图D'],'answer':'A',
+  'explanation':'矮塔遮住树干，说明矮塔比树近；树冠遮住高塔，说明树比高塔近。从摄影者向前的次序应为矮塔、树、高塔，且照片中矮塔偏左、高塔偏右，只有A项满足。',
+  'distractors':'B项把前后次序完全倒转；C项把树放在高塔之后；D项把树放在矮塔之前。不能把“高塔更高”直接当成“高塔更近”。'}
+]
+
+HOME={'家':(0,0),'影院':(3,3),'商店':(-2,2),'图书馆':(1,6)}
+HOME_OPTIONS=[dict(HOME,图书馆=(5,6)),HOME,dict(HOME,商店=(2,2)),dict(HOME,影院=(-3,3))]
+ROUTE=[(0,0),(0,3),(4,3),(4,1)]
+ROUTE_STORE=(1,4)
+TOWER_PLANS=[{'矮塔':(-1.5,-1),'树':(0,1),'高塔':(1.5,3)},
+ {'矮塔':(-1.5,3),'树':(0,1),'高塔':(1.5,-1)},
+ {'矮塔':(-1.5,-1),'树':(0,3),'高塔':(1.5,1)},
+ {'矮塔':(-1.5,1),'树':(0,-1),'高塔':(1.5,3)}]
+POSTS6=[(-1.1,-.5),(1.3,1)]
+POSTS7=[(-1,-2),(1,2),(2,-.4)]
+LIGHT=(-4,1,5)
+CAM6=(-8,-8);CAM7=(10,-7)
+
+def verify():
+ assert len(Q)==10 and [q['n'] for q in Q]==list(range(1,11))
+ checks={}
+ for q in Q[:4]:
+  order=[q['display_times'].index(i)+1 for i in range(4)]
+  target='—'.join(map(str,order));assert q['options']['ABCD'.index(q['answer'])]==target
+  assert len(set(q['options']))==4
+  checks[str(q['n'])]={'chronological_photo_labels':order,'unique_option':q['answer']}
+ # Translation and rotation use a second direct bearing formulation.
+ for q in Q[:2]:
+  p=(.3,5,3) if q['n']==1 else (-5,.3,3)
+  f,r=screen_axes(q['forward']);us=[]
+  for cam in q['positions']:
+   a=project(p,cam,q['forward'])[0]
+   bearing=math.atan2(p[1]-cam[1],p[0]-cam[0]);look=math.atan2(f[1],f[0])
+   b=210+250*math.tan(look-bearing)
+   assert abs(a-b)<1e-8;us.append(a)
+  assert all(sign(us[i+1]-us[i])==(1 if q['n']==1 else -1) for i in range(3))
+  checks[str(q['n'])]['near_object_pixel_x_by_time']=us
+ # The home answer must satisfy both views; no distance condition is used.
+ valid=[]
+ for i,m in enumerate(HOME_OPTIONS):
+  def sg(p,o,f):return tuple(map(sign,relative(m[p],m[o],f)))
+  okay=sg('影院','家',(0,1))==(1,1) and sg('商店','家',(0,1))==(-1,1) and sg('家','影院',(-1,0))==(-1,1) and sg('图书馆','影院',(-1,0))==(1,1)
+  if okay:valid.append('ABCD'[i])
+ assert valid==['B'];checks['8']={'matching_options':valid}
+ assert tuple(map(sign,relative(ROUTE[0],ROUTE[-1],(-1,0))))==(-1,1)
+ assert tuple(map(sign,relative(ROUTE_STORE,ROUTE[-1],(-1,0))))==(1,1)
+ checks['9']={'arrival_heading':'南','after_right_turn':'西','home_relative':'左前','store_relative':'右前'}
+ valid=['ABCD'[i] for i,m in enumerate(TOWER_PLANS) if m['矮塔'][1]<m['树'][1]<m['高塔'][1]]
+ assert valid==['A'];checks['10']={'front_to_back':['矮塔','树','高塔'],'matching_options':valid}
+ # Every point-light shadow is collinear with the light footprint and points away.
+ for p in POSTS7:
+  end=shadow_point(p,LIGHT,1.8);a=sub(p,LIGHT[:2]);b=sub(end,p)
+  assert abs(a[0]*b[1]-a[1]*b[0])<1e-8 and dot(a,b)>0
+ checks['7']={'point_light_away_and_concurrent':True}
+ checks['6']={'parallel_world_shadows':'西北','observer':'西南'}
+ checks['5']={'sun':'正北','world_shadow':'正南','observer':'西南'}
+ return {'passed':True,'questions':10,'checks':checks,'limits':'程序验证几何和唯一性边界；最终还须独立图面试解及Word全部页图复核。'}
+
+def export_public():
+ p=[{k:q[k] for k in ['n','stem','options']}|{'image':str(ROOT/'assets'/f'question-{q["n"]:02}.png')} for q in Q]
+ (ROOT/'public_questions.json').write_text(json.dumps(p,ensure_ascii=False,indent=2),encoding='utf-8')
+
+if __name__=='__main__':
+ (ROOT/'verification.json').write_text(json.dumps(verify(),ensure_ascii=False,indent=2),encoding='utf-8')
+ export_public();print('10 question models verified')

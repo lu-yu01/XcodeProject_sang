@@ -1,0 +1,12 @@
+{
+  "actual_embedded_source_names": [
+    "cinema",
+    "house",
+    "lamp",
+    "library",
+    "person",
+    "shop",
+    "tree"
+  ],
+  "source_format": "downloaded SVG vectors embedded in native scene SVG, rasterized once for Word"
+}

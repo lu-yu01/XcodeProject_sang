@@ -1,0 +1,201 @@
+{
+  "passed": true,
+  "questions": 3,
+  "shared_rule_count": 8,
+  "primitive_single_sector_checks": 512,
+  "scope": "四扇区离散模型与独立分数坐标几何模型逐步一致；候选唯一；干扰路径可复算。语义与图像另做无答案试解。",
+  "items": [
+    {
+      "n": 1,
+      "steps": [
+        {
+          "operation": "LR",
+          "geometric_representation_agrees": true
+        },
+        {
+          "operation": "CW",
+          "geometric_representation_agrees": true
+        },
+        {
+          "operation": "IT",
+          "geometric_representation_agrees": true
+        }
+      ],
+      "option_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "answer": "B",
+      "sector_distance_to_answer": [
+        20,
+        0,
+        32,
+        32
+      ],
+      "candidate_signatures": [
+        {
+          "black_sectors": 32,
+          "white_cells": 4,
+          "black_cells": 4,
+          "half_cells": 8,
+          "left_right_symmetric": false,
+          "up_down_symmetric": false
+        },
+        {
+          "black_sectors": 32,
+          "white_cells": 4,
+          "black_cells": 4,
+          "half_cells": 8,
+          "left_right_symmetric": false,
+          "up_down_symmetric": false
+        },
+        {
+          "black_sectors": 32,
+          "white_cells": 4,
+          "black_cells": 4,
+          "half_cells": 8,
+          "left_right_symmetric": false,
+          "up_down_symmetric": false
+        },
+        {
+          "black_sectors": 32,
+          "white_cells": 4,
+          "black_cells": 4,
+          "half_cells": 8,
+          "left_right_symmetric": false,
+          "up_down_symmetric": false
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "steps": [
+        {
+          "operation": "CL",
+          "geometric_representation_agrees": true
+        },
+        {
+          "operation": "CCW",
+          "geometric_representation_agrees": true
+        },
+        {
+          "operation": "IR",
+          "geometric_representation_agrees": true
+        }
+      ],
+      "option_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "answer": "D",
+      "sector_distance_to_answer": [
+        40,
+        48,
+        64,
+        0
+      ],
+      "candidate_signatures": [
+        {
+          "black_sectors": 32,
+          "white_cells": 4,
+          "black_cells": 4,
+          "half_cells": 8,
+          "left_right_symmetric": false,
+          "up_down_symmetric": true
+        },
+        {
+          "black_sectors": 32,
+          "white_cells": 4,
+          "black_cells": 4,
+          "half_cells": 8,
+          "left_right_symmetric": false,
+          "up_down_symmetric": true
+        },
+        {
+          "black_sectors": 32,
+          "white_cells": 4,
+          "black_cells": 4,
+          "half_cells": 8,
+          "left_right_symmetric": false,
+          "up_down_symmetric": true
+        },
+        {
+          "black_sectors": 32,
+          "white_cells": 4,
+          "black_cells": 4,
+          "half_cells": 8,
+          "left_right_symmetric": false,
+          "up_down_symmetric": true
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "steps": [
+        {
+          "operation": "MT",
+          "geometric_representation_agrees": true
+        },
+        {
+          "operation": "UD",
+          "geometric_representation_agrees": true
+        },
+        {
+          "operation": "CW",
+          "geometric_representation_agrees": true
+        }
+      ],
+      "option_validity": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "answer": "A",
+      "sector_distance_to_answer": [
+        0,
+        16,
+        16,
+        24
+      ],
+      "candidate_signatures": [
+        {
+          "black_sectors": 32,
+          "white_cells": 4,
+          "black_cells": 4,
+          "half_cells": 8,
+          "left_right_symmetric": false,
+          "up_down_symmetric": false
+        },
+        {
+          "black_sectors": 32,
+          "white_cells": 4,
+          "black_cells": 4,
+          "half_cells": 8,
+          "left_right_symmetric": false,
+          "up_down_symmetric": false
+        },
+        {
+          "black_sectors": 32,
+          "white_cells": 4,
+          "black_cells": 4,
+          "half_cells": 8,
+          "left_right_symmetric": false,
+          "up_down_symmetric": false
+        },
+        {
+          "black_sectors": 32,
+          "white_cells": 4,
+          "black_cells": 4,
+          "half_cells": 8,
+          "left_right_symmetric": false,
+          "up_down_symmetric": false
+        }
+      ]
+    }
+  ]
+}

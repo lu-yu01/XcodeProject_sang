@@ -1,0 +1,75 @@
+{
+  "review_kind": "post_first_attempt_revision_review",
+  "input_file": "blind_cards_definitions_revised_27_28_37_48.json",
+  "input_sha256": "2da5d347852f9c045abb87ce76305effe52929365f4e78e8dde79f59a2da0845",
+  "first_report_preserved": "review_definitions_blind.json",
+  "first_report_sha256": "cd3244530efaeff44f11bb3bd23faeb8fa88ffcf38ec3969dcbec9fc02b40f8a",
+  "reviews": [
+    {
+      "n": 27,
+      "answer": "D",
+      "requirements": "每层独立随机取个体；整群是随机取群且群内全查；多阶段不直接算整群。",
+      "option_judgments": [
+        "A标签颠倒。",
+        "B自愿非随机且群内再抽为多阶段。",
+        "C仅调查最大年龄层不覆盖每层。",
+        "D现已明确每层独立随机；随机六村全户为整群。"
+      ],
+      "revision_effect": "独立一词明确满足分层要件，无需推测。",
+      "confidence": 0.99,
+      "ambiguities": [],
+      "method": "知晓本人首次作答后的必要事实明示修订题面复核；只读本卡题干/设问/选项，未读取作者模块、标准答案、解析、模型或其他人的新结果。",
+      "input_card_sha256": "e01fbc57fbbc17c24b44d6c54a50568f9f3034ccb489d019e905f1d381b4ca42"
+    },
+    {
+      "n": 28,
+      "answer": "B",
+      "requirements": "随机决定组别；受试者、直接实施者和评分者均不知组别。",
+      "option_judgments": [
+        "A随机且三个主体均不知，符合。",
+        "B依方便时段自行选择，不随机，故不属于。",
+        "C程序抽签，执行受试仅见代码且独立封存，评分也盲，符合。",
+        "D已明说志愿者及实施评分者均不知，电脑随机，符合。"
+      ],
+      "revision_effect": "首轮D遗漏受试者盲的疑点已经实质消除，B为唯一不随机的首选。",
+      "confidence": 0.99,
+      "ambiguities": [],
+      "method": "知晓本人首次作答后的必要事实明示修订题面复核；只读本卡题干/设问/选项，未读取作者模块、标准答案、解析、模型或其他人的新结果。",
+      "input_card_sha256": "aef40b5fb90c8b62f6aab11710045175127aa791c5417a8a514f8425e593c6a4"
+    },
+    {
+      "n": 37,
+      "answer": "D",
+      "requirements": "架构保留模块工作原理和功能，改连接布局产生新功能。",
+      "option_judgments": [
+        "A换传感模块，布局接口不变，是模块创新。",
+        "B换发光原理的基本模块，连接不变，是模块创新。",
+        "C只有外观颜色，无新功能，排除。",
+        "D明说原理与功能均保留，改串联为环形并生接力新功能，是架构。"
+      ],
+      "revision_effect": "工作原理保留已明示，D要件完整。",
+      "confidence": 0.99,
+      "ambiguities": [],
+      "method": "知晓本人首次作答后的必要事实明示修订题面复核；只读本卡题干/设问/选项，未读取作者模块、标准答案、解析、模型或其他人的新结果。",
+      "input_card_sha256": "85231c7b69cb63d5708fdb69d398e2746792516ab08a01ec6fc012fc812b5e1d"
+    },
+    {
+      "n": 48,
+      "answer": "C",
+      "requirements": "不确定性、目标与待检作用认识、行动监测、评估更新认识与后续调整的反馈过程。",
+      "option_judgments": [
+        "A明确鸟类栖息利用率目标，试行机制、监测比较并修订，形成反馈。",
+        "B明确幼树更新量目标，待检解释、分区监测、更新模型调整，完整。",
+        "C仅突发处置及归档，明确不检验更新且沿用方案，缺反馈。",
+        "D目标预期、实施测评与改订齐全。"
+      ],
+      "revision_effect": "A/B目标均明示，首轮所记轻微省略疑点消除，C稳定唯一首选。",
+      "confidence": 0.99,
+      "ambiguities": [],
+      "method": "知晓本人首次作答后的必要事实明示修订题面复核；只读本卡题干/设问/选项，未读取作者模块、标准答案、解析、模型或其他人的新结果。",
+      "input_card_sha256": "c855223a6dfdd4a09b592b23e1a8b2a27d21ef32cf937c6768b57aacceb51d52"
+    }
+  ],
+  "all_four_revised_cards_self_contained": true,
+  "not_claimed_as_fresh_blind_trial": true
+}

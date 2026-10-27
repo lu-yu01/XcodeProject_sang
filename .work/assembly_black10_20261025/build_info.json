@@ -1,0 +1,14 @@
+{
+  "docx": "E:\\XcodeProject_sang\\模式题\\立体拼合专项练习-三黑块版10题（含答案解析）.docx",
+  "word_sha256": "ba52fa04c332f7e8465ac2c5b43e92393638b042a9681563b77af17959a31ab5",
+  "questions": 10,
+  "embedded_images": 20,
+  "answers": {
+    "C": 3,
+    "A": 3,
+    "D": 2,
+    "B": 2
+  },
+  "shape_form": "complete target + 2 given parts + choose third",
+  "black_counts": "target3 / given1+1 / option1"
+}

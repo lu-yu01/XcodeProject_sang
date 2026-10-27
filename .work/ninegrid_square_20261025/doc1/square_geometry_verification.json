@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "word_sha256": "7a419f7150a5c90bab7dd0a705227f8e04850e71569fe1b6e3e6686877e36fe7",
+  "grids": [
+    {
+      "question": 2,
+      "part": "word/media/image2.png",
+      "outer_box": [
+        435,
+        5,
+        1065,
+        635
+      ],
+      "outer_size_px": [
+        630,
+        630
+      ],
+      "cell_size_px": [
+        210,
+        210
+      ],
+      "grid_lines_continuous": true,
+      "word_grid_dimensions_mm": [
+        66.675,
+        66.675
+      ],
+      "square_in_word": true
+    }
+  ]
+}

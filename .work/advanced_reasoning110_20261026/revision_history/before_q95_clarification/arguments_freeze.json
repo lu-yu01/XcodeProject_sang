@@ -1,0 +1,43 @@
+{
+  "status": "frozen_for_independent_trial",
+  "questions": [
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110
+  ],
+  "files": {
+    "arguments.py": "c5532b3b99dcfc6643fdec9b01eaf81dcc846908bc4c71ef20bad312356d0b42",
+    "questions_arguments.json": "d106a9117ed1100adb937ee2856c36d78f42ebfdfda0a859af24af01963ea687",
+    "verification_arguments.json": "63cae3ddb82e332597c09452bff4f9b220b471ac61ca73bb95f9b1cd56c7d830",
+    "sources_arguments.json": "ff8a75f9972c31c96835439a6bc0d3feeb9cea15dfd1869e1f2ce15db2377cbb",
+    "author_audit_arguments.json": "a734a2249b33fc1150e58d8fac41585c4d58e6c83d48cee5f0d220e5073697c2"
+  },
+  "do_not_treat_author_audit_as_blind_review": true
+}

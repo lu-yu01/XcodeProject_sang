@@ -1,0 +1,485 @@
+{
+  "passed": true,
+  "pdf_sha256": "23fb39f66fbd50dd54e41a956b62ddf616c841de272e56d8db5949e4e6a30662",
+  "word_sha256": "4b71bbaa803211b012aaaa23e4301842b647e651af5debdbb4798fed8aad38f6",
+  "pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "parts": [
+    {
+      "file": "visual_pages_01_10.json",
+      "record": {
+        "passed": true,
+        "pdf_sha256": "23fb39f66fbd50dd54e41a956b62ddf616c841de272e56d8db5949e4e6a30662",
+        "word_sha256": "4b71bbaa803211b012aaaa23e4301842b647e651af5debdbb4798fed8aad38f6",
+        "pages_reviewed": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "method": "已实际逐页打开前次30页稿第1—10页。本轮Q25仅文字更正后重新导出，对当前第1—10页逐页计算SHA256，均与此前实际查看的PNG逐字节相同，因此沿用相同像素的实际查看证据；本记录不声称对新一轮重复目视查看。",
+        "observations": [
+          {
+            "pages": [
+              1
+            ],
+            "finding": "封面信息、排版框说明与第1—2题完整；六格序列和两组3+3横排均正确，四候选共框、ABCD框外下置，图形未贴边或遮挡。"
+          },
+          {
+            "pages": [
+              2
+            ],
+            "finding": "第3题九宫格外框及九格呈正方形，候选黑白格清楚；第4题五边形、黑点与各选项完整，点未碰选项框，题干已使用通用规律表述。"
+          },
+          {
+            "pages": [
+              3
+            ],
+            "finding": "第5题必要的题内图形框说明清楚；第5—6题序列、题图、候选和字母同页完整，无越框或裁切。"
+          },
+          {
+            "pages": [
+              4,
+              5
+            ],
+            "finding": "第7—10题均保留六图分类、圈号及原生Word文字分组选项；第9题两五边形已分开无重叠，第10题虚线交点可辨。"
+          },
+          {
+            "pages": [
+              6,
+              7
+            ],
+            "finding": "第11—14题上方符号、上下线图、九宫格及黑白/空白小点清楚；第14题左右两组同水平，定位说明与图形一致。"
+          },
+          {
+            "pages": [
+              8
+            ],
+            "finding": "第15题为新版题图，原题号15、方形九宫格和四选项正确绑定；第16题九宫格线段和端点完整，ABCD均在框外下方。另看q16源图确认字母完整。"
+          },
+          {
+            "pages": [
+              9,
+              10
+            ],
+            "finding": "第17—20题六图分类、圈号及文字选项完整，图形/黑点/外置线条有留边；无缺图、编号跳跃、遮挡、异常空白页或整题跨页。"
+          }
+        ],
+        "page_image_sha256": {
+          "1": "b7f508fbdb2945903ca317ce1ce640afa4102d9a0b7e2822bd0b3e43fea63ded",
+          "2": "0290b93cccde256360a75240de61ed5e3c236f98b6329a578f4baa91e0e719c8",
+          "3": "131fb5fcb1bb5cf16f026caea734f6d7a9da41b07fb37c7f756123f8c7372985",
+          "4": "329edae0656eba259c17a546422ca4b5a39b81edb502966fe384530a1fa2f3e9",
+          "5": "cd8601630ebfd2a31a71cc1dc138065e50910bdbc2599660622c5f2bd4e947c0",
+          "6": "379ded024e3c911e4b8383b395202d7c6edbdcbfd78257aba92cff19569db746",
+          "7": "13932a07583f8fcf8f969af1135bccc7974e44ff5919b6676cd239c30967fb0d",
+          "8": "fe9b64172398b3b8dc625177cccf62fa9b1acbebce6d2178304201de2bbe1358",
+          "9": "bff108bbe1d29d76d1aee53e52b84fe7ddb228ead897d6687f876a5e8119e97d",
+          "10": "438569b19b0a872e58b607a6932f056cf055baf4c72217114cea0eb482be8b16"
+        },
+        "issues": [],
+        "evidence_reuse": {
+          "previously_viewed_pdf_sha256": "d4db11390c117464a40b495bfe0b748230674de7c22da313a4ceda3d5363312b",
+          "comparison_report": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\q25_final_page_comparison.json",
+          "current_pages_compared_to_actual_viewed_evidence": [
+            {
+              "page": 1,
+              "previously_viewed_sha256": "b7f508fbdb2945903ca317ce1ce640afa4102d9a0b7e2822bd0b3e43fea63ded",
+              "current_sha256": "b7f508fbdb2945903ca317ce1ce640afa4102d9a0b7e2822bd0b3e43fea63ded",
+              "identical": true
+            },
+            {
+              "page": 2,
+              "previously_viewed_sha256": "0290b93cccde256360a75240de61ed5e3c236f98b6329a578f4baa91e0e719c8",
+              "current_sha256": "0290b93cccde256360a75240de61ed5e3c236f98b6329a578f4baa91e0e719c8",
+              "identical": true
+            },
+            {
+              "page": 3,
+              "previously_viewed_sha256": "131fb5fcb1bb5cf16f026caea734f6d7a9da41b07fb37c7f756123f8c7372985",
+              "current_sha256": "131fb5fcb1bb5cf16f026caea734f6d7a9da41b07fb37c7f756123f8c7372985",
+              "identical": true
+            },
+            {
+              "page": 4,
+              "previously_viewed_sha256": "329edae0656eba259c17a546422ca4b5a39b81edb502966fe384530a1fa2f3e9",
+              "current_sha256": "329edae0656eba259c17a546422ca4b5a39b81edb502966fe384530a1fa2f3e9",
+              "identical": true
+            },
+            {
+              "page": 5,
+              "previously_viewed_sha256": "cd8601630ebfd2a31a71cc1dc138065e50910bdbc2599660622c5f2bd4e947c0",
+              "current_sha256": "cd8601630ebfd2a31a71cc1dc138065e50910bdbc2599660622c5f2bd4e947c0",
+              "identical": true
+            },
+            {
+              "page": 6,
+              "previously_viewed_sha256": "379ded024e3c911e4b8383b395202d7c6edbdcbfd78257aba92cff19569db746",
+              "current_sha256": "379ded024e3c911e4b8383b395202d7c6edbdcbfd78257aba92cff19569db746",
+              "identical": true
+            },
+            {
+              "page": 7,
+              "previously_viewed_sha256": "13932a07583f8fcf8f969af1135bccc7974e44ff5919b6676cd239c30967fb0d",
+              "current_sha256": "13932a07583f8fcf8f969af1135bccc7974e44ff5919b6676cd239c30967fb0d",
+              "identical": true
+            },
+            {
+              "page": 8,
+              "previously_viewed_sha256": "fe9b64172398b3b8dc625177cccf62fa9b1acbebce6d2178304201de2bbe1358",
+              "current_sha256": "fe9b64172398b3b8dc625177cccf62fa9b1acbebce6d2178304201de2bbe1358",
+              "identical": true
+            },
+            {
+              "page": 9,
+              "previously_viewed_sha256": "bff108bbe1d29d76d1aee53e52b84fe7ddb228ead897d6687f876a5e8119e97d",
+              "current_sha256": "bff108bbe1d29d76d1aee53e52b84fe7ddb228ead897d6687f876a5e8119e97d",
+              "identical": true
+            },
+            {
+              "page": 10,
+              "previously_viewed_sha256": "438569b19b0a872e58b607a6932f056cf055baf4c72217114cea0eb482be8b16",
+              "current_sha256": "438569b19b0a872e58b607a6932f056cf055baf4c72217114cea0eb482be8b16",
+              "identical": true
+            }
+          ],
+          "all_current_pages_identical_to_actual_viewed": true
+        }
+      }
+    },
+    {
+      "file": "visual_pages_11_20.json",
+      "record": {
+        "passed": true,
+        "pdf_sha256": "23fb39f66fbd50dd54e41a956b62ddf616c841de272e56d8db5949e4e6a30662",
+        "word_sha256": "4b71bbaa803211b012aaaa23e4301842b647e651af5debdbb4798fed8aad38f6",
+        "pages_reviewed": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "method": "此前已逐页调用 view_image 实际查看旧 PDF 对应的 render/page-11.png 至 page-20.png。本次未重新打开全部十页；逐页计算当前 PNG SHA256，并与旧版渲染验证清单中的实际查看页哈希核对，十页字节完全一致，沿用相同像素的检查结论并绑定最终 PDF。",
+        "observations": [
+          {
+            "page": 11,
+            "conclusion": "Q21、Q22 条件、设问、主图及四候选均在本页完整显示。阶梯体与四棱锥的 P、Q、R 标注清楚，R 位于侧棱的点标可辨；虚实线无丢失。两组候选均为四等格横框，A—D 在框下，无遮挡或越界。"
+          },
+          {
+            "page": 12,
+            "conclusion": "Q23 孔洞长方体的全部图外尺寸及 P、Q、R 定义完整。矩形孔洞、虚线与 P、Q、R 点名清楚，四项内孔的尺寸和位置差异均可辨，题图及候选未裁切。"
+          },
+          {
+            "page": 13,
+            "conclusion": "Q24 三视图顺序、前后朝向和连续堆放条件显示完整；三个视图及 ①②③ 编号清楚。四个立体候选位于同一横框，格线和方块边线可区分，未发生压图、断框或分页拆题。"
+          },
+          {
+            "page": 14,
+            "conclusion": "Q25 不得悬空、俯视有框格至少一块等条件完整，三视图及 ①②③ 编号无缺失。20、18、21、19 四个数量候选清晰，A—D 均在框下，主图与候选留有间距。"
+          },
+          {
+            "page": 15,
+            "conclusion": "Q26 正投影方向、水平轴、重合线合并等条件完整，透明线架的 P、Q、R 清楚。四个投影候选内部交点、平行线与中线差异可辨。Q27 的不得翻面条件、黑色面内图案、箭头和带内部线的三角形均完整，四个展开候选与 A—D 未被页脚遮挡，整题未跨页。"
+          },
+          {
+            "page": 16,
+            "conclusion": "Q28 两个正方体的 ①② 标识、不得翻面以及候选上下依次对应的条件显示完整。每个候选含上下两张展开图，黑块、箭头、三角形朝向均可见，行间与分栏间无重叠。"
+          },
+          {
+            "page": 17,
+            "conclusion": "Q29 完整体、部件①、部件②与四候选均完整，三黑块题面的黑色位置可辨，图外平移/旋转/不得翻面条件保留。Q30 仅使用通用六图分类设问，没有提示连接拓扑等具体规律；六图及 ①—⑥、四条原生文字分组选项均完整且在同一页。"
+          },
+          {
+            "page": 18,
+            "conclusion": "答案速查表 1—30 题号与答案完整，表头及五组题号/答案列对齐，无缺字或覆盖。Q1—Q3 解析编号连续。新增 E02 六幅解释图的红色对称轴、蓝色内折线、角度标签和图注均清楚，风筝轴线与文字说明对应，未裁切或压到后续 Q3。"
+          },
+          {
+            "page": 19,
+            "conclusion": "Q4—Q8 解析连续完整，中文、圈号、直角计算式、乘号与角度符号可辨；段间留白正常，题号和考点标题均与对应解析在一起，页底未截断文字。"
+          },
+          {
+            "page": 20,
+            "conclusion": "Q9—Q11 解析编号连续，分类组号及逐项说明可读。Q11 的部分数、接触边数与圆标关系文字、附加解释图均完整，底部有充足留白，没有遮挡或截断。"
+          }
+        ],
+        "issues": [],
+        "files_modified_during_review": [
+          "visual_pages_11_20.json"
+        ],
+        "original_actual_visual_review_pdf_sha256": "d4db11390c117464a40b495bfe0b748230674de7c22da313a4ceda3d5363312b",
+        "final_rebind_evidence": {
+          "baseline_manifest": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\revision_history\\q25_text_fix\\render_verification.json",
+          "comparison_report": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\q25_final_page_comparison.json",
+          "comparison_changed_pages": [
+            27
+          ],
+          "all_ten_png_hashes_identical": true,
+          "no_claim_of_repeated_full_visual_review": true,
+          "page_hash_checks": [
+            {
+              "page": 11,
+              "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-11.png",
+              "actually_reviewed_old_png_sha256": "a146203cfaf01be8d98b4510b3463a921700a9640fcd3d04998773d1651fbd6f",
+              "current_png_sha256": "a146203cfaf01be8d98b4510b3463a921700a9640fcd3d04998773d1651fbd6f",
+              "identical": true
+            },
+            {
+              "page": 12,
+              "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-12.png",
+              "actually_reviewed_old_png_sha256": "2a16920fd03ea0c6592950ffade5ed9533540936591df79bc7bbe68c15274d8e",
+              "current_png_sha256": "2a16920fd03ea0c6592950ffade5ed9533540936591df79bc7bbe68c15274d8e",
+              "identical": true
+            },
+            {
+              "page": 13,
+              "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-13.png",
+              "actually_reviewed_old_png_sha256": "41a683a6dfaaa4d13abc89354cf7189226a521b274c3bd5069eb42c1bf448191",
+              "current_png_sha256": "41a683a6dfaaa4d13abc89354cf7189226a521b274c3bd5069eb42c1bf448191",
+              "identical": true
+            },
+            {
+              "page": 14,
+              "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-14.png",
+              "actually_reviewed_old_png_sha256": "158b94c03d02cd0e6a328c0dab5d55b3f4d89716a34432b71b908012ba9424b1",
+              "current_png_sha256": "158b94c03d02cd0e6a328c0dab5d55b3f4d89716a34432b71b908012ba9424b1",
+              "identical": true
+            },
+            {
+              "page": 15,
+              "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-15.png",
+              "actually_reviewed_old_png_sha256": "84d329fb42cf5dc5be2672a1f274337576850489752cd3ede348027e58f57e13",
+              "current_png_sha256": "84d329fb42cf5dc5be2672a1f274337576850489752cd3ede348027e58f57e13",
+              "identical": true
+            },
+            {
+              "page": 16,
+              "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-16.png",
+              "actually_reviewed_old_png_sha256": "ae3884bb0091f4a875ddfa4c25f907e8217587285bce01baa26e9916b186789a",
+              "current_png_sha256": "ae3884bb0091f4a875ddfa4c25f907e8217587285bce01baa26e9916b186789a",
+              "identical": true
+            },
+            {
+              "page": 17,
+              "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-17.png",
+              "actually_reviewed_old_png_sha256": "cacc80fd498642208c0599ccbf91a60c9d4df8661607f65287c82f6d0ea92ee2",
+              "current_png_sha256": "cacc80fd498642208c0599ccbf91a60c9d4df8661607f65287c82f6d0ea92ee2",
+              "identical": true
+            },
+            {
+              "page": 18,
+              "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-18.png",
+              "actually_reviewed_old_png_sha256": "d194257c2eee221e881eade3c604f3ea9fa5e07aa1527515a60d98a49a701e0b",
+              "current_png_sha256": "d194257c2eee221e881eade3c604f3ea9fa5e07aa1527515a60d98a49a701e0b",
+              "identical": true
+            },
+            {
+              "page": 19,
+              "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-19.png",
+              "actually_reviewed_old_png_sha256": "7f574ece742c4c2b89fa96ce58e9fd1d7bbdc85f8722b4ff1295a929412e81e6",
+              "current_png_sha256": "7f574ece742c4c2b89fa96ce58e9fd1d7bbdc85f8722b4ff1295a929412e81e6",
+              "identical": true
+            },
+            {
+              "page": 20,
+              "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-20.png",
+              "actually_reviewed_old_png_sha256": "5b11d3ff0e13c31eb4d1f8e32e9ab1fc739389f1a6abf2ee6672025667559983",
+              "current_png_sha256": "5b11d3ff0e13c31eb4d1f8e32e9ab1fc739389f1a6abf2ee6672025667559983",
+              "identical": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "file": "visual_pages_21_30.json",
+      "record": {
+        "passed": true,
+        "pdf_sha256": "23fb39f66fbd50dd54e41a956b62ddf616c841de272e56d8db5949e4e6a30662",
+        "word_sha256": "4b71bbaa803211b012aaaa23e4301842b647e651af5debdbb4798fed8aad38f6",
+        "pages_reviewed": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "method": "旧PDF的21—30页曾逐页实际view_image；最终修正版仅第27页变化，已重新实际view该页。其他9页以当前PNG SHA256与原已目视图完全相同的直接校验复用原目视证据；不声称最终轮又打开了全部10页。",
+        "observations": [
+          {
+            "page": 21,
+            "content": "第12—13题解析",
+            "result": "第12题方向种数/最少笔画对应及辅助文字完整；第13题答案B、顺时针90度说明与点阵辅助图一致，无缺字裁切。"
+          },
+          {
+            "page": 22,
+            "content": "第14—15题解析",
+            "result": "第14题三态规则、上下翻转和灰定位点正常；新版15题答案D、第二主体先旋转再差集及四阶段辅助图一致。"
+          },
+          {
+            "page": 23,
+            "content": "第16—17题解析",
+            "result": "第16题相反旋转求并、线段图完整；第17题分组①③⑥/②④⑤与答案A一致，圈号、辅助文字均正常。"
+          },
+          {
+            "page": 24,
+            "content": "第18—19题解析",
+            "result": "第18题黑白共边连通数与分组D、第19题隐含轴与独立线段平行/垂直分组B完整显示，圈号与辅助图无遮挡。"
+          },
+          {
+            "page": 25,
+            "content": "第20—21题解析",
+            "result": "第20题笔画分配与答案C一致；第21题答案B、PQR及截面八顶点轮廓完整，平方根符号可见，无图文互压。"
+          },
+          {
+            "page": 26,
+            "content": "第22—23题解析",
+            "result": "第22题C与等腰梯形辅助图完整，P/Q/R/S/C标记清楚；第23题D、z=y和3√2/√2及贯通孔内外矩形完整显示。"
+          },
+          {
+            "page": 27,
+            "content": "第24—25题解析",
+            "result": "最终修正版第27页已重新实际查看：第24题C完整；第25题正视图层数已更正为2、4、2、3，19块推理、答案D、立体构造和高度表均一致且显示清楚，无排版缺陷。"
+          },
+          {
+            "page": 28,
+            "content": "第26—27题解析",
+            "result": "第26题B及PR方向投影去重说明与方框交叉线辅助图一致；第27题C展开图与立体图面内箭头、黑角、三角短线清晰完整。"
+          },
+          {
+            "page": 29,
+            "content": "第28—29题解析",
+            "result": "第28题C两张展开图完整且面内内容清楚；第29题B左右两层九格辅助图、①②③及黑点均清楚，正文明确下方为前方。"
+          },
+          {
+            "page": 30,
+            "content": "第30题解析",
+            "result": "答案A与共边链/星拓扑图一致，四节点标号完整；页内留白正常，没有空白页。"
+          }
+        ],
+        "page_image_sha256": {
+          "21": "a1fcacebd55be5f7a579c51ea4397ee4bc6a742ebf3fbb88728a6fef151db215",
+          "22": "d15dc280d023962bc0d997c880d688991d6af039197492960d0ea0217977e468",
+          "23": "0a3d45ba4e020f628be516800e345a4122f29547b9e0174645fa92e2c307eb1d",
+          "24": "938fcf83706a9b65cbe084aa110bdac2bdad3dfc8632f2bca3342d911df67fce",
+          "25": "038e5814c60dffe9f5ec3c31269e4d32ddb901f38f89d16b69b1f3aa2c5cfb40",
+          "26": "7614127a915cc492f8d25535c159f95ab8d604f08e9791bcad4adc64dea00f95",
+          "27": "9d76177775ecda3889e1f4d6e01d286d3a32a7864f800f55482d3c0b8210c08a",
+          "28": "0e0b9620f478e9a26d946e9356c4a6e83145ce8b019e8b8d2078179cebb953c5",
+          "29": "4dd9fdb9db2f3bcf44f69af75627cfe0e8e4e08aa42d57b7e53ae1982d0de32f",
+          "30": "9909f4d9fb7d4d0a992d0ce9f4ac60202b0e8e506dc9754999b0d9fbf08a528a"
+        },
+        "display_checks": "已覆盖最终21—30页全部像素内容，无裁切、遮挡、缺字或空白页；单处Q25解析层数笔误已修正并重新实际看过第27页。",
+        "review_rounds": [
+          {
+            "pdf_sha256": "d4db11390c117464a40b495bfe0b748230674de7c22da313a4ceda3d5363312b",
+            "pages_actually_opened_and_viewed": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30
+            ],
+            "result": "全部10页实际查看；发现27页Q25解析首列层数单处笔误，其余页通过。",
+            "page_image_sha256": {
+              "21": "a1fcacebd55be5f7a579c51ea4397ee4bc6a742ebf3fbb88728a6fef151db215",
+              "22": "d15dc280d023962bc0d997c880d688991d6af039197492960d0ea0217977e468",
+              "23": "0a3d45ba4e020f628be516800e345a4122f29547b9e0174645fa92e2c307eb1d",
+              "24": "938fcf83706a9b65cbe084aa110bdac2bdad3dfc8632f2bca3342d911df67fce",
+              "25": "038e5814c60dffe9f5ec3c31269e4d32ddb901f38f89d16b69b1f3aa2c5cfb40",
+              "26": "7614127a915cc492f8d25535c159f95ab8d604f08e9791bcad4adc64dea00f95",
+              "27": "5c2319fdce6c0f1b235af9cd1f7474d82ebd8e39e73ceeb7f031ff01b796eeb7",
+              "28": "0e0b9620f478e9a26d946e9356c4a6e83145ce8b019e8b8d2078179cebb953c5",
+              "29": "4dd9fdb9db2f3bcf44f69af75627cfe0e8e4e08aa42d57b7e53ae1982d0de32f",
+              "30": "9909f4d9fb7d4d0a992d0ce9f4ac60202b0e8e506dc9754999b0d9fbf08a528a"
+            }
+          },
+          {
+            "pdf_sha256": "23fb39f66fbd50dd54e41a956b62ddf616c841de272e56d8db5949e4e6a30662",
+            "pages_actually_opened_and_viewed": [
+              27
+            ],
+            "pages_reused_from_actual_prior_visual_review_by_identical_image_sha256": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              28,
+              29,
+              30
+            ],
+            "result": "第27页重新实际查看：正视图层数已显示2、4、2、3，与下文1+3+1+2=7、17+2=19、答案D和辅助高度表一致；无裁切/遮挡/缺字/分页缺陷。其他9页没有重复打开，已直接计算当前PNG哈希与上一轮实际看过的图片完全相同。"
+          }
+        ],
+        "issues_fixed": [
+          {
+            "page": 27,
+            "question": 25,
+            "type": "text_value_mismatch",
+            "found": "解析第一段“正视图各列最高层数3、4、2、3”",
+            "expected": "正视图各列最高层数2、4、2、3",
+            "evidence": "模型F25=(2,4,2,3)，辅助占格首列最高2；后文增加1+3+1+2也使用首列2。答案19与D不受影响。",
+            "status": "corrected_in_source_and_final_docx_then_page_27_actually_reviewed"
+          }
+        ],
+        "issues": []
+      }
+    }
+  ],
+  "inspection_scope": "30页像素内容均已实际查看。最终Q25单个数字改正后，仅27页有变化并重新实际查看；其余29页经逐字节比对，和已实际查看的页图相同，并据实复用像素检查证据。",
+  "final_page_comparison": "q25_final_page_comparison.json",
+  "unresolved_issues": []
+}

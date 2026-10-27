@@ -1,0 +1,96 @@
+{
+  "pdf_sha256": "6f5908d7fa1f610b588b07b9dac60b8d008cc587574aa8a8098106bf963fa003",
+  "pages": [
+    {
+      "page": 1,
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-01.png",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "sha256": "51dfbf85c42af50886f045b65c90a8b941b16ba41cc0b8cee07fc2f3ae80b37f"
+    },
+    {
+      "page": 2,
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-02.png",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "sha256": "75221643615d78fcc3f564010c53de881577a355c91b6cf78b62748252155444"
+    },
+    {
+      "page": 3,
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-03.png",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "sha256": "884e8c43f7d797dd200a272bfc9c6501e7649a86f1ddbec85b8a5ab43dbcc368"
+    },
+    {
+      "page": 4,
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-04.png",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "sha256": "6fa79cef1197a00c7689bf19c7f8e810d0b1924832eb65e6d00013e17cb85536"
+    },
+    {
+      "page": 5,
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-05.png",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "sha256": "8c81c4d95510d2f4661a9a20e06c279c1a7024f5329b6098a3181e8dc949defe"
+    },
+    {
+      "page": 6,
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-06.png",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "sha256": "78d10caa71dd71351e52ab761caa540e2eca619f603dacbd3624716fa97507bc"
+    },
+    {
+      "page": 7,
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-07.png",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "sha256": "01cec5104321e8d601a48c1f3225b0534b696f9a67812b823f583dd0b86786d3"
+    },
+    {
+      "page": 8,
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-08.png",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "sha256": "c8c617bce61a9791b81c7c09bbd710b8f9dfb7ad496501a3adf4eb99e8d3a9e9"
+    },
+    {
+      "page": 9,
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-09.png",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "sha256": "a61d0dc22d3c94f08635d004fb44c963c4d95c9b274c10b7184e34bff2dd590c"
+    },
+    {
+      "page": 10,
+      "path": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\render\\page-10.png",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "sha256": "7ed078e517fe2ae5e4b260f3a792d846ffec30b590706ea3063ccb42aa5d6fdc"
+    }
+  ],
+  "renderer": "Read-only native Word PDF, PDFium at150dpi; packaged renderer missing soffice.exe"
+}

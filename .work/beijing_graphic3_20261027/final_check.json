@@ -1,0 +1,252 @@
+{
+  "passed": true,
+  "created_at": "2026-10-27T14:19:12.324611+00:00",
+  "word": "E:\\XcodeProject_sang\\模式题\\北京风格图形推理一拖三-1组3题（含答案解析）.docx",
+  "word_sha256": "8f6bfc65f747339780734e1bf0a9d567423ab3e2147441055311fd9355a855e9",
+  "pdf_sha256": "6acd329119234a988a248992c19b2d7fd441003e79e2ab7d1143780800dae5b1",
+  "pdf_pages": 2,
+  "questions": 3,
+  "shared_rule_count": 8,
+  "answers": {
+    "1": "B",
+    "2": "D",
+    "3": "A"
+  },
+  "model_verification": {
+    "passed": true,
+    "questions": 3,
+    "shared_rule_count": 8,
+    "primitive_single_sector_checks": 512,
+    "scope": "四扇区离散模型与独立分数坐标几何模型逐步一致；候选唯一；干扰路径可复算。语义与图像另做无答案试解。",
+    "items": [
+      {
+        "n": 1,
+        "steps": [
+          {
+            "operation": "LR",
+            "geometric_representation_agrees": true
+          },
+          {
+            "operation": "CW",
+            "geometric_representation_agrees": true
+          },
+          {
+            "operation": "IT",
+            "geometric_representation_agrees": true
+          }
+        ],
+        "option_validity": [
+          false,
+          true,
+          false,
+          false
+        ],
+        "answer": "B",
+        "sector_distance_to_answer": [
+          20,
+          0,
+          32,
+          32
+        ],
+        "candidate_signatures": [
+          {
+            "black_sectors": 32,
+            "white_cells": 4,
+            "black_cells": 4,
+            "half_cells": 8,
+            "left_right_symmetric": false,
+            "up_down_symmetric": false
+          },
+          {
+            "black_sectors": 32,
+            "white_cells": 4,
+            "black_cells": 4,
+            "half_cells": 8,
+            "left_right_symmetric": false,
+            "up_down_symmetric": false
+          },
+          {
+            "black_sectors": 32,
+            "white_cells": 4,
+            "black_cells": 4,
+            "half_cells": 8,
+            "left_right_symmetric": false,
+            "up_down_symmetric": false
+          },
+          {
+            "black_sectors": 32,
+            "white_cells": 4,
+            "black_cells": 4,
+            "half_cells": 8,
+            "left_right_symmetric": false,
+            "up_down_symmetric": false
+          }
+        ]
+      },
+      {
+        "n": 2,
+        "steps": [
+          {
+            "operation": "CL",
+            "geometric_representation_agrees": true
+          },
+          {
+            "operation": "CCW",
+            "geometric_representation_agrees": true
+          },
+          {
+            "operation": "IR",
+            "geometric_representation_agrees": true
+          }
+        ],
+        "option_validity": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "answer": "D",
+        "sector_distance_to_answer": [
+          40,
+          48,
+          64,
+          0
+        ],
+        "candidate_signatures": [
+          {
+            "black_sectors": 32,
+            "white_cells": 4,
+            "black_cells": 4,
+            "half_cells": 8,
+            "left_right_symmetric": false,
+            "up_down_symmetric": true
+          },
+          {
+            "black_sectors": 32,
+            "white_cells": 4,
+            "black_cells": 4,
+            "half_cells": 8,
+            "left_right_symmetric": false,
+            "up_down_symmetric": true
+          },
+          {
+            "black_sectors": 32,
+            "white_cells": 4,
+            "black_cells": 4,
+            "half_cells": 8,
+            "left_right_symmetric": false,
+            "up_down_symmetric": true
+          },
+          {
+            "black_sectors": 32,
+            "white_cells": 4,
+            "black_cells": 4,
+            "half_cells": 8,
+            "left_right_symmetric": false,
+            "up_down_symmetric": true
+          }
+        ]
+      },
+      {
+        "n": 3,
+        "steps": [
+          {
+            "operation": "MT",
+            "geometric_representation_agrees": true
+          },
+          {
+            "operation": "UD",
+            "geometric_representation_agrees": true
+          },
+          {
+            "operation": "CW",
+            "geometric_representation_agrees": true
+          }
+        ],
+        "option_validity": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "answer": "A",
+        "sector_distance_to_answer": [
+          0,
+          16,
+          16,
+          24
+        ],
+        "candidate_signatures": [
+          {
+            "black_sectors": 32,
+            "white_cells": 4,
+            "black_cells": 4,
+            "half_cells": 8,
+            "left_right_symmetric": false,
+            "up_down_symmetric": false
+          },
+          {
+            "black_sectors": 32,
+            "white_cells": 4,
+            "black_cells": 4,
+            "half_cells": 8,
+            "left_right_symmetric": false,
+            "up_down_symmetric": false
+          },
+          {
+            "black_sectors": 32,
+            "white_cells": 4,
+            "black_cells": 4,
+            "half_cells": 8,
+            "left_right_symmetric": false,
+            "up_down_symmetric": false
+          },
+          {
+            "black_sectors": 32,
+            "white_cells": 4,
+            "black_cells": 4,
+            "half_cells": 8,
+            "left_right_symmetric": false,
+            "up_down_symmetric": false
+          }
+        ]
+      }
+    ]
+  },
+  "png_interior_samples": 1728,
+  "embedded_figures": [
+    {
+      "image_hash": "25b4606f389b5ed9d49e161ce2f1dc085901b7bce1afbdf71c0db9e79d2daccf",
+      "ratio_error": 1.592599050859178e-06
+    },
+    {
+      "image_hash": "887f2af24f8a8d0b7288982ff70e1d6757fb694e24d979bac0eed4e7c6d607af",
+      "ratio_error": 1.592599050859178e-06
+    },
+    {
+      "image_hash": "dfe67988af48c426162addb124ff1e25e5373b88bb55bfdcd54fd8f18b014815",
+      "ratio_error": 1.592599050859178e-06
+    },
+    {
+      "image_hash": "4d0f712ad7768c7009c61d922532d804d5e214e3e25059c79694f0c926f17965",
+      "ratio_error": 9.741694908527165e-07
+    },
+    {
+      "image_hash": "91b6469d573153729fb43e8c3672fa418e499d7497f1db8deda15ba9b3de03b2",
+      "ratio_error": 9.741694908527165e-07
+    },
+    {
+      "image_hash": "aa4abb34e8728fdc58b6bde855949d2aa9263c94bc74892be8e85eff6786eab7",
+      "ratio_error": 9.741694908527165e-07
+    }
+  ],
+  "existing_docx_unchanged": 9,
+  "knowledge_links_checked": 7,
+  "blind_review": "3/3与独立试解一致，详见blind_review.json",
+  "visual_review": "最终2页逐页实际打开，详见visual_review.json",
+  "limits": [
+    "难度为命题估计",
+    "未进行教师独立审题或学员试测",
+    "本地2026章年份未获独立核准，成品采用北京风格命名"
+  ]
+}

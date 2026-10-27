@@ -1,0 +1,527 @@
+{
+  "passed": true,
+  "date": "2026-10-26",
+  "word": "E:\\XcodeProject_sang\\模式题\\国考判断推理进阶专项练习-110题（含答案解析）.docx",
+  "word_sha256": "96fa64a3dacbd047a827f7a7021cf4269f22d531c44a280d83c71d94120b4183",
+  "pdf_sha256": "1aefd1ff9834a0a1a0d34ca7123d49515bb4b8cfafa5368238aa32ecfc99a01b",
+  "pages": 58,
+  "questions": 110,
+  "visual_pages": 58,
+  "independent_questions": 110,
+  "protected_existing_words": 8,
+  "protected_words_unchanged": true,
+  "source_modules": {
+    "analogy": "180e8e4fcaaf9cdd50b156928efd3c039d7c97c2114147f5bc4192f4e8aa06e8",
+    "definitions": "557dfd825fee54299ce692a2fcff5b5b61270cb58a0c155da6fd1289d514d9ef",
+    "formal": "ee8260142c26d56c2d852415efec5de5c8a8d9af8500a97eafaf24d7daa0144f",
+    "arguments": "2cc226ee2a20d83148e9d918627709c2377b55c71ed43a51a06045fcad2bd903"
+  },
+  "source_json_sha256": "c473d3b5ac1b23eb9fe8032361f9cc14ebce8f26fbb0269e4a193847b49d61e8",
+  "markdown_links_checked": 99,
+  "links": [
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\套卷索引\\国考判断推理进阶专项练习-110题（含答案解析）.md",
+      "target": "../../模式题/国考判断推理进阶专项练习-110题（含答案解析）.docx",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\套卷索引\\国考判断推理进阶专项练习-110题（含答案解析）.md",
+      "target": "../../.work/advanced_reasoning110_20261026/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\套卷索引\\国考判断推理进阶专项练习-110题（含答案解析）.md",
+      "target": "../近五年文字判断推理研究与110题蓝图.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\套卷索引\\国考判断推理进阶专项练习-110题（含答案解析）.md",
+      "target": "../文字判断推理进阶命题规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\套卷索引\\国考判断推理进阶专项练习-110题（含答案解析）.md",
+      "target": "../../.work/advanced_reasoning110_20261026/model_verification.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\套卷索引\\国考判断推理进阶专项练习-110题（含答案解析）.md",
+      "target": "../../.work/advanced_reasoning110_20261026/cross_review_verification.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\套卷索引\\国考判断推理进阶专项练习-110题（含答案解析）.md",
+      "target": "../../.work/advanced_reasoning110_20261026/document_verification.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\套卷索引\\国考判断推理进阶专项练习-110题（含答案解析）.md",
+      "target": "../../.work/advanced_reasoning110_20261026/visual_verification.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\套卷索引\\国考判断推理进阶专项练习-110题（含答案解析）.md",
+      "target": "../../.work/advanced_reasoning110_20261026/png_cleanup.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./套卷索引/国考判断推理原创模拟卷（一）-35题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./套卷索引/国考判断推理原创模拟卷（二）-2026行政执法-35题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./套卷索引/国考图形与逻辑专项练习-55题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./套卷索引/国考图形推理进阶专项练习-30题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./近五年国考图形研究与进阶30题蓝图.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./近五年图形推理进阶命题规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./套卷索引/国考判断推理原创模拟卷（一）-35题（图片规范版，含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./套卷索引/国考判断推理原创模拟卷（二）-2026行政执法-35题（图片规范版，含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./套卷索引/国考图形与逻辑专项练习-55题（图片规范版，含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/image_format_batch_20261025/final_batch_summary.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/ninegrid_square_20261025/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/ninegrid_square_20261025/final_summary.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./套卷索引/立体拼合专项练习-三黑块版10题（选项横框版，含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./套卷索引/立体拼合专项练习-三黑块版10题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./套卷索引/立体拼合专项练习-10题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./立体拼合题命题与检查规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./套卷索引/国考判断推理进阶专项练习-110题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./近五年文字判断推理研究与110题蓝图.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./文字判断推理进阶命题规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/advanced_reasoning110_20261026/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../真题/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../模式题/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/guokao35/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/guokao2026_2/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/zhuanxiang55_20261025/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/image_format_batch_20261025/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/ninegrid_square_20261025/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/advanced_figures30_20261025/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/assembly10_20261025/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/assembly_black10_20261025/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/assembly_black10_options_20261025/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/png-cleanup-20261025.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./真题资料总索引.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./判断推理真题归纳与命题依据.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./工程协作与套卷验收规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./国考判断推理35题出卷固定模板.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./国考判断推理模拟卷制作经验与质检规范.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./公考判断推理真题命题与解析规范.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/guokao35/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./套卷索引/",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/guokao35/verification.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/guokao35/render_verification.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./2026国考图形题版式与难度规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/guokao2026_2/build.py",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/guokao2026_2/verification.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/guokao2026_2/render_verification.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "../.work/guokao2026_2/visual_review.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\项目说明.md",
+      "target": "./套卷索引/国考判断推理原创模拟卷（二）-2026行政执法-35题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "../模式题/国考图形推理进阶专项练习-30题（含答案解析）.docx",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./套卷索引/国考图形推理进阶专项练习-30题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./近五年国考图形研究与进阶30题蓝图.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./近五年图形推理进阶命题规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "../.work/advanced_figures30_20261025/final_summary.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "../.work/ninegrid_square_20261025/final_summary.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./套卷索引/国考判断推理原创模拟卷（一）-35题（图片规范版，含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./套卷索引/国考判断推理原创模拟卷（二）-2026行政执法-35题（图片规范版，含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./套卷索引/国考图形与逻辑专项练习-55题（图片规范版，含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "../.work/image_format_batch_20261025/final_batch_summary.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "../.work/image_format_batch_20261025/frame_impact_review.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "../模式题/立体拼合专项练习-三黑块版10题（选项横框版，含答案解析）.docx",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./套卷索引/立体拼合专项练习-三黑块版10题（选项横框版，含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./立体拼合题命题与检查规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./套卷索引/立体拼合专项练习-三黑块版10题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./套卷索引/立体拼合专项练习-三黑块版10题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./立体拼合题命题与检查规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./套卷索引/立体拼合专项练习-10题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./套卷索引/立体拼合专项练习-10题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "../.work/png-cleanup-20261025.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./工程协作与套卷验收规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./工程协作与套卷验收规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./套卷索引/国考判断推理原创模拟卷（一）-35题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./真题资料总索引.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./资料索引/真题文件清单.csv",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./资料索引/判断推理题型结构索引.csv",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./判断推理真题归纳与命题依据.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./2026国考图形题版式与难度规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "../模式题/国考判断推理原创模拟卷（二）-2026行政执法-35题（含答案解析）.docx",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./套卷索引/国考判断推理原创模拟卷（二）-2026行政执法-35题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./2026国考图形题版式与难度规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "../模式题/国考图形与逻辑专项练习-55题（含答案解析）.docx",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./套卷索引/国考图形与逻辑专项练习-55题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./文字判断推理进阶命题规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\建议与变更记录.md",
+      "target": "./套卷索引/国考判断推理进阶专项练习-110题（含答案解析）.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\近五年文字判断推理研究与110题蓝图.md",
+      "target": "../.work/advanced_reasoning110_20261026/sources_analogy.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\近五年文字判断推理研究与110题蓝图.md",
+      "target": "../.work/advanced_reasoning110_20261026/sources_definitions.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\近五年文字判断推理研究与110题蓝图.md",
+      "target": "../.work/advanced_reasoning110_20261026/sources_formal.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\近五年文字判断推理研究与110题蓝图.md",
+      "target": "../.work/advanced_reasoning110_20261026/sources_arguments.json",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\近五年文字判断推理研究与110题蓝图.md",
+      "target": "./文字判断推理进阶命题规则.md",
+      "exists": true
+    },
+    {
+      "file": "E:\\XcodeProject_sang\\知识库\\近五年文字判断推理研究与110题蓝图.md",
+      "target": "./套卷索引/国考判断推理进阶专项练习-110题（含答案解析）.md",
+      "exists": true
+    }
+  ],
+  "preview_pngs_removed": true,
+  "limitations": [
+    "未进行教师盲审、学员试测或难度统计",
+    "代理首次答案一致不等同没有题面缺陷，首轮问题及修复均另记录"
+  ],
+  "all_knowledge_local_links_checked": 298,
+  "all_knowledge_local_links_exist": true,
+  "historical_link_annotations": 2,
+  "final_source_modules_match_questions": true
+}

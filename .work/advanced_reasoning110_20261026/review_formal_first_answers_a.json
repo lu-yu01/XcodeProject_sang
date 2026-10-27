@@ -1,0 +1,216 @@
+{
+  "card_sha256": "aee200e37241b152067a4d1c1fba59b72a41cb5780af964a11eb2e19a2be9155",
+  "method": "先仅通读题卡并自然演绎，写下首次答案；尚未运行独立枚举。",
+  "items": [
+    {
+      "n": 51,
+      "first_answer": "B",
+      "natural_derivation": "逐项代入：A违反乙→非丁；B乙戊己庚满足己=甲异或戊及庚→乙；C甲戊同开却列己；D甲开戊关却缺己。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 52,
+      "first_answer": "B",
+      "natural_derivation": "若甲开则丙开；若丙己全关，则甲戊都关，乙开丁关，最多只有乙庚辛三站，达不到四站。故丙或己必开。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 53,
+      "first_answer": "D",
+      "natural_derivation": "丙关→甲关→乙开且丁关；己=戊，四站要求戊己都开，庚辛恰好开一站，故庚开辛关可能。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 54,
+      "first_answer": "D",
+      "natural_derivation": "己关使甲戊同状态。若戊开则甲、丙同时开，再开庚必需乙，至少五站，故庚戊同开不可能。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 55,
+      "first_answer": "A",
+      "natural_derivation": "甲戊都关→己关、乙开、丁关；为了恰四站，余下丙庚辛必须全开，因此A唯一确定。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 56,
+      "first_answer": "C",
+      "natural_derivation": "C的各人次数为林1周1许2陈2赵2；甲许陈、陈不乙且周不丁、丁许赵均合规。其余分别缺许赵共同、违反充要、违反林周不共同。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 57,
+      "first_answer": "B",
+      "natural_derivation": "甲许陈后许还须与赵共一份。若林占两份，则余下一份必须许赵；林的两份不能与周同组，周将无处参与。故林只能一份。",
+      "confidence": 0.9,
+      "ambiguities": []
+    },
+    {
+      "n": 58,
+      "first_answer": "A",
+      "natural_derivation": "乙林许且陈不乙→周不丁；许另须与赵共组，甲不能赵，因此许赵只能丙或丁。结合林最多2及周须参与，甲林陈、丁许赵，丙周赵可行。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 59,
+      "first_answer": "C",
+      "natural_derivation": "陈只甲→陈不乙→周不丁。许赵若共两份，将用满两人次数，周又不能甲丁且林周不能共组，无法安排，故C不可能。",
+      "confidence": 0.9,
+      "ambiguities": []
+    },
+    {
+      "n": 60,
+      "first_answer": "D",
+      "natural_derivation": "D甲林陈乙许陈使陈满两次且周必在丁。许赵共组不能丁（已有周）、不能甲乙，故丙许赵，丁只能周赵，唯一。",
+      "confidence": 0.9,
+      "ambiguities": []
+    },
+    {
+      "n": 61,
+      "first_answer": "B",
+      "natural_derivation": "B清洗1—2、扫描3—4、标定4、复核5、封装6，设备和操作员均不冲突且顺序满足。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 62,
+      "first_answer": "C",
+      "natural_derivation": "共用设备的占用总数2+2+1=5，至少到5；清洗1扫描3标定3复核5封装5实现5，故C。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 63,
+      "first_answer": "A",
+      "natural_derivation": "扫描1—2后清洗最早3—4，再标定5封装6；要六时段内完成即被迫封装6，复核不得5。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 64,
+      "first_answer": "B",
+      "natural_derivation": "标定4与复核4占同一操作员，直接不可能；其余均可排出完整时序。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 65,
+      "first_answer": "D",
+      "natural_derivation": "复核5要求扫描结束≤4；扫描若占1—2或2—3，将迫使清洗、标定、封装超过6。故清洗1—2扫描3—4，封装5或6；标定可3或4，只有D非必然。",
+      "confidence": 0.9,
+      "ambiguities": []
+    },
+    {
+      "n": 66,
+      "first_answer": "D",
+      "natural_derivation": "成功→备用或缓存；断联→非备用，得缓存；未预同步→非缓存，逆否得已预同步。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 67,
+      "first_answer": "C",
+      "natural_derivation": "存在的加密且特别复核档案必登记，登记且加密必未公开，得到存在特别复核且未公开。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 68,
+      "first_answer": "D",
+      "natural_derivation": "非全称转存在，再对两蕴含合取取否，得到至少一份满足（加急且未复核）或（涉密且未授权）。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 69,
+      "first_answer": "C",
+      "natural_derivation": "精密→温控→非光防→非激光→机械，故C。其余均反向或否前。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 70,
+      "first_answer": "C",
+      "natural_derivation": "甲有时三句真假为假假真，丙有时真真真，乙有时真真假；只有乙满足恰两真。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 71,
+      "first_answer": "D",
+      "natural_derivation": "若第三四都假，第一二须都真，需至少批准甲乙与丙丁之一，超出两个；故第三四都真、第一二都假，得到甲戊获批。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 72,
+      "first_answer": "C",
+      "natural_derivation": "①②互补，恒占一真；需③④恰一真。通过3时两者都真，通过5/6时两者都假；通过4时只有④真，故C。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 73,
+      "first_answer": "B",
+      "natural_derivation": "枚举六种亮灯组合，条件保留甲乙、甲丙、乙丙、乙丁；乙丙至少一亮始终成立，其他各有反例。",
+      "confidence": 0.9,
+      "ambiguities": []
+    },
+    {
+      "n": 74,
+      "first_answer": "B",
+      "natural_derivation": "总和15，甲乙=丙丁使戊为奇数；又不是1/5，只能3，故B。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 75,
+      "first_answer": "C",
+      "natural_derivation": "固定林0周3，许赵相邻顺时针只能占1→2或4→5，剩下陈吴占另两连座，必相邻。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 76,
+      "first_answer": "A",
+      "natural_derivation": "东必光检、西必磁检、南必声检。唐西则孟不在西，故孟不用磁检，A必真；其余可构造或直接违充要。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 77,
+      "first_answer": "D",
+      "natural_derivation": "丙因乙较多不能最多。甲若较大配乙较小，丙更小且丙丁和7，偶数丁被迫较大；可使乙或丁各为最多，故2个。",
+      "confidence": 0.9,
+      "ambiguities": []
+    },
+    {
+      "n": 78,
+      "first_answer": "B",
+      "natural_derivation": "抽象为全A属B、全B非C、存在D属A→存在D非C，B逐项同型；A的存在只连到B，D改变存在量词。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 79,
+      "first_answer": "D",
+      "natural_derivation": "原式（P且Q）→R，R，所以P且Q；D同为合取前件的肯后，A改为析取前件，B/C推理方向不同。",
+      "confidence": 0.97,
+      "ambiguities": []
+    },
+    {
+      "n": 80,
+      "first_answer": "C",
+      "natural_derivation": "原式存在A非B、全非B属C→存在A属C；C量词、负中项和连接同型，D中项没有否定。",
+      "confidence": 0.97,
+      "ambiguities": []
+    }
+  ]
+}

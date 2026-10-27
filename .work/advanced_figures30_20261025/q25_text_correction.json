@@ -1,0 +1,25 @@
+{
+  "change": "Q25解析首列层数3改2，单处文字更正；未重建Word",
+  "old": "正视图各列最高层数3、4、2、3",
+  "new": "正视图各列最高层数2、4、2、3",
+  "files": [
+    {
+      "file": ".work\\advanced_figures30_20261025\\advanced_c.py",
+      "before_sha256": "e31966c5954df6ca9e66b1c1100595fedfa0b7c6bb39e0ed3f073769cc34b37a",
+      "after_sha256": "e568de88c7c9ec7d4013f792c5872fd1d199c7b9fa15fe0e54942364c28960e2",
+      "replacements": 1
+    },
+    {
+      "file": ".work\\advanced_figures30_20261025\\questions_c.json",
+      "before_sha256": "01431f75b58410f0a1cbf17e40f4ae954a05f8b9a602692381e5507ddf40dfcb",
+      "after_sha256": "f1b4d5010b6d541557100b1c296ac57a2d3e4bf1b6ecb2e9a7412cef5e9ed178",
+      "replacements": 1
+    }
+  ],
+  "question_fields_other_than_analysis_unchanged": true,
+  "all_other_questions_unchanged": true,
+  "assets_unchanged": {
+    "q25.png": "b8c56cc81867939da97510b3db71f8de8ac49395b1f64687d5ccca407f208f63",
+    "e25.png": "7e5f41fd28c7e0a8d78e20c9af894f033235bffa24ed1352bbd865f8fa028555"
+  }
+}

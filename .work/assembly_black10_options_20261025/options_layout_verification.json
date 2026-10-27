@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "solid_regions_rgb_identical": 80,
+  "explanation_images_unchanged": 10,
+  "puzzles_sha256": "b78a7a214ef98bf7386f12cdbf2a47b74353cf632e9b8dfb2e502fa30fbb71e0",
+  "outer_frame": [
+    20,
+    575,
+    1780,
+    900
+  ],
+  "dividers_x": [
+    460,
+    900,
+    1340
+  ],
+  "cell_widths": [
+    440,
+    440,
+    440,
+    440
+  ],
+  "labels_below_frame": {
+    "letters": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "centers_x": [
+      240,
+      680,
+      1120,
+      1560
+    ],
+    "center_y": 925
+  },
+  "source_document_left_open_and_unmodified_by_this_task": true
+}

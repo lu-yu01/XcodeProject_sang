@@ -1,0 +1,289 @@
+{
+  "reviewed_at": "2026-10-27T15:03:16.296647+00:00",
+  "word_sha256": "9be856058968fd7b41b9a1e1552766ae052efd741c55b24bfb5f4890cdb2d835",
+  "pdf_sha256": "5b19aa572e0382ac5ed7989c632e36f8bc97c275be272fde03c468c9ecce4bd6",
+  "renderer": "packaged render_docx.py缺少soffice；已诊断后使用独立隐藏Word只读导出PDF，pypdfium2按150dpi栅格化。",
+  "pages": [
+    {
+      "page": 1,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "76a1fc581d6db86ed38e44268df7bd523a897a1a5921140873000c7a799323fc",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 2,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "ad2e39301f153b27df2b11d0ca796079abefeabdd95fa7e6b425eb7aafdc7219",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 3,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "3e9ecdff8e0576514567aaef7a2884118df473582da24526c085c5001705fce6",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 4,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "41baf36b0d4f164f78cee166a38bcca96988ea91b5b4737417d307d32384f45d",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 5,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "6dcdfbb665f64e29086721ab83d93917d1d31e0df740b06c8aeacb7809cb0a29",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 6,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "9a7439d652f0531b426ba601f90cdc78bd4b25654d5c965f9339060042564857",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 7,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "cbf03dbc2d752742f7c78a32f16623e854092c74df31da5b9c32c497f2c56bfc",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 8,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "87b95739104b5f8b3da4968ad6024c5706006d9c2423f42dd55aa9834c858ac0",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 9,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "2e015f2a87a95b9a6b2371cb73b1967b854c44a6d4c0792d0a7cdad86a70ac76",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 10,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "2f247b170ea8c67382e6d364686fb7aea7e13db7ec1a57a0faf5a3733ec4d263",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 11,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "70e762a0d2fe02df69c8792e250aa0d7d3f5931c13e4ea68ece61971ddb69655",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 12,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "63e652f95df57e4f1b8d782f2da94d86aae83f6b415259f26c3b252d4f00cf2b",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 13,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "916bbafd4e7e2bc24a9ac5d3a0042a570625bad80e118c75e4e2768c565c7e9e",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 14,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "173cdaeb0ea7b3894b5f076af93774ec4de47c0f4efce5ef490f5979d72b4f8f",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 15,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "f84222f2744d9e5ab629595a6c1f95f452589baf767f6657cd7e5669de96d576",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 16,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "b7fc3aeb7e04c1820deebb91c5eaa5fcf35a41c039ce7d29253948440ea5ea5b",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 17,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "242af52829f1de6682e5da559c0bdf37daac458ef0b4a235ab1a94abe9b1376a",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 18,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "bbd45a59d2aabcfa8ec64e3c86ee947ad8a33e6ce11e3961a7794e0e5ab6414a",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 19,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "06a1cd4138f1e3788e7a9995334d32d30542f2162823eae7d5a3f0b05e325799",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 20,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "57b23c963e5808eed9c1cffeb0b6bcbfcb3400d64e74a448a182dc1c478d30ca",
+      "observations": "完整检查本组12项规则表、3道题、符号数字、横向四选项外框与框外字母，无缺图、裁切、重叠或跨页。"
+    },
+    {
+      "page": 21,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "0c328e25e2107d72d83df03532d69b91dfbc83563aaee70a3a2ad62a2f538a61",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 22,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "e50ae31a97fdd189c666a4f4641f9eaf24ae63bb0ab8ec6afa25aef8744b3cbd",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 23,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "8a78d3c95be36d73a00023987c32848e0949f96d9e08f26ea293c92106d8cbb8",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 24,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "7c96cc661c26cd9d85ec74afe8e5d9977fae4858ba3466b0d86f80e2b6ed6a6b",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 25,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "ccf23b82290356262ad595a70efef27ee87e857fbfbcac5123d8911fb031261c",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 26,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "e3e83beb89346fad67dd0d75fab72a9f939a26bd2d4cd94d4fe4cdb920ccae43",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 27,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "337e3b95a17b71812724b1f9413b611b6d1c667104b54a708e4a983106f257ca",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 28,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "23c2509755af6bcbfba82c10cab3c314854010ee1969b78c4b2a8fd2926dd849",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 29,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "4a0d09bb0914582e6c4decbeed8279885feadc8d6877f674752f137a394e1eea",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 30,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "d3b5912ef360d022d3a56a4449a46b58cdeec70ee4047545c779069595e1427d",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 31,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "96bf6167317c8775e45389fe40b2bd204a7684d51c9a1edfe63e6b72835083a4",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 32,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "89b05329b1623d4a431eda680d7bf63d095c0f80a856786847fc64d7a0686149",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 33,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "fbb905bbfa4a6384956bf2bd0cf21af125345ba106c90190cb3c0c503a82b1a4",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 34,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "c965dd652df36301753acd0444fa97c78f69eb1e203a991c30e351dab72e6744",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 35,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "9242709a2a2355ae747bce3ac8c63335fbfb6ca2a348ab7f4e46921d17e5b37e",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 36,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "f7a7924390337f117f0811579f46a415ded32ce3f823763cf722ea0e24ca83cc",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 37,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "0611084f80ac59795c23839c5a48689f80c4dc16433008edcca53d5b6b209753",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 38,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "59b8f4e4110559b50ef0789c492f26847da1163bc0bc7addf8597a855df897c9",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 39,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "bfba7b8370d8b7d667a672c331fd5715fec9b749af88e88692d7c92f3163928b",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    },
+    {
+      "page": 40,
+      "actually_opened": true,
+      "passed": true,
+      "image_sha256": "a158a246ad62ff310a8483aab73b94fa97fb358b8fee96eebe1f85d494175e2c",
+      "observations": "完整检查本组3题答案、三步文字和4态图解、三项具体干扰路径，无缺图、裁切、重叠或解析被拆页。"
+    }
+  ],
+  "scope": "root逐页实际查看40张原尺寸PNG；不是程序代替视觉检查。"
+}

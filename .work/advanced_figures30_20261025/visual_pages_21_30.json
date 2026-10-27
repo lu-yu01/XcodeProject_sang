@@ -1,0 +1,143 @@
+{
+  "passed": true,
+  "pdf_sha256": "23fb39f66fbd50dd54e41a956b62ddf616c841de272e56d8db5949e4e6a30662",
+  "word_sha256": "4b71bbaa803211b012aaaa23e4301842b647e651af5debdbb4798fed8aad38f6",
+  "pages_reviewed": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "method": "旧PDF的21—30页曾逐页实际view_image；最终修正版仅第27页变化，已重新实际view该页。其他9页以当前PNG SHA256与原已目视图完全相同的直接校验复用原目视证据；不声称最终轮又打开了全部10页。",
+  "observations": [
+    {
+      "page": 21,
+      "content": "第12—13题解析",
+      "result": "第12题方向种数/最少笔画对应及辅助文字完整；第13题答案B、顺时针90度说明与点阵辅助图一致，无缺字裁切。"
+    },
+    {
+      "page": 22,
+      "content": "第14—15题解析",
+      "result": "第14题三态规则、上下翻转和灰定位点正常；新版15题答案D、第二主体先旋转再差集及四阶段辅助图一致。"
+    },
+    {
+      "page": 23,
+      "content": "第16—17题解析",
+      "result": "第16题相反旋转求并、线段图完整；第17题分组①③⑥/②④⑤与答案A一致，圈号、辅助文字均正常。"
+    },
+    {
+      "page": 24,
+      "content": "第18—19题解析",
+      "result": "第18题黑白共边连通数与分组D、第19题隐含轴与独立线段平行/垂直分组B完整显示，圈号与辅助图无遮挡。"
+    },
+    {
+      "page": 25,
+      "content": "第20—21题解析",
+      "result": "第20题笔画分配与答案C一致；第21题答案B、PQR及截面八顶点轮廓完整，平方根符号可见，无图文互压。"
+    },
+    {
+      "page": 26,
+      "content": "第22—23题解析",
+      "result": "第22题C与等腰梯形辅助图完整，P/Q/R/S/C标记清楚；第23题D、z=y和3√2/√2及贯通孔内外矩形完整显示。"
+    },
+    {
+      "page": 27,
+      "content": "第24—25题解析",
+      "result": "最终修正版第27页已重新实际查看：第24题C完整；第25题正视图层数已更正为2、4、2、3，19块推理、答案D、立体构造和高度表均一致且显示清楚，无排版缺陷。"
+    },
+    {
+      "page": 28,
+      "content": "第26—27题解析",
+      "result": "第26题B及PR方向投影去重说明与方框交叉线辅助图一致；第27题C展开图与立体图面内箭头、黑角、三角短线清晰完整。"
+    },
+    {
+      "page": 29,
+      "content": "第28—29题解析",
+      "result": "第28题C两张展开图完整且面内内容清楚；第29题B左右两层九格辅助图、①②③及黑点均清楚，正文明确下方为前方。"
+    },
+    {
+      "page": 30,
+      "content": "第30题解析",
+      "result": "答案A与共边链/星拓扑图一致，四节点标号完整；页内留白正常，没有空白页。"
+    }
+  ],
+  "page_image_sha256": {
+    "21": "a1fcacebd55be5f7a579c51ea4397ee4bc6a742ebf3fbb88728a6fef151db215",
+    "22": "d15dc280d023962bc0d997c880d688991d6af039197492960d0ea0217977e468",
+    "23": "0a3d45ba4e020f628be516800e345a4122f29547b9e0174645fa92e2c307eb1d",
+    "24": "938fcf83706a9b65cbe084aa110bdac2bdad3dfc8632f2bca3342d911df67fce",
+    "25": "038e5814c60dffe9f5ec3c31269e4d32ddb901f38f89d16b69b1f3aa2c5cfb40",
+    "26": "7614127a915cc492f8d25535c159f95ab8d604f08e9791bcad4adc64dea00f95",
+    "27": "9d76177775ecda3889e1f4d6e01d286d3a32a7864f800f55482d3c0b8210c08a",
+    "28": "0e0b9620f478e9a26d946e9356c4a6e83145ce8b019e8b8d2078179cebb953c5",
+    "29": "4dd9fdb9db2f3bcf44f69af75627cfe0e8e4e08aa42d57b7e53ae1982d0de32f",
+    "30": "9909f4d9fb7d4d0a992d0ce9f4ac60202b0e8e506dc9754999b0d9fbf08a528a"
+  },
+  "display_checks": "已覆盖最终21—30页全部像素内容，无裁切、遮挡、缺字或空白页；单处Q25解析层数笔误已修正并重新实际看过第27页。",
+  "review_rounds": [
+    {
+      "pdf_sha256": "d4db11390c117464a40b495bfe0b748230674de7c22da313a4ceda3d5363312b",
+      "pages_actually_opened_and_viewed": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "result": "全部10页实际查看；发现27页Q25解析首列层数单处笔误，其余页通过。",
+      "page_image_sha256": {
+        "21": "a1fcacebd55be5f7a579c51ea4397ee4bc6a742ebf3fbb88728a6fef151db215",
+        "22": "d15dc280d023962bc0d997c880d688991d6af039197492960d0ea0217977e468",
+        "23": "0a3d45ba4e020f628be516800e345a4122f29547b9e0174645fa92e2c307eb1d",
+        "24": "938fcf83706a9b65cbe084aa110bdac2bdad3dfc8632f2bca3342d911df67fce",
+        "25": "038e5814c60dffe9f5ec3c31269e4d32ddb901f38f89d16b69b1f3aa2c5cfb40",
+        "26": "7614127a915cc492f8d25535c159f95ab8d604f08e9791bcad4adc64dea00f95",
+        "27": "5c2319fdce6c0f1b235af9cd1f7474d82ebd8e39e73ceeb7f031ff01b796eeb7",
+        "28": "0e0b9620f478e9a26d946e9356c4a6e83145ce8b019e8b8d2078179cebb953c5",
+        "29": "4dd9fdb9db2f3bcf44f69af75627cfe0e8e4e08aa42d57b7e53ae1982d0de32f",
+        "30": "9909f4d9fb7d4d0a992d0ce9f4ac60202b0e8e506dc9754999b0d9fbf08a528a"
+      }
+    },
+    {
+      "pdf_sha256": "23fb39f66fbd50dd54e41a956b62ddf616c841de272e56d8db5949e4e6a30662",
+      "pages_actually_opened_and_viewed": [
+        27
+      ],
+      "pages_reused_from_actual_prior_visual_review_by_identical_image_sha256": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        28,
+        29,
+        30
+      ],
+      "result": "第27页重新实际查看：正视图层数已显示2、4、2、3，与下文1+3+1+2=7、17+2=19、答案D和辅助高度表一致；无裁切/遮挡/缺字/分页缺陷。其他9页没有重复打开，已直接计算当前PNG哈希与上一轮实际看过的图片完全相同。"
+    }
+  ],
+  "issues_fixed": [
+    {
+      "page": 27,
+      "question": 25,
+      "type": "text_value_mismatch",
+      "found": "解析第一段“正视图各列最高层数3、4、2、3”",
+      "expected": "正视图各列最高层数2、4、2、3",
+      "evidence": "模型F25=(2,4,2,3)，辅助占格首列最高2；后文增加1+3+1+2也使用首列2。答案19与D不受影响。",
+      "status": "corrected_in_source_and_final_docx_then_page_27_actually_reviewed"
+    }
+  ],
+  "issues": []
+}

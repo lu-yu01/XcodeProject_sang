@@ -1,0 +1,299 @@
+{
+  "status": "completed",
+  "time": "2026-10-25T21:50:29.029579+08:00",
+  "deleted_count": 32,
+  "deleted_bytes": 9603401,
+  "files": [
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-01.png",
+      "sha256": "f510d12db66a94279930f2ca393ac4bcaf1abbcab167f7f1beaf3cf4440f7c17",
+      "bytes": 181285
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-02.png",
+      "sha256": "85d3a0471372f15e214c3f3618bca6cb75ddae6758eae37c7cc27c32fca0cf74",
+      "bytes": 92161
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-03.png",
+      "sha256": "ee0655244099993a85a081a7daa4744b44fb298096e752592e8e9591e5423206",
+      "bytes": 90844
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-04.png",
+      "sha256": "7049c817a5a9e4ecb8ffc381a3c8f56bcceb8163c401a9acadc68a9193ff78b1",
+      "bytes": 94895
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-05.png",
+      "sha256": "2d3df514e59449d9781b73616d77ebec9075d52a7cc0a29b3779361a372a68df",
+      "bytes": 85724
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-06.png",
+      "sha256": "de58b6957335ddf668689f50528f43759dc6ce0be5c045a4226344c2aa6bbd5a",
+      "bytes": 172007
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-07.png",
+      "sha256": "3330c3f919d2b1ede6488399fe7745023c4d3312963b00a09bac8e7b9c2da456",
+      "bytes": 127957
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-08.png",
+      "sha256": "2bf0d9286a14076472cce7649cb093769fbf627a27967aebc45959e186043f01",
+      "bytes": 124906
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-09.png",
+      "sha256": "6b2e477f471000f2e030268c49c439bbcfbd5df20cbdb80afaada2338d571b23",
+      "bytes": 130669
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-10.png",
+      "sha256": "9ce947c1ee0429899f98a7bacb29eb001b8333f89d5696909cb815cddb93d613",
+      "bytes": 121780
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-11.png",
+      "sha256": "623053df6361d0d8aafd04e4da74b11a57e5ff60990a6451befd8cfbfea80169",
+      "bytes": 136151
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-12.png",
+      "sha256": "61576ec5605ed3ee792a8e04bc33d351f9545c6d614662b2ae0256867d1f4294",
+      "bytes": 177907
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-13.png",
+      "sha256": "690562caf8ced1888048bba0938ae0b580ce8be1755226e3f1048a1d3ab50a15",
+      "bytes": 156044
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-14.png",
+      "sha256": "754e370bced0bfd75ae968524267065c8527a7f96bd41b9ea29ab075663e9031",
+      "bytes": 200640
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-15.png",
+      "sha256": "2d96340e72c2ffc4dc66e6a0dc68f0f647b17671eacb1383f9500ba92543e735",
+      "bytes": 136914
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-16.png",
+      "sha256": "1be76e4ab11b5ace2fd65e3ca12287f94daff8fc1ff7f7bfe69a2d142cede13d",
+      "bytes": 309944
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-17.png",
+      "sha256": "6e18c0d284cf6197f6f02d2157be3c257a060d7879bfa0166ab70570bfe80d3c",
+      "bytes": 271514
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-18.png",
+      "sha256": "20c0f7e40e8867524eec8b9efbe942c48ad5361738bce7db6007f20ccc9e308c",
+      "bytes": 270048
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-19.png",
+      "sha256": "18a651247c303e57061ab1ffbee0a478d555beaa2b240a47cb6daaaeb89006f4",
+      "bytes": 613663
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-20.png",
+      "sha256": "138d54ec35bc36e5447b170104b5da0be9b2bdbab5a032720fb37bce4036384f",
+      "bytes": 636048
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-21.png",
+      "sha256": "377468c2a1d0727845cde7625dec654fca990bdcc26498ccae6f09c5f19b56fe",
+      "bytes": 322431
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-22.png",
+      "sha256": "db25b3d2ce15f925bef928bbdeac082b0fa5ebe9582ef6da281f2e0dd6f3afd4",
+      "bytes": 317608
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-23.png",
+      "sha256": "82bb13316b61173b07762af60b5f3c6a7c61b898e13fd5c7ad52ed2b79d96093",
+      "bytes": 484531
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-24.png",
+      "sha256": "62d8eaaa5f543d52090dc0bb6e8bfcea8d2e5eab999de1d3a98fdf0eb33e6469",
+      "bytes": 472487
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-25.png",
+      "sha256": "0b6625ca7c30e4b642332e7043acdb86fbafa1df231fe014439f5e436296b7a9",
+      "bytes": 493353
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-26.png",
+      "sha256": "17f35e75b6246e10d4815b15b4d15ca86bf040cbb991c7244d5985c73c2abe54",
+      "bytes": 425117
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-27.png",
+      "sha256": "571a0c101d619c90c33e0ee70fc3fe424fb5ff22e4dfc19c8c3e1b25c45e23c7",
+      "bytes": 523225
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-28.png",
+      "sha256": "8abb89d5081be2620ed257dd8632b49fe64a7c0d0051a25a0baa6b158c7564ef",
+      "bytes": 469398
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-29.png",
+      "sha256": "cd128c2d240386fe4d852e63a016e056918678947c93941c96768469327837cb",
+      "bytes": 508860
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-30.png",
+      "sha256": "37ddbffdc22a12bd1f363436f95453d4d8507b25a7fd72e9190bc70f37bb4a35",
+      "bytes": 623358
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-31.png",
+      "sha256": "46d9e54f5dafce120d1fb9584c51aac28ccdb86ae7c97a79870dadbd0a916fa8",
+      "bytes": 600938
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\render\\page-32.png",
+      "sha256": "311ed7d03a43153e9a94919f879744ca3da80cf30880989282b8472e8d80281a",
+      "bytes": 230994
+    }
+  ],
+  "protected_files": [
+    {
+      "path": "E:\\XcodeProject_sang\\模式题\\国考图形与逻辑专项练习-55题（图片规范版，含答案解析）.docx",
+      "sha256": "e7b5123e41ea0123f2d49589299ef5b2008144ebfa009e78480557e4ba3d09e6"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\preview.pdf",
+      "sha256": "9fbe00a8215c08004718a384df467ef76d8dbe56f5d8f62434e5748dc81f6a5d"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q01.png",
+      "sha256": "5479889792a17ef1774aabafea48ffd26efe15e927d56189a325a954a40a01c9"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q02.png",
+      "sha256": "0d843806d8acd9843e0e1c54718e9b7814ba980a87ff9b4db0d5035ede4bab7e"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q03.png",
+      "sha256": "21e8a26dfd892fb9adf6bbea1f7373bedb7c72b73efe1a99593364c66c392461"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q04.png",
+      "sha256": "518ba0c24bace61881a39a9b4ced721157ee5d0e81e7801908d08d9560bc0cc0"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q05.png",
+      "sha256": "4861b4f3adaa7d57742726cdcc29be43ff6c0f6c7b7a9b7947f2bd37517683ee"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q06.png",
+      "sha256": "b8c35571f4a41622defbc96804420fb44088dca2d19935dfc02178c6f543266c"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q07.png",
+      "sha256": "55a73e53fa1ac5178db508874446e486234fcd397012ef3de1614c8a696dbef5"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q08.png",
+      "sha256": "eb2d5aafa833cde89522551ac3d61197a521b8e8bd02918cc99170b2b9111303"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q09.png",
+      "sha256": "160280146374cc929d033c3fb2a741f5a1d1a5d580052c915661778d8b316e64"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q10.png",
+      "sha256": "0138ccbf13e46bfa09f5d7629468ae03e99521ec50f9eee6b11d005420703183"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q11.png",
+      "sha256": "143b5cf6f65c2c5c324d7e437a347a6da1ea3a7d7a7d69f9b53c7e837a627fac"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q12.png",
+      "sha256": "77e80ce1294bfd52fb2d56ce8cc59269d2021338af73d50fd18a0826d02fbcbc"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q13.png",
+      "sha256": "45af189c21a8d9250d22b2531e3fb8074063db76921892dc3d586a4c992d2588"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q14.png",
+      "sha256": "2770c67b6b0188641f1055576cc15ad6cce46f57cc165bfa76aaf6786cfc82fe"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q15.png",
+      "sha256": "5e3f4e5b3740806eaae11a3b4fbcf78d9ce3bc574bccbc4bc161833bfe90c269"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q16.png",
+      "sha256": "cd76936cb7b3b1dfbf8e6a17656cd2ed37f470d38fc21084428ee5c76e939427"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q17.png",
+      "sha256": "bbb93b5ada65b37a9565b9eb6e2f12e51d713a39fc2fe30c57ba8589ddf24417"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q18.png",
+      "sha256": "272182d80f441c53d6534f6905cf242d1a8fb8412efeae441bf98e6d65993cd5"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q19.png",
+      "sha256": "b484f9ab9305e22a52555cab94e7a19b56acc4c04815dc55b620f61ba44a90bc"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q20.png",
+      "sha256": "6f2eff24a247530fee1f3af9b860c72766880080290f89e25b8b9d0896f28bc6"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q21.png",
+      "sha256": "d90dcbd360cc08c508393a55b30a5435fe2f0e19c9a89d7b88cb35afa7732ddf"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q22.png",
+      "sha256": "5f799e80ec199c68486f30797b265fa36ddff862122ca813bb41ed715e2ecbaa"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q23.png",
+      "sha256": "d3501eef0be09d5386347dbf007e1bc7f6005617cc14c2cd7ab166cae3b9275d"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q24.png",
+      "sha256": "7f5eedfa0b500c623c58ad5a83435e07033c391457238b595a0f7a06d873b0c0"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q25.png",
+      "sha256": "b25c685c09c2e3d2254bb0b50839a8d945a530e77d3d7edf3248ca945cfd7656"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q26.png",
+      "sha256": "dfa79e70685f87dfec4b5e2fc9a00c05577a5b7320fa09bd8f1aa210946d01a2"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q27.png",
+      "sha256": "eaf83aeb2345bd287d70b00331bd8d97303cf256a78f2ee3cb6ea4182e2a5de1"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q28.png",
+      "sha256": "824b8bedb7042d1ecfee5f1cfbf077227b27d7cc63b8b0dc545c73c6b6fb76a0"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q29.png",
+      "sha256": "5921938125d1d9c9168af42213c1442492e1e127189ef43c4a32d5670529c145"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\image_format_batch_20261025\\doc55\\assets\\q30.png",
+      "sha256": "e846c2d7d07fc5541a1c916c9dac89e4c934adb02d9a7a7c652b6d40b4c5cb8a"
+    }
+  ],
+  "protected_hashes_unchanged": true
+}

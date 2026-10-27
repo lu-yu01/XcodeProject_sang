@@ -1,0 +1,460 @@
+{
+  "scope": "具体题例抽样研究，不宣称全量官方核实",
+  "cases": [
+    {
+      "id": "A01",
+      "year": 2022,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2022年国家公务员考试《行测》真题（行政执法）_2023122616_28.docx",
+      "question": 71,
+      "stem_paragraph": 487,
+      "original_mechanism": "对称轴方向逆时针45度，外形不同但属性方向可迁移",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A01_1.png"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A01_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "bf4c0f4d56c5587c04d75aa3299aa6c43c8962b5da9fc530716c7ee0e3a9976e",
+      "distractor_distinction": "不同外形通过唯一对称轴方向迁移，不能把黑格面积/块数当主规律。",
+      "original_design_insight": "Q2采用不同外形承载相同属性方向序列。"
+    },
+    {
+      "id": "A02",
+      "year": 2022,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2022年国家公务员考试《行测》真题（行政执法）_2023122616_28.docx",
+      "question": 72,
+      "stem_paragraph": 490,
+      "original_mechanism": "分割图中两个面相似但大小不同，不能把全等混为相似入口",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A02_1.png"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A02_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "81cad0936d0617ff008d63992c1e2158b803fd4c1cd31be0afb86a3fbb9a53d9",
+      "distractor_distinction": "相似面与全等面不同；只看两个面都有相同形状不能忽略大小条件。",
+      "original_design_insight": "最大面/同形面须先明确观察对象，Q7以可计算面积排除并列最大。"
+    },
+    {
+      "id": "A03",
+      "year": 2022,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2022年国家公务员考试《行测》真题（行政执法）_2023122616_28.docx",
+      "question": 73,
+      "stem_paragraph": 493,
+      "original_mechanism": "仅数白球连通部分，不数整图/黑球",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A03_1.png"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A03_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "ab12e4ccdc03ef104dd6f32504b8f3cfb9faf13a67d184ca75970af697765e35",
+      "distractor_distinction": "只统计白球的连通部分；总白球数、黑球数与整体连通均不能代替。",
+      "original_design_insight": "Q8明确只看黑色子集；Q6按各部分分别验算而非混成一个整体。"
+    },
+    {
+      "id": "A04",
+      "year": 2023,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2023年国家公务员考试《行测》真题（行政执法类）_2023122614_56.docx",
+      "question": 72,
+      "stem_paragraph": 486,
+      "original_mechanism": "外轮廓轴对称与内部中心对称需同时满足",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A04_1.png"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A04_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "b0f9d1e522f488959aa30671ca293624c653ded9fa748b2ce5a21c65bb9ad7ad",
+      "distractor_distinction": "外轮廓轴对称和内部中心对称是独立条件，只满足其中之一仍应排除。",
+      "original_design_insight": "Q2内外分开、Q8黑块子集分开，并控制相同外轮廓无法替代考点。"
+    },
+    {
+      "id": "A05",
+      "year": 2024,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2024年国家公务员考试《行测》真题（行政执法类）_2023122610_53.docx",
+      "question": 73,
+      "stem_paragraph": 455,
+      "original_mechanism": "黑块外轮廓边数与白块外轮廓边数差值交替，需分主体",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A05_1.png"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A05_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "49dfe434c513d1c4ae71ff5eede60079f073ecbd22f1d83be3c525a912cc67f8",
+      "distractor_distinction": "黑白主体边数差交替，分别裸数黑边或白边均无序。",
+      "original_design_insight": "Q4用直角数减点数与面数联动，维持多主体的关系辨析。"
+    },
+    {
+      "id": "A06",
+      "year": 2022,
+      "exam": "天津省考",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2022年天津公务员考试《行测》真题_2023122615_12.docx",
+      "question": 46,
+      "stem_paragraph": 308,
+      "original_mechanism": "最大面边数与整图外轮廓边数相等",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A06_1.png"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A06_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "d06a85e3dc440ad33a28ddd2dfec54b1b41d1917e62fa12bdd7ab9e73b3857ce",
+      "distractor_distinction": "需要最大面边数与整体外边界边数相等，不是“最大面边数恒定”。",
+      "original_design_insight": "Q5改为内部面数与图形框短线数对应；边框计数对象须清楚。"
+    },
+    {
+      "id": "A07",
+      "year": 2022,
+      "exam": "浙江事业单位5月29日",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\事业单位笔试-职测真题试卷\\word版事业单位笔试职测563套\\2022年5月29日浙江省事业单位统一招聘考试《职业能力倾向测验》_2023122815_09.docx",
+      "question": 42,
+      "stem_paragraph": 277,
+      "original_mechanism": "总面数无序，改取唯一最大面，最大面为四边形",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A07_1.png"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A07_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "1457b16b61dca8e1bfff2c27cfb9a25c11e8b9d72c2afbb4f88a7fe7b3a45fda",
+      "distractor_distinction": "总面数3/2/3/2/2无序；应转向唯一最大面，选最大面为四边形者。",
+      "original_design_insight": "Q7采用面积严格大于外侧其余区域总面积的最大面。"
+    },
+    {
+      "id": "A08",
+      "year": 2023,
+      "exam": "湖北事业联考D类4月2日",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\事业单位笔试-职测真题试卷\\word版事业单位笔试职测563套\\2023年4月2日湖北省事业单位联考《职业能力倾向测验》D类_2023122810_20.docx",
+      "question": 63,
+      "stem_paragraph": 415,
+      "original_mechanism": "选取黑圆整体判断对称，避免被相同圆形外框替代",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A08_1.png"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A08_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "f400fd00c799cb1211dbf75bd68839b90ce3bf03e8dff95ecdedd491ea1b3bb6",
+      "distractor_distinction": "背景白球外轮廓近似相同；要将黑球位置集合整体看，不能用外轮廓对称替代。",
+      "original_design_insight": "Q8所有方框和黑格数相同，只能比较黑色集合。",
+      "image_limitation": "本地原图分辨率偏低；黑白位置与整体对称可辨，未声称进行了精细像素度量。"
+    },
+    {
+      "id": "A09",
+      "year": 2025,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\国家\\2025年国考真题\\2025国考执法-题本+解析.docx",
+      "question": 76,
+      "stem_paragraph": 0,
+      "original_mechanism": "唯一最大面为轴对称，整体形状和面总数均非核心",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A09_1.png"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A09_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "ef8c5dfc96ce35876570db6617f9405438f60d14256f6b5d1970606c076a9c46",
+      "distractor_distinction": "封闭面总数与整图外形没有统一规律，最大面轴对称才可排除候选。",
+      "original_design_insight": "Q7推广到最大面仅中心与仅轴的分类，同为六边形以控制边数捷径。"
+    },
+    {
+      "id": "A10",
+      "year": 2025,
+      "exam": "山东省考",
+      "path": "E:\\XcodeProject_sang\\真题\\17-18.2025-2023山东.docx",
+      "question": 64,
+      "stem_paragraph": 18,
+      "original_mechanism": "两组迁移：第一组轴+中心，第二组仅轴对称",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A10_1.png"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A10_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "5517e3cdd5372208c4c75d31f8f16cf979360603947cb8a7f60b056447bfb4bb",
+      "distractor_distinction": "第一组既轴又中心，第二组仅轴；选既轴又中心会只满足部分条件。",
+      "original_design_insight": "Q2按属性而非外形承载方向，区别单轴和中心。"
+    },
+    {
+      "id": "A11",
+      "year": 2025,
+      "exam": "江苏A类",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\26-27.2025-2024江苏A.docx",
+      "question": 85,
+      "stem_paragraph": 57,
+      "original_mechanism": "九宫格对称方向横/竖/双轴与面数3/4/5复合验证",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A11_1.png"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A11_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "abf68305d9a2d69501686a313aa6bdef4dfb1712c59ef93a2a0258733431005a",
+      "distractor_distinction": "先横轴/竖轴/双轴排除两项，再以面数3/4/5排除余项；只用对称还不唯一。",
+      "original_design_insight": "Q3四项同黑格数，Q9同总角数，避免单一易见总量暴露正确项。"
+    },
+    {
+      "id": "A12",
+      "year": 2025,
+      "exam": "上海省考整理稿",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\38-39.2025-2024上海.docx",
+      "question": 9,
+      "stem_paragraph": 26,
+      "original_mechanism": "米字分组观察对称类型，不能机械只看横行",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A12_1.png"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A12_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "3a0380d227ece6af3dccf4df09bba9ae00493e3a17410b281e12e9f0b89baf87",
+      "distractor_distinction": "米字结构中横行、竖列和对角线分别承载不同对称类型，机械看单行易停滞。",
+      "original_design_insight": "Q3先校验结构与运算次序；分类题寻找局部层级而不强行横行递增。"
+    },
+    {
+      "id": "A13",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 76,
+      "stem_paragraph": 462,
+      "original_mechanism": "连通关系与局部黑球数：每图两部分分别有1、2黑球",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A13_1.jpeg"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A13_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "611aeb59fce96459719bbc5a13110cb8390c7990411a229007fcbad979681fcf",
+      "question_form": "六格序列",
+      "difficulty_observation": "中高",
+      "distractor_distinction": "不追踪某个黑球；相同总黑球3个仍不足，必须看它们属于哪一连通部分。",
+      "original_design_insight": "Q1保持黑球总数相同，用不同轨迹分配制造干扰；不复制原图连接线。",
+      "analysis_path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷解析】.docx"
+    },
+    {
+      "id": "A14",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 77,
+      "stem_paragraph": 470,
+      "original_mechanism": "16宫格内外顶点分别沿各自轨道逆时针移位",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A14_1.jpeg"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A14_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "1029becc5b482792a7f5a5a17837430b8d0ea944cbf09fb3d9a9e9e25d61e831",
+      "question_form": "六格序列",
+      "difficulty_observation": "中高",
+      "distractor_distinction": "只转三角形朝向会误选；三个顶点并非整体刚性旋转。",
+      "original_design_insight": "Q1采用两个外圈不同速度及一个内圈反向轨迹；轨迹位置逐项验算。",
+      "analysis_path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷解析】.docx"
+    },
+    {
+      "id": "A15",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 78,
+      "stem_paragraph": 477,
+      "original_mechanism": "两个子图的轴/中心对称属性与1/2笔画角色交换",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A15_1.jpeg"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A15_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "e0870bf8165b6192257e24f1ac33a8f55cc6c105140b99b87ed4e46abebec7c4",
+      "question_form": "左右3+3同水平线",
+      "difficulty_observation": "高",
+      "distractor_distinction": "总笔画3不够；要分出哪个属性的子图承担1笔或2笔。",
+      "original_design_insight": "Q2分外轴与内折线；Q6采用各连通部分分别算笔画，不能仅总奇点除2。",
+      "analysis_path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷解析】.docx"
+    },
+    {
+      "id": "A16",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 79,
+      "stem_paragraph": 486,
+      "original_mechanism": "黑白对应区求同；每一行主体轮廓不同",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A16_1.jpeg"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A16_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "d552ae81010d2c1a254cccee7c6c8be6dc29437cc2f80613861f54b8459a804e",
+      "question_form": "正方形九宫格",
+      "difficulty_observation": "中",
+      "distractor_distinction": "候选可能黑格总量相同；应逐分区验证，不误用求异。",
+      "original_design_insight": "Q3换为先旋转后求异；控制四项均8黑，考查运算次序。",
+      "analysis_path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷解析】.docx"
+    },
+    {
+      "id": "A17",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 80,
+      "stem_paragraph": 494,
+      "original_mechanism": "异形阶梯多面体PQR三点定面并求截形",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A17_1.jpeg"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A17_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "0cb0296874aa5c5a340676aff8a7ff45afff30417406787d9fb61d9b057865e5",
+      "question_form": "立体截面",
+      "difficulty_observation": "高",
+      "distractor_distinction": "不能只看外轮廓或某个投影视图，截面还须满足三点同一平面。",
+      "original_design_insight": "空间题由C模块负责；A保留对点线面关系的精确建模要求。",
+      "analysis_path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷解析】.docx"
+    },
+    {
+      "id": "A18",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 81,
+      "stem_paragraph": 502,
+      "original_mechanism": "以T形面作锚，公共边描边顺序与面方向比对",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A18_1.png",
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A18_2.jpeg"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A18_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "d65ea782aa7311f7d989002e5e7fd83a73c01910b6c4f72aa6781a7b36938ec0",
+      "question_form": "双立体与4个展开候选",
+      "difficulty_observation": "高",
+      "distractor_distinction": "邻接看似相同仍可能翻面；①③可行，②④的边序不符。",
+      "original_design_insight": "不把面内方向当装饰删掉；以锚定主体后检查关系的思路设计Q2/Q7。",
+      "analysis_path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷解析】.docx"
+    },
+    {
+      "id": "A19",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 82,
+      "stem_paragraph": 512,
+      "original_mechanism": "三黑块体块拼合及遮挡方向",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A19_1.jpeg"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A19_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "1b182e9917424695582bc1c53fdf7c9fff83011280f10d547ff13f8732a8c2e8",
+      "question_form": "立体拼合选非",
+      "difficulty_observation": "高",
+      "distractor_distinction": "先保留选非题方向，再查空间填补；总块数/黑块数相同并不保证形状可拼。",
+      "original_design_insight": "空间题由C模块负责；A选项同数量的控制原则保持。",
+      "analysis_path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷解析】.docx"
+    },
+    {
+      "id": "A20",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 83,
+      "stem_paragraph": 520,
+      "original_mechanism": "黑白菱形共一段边线与不共线段分组",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A20_1.jpeg"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A20_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "b6f62e12d6d1f5d87b959c56ef21ff3a25a4070ae0b2fdc1cf5ab50ebf55077b",
+      "question_form": "六图分类",
+      "difficulty_observation": "中高",
+      "distractor_distinction": "黑白菱形都在每幅图出现；单数元素无法分类，局部接触关系才有区分。",
+      "original_design_insight": "Q8选择黑色子集而不依赖相同外轮廓；Q10比较交点在图形内外。",
+      "analysis_path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷解析】.docx"
+    },
+    {
+      "id": "A21",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 84,
+      "stem_paragraph": 525,
+      "original_mechanism": "黑面与白面同形的数量为2或1",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A21_1.jpeg"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A21_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "46da803571abd995582205a36f113e67477e83239d638f182a2ec908a674fabf",
+      "question_form": "六图分类",
+      "difficulty_observation": "高",
+      "distractor_distinction": "每图都是1黑4白，共5面；应细分为“与黑面同形”的白面，不按面总数。",
+      "original_design_insight": "Q7取唯一最大面；Q9在总边、总直角相同条件下分到各面比较。",
+      "analysis_path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷解析】.docx"
+    },
+    {
+      "id": "A22",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 85,
+      "stem_paragraph": 531,
+      "original_mechanism": "两条折线十字交点在白球内部/外部",
+      "original_images": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A22_1.jpeg"
+      ],
+      "review_image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_a\\A22_review.png",
+      "visual_checked": true,
+      "source_status": "本地题本/教辅整理资料；未核对官方发布原件",
+      "visual_check_method": "实际打开对应review原图提取图；未仅根据关键词或题型标签判断。",
+      "review_image_sha256": "387b6856aef32cb9b5066030a7a6a5961d50d6e0ccd3ba2cb932f43425d5d49c",
+      "question_form": "六图分类",
+      "difficulty_observation": "中高",
+      "distractor_distinction": "球和折线总体数量不分组；要定位唯一十字交点，再看其相对载体位置。",
+      "original_design_insight": "Q10原创为虚线折线交点在实线四边形内/外，六图穿边总数相同。",
+      "analysis_path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷解析】.docx"
+    }
+  ],
+  "visual_checked_count": 22,
+  "national_exam_case_count": 16,
+  "year_basis": "优先题本内年份头、原卷标题及配套来源题号；202312xx为导出时间，不作为考试年份。",
+  "coverage_limitation": "仅此22个具体题例的题图与配套解析研究；没有宣称已逐题核实整个真题目录或官方发布原件。",
+  "primary_design_basis": "2022—2026国考图形题，2026行政执法76—85全部原图为最新主样本；山东/天津/江苏/上海及事业题仅补充。"
+}

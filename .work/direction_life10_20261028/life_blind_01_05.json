@@ -1,0 +1,103 @@
+{
+  "reviewer": "independent_visual_solver_01_05",
+  "scope": "Only public_questions.json and final assets/question-01.png through question-05.png were consulted. No author answers, model, questions.json, prior reviews, or older artwork were consulted.",
+  "method": "All five local PNGs were actually opened once before freezing life_first_01_05.json, then all five were reopened at original resolution. Recheck uses the final visible artwork, not assumed source geometry.",
+  "first_answer_file": "life_first_01_05.json",
+  "first_answers_preserved": true,
+  "answer_letters_follow_option_order": "A=first, B=second, C=third, D=fourth",
+  "interpretation_of_uniqueness": "option_unique reports whether the visible directional ordering selects one supplied option. strict_full_scene_support separately reports whether the final artwork also satisfies the stated static-scene, camera-motion, and geometry conditions. A selectable intended order is not by itself proof of a physically consistent full scene.",
+  "questions": [
+    {
+      "n": 1,
+      "image_sha256": "3a367c68ddb65bf9e64d93a295b4f236aa39930e9481d149cf0f9cf0962a65f9",
+      "first_conclusion": {"option": "B", "answer": "2—4—1—3"},
+      "recomputed_conclusion": {"option": "B", "answer": "2—4—1—3", "confidence": "high for the visual ordering; not a physically exact four-frame scene"},
+      "option_unique": true,
+      "strict_full_scene_support": false,
+      "reason": "面朝北时画面左方为西。车辆向西倒车，固定景物向画面右移，近处移动更明显。路牌相对钟楼从左到右依次为②④①③，路牌和电线杆在各子图内的大致横坐标排序也一致支持B。其余三个选项都不满足近牌持续向右的顺序。",
+      "landmark_identity": "公交图标路牌、带变压器电线杆、中央钟楼和右侧楼可识别为对应地标；但中央钟楼左邻的三层建筑不是四图一致的屋顶。",
+      "translation_and_occlusion": "路牌在②挡住左楼，④到钟楼左缘，①到钟楼中部，③到钟楼右侧，遮挡变化支持同一近牌向右。电线杆的粗略移位小于路牌。细部与远景并非精确投影序列。",
+      "shadow_check": "本题没有用于定向的明确投影，不能用地面灰线补充方向。",
+      "issues": [
+        {"severity": "major", "location": "钟楼左侧建筑，①③与②④比较", "detail": "①③有正面三角形山墙与中央圆形装饰，②④变成横向瓦屋面且无该山墙。四图仍展示基本相同的门窗正立面，这不能合理地仅归因于沿同一直路的水平平移。严格的同一组静止建筑条件没有被保住。"},
+        {"severity": "minor", "location": "电线杆相对钟楼", "detail": "电杆相对钟楼的细小横向差并非完全单调，说明润饰图只可靠支持大尺度近牌次序，不能按像素当成精密视差图。"}
+      ],
+      "necessary_revision": "统一左邻建筑屋顶和固定立面，使用同一场景投影四个平移机位后再润饰，并锁住地标轮廓和遮挡边界。当前B可辨，但不建议在声称严格静态摄影的成题中保留这组矛盾。"
+    },
+    {
+      "n": 2,
+      "image_sha256": "921abe21c2e19091fa87efb818e75adaf469059464cf93fdaef90077661d4f94",
+      "first_conclusion": {"option": "D", "answer": "3—1—4—2"},
+      "recomputed_conclusion": {"option": "D", "answer": "3—1—4—2", "confidence": "high"},
+      "option_unique": true,
+      "strict_full_scene_support": "qualitatively supported, with small drawing drift",
+      "reason": "相机朝西时画面右方为北，车辆向北行驶相当于相机向画面右移，近柱应向画面左移。近柱从最右到最左为③①④②，路灯也呈相同的大尺度排序，唯一对应D。",
+      "landmark_identity": "四图均能辨认相同的带矩形铭牌圆柱、卷曲灯臂路灯、中央钟楼和两侧住宅；未发现类似第1题那种明确更换屋顶类型的主要地标身份冲突。",
+      "translation_and_occlusion": "③近柱在钟楼右侧，①挡钟楼中央，④到钟楼左侧，②更靠左；路灯略在近柱右后方，移动趋势一致。没有出现为了支持另一个选项而必须倒转的主要遮挡。",
+      "shadow_check": "无明确可用于定向的投影。",
+      "issues": [
+        {"severity": "minor", "location": "远处钟楼、窗格和边缘", "detail": "远楼横坐标和细节有轻微非单调漂移，部分门窗及屋顶线条略变；按固定相机的精确摄影投影要求并不严丝合缝。但它们远小于近柱的位移，不能形成第二个合理选项。"}
+      ],
+      "necessary_revision": "题目方向逻辑无需改动。若继续润饰，应锁定远楼轮廓、窗格与钟面，避免把微小漂移当成新的方向线索。"
+    },
+    {
+      "n": 3,
+      "image_sha256": "7b1f4a937f292bf83a4aa29aad899b23fd956d638ff7e2afa58eeac1c7e8bc8f",
+      "first_conclusion": {"option": "A", "answer": "2—4—3—1"},
+      "recomputed_conclusion": {"option": "A", "answer": "2—4—3—1", "confidence": "high"},
+      "option_unique": true,
+      "strict_full_scene_support": true,
+      "reason": "俯视关系是钟楼西北、尖顶馆东北、纪念柱在两者南侧。东侧朝西看，南方在左，故柱左、馆右，且馆处于钟楼前方，对应②。南侧朝北看，钟楼左、柱居中较近、馆右，对应④。西侧朝东看，南方在右，柱在右，近钟楼遮住较远馆，对应③。北侧朝南看，东方在左，馆左、柱中较远、钟楼右，对应①。因此A唯一。",
+      "landmark_identity": "三类建筑在四图中均可追踪：带钟面高塔、矮尖顶馆、带底座纪念柱。俯视图馆的图标与透视图风格不同，但仍可按种类和相对位置匹配，不构成换地标证据。",
+      "translation_and_rotation": "本题是换到东南西北四处并转向中心，不能套用第1、2题固定朝向平移。各图左右和远近关系符合四个观察方向。",
+      "occlusion_check": "②馆遮钟楼右下部分、③钟楼几乎遮住馆，只露左侧少量部分，均与东、西方向的前后关系相容。④纪念柱较大且在前，①柱较小而在后，也与南北观察相容。",
+      "shadow_check": "未给定太阳或投影条件，不使用画面中的浅色地面笔触定向。",
+      "issues": [],
+      "necessary_revision": "无实质必要修订。③保留馆的可见屋檐或轮廓，有利于读者确认第三个地标仍存在。"
+    },
+    {
+      "n": 4,
+      "image_sha256": "526ba0cfce44322abb514bb6783b3396a05c40a08104af4ba2f503dce27549e4",
+      "first_conclusion": {"option": "C", "answer": "4—2—1—3"},
+      "recomputed_conclusion": {"option": "C", "answer": "4—2—1—3", "confidence": "high for right-turn ordering; equal-angle condition is unsupported"},
+      "option_unique": true,
+      "strict_full_scene_support": false,
+      "reason": "正对钟楼的第一幅是④。持续向右转使钟楼和相邻建筑向画面左侧移动：②钟楼在左部，①钟楼被左缘裁切，③钟楼移出画面，故单看右转次序只有C。",
+      "landmark_identity": "钟楼、二层尖屋顶住宅、带屋顶天线三层楼、低矮平顶楼的大体身份可追踪；窗线、侧墙宽度等有生成漂移。主要顺序线索来自钟楼和天线楼。",
+      "translation_and_rotation": "从可识别地标的顺序看是右转；但最终图不支持所声称的同地点、不变焦且每次相同角度的完整相机运动。",
+      "occlusion_check": "右转后钟楼逐渐在左边框被裁掉，属于取景范围变化，不应解释成被其他房屋遮挡。天线楼持续左移的顺序也支持④②①③。",
+      "equal_angle_check": "按原图每个子图约531像素宽粗读，钟楼钟面中心相对子图左缘在④约270、②约105、①约6像素。④到②约左移165像素，②到①约左移99像素。普通直线透视相机从正对钟楼开始等角向右转，横坐标应按tan变化，向边缘的第二段位移应更大；这里反而明显更小。该差别远大于线条粗细，不能视作准确的等角连续照片。",
+      "shadow_check": "无太阳条件；地面线条不提供可靠影向约束。",
+      "issues": [
+        {"severity": "major", "location": "④→②→①的钟楼位置", "detail": "等角转身条件与明显递减的横向步长不相容。在普通相机模型下，没有一个选项能同时满足所有文字条件；C只满足可见右转顺序。"},
+        {"severity": "minor", "location": "钟楼及邻屋侧立面", "detail": "同一地点转身不会改变实体遮挡和可见面的身份，但各图侧墙比例和屋顶线略漂移；应避免进一步生成造成新的侧面显隐。"}
+      ],
+      "necessary_revision": "最小文字修订是删去“每次转过相同角度”，改为“随后连续向右转身，间隔拍摄三幅”，保留当前唯一C；若要保留等角条件，应按同一相机中心、焦距和等角方向重新生成几何骨架，固定地标后再润饰。"
+    },
+    {
+      "n": 5,
+      "image_sha256": "83b997849ac2de090a14396f5fc6da467443a1aad3ef91b88bc722010881a27d",
+      "first_conclusion": {"option": "C", "answer": "西南", "confidence": "tentative on first view"},
+      "recomputed_conclusion": {"option": "C", "answer": "西南", "confidence": "high for quadrant"},
+      "option_unique": true,
+      "strict_full_scene_support": "yes for directional inference; illustration is not exact metric geometry",
+      "reason": "太阳在正北，水平地面上的影子朝正南。实际图中影子从近角向右下延伸，这与建筑左侧地面棱从左后朝近角的方向大体一致。因此北向沿左上退去的一组棱，东向沿右上退去的另一组棱。可见的两面分别朝南、朝西，观察者位于建筑西南，唯一选C。",
+      "landmark_identity": "单栋长方体建筑，无四图地标身份问题。两面墙和屋顶轮廓清楚。",
+      "translation_and_rotation": "单一高处斜视视点，不涉及连拍或相机运动。",
+      "occlusion_check": "影子贴建筑右侧可见底边向外延伸；没有额外遮挡使南向反转。",
+      "shadow_check": "复核原图后，近角至影端的右下方向与建筑左上—右下地面轴基本一致，能分辨西南和东南。线条存在手绘透视误差，远端影边与棱线并非逐像素平行，但没有足以支持其他象限的歧义。墙面明暗没有被用作独立指南。",
+      "issues": [],
+      "necessary_revision": "无实质必要修订。若做下一版，保留影子与建筑同一地面轴的关系，并锁定矩形投影边界。"
+    }
+  ],
+  "summary": {
+    "first_answers": ["1B", "2D", "3A", "4C", "5C"],
+    "recomputed_option_choices": ["1B", "2D", "3A", "4C", "5C"],
+    "option_choices_changed": false,
+    "all_five_have_one_clear_directional_option": true,
+    "full_scene_blockers": ["Q1 static-building roof identity conflict", "Q4 equal-angle camera-motion conflict"],
+    "strict_no_issue_pass": [3, 5],
+    "qualitative_pass_with_minor_art_drift": [2],
+    "conditional_option_only_pending_revision": [1, 4]
+  }
+}

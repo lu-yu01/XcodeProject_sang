@@ -1,0 +1,200 @@
+{
+  "reviewer": "direction_sources 独立代理",
+  "reviewed_at": "2026-10-27T15:39:51.671168+00:00",
+  "input_scope": "只读取public_questions.json中第6—10题和对应五张question PNG；未读作者model/draw、答案或solution图。",
+  "answers": {
+    "6": "A",
+    "7": "D",
+    "8": "B",
+    "9": "C",
+    "10": "A"
+  },
+  "items": [
+    {
+      "n": 6,
+      "answer": "A",
+      "unique": true,
+      "reason": "俯视中观察者朝东北，参照影向西北。对面向东北的人而言，西北恰为左方，且同一时刻附近的太阳影应平行；A两柱都向左投影。B全部向右，C朝向观察者，D少了远柱本应露出的左向影。",
+      "option_elimination": {
+        "A": "两根柱子的影子都向观察者左方，符合。",
+        "B": "影向右，与参照影相反。",
+        "C": "影朝向观察者，不是西北方向。",
+        "D": "远柱左侧影子缺失；不能被前柱完全遮住，应仍有一截露出。"
+      },
+      "defects": [],
+      "group": "独立方向题",
+      "image_actually_opened": true,
+      "image_sha256": "57878a8747d32a96bff8da17f5e15ff7158de106edfef624899ae05788f4c73a",
+      "first_answer": "A",
+      "first_answer_confirmed": true,
+      "visible_layout": "文字和必要地点标识清晰，四候选共用横向外框，A-D在框外下方；未见缺图、裁切或重叠。",
+      "unique_condition": "修订题干已明确阳光照射，远处太阳光在广场尺度视为平行，A唯一。"
+    },
+    {
+      "n": 7,
+      "answer": "D",
+      "unique": true,
+      "reason": "点光源照出的地面影沿光源到柱子连线的外延方向。把上方地图旋转至观察者朝向后，画面左柱的影向左且靠近观察者，画面中/右柱的影向右且靠近观察者，只有D满足。三柱的影向必须发散，不能采用同向平行影。",
+      "independent_geometry": {
+        "method": "从实际PNG人工读取近似坐标，仅以向量点积符号核对左右与前后；未读取作者坐标或代码。",
+        "map_forward_approximately": [
+          -37,
+          -26
+        ],
+        "map_observer_right_approximately": [
+          26,
+          -37
+        ],
+        "light_position_approximately": [
+          760,
+          86
+        ],
+        "projected_shadow_rays": [
+          {
+            "column": "画面左柱",
+            "map_position_approximately": [
+              820,
+              145
+            ],
+            "away_from_light_vector": [
+              60,
+              59
+            ],
+            "observer_right_dot": -623,
+            "observer_forward_dot": -3754,
+            "seen_shadow_horizontal": "左",
+            "seen_shadow_depth": "朝向观察者"
+          },
+          {
+            "column": "画面中柱",
+            "map_position_approximately": [
+              880,
+              113
+            ],
+            "away_from_light_vector": [
+              120,
+              27
+            ],
+            "observer_right_dot": 2121,
+            "observer_forward_dot": -5142,
+            "seen_shadow_horizontal": "右",
+            "seen_shadow_depth": "朝向观察者"
+          },
+          {
+            "column": "画面右柱",
+            "map_position_approximately": [
+              860,
+              65
+            ],
+            "away_from_light_vector": [
+              100,
+              -21
+            ],
+            "observer_right_dot": 3377,
+            "observer_forward_dot": -3154,
+            "seen_shadow_horizontal": "右",
+            "seen_shadow_depth": "朝向观察者"
+          }
+        ]
+      },
+      "option_elimination": {
+        "A": "最左柱影向右，与应有左向分量相反。",
+        "B": "各影指向背离观察者一侧，向光源回投。",
+        "C": "中/右柱影向左，不符合各自背光外延方向。",
+        "D": "左柱向左前，中右柱向右前，均与相应光源外延一致。"
+      },
+      "defects": [],
+      "group": "独立方向题",
+      "image_actually_opened": true,
+      "image_sha256": "e253e514275f73f6b7c79bbc3881918a26ce93f46b61e1a6a80e372b69bae0a2",
+      "first_answer": "D",
+      "first_answer_confirmed": true,
+      "visible_layout": "文字和必要地点标识清晰，四候选共用横向外框，A-D在框外下方；未见缺图、裁切或重叠。"
+    },
+    {
+      "n": 8,
+      "answer": "B",
+      "unique": true,
+      "reason": "家处面北：影院在东北、商店在西北。影院处面西：草图前左为西南，前右为西北，因此家在影院西南、图书馆在影院西北。B同时满足。",
+      "option_elimination": {
+        "A": "图书馆在影院东北，与影院面西草图的前右即西北相反。",
+        "B": "影院在家东北、商店在家西北、图书馆在影院西北，全部满足。",
+        "C": "商店在家东北，错误。",
+        "D": "影院在家西北，错误。"
+      },
+      "defects": [],
+      "group": "独立方向题",
+      "image_actually_opened": true,
+      "image_sha256": "17ff9fb158a73edddcfb6e8c5155251ee9e0cdd9637a847a6ea0d43acb1efc36",
+      "first_answer": "B",
+      "first_answer_confirmed": true,
+      "visible_layout": "文字和必要地点标识清晰，四候选共用横向外框，A-D在框外下方；未见缺图、裁切或重叠。"
+    },
+    {
+      "n": 9,
+      "answer": "C",
+      "unique": true,
+      "reason": "斜指北箭头与首段路线平行，所以首段北、第二段东、最后一段南。面南右转90°后朝西，前为西、右为北。影院处家在西南即前左，书店在西北即前右。C符合；不能把纸面上方视为北，也不能停留在转身前的朝向。",
+      "option_elimination": {
+        "A": "家前右、书店后右，不符。",
+        "B": "家后右、书店后左，不符。",
+        "C": "家前左、书店前右，符合。",
+        "D": "家前右、书店前左，左右互换。"
+      },
+      "defects": [],
+      "group": "独立方向题",
+      "image_actually_opened": true,
+      "image_sha256": "43ab8b7c663ded8dd88d2d6b49c2c87593ab2b4ef81847e679a39a387349415d",
+      "first_answer": "C",
+      "first_answer_confirmed": true,
+      "visible_layout": "文字和必要地点标识清晰，四候选共用横向外框，A-D在框外下方；未见缺图、裁切或重叠。"
+    },
+    {
+      "n": 10,
+      "answer": "A",
+      "unique": true,
+      "reason": "题干和图像共同给出两次遮挡：矮塔挡树干，树冠挡高塔。沿拍摄深度顺序必须是摄影者—矮塔—树—高塔。四个候选上方统一表示正前方且横向仅示意，A是唯一满足该深度序的图。没有借真实高矮或画面大小来猜远近。",
+      "option_elimination": {
+        "A": "近到远为矮塔、树、高塔，满足两次遮挡。",
+        "B": "近到远为高塔、树、矮塔，完全相反。",
+        "C": "近到远为矮塔、高塔、树，树在高塔后，不能按给定关系挡住高塔。",
+        "D": "近到远为树、矮塔、高塔，矮塔在树后，不能按给定关系挡住树干。"
+      },
+      "defects": [],
+      "group": "独立方向题",
+      "image_actually_opened": true,
+      "image_sha256": "f6caed5e1c39b16719937e7aa55b3a50a00f5c83c4048a807b0dc22095425748",
+      "first_answer": "A",
+      "first_answer_confirmed": true,
+      "visible_layout": "文字和必要地点标识清晰，四候选共用横向外框，A-D在框外下方；未见缺图、裁切或重叠。"
+    }
+  ],
+  "first_visual_correct_after_independent_review": 5,
+  "first_visual_total": 5,
+  "blocking_issues": [],
+  "limits": [
+    "此报告仅覆盖题图与公开题干，未检查最终Word页面。",
+    "独立向量复核只使用图面近似坐标判方向，没有复算精确影长；第7题判别不依赖影长精确值。",
+    "代理试解不是教师盲审或学员试测。"
+  ],
+  "wording_recommendation": {
+    "question": 6,
+    "action": "补明日光或平行光",
+    "root_notified": true,
+    "status": "已修正并复读验收关闭",
+    "accepted": true,
+    "checked_at": "2026-10-27T15:42:17.704512+00:00",
+    "before_stem": "上方是某广场的俯视布置。两根圆柱竖直、等高，地面水平；长箭头表示同一时刻附近一根旗杆的地面影子方向。小周站在图示位置，面向两根圆柱观察。忽略其他遮挡，他看到的柱子与影子的方向关系，可能是哪一项？",
+    "after_stem": "上方是阳光照射下某广场的俯视布置。两根圆柱竖直、等高，地面水平；长箭头表示同一时刻附近一根旗杆的地面影子方向。小周站在图示位置，面向两根圆柱观察。忽略其他遮挡，他看到的柱子与影子的方向关系，可能是哪一项？",
+    "after_public_questions_sha256": "70962008644b112de8f2e2133eb2a88fc2db2252bd7b1b112d4c47c8200246ff",
+    "before_stem_sha256": "f3dbdf94387bda1bd1c5030cd0dc3c6ffcc3eb981e25c77499befb200a4a97e4",
+    "after_stem_sha256": "ee2ee68f2cac2b771bbcdb5ff47ac70f4da030231a6c54f49c57fcbb84f35b24",
+    "question_image_unchanged_sha256": "57878a8747d32a96bff8da17f5e15ff7158de106edfef624899ae05788f4c73a",
+    "first_answer_history_unchanged": true,
+    "verification": "只复读最新公开第6题；阳光限定排除人工点光源解释。原图未变，原首次6A及当时理由保持，当前公开题干下6A唯一。",
+    "before_public_questions_sha256": null,
+    "before_public_questions_sha256_note": "首次读取时未保存整个公开清单的修订前哈希，现不能补称实测；仅保留修订前完整第6题题干及其独立哈希。",
+    "reconstructed_previous_public_questions_sha256": "bf77fe66638e581a28a25e05c90e6833bc47211fb27343755c87b470c38ffc30",
+    "reconstruction_scope": "仅在当前清单全文中逆替换第6题已确认的阳光短语；未把重建值当作修订前文件实测指纹。"
+  }
+}

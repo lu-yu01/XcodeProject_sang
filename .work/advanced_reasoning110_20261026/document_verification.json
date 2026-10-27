@@ -1,0 +1,680 @@
+{
+  "passed": true,
+  "word_sha256": "96fa64a3dacbd047a827f7a7021cf4269f22d531c44a280d83c71d94120b4183",
+  "pdf_sha256": "1aefd1ff9834a0a1a0d34ca7123d49515bb4b8cfafa5368238aa32ecfc99a01b",
+  "pages": 58,
+  "answer_table_start_page": 29,
+  "questions": 110,
+  "analyses": 110,
+  "native_question_numbers": 110,
+  "native_analysis_numbers": 110,
+  "native_option_groups": 110,
+  "embedded_images": 2,
+  "answer_table_matches": true,
+  "no_question_block_split": true,
+  "no_analysis_block_split": true,
+  "shared_material_with_first_question": true,
+  "items": {
+    "1": {
+      "question_page": 1,
+      "analysis_page": 30,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "2": {
+      "question_page": 1,
+      "analysis_page": 30,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "3": {
+      "question_page": 1,
+      "analysis_page": 30,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "4": {
+      "question_page": 1,
+      "analysis_page": 30,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "5": {
+      "question_page": 2,
+      "analysis_page": 31,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "6": {
+      "question_page": 2,
+      "analysis_page": 31,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "7": {
+      "question_page": 2,
+      "analysis_page": 31,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "8": {
+      "question_page": 2,
+      "analysis_page": 31,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "9": {
+      "question_page": 2,
+      "analysis_page": 32,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "10": {
+      "question_page": 2,
+      "analysis_page": 32,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "11": {
+      "question_page": 2,
+      "analysis_page": 32,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "12": {
+      "question_page": 3,
+      "analysis_page": 32,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "13": {
+      "question_page": 3,
+      "analysis_page": 33,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "14": {
+      "question_page": 3,
+      "analysis_page": 33,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "15": {
+      "question_page": 3,
+      "analysis_page": 33,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "16": {
+      "question_page": 3,
+      "analysis_page": 33,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "17": {
+      "question_page": 3,
+      "analysis_page": 34,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "18": {
+      "question_page": 4,
+      "analysis_page": 34,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "19": {
+      "question_page": 4,
+      "analysis_page": 34,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "20": {
+      "question_page": 4,
+      "analysis_page": 34,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "21": {
+      "question_page": 5,
+      "analysis_page": 35,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "22": {
+      "question_page": 5,
+      "analysis_page": 35,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "23": {
+      "question_page": 5,
+      "analysis_page": 35,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "24": {
+      "question_page": 6,
+      "analysis_page": 35,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "25": {
+      "question_page": 6,
+      "analysis_page": 36,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "26": {
+      "question_page": 6,
+      "analysis_page": 36,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "27": {
+      "question_page": 7,
+      "analysis_page": 36,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "28": {
+      "question_page": 7,
+      "analysis_page": 36,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "29": {
+      "question_page": 7,
+      "analysis_page": 36,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "30": {
+      "question_page": 8,
+      "analysis_page": 37,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "31": {
+      "question_page": 8,
+      "analysis_page": 37,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "32": {
+      "question_page": 8,
+      "analysis_page": 37,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "33": {
+      "question_page": 8,
+      "analysis_page": 37,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "34": {
+      "question_page": 9,
+      "analysis_page": 38,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "35": {
+      "question_page": 9,
+      "analysis_page": 38,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "36": {
+      "question_page": 9,
+      "analysis_page": 38,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "37": {
+      "question_page": 10,
+      "analysis_page": 38,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "38": {
+      "question_page": 10,
+      "analysis_page": 39,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "39": {
+      "question_page": 10,
+      "analysis_page": 39,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "40": {
+      "question_page": 11,
+      "analysis_page": 39,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "41": {
+      "question_page": 11,
+      "analysis_page": 39,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "42": {
+      "question_page": 11,
+      "analysis_page": 40,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "43": {
+      "question_page": 11,
+      "analysis_page": 40,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "44": {
+      "question_page": 12,
+      "analysis_page": 40,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "45": {
+      "question_page": 12,
+      "analysis_page": 40,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "46": {
+      "question_page": 12,
+      "analysis_page": 40,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "47": {
+      "question_page": 13,
+      "analysis_page": 41,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "48": {
+      "question_page": 13,
+      "analysis_page": 41,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "49": {
+      "question_page": 13,
+      "analysis_page": 41,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "50": {
+      "question_page": 14,
+      "analysis_page": 41,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "51": {
+      "question_page": 15,
+      "analysis_page": 42,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "52": {
+      "question_page": 15,
+      "analysis_page": 42,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "53": {
+      "question_page": 15,
+      "analysis_page": 42,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "54": {
+      "question_page": 15,
+      "analysis_page": 42,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "55": {
+      "question_page": 15,
+      "analysis_page": 43,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "56": {
+      "question_page": 16,
+      "analysis_page": 43,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "57": {
+      "question_page": 16,
+      "analysis_page": 43,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "58": {
+      "question_page": 16,
+      "analysis_page": 44,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "59": {
+      "question_page": 16,
+      "analysis_page": 44,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "60": {
+      "question_page": 16,
+      "analysis_page": 44,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "61": {
+      "question_page": 17,
+      "analysis_page": 44,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "62": {
+      "question_page": 17,
+      "analysis_page": 45,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "63": {
+      "question_page": 17,
+      "analysis_page": 45,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "64": {
+      "question_page": 17,
+      "analysis_page": 45,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "65": {
+      "question_page": 17,
+      "analysis_page": 45,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "66": {
+      "question_page": 18,
+      "analysis_page": 46,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "67": {
+      "question_page": 18,
+      "analysis_page": 46,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "68": {
+      "question_page": 18,
+      "analysis_page": 46,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "69": {
+      "question_page": 18,
+      "analysis_page": 47,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "70": {
+      "question_page": 18,
+      "analysis_page": 47,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "71": {
+      "question_page": 19,
+      "analysis_page": 47,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "72": {
+      "question_page": 19,
+      "analysis_page": 47,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "73": {
+      "question_page": 19,
+      "analysis_page": 48,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "74": {
+      "question_page": 19,
+      "analysis_page": 48,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "75": {
+      "question_page": 19,
+      "analysis_page": 48,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "76": {
+      "question_page": 20,
+      "analysis_page": 48,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "77": {
+      "question_page": 20,
+      "analysis_page": 49,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "78": {
+      "question_page": 20,
+      "analysis_page": 49,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "79": {
+      "question_page": 20,
+      "analysis_page": 49,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "80": {
+      "question_page": 21,
+      "analysis_page": 49,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "81": {
+      "question_page": 22,
+      "analysis_page": 50,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "82": {
+      "question_page": 22,
+      "analysis_page": 50,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "83": {
+      "question_page": 22,
+      "analysis_page": 50,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "84": {
+      "question_page": 22,
+      "analysis_page": 51,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "85": {
+      "question_page": 23,
+      "analysis_page": 51,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "86": {
+      "question_page": 23,
+      "analysis_page": 51,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "87": {
+      "question_page": 23,
+      "analysis_page": 51,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "88": {
+      "question_page": 23,
+      "analysis_page": 52,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "89": {
+      "question_page": 23,
+      "analysis_page": 52,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "90": {
+      "question_page": 24,
+      "analysis_page": 52,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "91": {
+      "question_page": 24,
+      "analysis_page": 52,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "92": {
+      "question_page": 24,
+      "analysis_page": 53,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "93": {
+      "question_page": 24,
+      "analysis_page": 53,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "94": {
+      "question_page": 24,
+      "analysis_page": 53,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "95": {
+      "question_page": 25,
+      "analysis_page": 53,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "96": {
+      "question_page": 25,
+      "analysis_page": 54,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "97": {
+      "question_page": 25,
+      "analysis_page": 54,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "98": {
+      "question_page": 25,
+      "analysis_page": 54,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "99": {
+      "question_page": 25,
+      "analysis_page": 54,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "100": {
+      "question_page": 26,
+      "analysis_page": 55,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "101": {
+      "question_page": 26,
+      "analysis_page": 55,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "102": {
+      "question_page": 26,
+      "analysis_page": 55,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "103": {
+      "question_page": 26,
+      "analysis_page": 56,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "104": {
+      "question_page": 26,
+      "analysis_page": 56,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "105": {
+      "question_page": 27,
+      "analysis_page": 56,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "106": {
+      "question_page": 27,
+      "analysis_page": 56,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "107": {
+      "question_page": 27,
+      "analysis_page": 57,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "108": {
+      "question_page": 27,
+      "analysis_page": 57,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "109": {
+      "question_page": 28,
+      "analysis_page": 57,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    },
+    "110": {
+      "question_page": 28,
+      "analysis_page": 58,
+      "text_and_options_present": true,
+      "analysis_paragraphs_present": true
+    }
+  },
+  "scope": "OOXML、题目/四项/全部解析文字绑定、原生编号、答案表、嵌图指纹及PDF单页完整性；视觉质量另由逐页实际查看确认。"
+}

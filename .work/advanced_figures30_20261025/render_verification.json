@@ -1,0 +1,1075 @@
+{
+  "passed": true,
+  "word": "E:\\XcodeProject_sang\\模式题\\国考图形推理进阶专项练习-30题（含答案解析）.docx",
+  "word_sha256": "4b71bbaa803211b012aaaa23e4301842b647e651af5debdbb4798fed8aad38f6",
+  "pdf_sha256": "23fb39f66fbd50dd54e41a956b62ddf616c841de272e56d8db5949e4e6a30662",
+  "pages": 30,
+  "questions": 30,
+  "answer_headings": 30,
+  "all_paragraphs_and_table_cells_rendered": true,
+  "image_bindings": [
+    {
+      "question": 1,
+      "role": "题图",
+      "image": "q01.png",
+      "sha256": "39281afa0a898b03b65b6a4c1c4275e969592f24d74085cc51d15c84e1984766",
+      "canvas": [
+        1800,
+        820
+      ],
+      "extent_emu": [
+        6035040,
+        2749296
+      ]
+    },
+    {
+      "question": 2,
+      "role": "题图",
+      "image": "q02.png",
+      "sha256": "4aad60d56362645b4b3c6c8bb6f583f97a72235f21240859a57b3f3de4229e68",
+      "canvas": [
+        1800,
+        820
+      ],
+      "extent_emu": [
+        6035040,
+        2749296
+      ]
+    },
+    {
+      "question": 3,
+      "role": "题图",
+      "image": "q03.png",
+      "sha256": "765ed3d13e7c82601ae2babd4ca026acb2cfab4f5905a26ab361f7e9aa015196",
+      "canvas": [
+        1800,
+        1170
+      ],
+      "extent_emu": [
+        5978769,
+        3886200
+      ]
+    },
+    {
+      "question": 4,
+      "role": "题图",
+      "image": "q04.png",
+      "sha256": "ceda24cb26332ec80e19093f24b01e6334c35263e314307709faf3b21ab92a87",
+      "canvas": [
+        1800,
+        820
+      ],
+      "extent_emu": [
+        6035040,
+        2749296
+      ]
+    },
+    {
+      "question": 5,
+      "role": "题图",
+      "image": "q05.png",
+      "sha256": "29ac41b84e9baab6de42321defb297c8f1cdb2d51a981d6963c9aa999f2546d5",
+      "canvas": [
+        1800,
+        820
+      ],
+      "extent_emu": [
+        6035040,
+        2749296
+      ]
+    },
+    {
+      "question": 6,
+      "role": "题图",
+      "image": "q06.png",
+      "sha256": "39c68857a49599ab3d4e1905f012045d2306ae1bd5304b5455568778ec1776b2",
+      "canvas": [
+        1800,
+        820
+      ],
+      "extent_emu": [
+        6035040,
+        2749296
+      ]
+    },
+    {
+      "question": 7,
+      "role": "题图",
+      "image": "q07.png",
+      "sha256": "0fdb37b98e35ace0c48c0b37ae57891e9e8b921355b3138fd2fb4d18b21c6ffa",
+      "canvas": [
+        1800,
+        810
+      ],
+      "extent_emu": [
+        6035040,
+        2715768
+      ]
+    },
+    {
+      "question": 8,
+      "role": "题图",
+      "image": "q08.png",
+      "sha256": "0f31103498980b5f40810b65a7a52f50c7a50c20bc6f37571f311f9f99a33610",
+      "canvas": [
+        1800,
+        810
+      ],
+      "extent_emu": [
+        6035040,
+        2715768
+      ]
+    },
+    {
+      "question": 9,
+      "role": "题图",
+      "image": "q09.png",
+      "sha256": "0e6730743ce74ed9660abd4e9693cd51830f521073acba814925ba560e0e1911",
+      "canvas": [
+        1800,
+        810
+      ],
+      "extent_emu": [
+        6035040,
+        2715768
+      ]
+    },
+    {
+      "question": 10,
+      "role": "题图",
+      "image": "q10.png",
+      "sha256": "d13aecb0866531d22d7a2f3d645659a9345b51476df51f4830136b6b305f87bc",
+      "canvas": [
+        1800,
+        810
+      ],
+      "extent_emu": [
+        6035040,
+        2715768
+      ]
+    },
+    {
+      "question": 11,
+      "role": "题图",
+      "image": "q11.png",
+      "sha256": "ced1eda32a37e928ddbf0aa67cc1b1d102bc778c79eb81e098f235a240b65ee2",
+      "canvas": [
+        1800,
+        820
+      ],
+      "extent_emu": [
+        6035040,
+        2749296
+      ]
+    },
+    {
+      "question": 12,
+      "role": "题图",
+      "image": "q12.png",
+      "sha256": "7f6f24b7b97eb55907828d2e4234abd5c3ec48e91adfb5d57bc4c0e21e09dd17",
+      "canvas": [
+        1800,
+        820
+      ],
+      "extent_emu": [
+        6035040,
+        2749296
+      ]
+    },
+    {
+      "question": 13,
+      "role": "题图",
+      "image": "q13.png",
+      "sha256": "d208786d105d67cfa8a8a56d5613d571a7d0cc0f8060c6aca9790b48923b004a",
+      "canvas": [
+        1800,
+        1170
+      ],
+      "extent_emu": [
+        5978769,
+        3886200
+      ]
+    },
+    {
+      "question": 14,
+      "role": "题图",
+      "image": "q14.png",
+      "sha256": "227d7077beefb118004ee69b2d9aa0c5ee16f86498b0a4ebb0b14f0d26a23adb",
+      "canvas": [
+        1800,
+        820
+      ],
+      "extent_emu": [
+        6035040,
+        2749296
+      ]
+    },
+    {
+      "question": 15,
+      "role": "题图",
+      "image": "q15.png",
+      "sha256": "c1a7aee18442aae043c747ac00c0d66c8990e9be5d1aa8d5357493b7816fdccb",
+      "canvas": [
+        1800,
+        1170
+      ],
+      "extent_emu": [
+        5978769,
+        3886200
+      ]
+    },
+    {
+      "question": 16,
+      "role": "题图",
+      "image": "q16.png",
+      "sha256": "6cd72862ac8a9e97cfe00d086785d2a55ab4c7cd09700cd87c728f676c7effa9",
+      "canvas": [
+        1800,
+        1170
+      ],
+      "extent_emu": [
+        5978769,
+        3886200
+      ]
+    },
+    {
+      "question": 17,
+      "role": "题图",
+      "image": "q17.png",
+      "sha256": "d70e41e70a81764a3b9117506a1e99e6989740d110277a0cda3fc35726d6b7c6",
+      "canvas": [
+        1800,
+        810
+      ],
+      "extent_emu": [
+        6035040,
+        2715768
+      ]
+    },
+    {
+      "question": 18,
+      "role": "题图",
+      "image": "q18.png",
+      "sha256": "fa2c945709264b33d2e495adce94918ad1521de8798463d7868756eb852c3be4",
+      "canvas": [
+        1800,
+        810
+      ],
+      "extent_emu": [
+        6035040,
+        2715768
+      ]
+    },
+    {
+      "question": 19,
+      "role": "题图",
+      "image": "q19.png",
+      "sha256": "c6c8bb6a1f1b47aa93579958099d92eb702c28a11edb9c9d4a2786771679ea46",
+      "canvas": [
+        1800,
+        810
+      ],
+      "extent_emu": [
+        6035040,
+        2715768
+      ]
+    },
+    {
+      "question": 20,
+      "role": "题图",
+      "image": "q20.png",
+      "sha256": "c40ec2d37804678f3f06bec2e3bdf86f48374354aa572e276497fb9acefa8b4c",
+      "canvas": [
+        1800,
+        810
+      ],
+      "extent_emu": [
+        6035040,
+        2715768
+      ]
+    },
+    {
+      "question": 21,
+      "role": "题图",
+      "image": "q21.png",
+      "sha256": "7e708d2d2e93059f7a0a93246888fda6903042172d832ac57c884307abcbe0d0",
+      "canvas": [
+        1800,
+        1120
+      ],
+      "extent_emu": [
+        6035040,
+        3755136
+      ]
+    },
+    {
+      "question": 22,
+      "role": "题图",
+      "image": "q22.png",
+      "sha256": "8298f3e0b8e2ad92c04d00cb49db3173930ef1f4a666dd034d7d17c562f67ed2",
+      "canvas": [
+        1800,
+        1120
+      ],
+      "extent_emu": [
+        6035040,
+        3755136
+      ]
+    },
+    {
+      "question": 23,
+      "role": "题图",
+      "image": "q23.png",
+      "sha256": "64cdc2be644191bb4f793177271b7c9714c5551bb8f23b56c0bc734b958b1c75",
+      "canvas": [
+        1800,
+        1120
+      ],
+      "extent_emu": [
+        6035040,
+        3755136
+      ]
+    },
+    {
+      "question": 24,
+      "role": "题图",
+      "image": "q24.png",
+      "sha256": "05939dadb9c35a7d7d88ebda7b1df7ed6833e1b8fd4764d41f5dbad24e50408d",
+      "canvas": [
+        1800,
+        1170
+      ],
+      "extent_emu": [
+        5978769,
+        3886200
+      ]
+    },
+    {
+      "question": 25,
+      "role": "题图",
+      "image": "q25.png",
+      "sha256": "b8c56cc81867939da97510b3db71f8de8ac49395b1f64687d5ccca407f208f63",
+      "canvas": [
+        1800,
+        1170
+      ],
+      "extent_emu": [
+        5978769,
+        3886200
+      ]
+    },
+    {
+      "question": 26,
+      "role": "题图",
+      "image": "q26.png",
+      "sha256": "9aedc1a446e634e3f8973d3666a80bd1dea278c57752c45d0bf6f285670d09cc",
+      "canvas": [
+        1800,
+        1120
+      ],
+      "extent_emu": [
+        6035040,
+        3755136
+      ]
+    },
+    {
+      "question": 27,
+      "role": "题图",
+      "image": "q27.png",
+      "sha256": "096e9dc1f2a151b1b6c22f031233107862b41a4d4081e47c601bd1d86e4469f5",
+      "canvas": [
+        1800,
+        1290
+      ],
+      "extent_emu": [
+        5422604,
+        3886200
+      ]
+    },
+    {
+      "question": 28,
+      "role": "题图",
+      "image": "q28.png",
+      "sha256": "87101cce3b520107792a8dc26b0703bbcee3f3b8003d93a8fb63c168137bac54",
+      "canvas": [
+        1800,
+        1290
+      ],
+      "extent_emu": [
+        5422604,
+        3886200
+      ]
+    },
+    {
+      "question": 29,
+      "role": "题图",
+      "image": "q29.png",
+      "sha256": "5e914eb552767cd0d7e24d75d6eb056ea74c17a63fa33f2f7e0c2362ba31dd34",
+      "canvas": [
+        1800,
+        1150
+      ],
+      "extent_emu": [
+        6035040,
+        3855720
+      ]
+    },
+    {
+      "question": 30,
+      "role": "题图",
+      "image": "q30.png",
+      "sha256": "ae233349171436835e4c9836e9cc19d6803393090fe4d83a27df1f24dad5140d",
+      "canvas": [
+        1800,
+        810
+      ],
+      "extent_emu": [
+        6035040,
+        2715768
+      ]
+    },
+    {
+      "question": 2,
+      "role": "解析",
+      "image": "e02.png",
+      "sha256": "e359def208093f8b84d4e4ccf122fdb03c7a24aa603e6de0304a5f3294dbbb03",
+      "canvas": [
+        1800,
+        440
+      ],
+      "extent_emu": [
+        5715000,
+        1397000
+      ]
+    },
+    {
+      "question": 11,
+      "role": "解析",
+      "image": "e11.png",
+      "sha256": "8ec829a491b81b692a6cbc578f6a434b3943896b45de8db32ddfdc813b96488f",
+      "canvas": [
+        1800,
+        430
+      ],
+      "extent_emu": [
+        5715000,
+        1365250
+      ]
+    },
+    {
+      "question": 12,
+      "role": "解析",
+      "image": "e12.png",
+      "sha256": "b003d1c4ab6514d8835884a3d6e75dd24eb871e38ed38cd6b0813f55a13cd339",
+      "canvas": [
+        1800,
+        430
+      ],
+      "extent_emu": [
+        5715000,
+        1365250
+      ]
+    },
+    {
+      "question": 13,
+      "role": "解析",
+      "image": "e13.png",
+      "sha256": "66c5b01333a0bda72fb7bab66da58f99b4d3431656ff20846a1bc4425b9244f1",
+      "canvas": [
+        1800,
+        470
+      ],
+      "extent_emu": [
+        5715000,
+        1492250
+      ]
+    },
+    {
+      "question": 14,
+      "role": "解析",
+      "image": "e14.png",
+      "sha256": "8c7f96ec95631439367f18e47bb74fdce59469ddf5c50ed55c1d1c34c9e05a3b",
+      "canvas": [
+        1800,
+        470
+      ],
+      "extent_emu": [
+        5715000,
+        1492250
+      ]
+    },
+    {
+      "question": 15,
+      "role": "解析",
+      "image": "e15.png",
+      "sha256": "6a5785ff2d71f13d355e3e3ff6386a5b7987db1a5120bbf95190e530dbe9500b",
+      "canvas": [
+        1800,
+        470
+      ],
+      "extent_emu": [
+        5715000,
+        1492250
+      ]
+    },
+    {
+      "question": 16,
+      "role": "解析",
+      "image": "e16.png",
+      "sha256": "e291dafafe323d1e15a5bfb600cfe54807046f861c83112fb592f813ac7fc7f8",
+      "canvas": [
+        1800,
+        470
+      ],
+      "extent_emu": [
+        5715000,
+        1492250
+      ]
+    },
+    {
+      "question": 17,
+      "role": "解析",
+      "image": "e17.png",
+      "sha256": "84cb206c9c2a165cca07eb6d5f270c6d169162e358409202b7c3b9f62b5b9bc0",
+      "canvas": [
+        1800,
+        430
+      ],
+      "extent_emu": [
+        5715000,
+        1365250
+      ]
+    },
+    {
+      "question": 18,
+      "role": "解析",
+      "image": "e18.png",
+      "sha256": "b72daa7bef469b713ed2e483879cc033d6f527fdefe355a94f6be37b855b872b",
+      "canvas": [
+        1800,
+        430
+      ],
+      "extent_emu": [
+        5715000,
+        1365250
+      ]
+    },
+    {
+      "question": 19,
+      "role": "解析",
+      "image": "e19.png",
+      "sha256": "2e18c1fee136f037856dd75b6820b4d0ff8cb2685a430217f0801a44f8c20f96",
+      "canvas": [
+        1800,
+        430
+      ],
+      "extent_emu": [
+        5715000,
+        1365250
+      ]
+    },
+    {
+      "question": 20,
+      "role": "解析",
+      "image": "e20.png",
+      "sha256": "5d9d06c6d180a4c5a0133279166d628823a6f4dcc0620ea79eaa81176863cafa",
+      "canvas": [
+        1800,
+        430
+      ],
+      "extent_emu": [
+        5715000,
+        1365250
+      ]
+    },
+    {
+      "question": 21,
+      "role": "解析",
+      "image": "e21.png",
+      "sha256": "e815f5af4df09c78bad0369a56cad810d36ae259033d65e38d44f3f201aef49a",
+      "canvas": [
+        1800,
+        680
+      ],
+      "extent_emu": [
+        5715000,
+        2159000
+      ]
+    },
+    {
+      "question": 22,
+      "role": "解析",
+      "image": "e22.png",
+      "sha256": "200763e1e9bddfe4bc8753a457068ada2459efef599f8ec3d253fc5bbbee68c5",
+      "canvas": [
+        1800,
+        680
+      ],
+      "extent_emu": [
+        5715000,
+        2159000
+      ]
+    },
+    {
+      "question": 23,
+      "role": "解析",
+      "image": "e23.png",
+      "sha256": "7813e6e900ecb2c91b9f7eff2109c70e9d73851c4c374a2e1e29ae6b16017bd3",
+      "canvas": [
+        1800,
+        680
+      ],
+      "extent_emu": [
+        5715000,
+        2159000
+      ]
+    },
+    {
+      "question": 24,
+      "role": "解析",
+      "image": "e24.png",
+      "sha256": "a2217bf57461f68d5e6b60efee53c15e07b06568161d46605d3d80fb22f9dd7d",
+      "canvas": [
+        1800,
+        680
+      ],
+      "extent_emu": [
+        5715000,
+        2159000
+      ]
+    },
+    {
+      "question": 25,
+      "role": "解析",
+      "image": "e25.png",
+      "sha256": "7e5f41fd28c7e0a8d78e20c9af894f033235bffa24ed1352bbd865f8fa028555",
+      "canvas": [
+        1800,
+        680
+      ],
+      "extent_emu": [
+        5715000,
+        2159000
+      ]
+    },
+    {
+      "question": 26,
+      "role": "解析",
+      "image": "e26.png",
+      "sha256": "586059bbd542c086c4613207ca0dfe4b0c9e10d8670931fa9862a5e0bdbba156",
+      "canvas": [
+        1800,
+        620
+      ],
+      "extent_emu": [
+        5715000,
+        1968500
+      ]
+    },
+    {
+      "question": 27,
+      "role": "解析",
+      "image": "e27.png",
+      "sha256": "19ee2c627c5b45e0e266bedb7e53df1b9af34a465a35ea759e886d33b52f4723",
+      "canvas": [
+        1800,
+        650
+      ],
+      "extent_emu": [
+        5715000,
+        2063749
+      ]
+    },
+    {
+      "question": 28,
+      "role": "解析",
+      "image": "e28.png",
+      "sha256": "9a1a5deda3ddc1cd1bf9212a715389444e56699354e128f5edacbd898ab792eb",
+      "canvas": [
+        1800,
+        680
+      ],
+      "extent_emu": [
+        5715000,
+        2159000
+      ]
+    },
+    {
+      "question": 29,
+      "role": "解析",
+      "image": "e29.png",
+      "sha256": "ab427da33dc153f3849d488431ec6c33c11dfd0e64920630b812a84f6007462c",
+      "canvas": [
+        1800,
+        720
+      ],
+      "extent_emu": [
+        5715000,
+        2286000
+      ]
+    },
+    {
+      "question": 30,
+      "role": "解析",
+      "image": "e30.png",
+      "sha256": "36a69751a62a4c3f1b316ce5235c2b1233cd8fe4e19ab34e95f77dbc5aa5e35d",
+      "canvas": [
+        1800,
+        620
+      ],
+      "extent_emu": [
+        5715000,
+        1968500
+      ]
+    }
+  ],
+  "stem_locations": [
+    {
+      "question": 1,
+      "stem_pages": [
+        1,
+        3
+      ]
+    },
+    {
+      "question": 2,
+      "stem_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "question": 3,
+      "stem_pages": [
+        2
+      ]
+    },
+    {
+      "question": 4,
+      "stem_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "question": 5,
+      "stem_pages": [
+        3
+      ]
+    },
+    {
+      "question": 6,
+      "stem_pages": [
+        1,
+        3
+      ]
+    },
+    {
+      "question": 7,
+      "stem_pages": [
+        4,
+        5
+      ]
+    },
+    {
+      "question": 8,
+      "stem_pages": [
+        4,
+        5
+      ]
+    },
+    {
+      "question": 9,
+      "stem_pages": [
+        4,
+        5
+      ]
+    },
+    {
+      "question": 10,
+      "stem_pages": [
+        4,
+        5
+      ]
+    },
+    {
+      "question": 11,
+      "stem_pages": [
+        6
+      ]
+    },
+    {
+      "question": 12,
+      "stem_pages": [
+        6
+      ]
+    },
+    {
+      "question": 13,
+      "stem_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "question": 14,
+      "stem_pages": [
+        7
+      ]
+    },
+    {
+      "question": 15,
+      "stem_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "question": 16,
+      "stem_pages": [
+        8
+      ]
+    },
+    {
+      "question": 17,
+      "stem_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "question": 18,
+      "stem_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "question": 19,
+      "stem_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "question": 20,
+      "stem_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "question": 21,
+      "stem_pages": [
+        11
+      ]
+    },
+    {
+      "question": 22,
+      "stem_pages": [
+        11
+      ]
+    },
+    {
+      "question": 23,
+      "stem_pages": [
+        12
+      ]
+    },
+    {
+      "question": 24,
+      "stem_pages": [
+        13
+      ]
+    },
+    {
+      "question": 25,
+      "stem_pages": [
+        14
+      ]
+    },
+    {
+      "question": 26,
+      "stem_pages": [
+        15
+      ]
+    },
+    {
+      "question": 27,
+      "stem_pages": [
+        15
+      ]
+    },
+    {
+      "question": 28,
+      "stem_pages": [
+        16
+      ]
+    },
+    {
+      "question": 29,
+      "stem_pages": [
+        17
+      ]
+    },
+    {
+      "question": 30,
+      "stem_pages": [
+        17
+      ]
+    }
+  ],
+  "page_images": [
+    {
+      "page": 1,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-01.png",
+      "sha256": "b7f508fbdb2945903ca317ce1ce640afa4102d9a0b7e2822bd0b3e43fea63ded"
+    },
+    {
+      "page": 2,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-02.png",
+      "sha256": "0290b93cccde256360a75240de61ed5e3c236f98b6329a578f4baa91e0e719c8"
+    },
+    {
+      "page": 3,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-03.png",
+      "sha256": "131fb5fcb1bb5cf16f026caea734f6d7a9da41b07fb37c7f756123f8c7372985"
+    },
+    {
+      "page": 4,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-04.png",
+      "sha256": "329edae0656eba259c17a546422ca4b5a39b81edb502966fe384530a1fa2f3e9"
+    },
+    {
+      "page": 5,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-05.png",
+      "sha256": "cd8601630ebfd2a31a71cc1dc138065e50910bdbc2599660622c5f2bd4e947c0"
+    },
+    {
+      "page": 6,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-06.png",
+      "sha256": "379ded024e3c911e4b8383b395202d7c6edbdcbfd78257aba92cff19569db746"
+    },
+    {
+      "page": 7,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-07.png",
+      "sha256": "13932a07583f8fcf8f969af1135bccc7974e44ff5919b6676cd239c30967fb0d"
+    },
+    {
+      "page": 8,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-08.png",
+      "sha256": "fe9b64172398b3b8dc625177cccf62fa9b1acbebce6d2178304201de2bbe1358"
+    },
+    {
+      "page": 9,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-09.png",
+      "sha256": "bff108bbe1d29d76d1aee53e52b84fe7ddb228ead897d6687f876a5e8119e97d"
+    },
+    {
+      "page": 10,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-10.png",
+      "sha256": "438569b19b0a872e58b607a6932f056cf055baf4c72217114cea0eb482be8b16"
+    },
+    {
+      "page": 11,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-11.png",
+      "sha256": "a146203cfaf01be8d98b4510b3463a921700a9640fcd3d04998773d1651fbd6f"
+    },
+    {
+      "page": 12,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-12.png",
+      "sha256": "2a16920fd03ea0c6592950ffade5ed9533540936591df79bc7bbe68c15274d8e"
+    },
+    {
+      "page": 13,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-13.png",
+      "sha256": "41a683a6dfaaa4d13abc89354cf7189226a521b274c3bd5069eb42c1bf448191"
+    },
+    {
+      "page": 14,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-14.png",
+      "sha256": "158b94c03d02cd0e6a328c0dab5d55b3f4d89716a34432b71b908012ba9424b1"
+    },
+    {
+      "page": 15,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-15.png",
+      "sha256": "84d329fb42cf5dc5be2672a1f274337576850489752cd3ede348027e58f57e13"
+    },
+    {
+      "page": 16,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-16.png",
+      "sha256": "ae3884bb0091f4a875ddfa4c25f907e8217587285bce01baa26e9916b186789a"
+    },
+    {
+      "page": 17,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-17.png",
+      "sha256": "cacc80fd498642208c0599ccbf91a60c9d4df8661607f65287c82f6d0ea92ee2"
+    },
+    {
+      "page": 18,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-18.png",
+      "sha256": "d194257c2eee221e881eade3c604f3ea9fa5e07aa1527515a60d98a49a701e0b"
+    },
+    {
+      "page": 19,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-19.png",
+      "sha256": "7f574ece742c4c2b89fa96ce58e9fd1d7bbdc85f8722b4ff1295a929412e81e6"
+    },
+    {
+      "page": 20,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-20.png",
+      "sha256": "5b11d3ff0e13c31eb4d1f8e32e9ab1fc739389f1a6abf2ee6672025667559983"
+    },
+    {
+      "page": 21,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-21.png",
+      "sha256": "a1fcacebd55be5f7a579c51ea4397ee4bc6a742ebf3fbb88728a6fef151db215"
+    },
+    {
+      "page": 22,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-22.png",
+      "sha256": "d15dc280d023962bc0d997c880d688991d6af039197492960d0ea0217977e468"
+    },
+    {
+      "page": 23,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-23.png",
+      "sha256": "0a3d45ba4e020f628be516800e345a4122f29547b9e0174645fa92e2c307eb1d"
+    },
+    {
+      "page": 24,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-24.png",
+      "sha256": "938fcf83706a9b65cbe084aa110bdac2bdad3dfc8632f2bca3342d911df67fce"
+    },
+    {
+      "page": 25,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-25.png",
+      "sha256": "038e5814c60dffe9f5ec3c31269e4d32ddb901f38f89d16b69b1f3aa2c5cfb40"
+    },
+    {
+      "page": 26,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-26.png",
+      "sha256": "7614127a915cc492f8d25535c159f95ab8d604f08e9791bcad4adc64dea00f95"
+    },
+    {
+      "page": 27,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-27.png",
+      "sha256": "9d76177775ecda3889e1f4d6e01d286d3a32a7864f800f55482d3c0b8210c08a"
+    },
+    {
+      "page": 28,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-28.png",
+      "sha256": "0e0b9620f478e9a26d946e9356c4a6e83145ce8b019e8b8d2078179cebb953c5"
+    },
+    {
+      "page": 29,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-29.png",
+      "sha256": "4dd9fdb9db2f3bcf44f69af75627cfe0e8e4e08aa42d57b7e53ae1982d0de32f"
+    },
+    {
+      "page": 30,
+      "path": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\render\\page-30.png",
+      "sha256": "9909f4d9fb7d4d0a992d0ce9f4ac60202b0e8e506dc9754999b0d9fbf08a528a"
+    }
+  ],
+  "preview_png_status": "cleaned_after_completed_actual_visual_review"
+}

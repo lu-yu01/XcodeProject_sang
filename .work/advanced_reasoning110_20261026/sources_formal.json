@@ -1,0 +1,516 @@
+{
+  "scope": "2022—2026 国考为主要参考，2024 江苏、2025 北京为能力补充。难度为本项目研究判断，不是官方评级。本30题是形式逻辑与材料分析的能力扩充，4翻译、4真假、4独立分析、3结构题并非声称官方单卷配额。",
+  "reviewed_examples": 26,
+  "sources": [
+    {
+      "id": "N26-103",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question_number": 103,
+      "condition_structure": "层层嵌套的必要条件，并列必要条件向前追溯",
+      "question_form": "可以推出",
+      "difficulty": "中难",
+      "original_inspiration": "翻译题应保留箭头方向，干扰项用肯定后件、倒置必要条件",
+      "applies_to": [
+        66,
+        69
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N26.txt",
+      "extracted_text_sha256": "7bd48fcff65444d4aa36c9cecbdd7cd65b3498c73719bedae103dd7dd1a12e1a",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N26-106",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question_number": 106,
+      "condition_structure": "4人参与3支双人队伍，可重复参加；互斥同组、条件句、双向条件",
+      "question_form": "完整分配可能性",
+      "difficulty": "中",
+      "original_inspiration": "多对多参与关系必须区别于互不重叠的一次性分组",
+      "applies_to": [
+        56
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N26.txt",
+      "extracted_text_sha256": "7bd48fcff65444d4aa36c9cecbdd7cd65b3498c73719bedae103dd7dd1a12e1a",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N26-107",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question_number": 107,
+      "condition_structure": "公共队伍条件上固定网球配对",
+      "question_form": "新增条件下一定正确",
+      "difficulty": "中难",
+      "original_inspiration": "子题附加条件应只筛选本题的解空间",
+      "applies_to": [
+        57
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N26.txt",
+      "extracted_text_sha256": "7bd48fcff65444d4aa36c9cecbdd7cd65b3498c73719bedae103dd7dd1a12e1a",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N26-108",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question_number": 108,
+      "condition_structure": "给定一人参与全部项目，利用每队容量反推其余人员",
+      "question_form": "新增参与次数后的可能性",
+      "difficulty": "中难",
+      "original_inspiration": "参与次数可与同组排除发生联动",
+      "applies_to": [
+        58,
+        59
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N26.txt",
+      "extracted_text_sha256": "7bd48fcff65444d4aa36c9cecbdd7cd65b3498c73719bedae103dd7dd1a12e1a",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N26-109",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question_number": 109,
+      "condition_structure": "考查同一人员组合在两个项目上重复出现的可行性",
+      "question_form": "两项目共同组队是否可能",
+      "difficulty": "难",
+      "original_inspiration": "重复配对必须同时核验个人参与次数和总体覆盖",
+      "applies_to": [
+        59
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N26.txt",
+      "extracted_text_sha256": "7bd48fcff65444d4aa36c9cecbdd7cd65b3498c73719bedae103dd7dd1a12e1a",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N26-110",
+      "year": 2026,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question_number": 110,
+      "condition_structure": "固定乒乓球配对后推断其他两个项目",
+      "question_form": "新增条件下局部可能性",
+      "difficulty": "中难",
+      "original_inspiration": "局部结论应给出可扩展至完整分配的构造",
+      "applies_to": [
+        58,
+        60
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N26.txt",
+      "extracted_text_sha256": "7bd48fcff65444d4aa36c9cecbdd7cd65b3498c73719bedae103dd7dd1a12e1a",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N25-106",
+      "year": 2025,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\国家\\2025年国考真题\\2025国考执法-题本+解析.docx",
+      "question_number": 106,
+      "condition_structure": "8会议、季度容量、丁辛第二季、先后与同季度",
+      "question_form": "第二季度容量收紧后的必然位置",
+      "difficulty": "中",
+      "original_inspiration": "容量限制与先后关系应共同使用，避免纯线性排序",
+      "applies_to": [
+        61,
+        63
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N25.txt",
+      "extracted_text_sha256": "3fb7c057aee63b4ca5ca95e8892e46e7e5d68fd8afffb355098b35f9b1932c63",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N25-108",
+      "year": 2025,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\国家\\2025年国考真题\\2025国考执法-题本+解析.docx",
+      "question_number": 108,
+      "condition_structure": "每季至少一次、第四季仅一次，同季度会议占位",
+      "question_form": "新增条件下必然同季",
+      "difficulty": "中难",
+      "original_inspiration": "两种资源或多条约束共同收紧，保留时间边界定义",
+      "applies_to": [
+        63,
+        64
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N25.txt",
+      "extracted_text_sha256": "3fb7c057aee63b4ca5ca95e8892e46e7e5d68fd8afffb355098b35f9b1932c63",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N25-110",
+      "year": 2025,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\国家\\2025年国考真题\\2025国考执法-题本+解析.docx",
+      "question_number": 110,
+      "condition_structure": "甲第三季且第四季空，检验庚能否与特定会议同季",
+      "question_form": "不可能同季",
+      "difficulty": "难",
+      "original_inspiration": "选非题须逐项提供可行构造而非只证明答案",
+      "applies_to": [
+        64,
+        65
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N25.txt",
+      "extracted_text_sha256": "3fb7c057aee63b4ca5ca95e8892e46e7e5d68fd8afffb355098b35f9b1932c63",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N24-106",
+      "year": 2024,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2024年国家公务员考试《行测》真题（行政执法类）_2023122610_53.docx",
+      "question_number": 106,
+      "condition_structure": "6城市两两结对并分配三年，含禁配和年份排除",
+      "question_form": "完整配对年份表的可能性",
+      "difficulty": "中",
+      "original_inspiration": "不同结构可用配对与标签联合建模，不都写成排序",
+      "applies_to": [
+        56,
+        76
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N24.txt",
+      "extracted_text_sha256": "64a2aef56157a1cbb8b69e60f3afcca8d067f1221cfccc07400deb534e6e8a46",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N24-109",
+      "year": 2024,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2024年国家公务员考试《行测》真题（行政执法类）_2023122610_53.docx",
+      "question_number": 109,
+      "condition_structure": "甲丙结对，反推另四城市配对与年份",
+      "question_form": "新增配对后的必然命题",
+      "difficulty": "中难",
+      "original_inspiration": "先锁定局部关系，再比较全部剩余模型",
+      "applies_to": [
+        57,
+        76
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N24.txt",
+      "extracted_text_sha256": "64a2aef56157a1cbb8b69e60f3afcca8d067f1221cfccc07400deb534e6e8a46",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N24-110",
+      "year": 2024,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2024年国家公务员考试《行测》真题（行政执法类）_2023122610_53.docx",
+      "question_number": 110,
+      "condition_structure": "在全部合法结对中统计可能于某年结对的城市",
+      "question_form": "可能对象总数",
+      "difficulty": "难",
+      "original_inspiration": "区分每个模型的个数与跨模型可能对象的并集",
+      "applies_to": [
+        77
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N24.txt",
+      "extracted_text_sha256": "64a2aef56157a1cbb8b69e60f3afcca8d067f1221cfccc07400deb534e6e8a46",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N23-107",
+      "year": 2023,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2023年国家公务员考试《行测》真题（行政执法类）_2023122614_56.docx",
+      "question_number": 107,
+      "condition_structure": "6天、6部门各至多2人、研发—后勤—法务相邻依赖",
+      "question_form": "某部门可能出现的日期集合",
+      "difficulty": "中难",
+      "original_inspiration": "候选值集合须由合法整体安排投影得到",
+      "applies_to": [
+        65,
+        75
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N23.txt",
+      "extracted_text_sha256": "f5c4096accc1b2bc87adc7deb5b38e7c5cb0fa2e1ac9b64b951b9a3da18debe5",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N23-108",
+      "year": 2023,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2023年国家公务员考试《行测》真题（行政执法类）_2023122614_56.docx",
+      "question_number": 108,
+      "condition_structure": "安排两名后勤人员，连锁占用后续法务日期",
+      "question_form": "新增次数约束下必然错误",
+      "difficulty": "难",
+      "original_inspiration": "重复参与与紧邻约束可形成容量挤占",
+      "applies_to": [
+        59,
+        64
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N23.txt",
+      "extracted_text_sha256": "f5c4096accc1b2bc87adc7deb5b38e7c5cb0fa2e1ac9b64b951b9a3da18debe5",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N22-108",
+      "year": 2022,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2022年国家公务员考试《行测》真题（行政执法）_2023122616_28.docx",
+      "question_number": 108,
+      "condition_structure": "7货架、前后与定距、相邻限制",
+      "question_form": "最大间隔",
+      "difficulty": "中难",
+      "original_inspiration": "最优化结论既需上界证明又需达到上界的构造",
+      "applies_to": [
+        62
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N22.txt",
+      "extracted_text_sha256": "2b9a0075c34c286e6f832461f4dfa38ad5b3b26f63decfc74822f24266ec3539",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "N22-109",
+      "year": 2022,
+      "exam": "国考行政执法",
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2022年国家公务员考试《行测》真题（行政执法）_2023122616_28.docx",
+      "question_number": 109,
+      "condition_structure": "零食固定首排，检验两类别能否相邻",
+      "question_form": "新增位置下不可能相邻",
+      "difficulty": "中难",
+      "original_inspiration": "圆桌模型的相邻与相对要有明确方向定义",
+      "applies_to": [
+        75
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_N22.txt",
+      "extracted_text_sha256": "2b9a0075c34c286e6f832461f4dfa38ad5b3b26f63decfc74822f24266ec3539",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "JS24B-91",
+      "year": 2024,
+      "exam": "江苏省考B类",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\2024江苏B类真题.docx",
+      "question_number": 91,
+      "condition_structure": "除非两项并列条件，否则不能飞行",
+      "question_form": "多命题哪些可推出",
+      "difficulty": "中",
+      "original_inspiration": "必要条件的逆否及德摩根律，不能肯定前件倒推",
+      "applies_to": [
+        66,
+        69
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_JS24B.txt",
+      "extracted_text_sha256": "6579001ff59a8ac7f5f64ccd9c9b80848977728e3591bdaae32db1754df79aad",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "JS24B-92",
+      "year": 2024,
+      "exam": "江苏省考B类",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\2024江苏B类真题.docx",
+      "question_number": 92,
+      "condition_structure": "三个复合建议，恰好一个采纳，含析取与合取否定",
+      "question_form": "不可能采取的行动",
+      "difficulty": "难",
+      "original_inspiration": "真假数量与复合命题等价可共同筛选行动组合",
+      "applies_to": [
+        70,
+        71,
+        73
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_JS24B.txt",
+      "extracted_text_sha256": "6579001ff59a8ac7f5f64ccd9c9b80848977728e3591bdaae32db1754df79aad",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "JS24B-96",
+      "year": 2024,
+      "exam": "江苏省考B类",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\2024江苏B类真题.docx",
+      "question_number": 96,
+      "condition_structure": "6人选3、性别覆盖、蕴含、至多和至少",
+      "question_form": "不能推出",
+      "difficulty": "中难",
+      "original_inspiration": "必要覆盖约束能推出隐藏排除，但不改写成旧卷分场模型",
+      "applies_to": [
+        51,
+        52,
+        54
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_JS24B.txt",
+      "extracted_text_sha256": "6579001ff59a8ac7f5f64ccd9c9b80848977728e3591bdaae32db1754df79aad",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "JS24B-97",
+      "year": 2024,
+      "exam": "江苏省考B类",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\2024江苏B类真题.docx",
+      "question_number": 97,
+      "condition_structure": "三部门三学历，三个条件句形成跨属性限制",
+      "question_form": "新增三学历互异后的可行分配",
+      "difficulty": "中难",
+      "original_inspiration": "双属性排列须将条件方向与互异约束同时核验",
+      "applies_to": [
+        76
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_JS24B.txt",
+      "extracted_text_sha256": "6579001ff59a8ac7f5f64ccd9c9b80848977728e3591bdaae32db1754df79aad",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "JS24B-98",
+      "year": 2024,
+      "exam": "江苏省考B类",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\2024江苏B类真题.docx",
+      "question_number": 98,
+      "condition_structure": "同组三部门招聘条件上否定研发学历",
+      "question_form": "新增否定条件后的不符合情况",
+      "difficulty": "中难",
+      "original_inspiration": "局部否定条件不能倒置原条件，也不能沿用另一子题的互异条件",
+      "applies_to": [
+        76
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_JS24B.txt",
+      "extracted_text_sha256": "6579001ff59a8ac7f5f64ccd9c9b80848977728e3591bdaae32db1754df79aad",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "JS24B-101",
+      "year": 2024,
+      "exam": "江苏省考B类",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\2024江苏B类真题.docx",
+      "question_number": 101,
+      "condition_structure": "总人数、各组人数不同、相邻两组人数和",
+      "question_form": "可以推出",
+      "difficulty": "中难",
+      "original_inspiration": "整数范围与不同值约束可用穷举检验，原创改变关系图和问法",
+      "applies_to": [
+        74,
+        77
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_JS24B.txt",
+      "extracted_text_sha256": "6579001ff59a8ac7f5f64ccd9c9b80848977728e3591bdaae32db1754df79aad",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "BJ25-73",
+      "year": 2025,
+      "exam": "北京公务员",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\北京OK\\2025年北京市公务员考试《行测》真题.docx",
+      "question_number": 73,
+      "condition_structure": "不同燃料燃烧是否排放，已知不排放",
+      "question_form": "多个判断哪些必真",
+      "difficulty": "中",
+      "original_inspiration": "否定后件可排除来源，不能把剩余未穷尽来源补成唯一",
+      "applies_to": [
+        66,
+        69
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_BJ25.txt",
+      "extracted_text_sha256": "85e36a181104012fd58c0e63e49a77d9519dffda51b96f8afeaced28ef941dbe",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "BJ25-75",
+      "year": 2025,
+      "exam": "北京公务员",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\北京OK\\2025年北京市公务员考试《行测》真题.docx",
+      "question_number": 75,
+      "condition_structure": "全称检查与未发现不合格的合取整体为假",
+      "question_form": "多命题必然性",
+      "difficulty": "难",
+      "original_inspiration": "量词否定、合取否定、条件等价应完整保留作用域",
+      "applies_to": [
+        68,
+        72,
+        80
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_BJ25.txt",
+      "extracted_text_sha256": "85e36a181104012fd58c0e63e49a77d9519dffda51b96f8afeaced28ef941dbe",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "BJ25-76",
+      "year": 2025,
+      "exam": "北京公务员",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\北京OK\\2025年北京市公务员考试《行测》真题.docx",
+      "question_number": 76,
+      "condition_structure": "多层集合包含与互斥，补充一项否定类信息",
+      "question_form": "哪些可充当前提",
+      "difficulty": "中难",
+      "original_inspiration": "全称链与存在见证分开处理；平行结构不能只比主题",
+      "applies_to": [
+        67,
+        78,
+        80
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_BJ25.txt",
+      "extracted_text_sha256": "85e36a181104012fd58c0e63e49a77d9519dffda51b96f8afeaced28ef941dbe",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    },
+    {
+      "id": "BJ25-79",
+      "year": 2025,
+      "exam": "北京公务员",
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\北京OK\\2025年北京市公务员考试《行测》真题.docx",
+      "question_number": 79,
+      "condition_structure": "六天上午下午安排、休息日、闭馆日、连续两天下午",
+      "question_form": "整体可能性与局部必然性",
+      "difficulty": "中难",
+      "original_inspiration": "时间段与资源边界要明确，区间端点相接不算重叠",
+      "applies_to": [
+        61,
+        65
+      ],
+      "review_method": "实际读取题本原生 Word 段落中的完整文字条件与四项；非凭文件名或目录标签归纳",
+      "extracted_text_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\research_BJ25.txt",
+      "extracted_text_sha256": "85e36a181104012fd58c0e63e49a77d9519dffda51b96f8afeaced28ef941dbe",
+      "scope": "题型和条件结构研究；未声称已核实该考试全部逻辑题或官方标准答案"
+    }
+  ],
+  "novelty": {
+    "old_texts_reviewed": [
+      "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\old_国考判断推理原创模拟卷（一）-35题（含答案解析）.txt",
+      "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\old_国考判断推理原创模拟卷（二）-2026行政执法-35题（含答案解析）.txt",
+      "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\old_国考图形与逻辑专项练习-55题（含答案解析）.txt"
+    ],
+    "old_models_excluded": [
+      "六片七场线性排序及定距连块",
+      "八选四再分上午下午",
+      "五人五位置五主题排列",
+      "六样本一次性分配三流程"
+    ],
+    "new_group_structures": {
+      "51": "八个二元监测站恰启用四站，异或等价与单向依赖；无分场、顺序或岗位排列",
+      "56": "五人对四份文件的重复双人复核；每人1—2份、参与覆盖与同组见证。对应关系为多对多，非旧卷六样本一次分配",
+      "61": "五任务不同持续时长，两种共享资源互斥，可跨任务并行；开始时段为整数，非单场线性排列"
+    },
+    "standalone": "四种翻译、四种复合真假、四种独立分析、三种严格结构比对；不把旧卷单一蕴含链或排序题换名重用",
+    "provenance": "只迁移约束语言、问法和检验能力，人物、背景、条件网络、数字、选项和模型均另行构造；不称原创条件组合为国考原题算法。"
+  }
+}

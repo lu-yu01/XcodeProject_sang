@@ -1,0 +1,20 @@
+{
+  "scope": "新增排版框是否会改变原题规律",
+  "doc1": {
+    "issue": "新外框可能被一笔画或数面规律计入",
+    "resolution": "图形推理节标题后新增原生Word说明，统一增设的最外层细框仅作排版，不参与规律判断；保留原图自身边线",
+    "reexported_pdf_sha256": "744eb99c6092cd72c0d9bbcd840b516c41d85e2e540a437196cfbf7c2bcecaf5",
+    "final_visual_review": "passed",
+    "passed": true
+  },
+  "doc2": {
+    "passed": true,
+    "reviewer": "/root/format_doc2",
+    "finding": "Q2/Q3仅将原有六格重排左右两组，题图区与线网分离，无新增规律用封闭面、连线或端点。Q5/Q7仅删文字，其他6图字节不变。"
+  },
+  "doc55": {
+    "passed": true,
+    "reviewer": "/root/format_doc55",
+    "finding": "未新增任何外框或分隔线；24图字节不变，6图仅改文字带，图形与框线像素不变。"
+  }
+}

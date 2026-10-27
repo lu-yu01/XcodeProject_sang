@@ -1,0 +1,226 @@
+{
+  "passed": true,
+  "counts": {
+    "sequence": 5,
+    "two_groups_horizontal": 3,
+    "matrix": 4,
+    "classification_3x2": 9,
+    "spatial": 9
+  },
+  "questions": [
+    {
+      "question": 1,
+      "kind": "sequence",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true
+    },
+    {
+      "question": 2,
+      "kind": "two_groups_horizontal",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true,
+      "two_groups_same_horizontal_baseline": true
+    },
+    {
+      "question": 3,
+      "kind": "matrix",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true,
+      "square_grid": {
+        "outer": [
+          840,
+          840
+        ],
+        "cells": [
+          280,
+          280
+        ]
+      }
+    },
+    {
+      "question": 4,
+      "kind": "two_groups_horizontal",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true,
+      "two_groups_same_horizontal_baseline": true
+    },
+    {
+      "question": 5,
+      "kind": "sequence",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true
+    },
+    {
+      "question": 6,
+      "kind": "sequence",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true
+    },
+    {
+      "question": 7,
+      "kind": "classification_3x2",
+      "six_equal_square_frames": true
+    },
+    {
+      "question": 8,
+      "kind": "classification_3x2",
+      "six_equal_square_frames": true
+    },
+    {
+      "question": 9,
+      "kind": "classification_3x2",
+      "six_equal_square_frames": true
+    },
+    {
+      "question": 10,
+      "kind": "classification_3x2",
+      "six_equal_square_frames": true
+    },
+    {
+      "question": 11,
+      "kind": "sequence",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true
+    },
+    {
+      "question": 12,
+      "kind": "sequence",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true
+    },
+    {
+      "question": 13,
+      "kind": "matrix",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true,
+      "square_grid": {
+        "outer": [
+          840,
+          840
+        ],
+        "cells": [
+          280,
+          280
+        ]
+      }
+    },
+    {
+      "question": 14,
+      "kind": "two_groups_horizontal",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true,
+      "two_groups_same_horizontal_baseline": true
+    },
+    {
+      "question": 15,
+      "kind": "matrix",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true,
+      "square_grid": {
+        "outer": [
+          840,
+          840
+        ],
+        "cells": [
+          280,
+          280
+        ]
+      }
+    },
+    {
+      "question": 16,
+      "kind": "matrix",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true,
+      "square_grid": {
+        "outer": [
+          840,
+          840
+        ],
+        "cells": [
+          280,
+          280
+        ]
+      }
+    },
+    {
+      "question": 17,
+      "kind": "classification_3x2",
+      "six_equal_square_frames": true
+    },
+    {
+      "question": 18,
+      "kind": "classification_3x2",
+      "six_equal_square_frames": true
+    },
+    {
+      "question": 19,
+      "kind": "classification_3x2",
+      "six_equal_square_frames": true
+    },
+    {
+      "question": 20,
+      "kind": "classification_3x2",
+      "six_equal_square_frames": true
+    },
+    {
+      "question": 21,
+      "kind": "spatial",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true
+    },
+    {
+      "question": 22,
+      "kind": "spatial",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true
+    },
+    {
+      "question": 23,
+      "kind": "spatial",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true
+    },
+    {
+      "question": 24,
+      "kind": "spatial",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true
+    },
+    {
+      "question": 25,
+      "kind": "spatial",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true
+    },
+    {
+      "question": 26,
+      "kind": "spatial",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true
+    },
+    {
+      "question": 27,
+      "kind": "spatial",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true
+    },
+    {
+      "question": 28,
+      "kind": "spatial",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true
+    },
+    {
+      "question": 29,
+      "kind": "spatial",
+      "four_options_single_row_common_frame": true,
+      "letters_outside_below": true
+    },
+    {
+      "question": 30,
+      "kind": "classification_3x2",
+      "six_equal_square_frames": true
+    }
+  ]
+}

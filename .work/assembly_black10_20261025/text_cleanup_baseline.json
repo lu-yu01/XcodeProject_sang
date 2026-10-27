@@ -1,0 +1,797 @@
+{
+  "time": "2026-10-25T20:42:56.021427+08:00",
+  "word_sha256": "c7a91ed9c42b3c20f4ddcf95bc7199f06815913737672e2095ea80802f5e6999",
+  "puzzles_sha256": "b78a7a214ef98bf7386f12cdbf2a47b74353cf632e9b8dfb2e502fa30fbb71e0",
+  "questions": [
+    {
+      "n": 1,
+      "old_question_sha256": "8e9cfbea9e51114f0c33006a0881dffe589a845c22541f5896c3e45a447b5245",
+      "solid_regions": [
+        {
+          "box": [
+            35,
+            85,
+            390,
+            427
+          ],
+          "rgb_sha256": "7785d31d1d30cb643f5ba52c53369fa5687ad4705bcd37de69afe11e2859ba28"
+        },
+        {
+          "box": [
+            410,
+            85,
+            775,
+            427
+          ],
+          "rgb_sha256": "20b1af126cd18d45ce79982d99a2f59ebe9c74e3b0ad3487e579aac5200de849"
+        },
+        {
+          "box": [
+            825,
+            85,
+            1270,
+            445
+          ],
+          "rgb_sha256": "bddb4391cc9443fd1d5058e8f69306d75e8a32eb954cb3773c797c9abf075477"
+        },
+        {
+          "box": [
+            1320,
+            85,
+            1765,
+            445
+          ],
+          "rgb_sha256": "3d923ae1768a6ea9bb758947da875c63a298fe161adbc975a81933165fdad4de"
+        },
+        {
+          "box": [
+            35,
+            595,
+            430,
+            880
+          ],
+          "rgb_sha256": "5735a5a994f4df6934b4d227409ef0cb8fc50186a1d6a3aeca639754a90f48fa"
+        },
+        {
+          "box": [
+            480,
+            595,
+            875,
+            880
+          ],
+          "rgb_sha256": "90fede23dd6930cc12b69bab321de8b675ead0da8a7296e260c656aff4ba39af"
+        },
+        {
+          "box": [
+            925,
+            595,
+            1320,
+            880
+          ],
+          "rgb_sha256": "4d971d25961c3d99ed953bea7788aaa89d663e49e58d04329991582b47f12810"
+        },
+        {
+          "box": [
+            1370,
+            595,
+            1765,
+            880
+          ],
+          "rgb_sha256": "3b5591fa21fee37b0cf8e8ebe81a414caae8b2de52b8233cfadc4f9c8c51889f"
+        }
+      ],
+      "explanation_sha256": "f270cf0c762c3404867a1e59a2732ab4079faec1e8f544535a522273b31630ea"
+    },
+    {
+      "n": 2,
+      "old_question_sha256": "0c2ab9a9ad9af4ea522d032dd674f59833341f725f45bc07301060970ced5441",
+      "solid_regions": [
+        {
+          "box": [
+            35,
+            85,
+            390,
+            427
+          ],
+          "rgb_sha256": "dee9218f8600367cc528cc2c1ceac1c75f1dec99dba3dcf9351b6a81321e2104"
+        },
+        {
+          "box": [
+            410,
+            85,
+            775,
+            427
+          ],
+          "rgb_sha256": "df42e0321fa8f0cf5fce1a03166aad94480493057f256c6b5f93fa3c87f6cf73"
+        },
+        {
+          "box": [
+            825,
+            85,
+            1270,
+            445
+          ],
+          "rgb_sha256": "6b465acb1cd59582a913d8e82373a029e0a5748200013420282a18521b33edae"
+        },
+        {
+          "box": [
+            1320,
+            85,
+            1765,
+            445
+          ],
+          "rgb_sha256": "29dc7a7cabecae8a212ca7753d4b4e8434d64f2deaec67e7c1ad91ccc3827239"
+        },
+        {
+          "box": [
+            35,
+            595,
+            430,
+            880
+          ],
+          "rgb_sha256": "8b904565846110ca73189e0a0c052a93f3110b8ced7fb015e54fdbf49b14af73"
+        },
+        {
+          "box": [
+            480,
+            595,
+            875,
+            880
+          ],
+          "rgb_sha256": "3a857e9b9bad64d9d1c869a9be8428dc8eeef689e94103cddefb9f95d3862c78"
+        },
+        {
+          "box": [
+            925,
+            595,
+            1320,
+            880
+          ],
+          "rgb_sha256": "bacd4bb0c3da757cc5ea1ba7527429942926e4ce92533a2984f8361ef8d28a9f"
+        },
+        {
+          "box": [
+            1370,
+            595,
+            1765,
+            880
+          ],
+          "rgb_sha256": "50e84ea7a0d329d4e8fcaa6ec075ccdc4877c74666b4bbfd11273b37a8351ef2"
+        }
+      ],
+      "explanation_sha256": "0c80817df7539632237dacda1d030e96963a7fd204017405180541cfa82e459c"
+    },
+    {
+      "n": 3,
+      "old_question_sha256": "7102dead50a12ec59b2f60d272ed4ba4a17611907238c2b24e737b7343dcdc19",
+      "solid_regions": [
+        {
+          "box": [
+            35,
+            85,
+            390,
+            427
+          ],
+          "rgb_sha256": "45ee34d1a63eaf08c466d7c3c2712f823c89ef5d20fbd19bbfabd2244e284785"
+        },
+        {
+          "box": [
+            410,
+            85,
+            775,
+            427
+          ],
+          "rgb_sha256": "5d5b9a212ffa8fc2c0c286f9cacd375ae1271327be62eb0c143f8228948b3f6d"
+        },
+        {
+          "box": [
+            825,
+            85,
+            1270,
+            445
+          ],
+          "rgb_sha256": "83707a7a33fe6b059f0bccc8bfc6bdc7a0ce7c870334bae3c20a9f1e28b23b05"
+        },
+        {
+          "box": [
+            1320,
+            85,
+            1765,
+            445
+          ],
+          "rgb_sha256": "7a42fff3cd53b24d813baf97fb47f2d66413d447e54bd395599daa6cff62c8d8"
+        },
+        {
+          "box": [
+            35,
+            595,
+            430,
+            880
+          ],
+          "rgb_sha256": "f34b3841d178ee71369bf7c622eeaaadd42bcb3aa62cd3db0b2e8dc8816a3a21"
+        },
+        {
+          "box": [
+            480,
+            595,
+            875,
+            880
+          ],
+          "rgb_sha256": "edee4a8a6c16ee51fe9e1cca81de522e95455e2ca740f177783d1b4f25b5644e"
+        },
+        {
+          "box": [
+            925,
+            595,
+            1320,
+            880
+          ],
+          "rgb_sha256": "15d1254578c4f72f95a9e76280fb3e0afe682c069b10db8860b8f1cc9002660c"
+        },
+        {
+          "box": [
+            1370,
+            595,
+            1765,
+            880
+          ],
+          "rgb_sha256": "a237b3672eca6e6aba25c63ab0f97109600fb709992a76acad7ac0070e10e190"
+        }
+      ],
+      "explanation_sha256": "79162a00419edb4d8e6b9fb4b4fd23025d6b430e147795a92cf341b3e137e063"
+    },
+    {
+      "n": 4,
+      "old_question_sha256": "77c5bb7af166d20cc0fd8ccc8af1ad9623c6e202a53d18e2fbf6650c89586f08",
+      "solid_regions": [
+        {
+          "box": [
+            35,
+            85,
+            390,
+            427
+          ],
+          "rgb_sha256": "806a564f436af6df7a3e52bb6b74dace31539bd5d004389a6f8d5ef9c6f92c86"
+        },
+        {
+          "box": [
+            410,
+            85,
+            775,
+            427
+          ],
+          "rgb_sha256": "72bde2f6bd5ebded5ce6f675399c489bb6e62b0dfa56f011e21139aba5b5645e"
+        },
+        {
+          "box": [
+            825,
+            85,
+            1270,
+            445
+          ],
+          "rgb_sha256": "389e9b6ec90fb56fedcb8c4eac900fb1e15d7cd44e61a4d244cda256fec279a4"
+        },
+        {
+          "box": [
+            1320,
+            85,
+            1765,
+            445
+          ],
+          "rgb_sha256": "decea6cc0a425556675dbb912a5be7c0ebbdce2129178f3c6b56c4810ab86f90"
+        },
+        {
+          "box": [
+            35,
+            595,
+            430,
+            880
+          ],
+          "rgb_sha256": "6b87883bf73d5510317ff040153199adf6187433243b48e8631df7cd1022750e"
+        },
+        {
+          "box": [
+            480,
+            595,
+            875,
+            880
+          ],
+          "rgb_sha256": "a9f3604bdbb8c9fb59e605c0b9ce4c913a163ef0c069e31cf7036dedbdec9cbf"
+        },
+        {
+          "box": [
+            925,
+            595,
+            1320,
+            880
+          ],
+          "rgb_sha256": "4632a3fc1c735733b06fdb236032c846a8813ea39dc66755f029488d54c83a7a"
+        },
+        {
+          "box": [
+            1370,
+            595,
+            1765,
+            880
+          ],
+          "rgb_sha256": "96447872ca0f4ac92c4f276f0cdf8066bc2ed0664000dee0866d4dabdd475d5d"
+        }
+      ],
+      "explanation_sha256": "c5a9864cf30d9a6bfc51de4acf5fa480791bf7c6d7992d32d42f87af4cbc1973"
+    },
+    {
+      "n": 5,
+      "old_question_sha256": "cda800270371557c7e88e6d21689d3bdf0566d245059088e57e0bc5a67b70c7d",
+      "solid_regions": [
+        {
+          "box": [
+            35,
+            85,
+            390,
+            427
+          ],
+          "rgb_sha256": "da2536078876c6d7de76e645bd9efb122f2a911088b6789cd9df4c1d1b0d9aca"
+        },
+        {
+          "box": [
+            410,
+            85,
+            775,
+            427
+          ],
+          "rgb_sha256": "29a194f5d3d9945f200695cb70677c17f5050b18835870a7b4b2488a791bdf98"
+        },
+        {
+          "box": [
+            825,
+            85,
+            1270,
+            445
+          ],
+          "rgb_sha256": "f0384895768dd0c5c9e3ef13d90d0671ae854641e261dafb832a62fd7134d26d"
+        },
+        {
+          "box": [
+            1320,
+            85,
+            1765,
+            445
+          ],
+          "rgb_sha256": "0f82d404e52973262e895fe0fd436f2bc5a7887e424441293dbd4e6d5a2ed611"
+        },
+        {
+          "box": [
+            35,
+            595,
+            430,
+            880
+          ],
+          "rgb_sha256": "a4f4b1011135b34304beab28a7af421bf0c0c414e58bec38d9c6ac9bba2e2be6"
+        },
+        {
+          "box": [
+            480,
+            595,
+            875,
+            880
+          ],
+          "rgb_sha256": "7166f064e98fd7ec0da690bc8a2c37566f6dd663f1865ba974f2bfee25594525"
+        },
+        {
+          "box": [
+            925,
+            595,
+            1320,
+            880
+          ],
+          "rgb_sha256": "a1fd37ae914c5eb11be537ab56b27109f9096463e9a84c999f1b7b54fdba1473"
+        },
+        {
+          "box": [
+            1370,
+            595,
+            1765,
+            880
+          ],
+          "rgb_sha256": "9aadc98f0e27f4c484085ef124606fb696d20d23f306ad7c64523bb670403ff4"
+        }
+      ],
+      "explanation_sha256": "6bbf66bd57b0c31b59e60464cfb6259ceaed3b94cd69753b0601302003a44574"
+    },
+    {
+      "n": 6,
+      "old_question_sha256": "2edca87b25fd09cc2c6edb6f21e061faed80a8a82b3c2328b82d07738fa2d7dd",
+      "solid_regions": [
+        {
+          "box": [
+            35,
+            85,
+            390,
+            427
+          ],
+          "rgb_sha256": "4e731b7b8d0a86a54937eae66198da8993fa1f1681c82b2f2c04b80763d7d53f"
+        },
+        {
+          "box": [
+            410,
+            85,
+            775,
+            427
+          ],
+          "rgb_sha256": "c38ab668ff3609628e1ac63ea079bd92e0aae07daf99e31a9600ba2b0edb058e"
+        },
+        {
+          "box": [
+            825,
+            85,
+            1270,
+            445
+          ],
+          "rgb_sha256": "46e666e4be0c57f93e10fce0b9f8b828c3513a2af8c41caf08e8609ff99e53e1"
+        },
+        {
+          "box": [
+            1320,
+            85,
+            1765,
+            445
+          ],
+          "rgb_sha256": "7f5581dbbb76582b470bfdff5b0c414bed9fe9b5357bc29adaead5665be05974"
+        },
+        {
+          "box": [
+            35,
+            595,
+            430,
+            880
+          ],
+          "rgb_sha256": "586abbe4d06f64fb78dffa5fca300b349b28a18d7af963ad33a0708ce875f65c"
+        },
+        {
+          "box": [
+            480,
+            595,
+            875,
+            880
+          ],
+          "rgb_sha256": "18677d1f40850a900c9eb06b5cfa6ff15689072a907480c986676ec77abee38a"
+        },
+        {
+          "box": [
+            925,
+            595,
+            1320,
+            880
+          ],
+          "rgb_sha256": "ce9b6831e7ee127d00faf01cf51502d1ac2162f3251b5399cdaba05a056a9d84"
+        },
+        {
+          "box": [
+            1370,
+            595,
+            1765,
+            880
+          ],
+          "rgb_sha256": "ff1b4f83179089b3bddadf63f3b0b6f28dc3b6516fb048cd3aa429cf58fd0339"
+        }
+      ],
+      "explanation_sha256": "443300719205203508732542bfe91d7ec797691b5e40a081ad8ea3968959aa13"
+    },
+    {
+      "n": 7,
+      "old_question_sha256": "f002622a72990d53db7e2a107bc1aa55dd2c17050596bebec17dd313a931bfdb",
+      "solid_regions": [
+        {
+          "box": [
+            35,
+            85,
+            390,
+            427
+          ],
+          "rgb_sha256": "5f096ad10a478fe3a7e707bedf4c23081110f117d5e93b2609a2398acdd8b0f3"
+        },
+        {
+          "box": [
+            410,
+            85,
+            775,
+            427
+          ],
+          "rgb_sha256": "f88ace43c1da8123eba2999198192271c2349f23edb98431a3ba9683769a6d9b"
+        },
+        {
+          "box": [
+            825,
+            85,
+            1270,
+            445
+          ],
+          "rgb_sha256": "aec04ea0ac48dc7f659fc51a0b236839148bd870c32269e53b142e72da92375b"
+        },
+        {
+          "box": [
+            1320,
+            85,
+            1765,
+            445
+          ],
+          "rgb_sha256": "6c2bfa7de817a6f66632e1f6cecd20509db1fef5228d50d634bd9c85b8e8b6a6"
+        },
+        {
+          "box": [
+            35,
+            595,
+            430,
+            880
+          ],
+          "rgb_sha256": "b0115004deb988c4ffbe5f805667a5492a1f861700006d0191eb3fc23de2fd80"
+        },
+        {
+          "box": [
+            480,
+            595,
+            875,
+            880
+          ],
+          "rgb_sha256": "0bbf3f7a37a64a047061d5820db14a5e4c335534c6a037e19da3d41a698470f6"
+        },
+        {
+          "box": [
+            925,
+            595,
+            1320,
+            880
+          ],
+          "rgb_sha256": "7ab8684abff64a0fcd4dd4b5bc99391580b6a465a286efc0bf79947fa49133ec"
+        },
+        {
+          "box": [
+            1370,
+            595,
+            1765,
+            880
+          ],
+          "rgb_sha256": "1bd1c8dea687c6c26b32472958e8a7ef4772e8fe56efc37da4b478c1553a099b"
+        }
+      ],
+      "explanation_sha256": "f14bf2f47a489a692f3622789cd5cf869edefed03c3f778b0b562609f12b895a"
+    },
+    {
+      "n": 8,
+      "old_question_sha256": "800ec142dcfdec931a5651bc7f7a2c928621cac6679d4d49c5f6dba1788118f8",
+      "solid_regions": [
+        {
+          "box": [
+            35,
+            85,
+            390,
+            427
+          ],
+          "rgb_sha256": "e4c62139563345525ac3e05b758c5a942cfa40140c7b5f6b6a9c53be67335f4c"
+        },
+        {
+          "box": [
+            410,
+            85,
+            775,
+            427
+          ],
+          "rgb_sha256": "c82ca6f6ccc617961bb1eee38d8cb4744f110ec8338509a395229aa596004dfb"
+        },
+        {
+          "box": [
+            825,
+            85,
+            1270,
+            445
+          ],
+          "rgb_sha256": "faf95ec821f99421221862f7d97b2fad9cfea65dc2a01c67d6c9613c016f3e83"
+        },
+        {
+          "box": [
+            1320,
+            85,
+            1765,
+            445
+          ],
+          "rgb_sha256": "51c5f85a086dfc7571b6eb375c9b25f340110d9beff1558391cec7db86f0a6a7"
+        },
+        {
+          "box": [
+            35,
+            595,
+            430,
+            880
+          ],
+          "rgb_sha256": "7ed7546e4af11dbb26abfc4f6ab1670c9ab5bd10fed5d24f89a97a265395ca77"
+        },
+        {
+          "box": [
+            480,
+            595,
+            875,
+            880
+          ],
+          "rgb_sha256": "35df5ceb61d858f6062108b24de5a1b4641179c358ed66a0e3e3461aaffb1769"
+        },
+        {
+          "box": [
+            925,
+            595,
+            1320,
+            880
+          ],
+          "rgb_sha256": "1411e6f3bc4cf64a9680640f03567912be33b4a2c48a2060d31815cc54db1450"
+        },
+        {
+          "box": [
+            1370,
+            595,
+            1765,
+            880
+          ],
+          "rgb_sha256": "12747bc73834daa89068e3b6c6ca144f04c3ee6e1e48c04c5aed99e60538e957"
+        }
+      ],
+      "explanation_sha256": "0b1a1fff16c8915dc9120511aafefedef72bb57d29aaa024d3d177c3348a6099"
+    },
+    {
+      "n": 9,
+      "old_question_sha256": "1afa919b13087f6cc05f798ed68177482e897dc39d71397d563e0149a95b8d2d",
+      "solid_regions": [
+        {
+          "box": [
+            35,
+            85,
+            390,
+            427
+          ],
+          "rgb_sha256": "ca98379f70d86018d6c3ede641060d24f9761f453870b1c109dd6906db24d97b"
+        },
+        {
+          "box": [
+            410,
+            85,
+            775,
+            427
+          ],
+          "rgb_sha256": "51791543b67cc1573275e26d3cedd7496f123bd4824dd1e78d7f1f734fcb1e60"
+        },
+        {
+          "box": [
+            825,
+            85,
+            1270,
+            445
+          ],
+          "rgb_sha256": "313fb132d93cdce8737d47b75e189673c3a429b7fb61c9319930faa7f6f10ae0"
+        },
+        {
+          "box": [
+            1320,
+            85,
+            1765,
+            445
+          ],
+          "rgb_sha256": "3946d65ecdcdd6278fb9c8bf00c151b74bbc038eb5bcf730f438284257f41016"
+        },
+        {
+          "box": [
+            35,
+            595,
+            430,
+            880
+          ],
+          "rgb_sha256": "e0c5ed16c9fb74b37e41648fb9bf761cadd0e52cc72eff07c9d504982e1d65ca"
+        },
+        {
+          "box": [
+            480,
+            595,
+            875,
+            880
+          ],
+          "rgb_sha256": "bc271f5cab5ff97d32712bc29832b9d941fc611eedc0da48646b94b9904d7b4d"
+        },
+        {
+          "box": [
+            925,
+            595,
+            1320,
+            880
+          ],
+          "rgb_sha256": "1671cf7cc8959bd1978bcbf64f25b88758cd58a8ab173e800c15b67f6758a090"
+        },
+        {
+          "box": [
+            1370,
+            595,
+            1765,
+            880
+          ],
+          "rgb_sha256": "8b190182995e7156a14118fc2cdd3e6a56038b6c15452b086409df93c83b2a5d"
+        }
+      ],
+      "explanation_sha256": "fd6525d4fb94c4a0963f8dd378ae656068570df33442fb6c19d57fb8914977f3"
+    },
+    {
+      "n": 10,
+      "old_question_sha256": "dc606e69c563251f525e0f7fdba1b87100fe3f12ca30db3757af9bf60b630f22",
+      "solid_regions": [
+        {
+          "box": [
+            35,
+            85,
+            390,
+            427
+          ],
+          "rgb_sha256": "2a492071f83b9b07b3a9a6c950ce195428a7a1964a1e44abfd3de59c6b1e7b40"
+        },
+        {
+          "box": [
+            410,
+            85,
+            775,
+            427
+          ],
+          "rgb_sha256": "093065687f7b02c14df3ae8e0fc280d52c0bcedb5bcde8171ecd1c3028d091ea"
+        },
+        {
+          "box": [
+            825,
+            85,
+            1270,
+            445
+          ],
+          "rgb_sha256": "73302a4ba2fa80d0c6f75edae88c6fa67d6510006d4a0f0f3e59744e01c88673"
+        },
+        {
+          "box": [
+            1320,
+            85,
+            1765,
+            445
+          ],
+          "rgb_sha256": "5e860d023b9ec3c4f4efa6723b4c486cb2459016266343494f6fb0e1d850cc21"
+        },
+        {
+          "box": [
+            35,
+            595,
+            430,
+            880
+          ],
+          "rgb_sha256": "3e8289393ea2f6250b8ae3501c6851df09ebf067e45185d88fa16dfdab14ced0"
+        },
+        {
+          "box": [
+            480,
+            595,
+            875,
+            880
+          ],
+          "rgb_sha256": "34c1d54ad7812902fd0882714d967f77876500d93cbd20cbee422b5d28df197f"
+        },
+        {
+          "box": [
+            925,
+            595,
+            1320,
+            880
+          ],
+          "rgb_sha256": "489fba39c93d198540f1adb8a902ec16d6683e8b4f927513da74fce6d1c07787"
+        },
+        {
+          "box": [
+            1370,
+            595,
+            1765,
+            880
+          ],
+          "rgb_sha256": "9532c9883092bdb721d17af716cbfa62be9e7ccbcc3603fdd8a519c57ff682f4"
+        }
+      ],
+      "explanation_sha256": "92c4b12b2230c348597b951c3f862d241b7859994c2e4f29cfa550273a08136e"
+    }
+  ]
+}

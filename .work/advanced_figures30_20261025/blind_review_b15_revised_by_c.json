@@ -1,0 +1,13 @@
+{
+  "n": 15,
+  "answer": "D",
+  "natural_rule": "每行第二幅先顺时针旋转90度，再与第一幅按格叠加；在第一幅中删除与旋转后第二幅重合的黑格，其余黑格保留，得到第三幅。前两行都成立。第三行保留黑格为第1行第2、3格，第2行第4格，第4行第2格，故选D。",
+  "confidence": 0.99,
+  "ambiguities": [],
+  "image_sha256": "c1a7aee18442aae043c747ac00c0d66c8990e9be5d1aa8d5357493b7816fdccb",
+  "actual_image_viewed": true,
+  "method": "只读新版盲卡题干并实际view原题图；第一轮目视比较常见旋转叠加关系，独立发现“第二幅顺时针90度后，第一幅减去它”。逐行手工转置格位核对，没有读取作者代码、questions_b、作者答案/解析/模型/解释图/修订报告或A的新结果，也未运行栅格提取或枚举搜索。",
+  "first_pass": "naturally_recovered",
+  "second_pass_computational_search_used": false,
+  "other_reasonable_rules": "叠加后把与第二幅同黑的格子擦去，和黑格集合差集是同一种等价表述；未发现同样自然但导向其他候选的规律。"
+}

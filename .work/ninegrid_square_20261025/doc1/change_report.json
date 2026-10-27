@@ -1,0 +1,533 @@
+{
+  "status": "ready_for_render",
+  "before": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc1\\before.docx",
+  "output": "E:\\XcodeProject_sang\\模式题\\国考判断推理原创模拟卷（一）-35题（图片规范版，含答案解析）.docx",
+  "before_sha256": "68878e07e32ecabd859b80462817c2f2105bd5582be158a4c4815c6c2d6708eb",
+  "output_sha256": "7a419f7150a5c90bab7dd0a705227f8e04850e71569fe1b6e3e6686877e36fe7",
+  "questions_changed": [
+    2
+  ],
+  "all_true_nine_cell_questions": [
+    2
+  ],
+  "other_three_by_three_graphics": "Q1 contains square 3×3 content grids; they are unchanged and already square.",
+  "image_binding": {
+    "question": 2,
+    "relationship_id": "rId12",
+    "package_path": "word/media/image2.png",
+    "old_png_sha256": "2e55b5bdaa2e2e57a3db132e5b59dbcce8715eb9580c6be55fc43b6877e9bfeb",
+    "new_png_sha256": "ad3d0269d456d1d0efb80e548aec1d1e4e6600d0f24bd80c0147167e548f6109"
+  },
+  "outer_box": [
+    435,
+    5,
+    1065,
+    635
+  ],
+  "old_outer_box": [
+    360,
+    5,
+    1140,
+    635
+  ],
+  "old_outer_size_px": [
+    780,
+    630
+  ],
+  "new_outer_size_px": [
+    630,
+    630
+  ],
+  "cell_sizes": [
+    [
+      210,
+      210
+    ],
+    [
+      210,
+      210
+    ],
+    [
+      210,
+      210
+    ],
+    [
+      210,
+      210
+    ],
+    [
+      210,
+      210
+    ],
+    [
+      210,
+      210
+    ],
+    [
+      210,
+      210
+    ],
+    [
+      210,
+      210
+    ],
+    [
+      210,
+      210
+    ]
+  ],
+  "old_cell_sizes": [
+    [
+      260,
+      210
+    ],
+    [
+      260,
+      210
+    ],
+    [
+      260,
+      210
+    ],
+    [
+      260,
+      210
+    ],
+    [
+      260,
+      210
+    ],
+    [
+      260,
+      210
+    ],
+    [
+      260,
+      210
+    ],
+    [
+      260,
+      210
+    ],
+    [
+      260,
+      210
+    ]
+  ],
+  "canvas_size_old": [
+    1500,
+    900
+  ],
+  "canvas_size_new": [
+    1500,
+    900
+  ],
+  "cell_geometry_passed": true,
+  "graphic_preservation_checks": [
+    {
+      "cell": [
+        1,
+        1
+      ],
+      "kind": "black_white_figure",
+      "source_box": [
+        400,
+        20,
+        580,
+        200
+      ],
+      "new_box": [
+        450,
+        20,
+        630,
+        200
+      ],
+      "old_center": [
+        490,
+        110
+      ],
+      "new_center": [
+        540,
+        110
+      ],
+      "translation": [
+        50,
+        0
+      ],
+      "rgb_pixel_identical": true,
+      "rgb_sha256": "5ac88f6c38f561551eb8c0249b2866d7877d984f5f482dd170eb3d5687375460",
+      "cell_box": [
+        435,
+        5,
+        645,
+        215
+      ],
+      "verified_graphic_roi_margin_to_frame_px": 15,
+      "figure_edge_nominal_margin_to_frame_px": 22.5
+    },
+    {
+      "cell": [
+        1,
+        2
+      ],
+      "kind": "black_white_figure",
+      "source_box": [
+        660,
+        20,
+        840,
+        200
+      ],
+      "new_box": [
+        660,
+        20,
+        840,
+        200
+      ],
+      "old_center": [
+        750,
+        110
+      ],
+      "new_center": [
+        750,
+        110
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "rgb_pixel_identical": true,
+      "rgb_sha256": "64b3b22614067be488fb183a4de2da5b5bf359f93bb3d2076fd989f0efdc73fb",
+      "cell_box": [
+        645,
+        5,
+        855,
+        215
+      ],
+      "verified_graphic_roi_margin_to_frame_px": 15,
+      "figure_edge_nominal_margin_to_frame_px": 22.5
+    },
+    {
+      "cell": [
+        1,
+        3
+      ],
+      "kind": "black_white_figure",
+      "source_box": [
+        920,
+        20,
+        1100,
+        200
+      ],
+      "new_box": [
+        870,
+        20,
+        1050,
+        200
+      ],
+      "old_center": [
+        1010,
+        110
+      ],
+      "new_center": [
+        960,
+        110
+      ],
+      "translation": [
+        -50,
+        0
+      ],
+      "rgb_pixel_identical": true,
+      "rgb_sha256": "27d19df90207b8ee4077c2a6906aa8cda632206423e9cb48e63d552304f4e6d0",
+      "cell_box": [
+        855,
+        5,
+        1065,
+        215
+      ],
+      "verified_graphic_roi_margin_to_frame_px": 15,
+      "figure_edge_nominal_margin_to_frame_px": 22.5
+    },
+    {
+      "cell": [
+        2,
+        1
+      ],
+      "kind": "black_white_figure",
+      "source_box": [
+        400,
+        230,
+        580,
+        410
+      ],
+      "new_box": [
+        450,
+        230,
+        630,
+        410
+      ],
+      "old_center": [
+        490,
+        320
+      ],
+      "new_center": [
+        540,
+        320
+      ],
+      "translation": [
+        50,
+        0
+      ],
+      "rgb_pixel_identical": true,
+      "rgb_sha256": "06d90651c498c4b8fec0b32cc9807477119ba9874d67a561eab7639941a57573",
+      "cell_box": [
+        435,
+        215,
+        645,
+        425
+      ],
+      "verified_graphic_roi_margin_to_frame_px": 15,
+      "figure_edge_nominal_margin_to_frame_px": 22.5
+    },
+    {
+      "cell": [
+        2,
+        2
+      ],
+      "kind": "black_white_figure",
+      "source_box": [
+        660,
+        230,
+        840,
+        410
+      ],
+      "new_box": [
+        660,
+        230,
+        840,
+        410
+      ],
+      "old_center": [
+        750,
+        320
+      ],
+      "new_center": [
+        750,
+        320
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "rgb_pixel_identical": true,
+      "rgb_sha256": "d496115a2837f4ced0cf3e1bcb3dce866525e969251706471f73abf5a28a5d65",
+      "cell_box": [
+        645,
+        215,
+        855,
+        425
+      ],
+      "verified_graphic_roi_margin_to_frame_px": 15,
+      "figure_edge_nominal_margin_to_frame_px": 22.5
+    },
+    {
+      "cell": [
+        2,
+        3
+      ],
+      "kind": "black_white_figure",
+      "source_box": [
+        920,
+        230,
+        1100,
+        410
+      ],
+      "new_box": [
+        870,
+        230,
+        1050,
+        410
+      ],
+      "old_center": [
+        1010,
+        320
+      ],
+      "new_center": [
+        960,
+        320
+      ],
+      "translation": [
+        -50,
+        0
+      ],
+      "rgb_pixel_identical": true,
+      "rgb_sha256": "ccd90bfdfd1d429fe1689b23ed2fab278337693e0442e4b92f658243375b0214",
+      "cell_box": [
+        855,
+        215,
+        1065,
+        425
+      ],
+      "verified_graphic_roi_margin_to_frame_px": 15,
+      "figure_edge_nominal_margin_to_frame_px": 22.5
+    },
+    {
+      "cell": [
+        3,
+        1
+      ],
+      "kind": "black_white_figure",
+      "source_box": [
+        400,
+        440,
+        580,
+        620
+      ],
+      "new_box": [
+        450,
+        440,
+        630,
+        620
+      ],
+      "old_center": [
+        490,
+        530
+      ],
+      "new_center": [
+        540,
+        530
+      ],
+      "translation": [
+        50,
+        0
+      ],
+      "rgb_pixel_identical": true,
+      "rgb_sha256": "9e7e9847824608cbf463ccc6eb5cb7f4afd07e2104c0350885719d15204ed133",
+      "cell_box": [
+        435,
+        425,
+        645,
+        635
+      ],
+      "verified_graphic_roi_margin_to_frame_px": 15,
+      "figure_edge_nominal_margin_to_frame_px": 22.5
+    },
+    {
+      "cell": [
+        3,
+        2
+      ],
+      "kind": "black_white_figure",
+      "source_box": [
+        660,
+        440,
+        840,
+        620
+      ],
+      "new_box": [
+        660,
+        440,
+        840,
+        620
+      ],
+      "old_center": [
+        750,
+        530
+      ],
+      "new_center": [
+        750,
+        530
+      ],
+      "translation": [
+        0,
+        0
+      ],
+      "rgb_pixel_identical": true,
+      "rgb_sha256": "4c6ce2ecf928363a9d9d81fb67fc4124c6b2bb346b5c5d44068152b36d7eaf59",
+      "cell_box": [
+        645,
+        425,
+        855,
+        635
+      ],
+      "verified_graphic_roi_margin_to_frame_px": 15,
+      "figure_edge_nominal_margin_to_frame_px": 22.5
+    },
+    {
+      "cell": [
+        3,
+        3
+      ],
+      "kind": "question_mark",
+      "source_box": [
+        920,
+        440,
+        1100,
+        620
+      ],
+      "new_box": [
+        870,
+        440,
+        1050,
+        620
+      ],
+      "old_center": [
+        1010,
+        530
+      ],
+      "new_center": [
+        960,
+        530
+      ],
+      "translation": [
+        -50,
+        0
+      ],
+      "rgb_pixel_identical": true,
+      "rgb_sha256": "be9cd52b046408cf1de6bd9c3ec12a15a8ead4010945ba1582f0fc0cf2bfc79d",
+      "cell_box": [
+        855,
+        425,
+        1065,
+        635
+      ],
+      "verified_graphic_roi_margin_to_frame_px": 15,
+      "figure_edge_nominal_margin_to_frame_px": null
+    }
+  ],
+  "graphic_regions_pixel_identical": 9,
+  "candidate_region": {
+    "box": [
+      0,
+      640,
+      1500,
+      900
+    ],
+    "rgb_pixel_identical": true,
+    "rgb_sha256": "d56ec199fe3c134c7343d72a865f1dc1a70148ad75dd35ffcfe642f8e046e092",
+    "includes": "Four-candidate shared frame, all candidate graphics, A-D letters and spacing"
+  },
+  "word_extents": {
+    "cx_emu": 5715000,
+    "cy_emu": 3429000,
+    "unchanged": true,
+    "png_ratio": [
+      1500,
+      900
+    ],
+    "proportional_scaling_passed": true,
+    "square_outer_size_in_word_emu": [
+      2400300,
+      2400300
+    ]
+  },
+  "document_xml_byte_identical": true,
+  "numbering_xml_byte_identical": true,
+  "all_text_answers_and_numbering_unchanged": true,
+  "text_replacements": {},
+  "native_text_additions": [],
+  "package_parts_changed": [
+    "word/media/image2.png"
+  ],
+  "other_embedded_images_unchanged": true,
+  "no_new_pagination_height": true
+}

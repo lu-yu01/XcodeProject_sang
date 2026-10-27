@@ -1,0 +1,886 @@
+{
+  "reviewer": "blind43_60 独立代理",
+  "reviewed_at": "2026-10-27T14:59:21.928243+00:00",
+  "input_scope": [
+    "公开规则清单",
+    "18张最终题图"
+  ],
+  "author_model_or_answers_read": false,
+  "answers": {
+    "43": "A",
+    "44": "B",
+    "45": "B",
+    "46": "C",
+    "47": "D",
+    "48": "C",
+    "49": "D",
+    "50": "A",
+    "51": "D",
+    "52": "C",
+    "53": "A",
+    "54": "B",
+    "55": "A",
+    "56": "D",
+    "57": "D",
+    "58": "B",
+    "59": "D",
+    "60": "C"
+  },
+  "items": [
+    {
+      "n": 43,
+      "group": 15,
+      "image_sha256": "7001c2694f3e7edf602ebd55ead851fac155428e5658b5d44c66ea0f1cbd18c6",
+      "actually_opened_original": true,
+      "first_answer": "A",
+      "first_answer_confirmed": true,
+      "answer": "A",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "□2",
+          "definition": "四角小格各自逆时针转90°，格子位置不变"
+        },
+        {
+          "rule": "■3",
+          "definition": "每个象限各自顺时针转90°，象限位置不变"
+        },
+        {
+          "rule": "◇3",
+          "definition": "仅左半黑白反色，右半不变"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 0,
+          "matches": true
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 128,
+          "matches": false
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 32,
+          "matches": false
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 128,
+          "matches": false
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 44,
+      "group": 15,
+      "image_sha256": "ad6b8aef239582cf99fc995d01a6ceb6e1a089c27e4bce0c01e1954dfc3f477d",
+      "actually_opened_original": true,
+      "first_answer": "B",
+      "first_answer_confirmed": true,
+      "answer": "B",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "●1",
+          "definition": "全图顺时针旋转90°"
+        },
+        {
+          "rule": "◇4",
+          "definition": "仅右半黑白反色，左半不变"
+        },
+        {
+          "rule": "◇3",
+          "definition": "仅左半黑白反色，右半不变"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 128,
+          "matches": false
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 0,
+          "matches": true
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 80,
+          "matches": false
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 128,
+          "matches": false
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 45,
+      "group": 15,
+      "image_sha256": "fb419ee217f368405520be5a721167798201406f1fd45b6f53b86c47736cf882",
+      "actually_opened_original": true,
+      "first_answer": "A",
+      "first_answer_confirmed": false,
+      "answer": "B",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "□2",
+          "definition": "四角小格各自逆时针转90°，格子位置不变"
+        },
+        {
+          "rule": "■4",
+          "definition": "每个象限各自逆时针转90°，象限位置不变"
+        },
+        {
+          "rule": "●4",
+          "definition": "全图黑白反色"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 24,
+          "matches": false
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 0,
+          "matches": true
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 128,
+          "matches": false
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 100,
+          "matches": false
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 46,
+      "group": 16,
+      "image_sha256": "2ca62e309a3b27c772583557be68640f48ab973c3c287f0be9334d596360548c",
+      "actually_opened_original": true,
+      "first_answer": "C",
+      "first_answer_confirmed": true,
+      "answer": "C",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "◇1",
+          "definition": "仅上半黑白反色，下半不变"
+        },
+        {
+          "rule": "○4",
+          "definition": "上下半区直接换位，内部朝向不变"
+        },
+        {
+          "rule": "□3",
+          "definition": "全图关于左上至右下对角线镜像"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 184,
+          "matches": false
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 124,
+          "matches": false
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 0,
+          "matches": true
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 64,
+          "matches": false
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 47,
+      "group": 16,
+      "image_sha256": "b2e5ed3ab00e37e9460255500a68812d568da48b83d9fc321ff6346f5a709075",
+      "actually_opened_original": true,
+      "first_answer": "D",
+      "first_answer_confirmed": true,
+      "answer": "D",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "○2",
+          "definition": "全图上下镜像"
+        },
+        {
+          "rule": "□4",
+          "definition": "全图关于右上至左下对角线镜像"
+        },
+        {
+          "rule": "◇1",
+          "definition": "仅上半黑白反色，下半不变"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 116,
+          "matches": false
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 32,
+          "matches": false
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 120,
+          "matches": false
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 0,
+          "matches": true
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 48,
+      "group": 16,
+      "image_sha256": "4d6b3c42ebe0722c103f22dd23ebcfcc08c0f3b111aec36c426aa4fe5222b175",
+      "actually_opened_original": true,
+      "first_answer": "C",
+      "first_answer_confirmed": true,
+      "answer": "C",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "○1",
+          "definition": "全图左右镜像"
+        },
+        {
+          "rule": "◇4",
+          "definition": "仅右半黑白反色，左半不变"
+        },
+        {
+          "rule": "□4",
+          "definition": "全图关于右上至左下对角线镜像"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 64,
+          "matches": false
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 128,
+          "matches": false
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 0,
+          "matches": true
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 80,
+          "matches": false
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 49,
+      "group": 17,
+      "image_sha256": "357140922f8ba95b3215a8b0af4852bdb134eadb484222002234e0d1fba44f52",
+      "actually_opened_original": true,
+      "first_answer": "D",
+      "first_answer_confirmed": true,
+      "answer": "D",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "▲1",
+          "definition": "保留左半，将其左右镜像覆盖右半"
+        },
+        {
+          "rule": "◇3",
+          "definition": "仅左半黑白反色，右半不变"
+        },
+        {
+          "rule": "◇1",
+          "definition": "仅上半黑白反色，下半不变"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 128,
+          "matches": false
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 128,
+          "matches": false
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 64,
+          "matches": false
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 0,
+          "matches": true
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 50,
+      "group": 17,
+      "image_sha256": "35946c4eaf713836a3cf3525269efe08ebe7e3dcde5c094e404bc0a541cbf4fa",
+      "actually_opened_original": true,
+      "first_answer": "A",
+      "first_answer_confirmed": true,
+      "answer": "A",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "▲1",
+          "definition": "保留左半，将其左右镜像覆盖右半"
+        },
+        {
+          "rule": "▲3",
+          "definition": "保留上半，将其上下镜像覆盖下半"
+        },
+        {
+          "rule": "◇2",
+          "definition": "仅下半黑白反色，上半不变"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 0,
+          "matches": true
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 56,
+          "matches": false
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 64,
+          "matches": false
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 128,
+          "matches": false
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 51,
+      "group": 17,
+      "image_sha256": "4c298573688f3054a4910c060f7387f065291da646c140a0dffea26caa8352a9",
+      "actually_opened_original": true,
+      "first_answer": "D",
+      "first_answer_confirmed": true,
+      "answer": "D",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "△3",
+          "definition": "保留上半，向下平移复制以覆盖下半"
+        },
+        {
+          "rule": "●1",
+          "definition": "全图顺时针旋转90°"
+        },
+        {
+          "rule": "▲3",
+          "definition": "保留上半，将其上下镜像覆盖下半"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 64,
+          "matches": false
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 64,
+          "matches": false
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 88,
+          "matches": false
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 0,
+          "matches": true
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 52,
+      "group": 18,
+      "image_sha256": "2b8e7b59a367114a2df5e1974b57e47d02a603a5cbe368eaff94b657d71abae9",
+      "actually_opened_original": true,
+      "first_answer": "C",
+      "first_answer_confirmed": true,
+      "answer": "C",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "◇1",
+          "definition": "仅上半黑白反色，下半不变"
+        },
+        {
+          "rule": "◆1",
+          "definition": "仅上半内部左右镜像，下半不变"
+        },
+        {
+          "rule": "●1",
+          "definition": "全图顺时针旋转90°"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 68,
+          "matches": false
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 104,
+          "matches": false
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 0,
+          "matches": true
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 128,
+          "matches": false
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 53,
+      "group": 18,
+      "image_sha256": "514ed6fd0d073b4a6260465bb9bae56b3125c390310605835c58224281790561",
+      "actually_opened_original": true,
+      "first_answer": "A",
+      "first_answer_confirmed": true,
+      "answer": "A",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "◆3",
+          "definition": "仅左半内部上下镜像，右半不变"
+        },
+        {
+          "rule": "◇1",
+          "definition": "仅上半黑白反色，下半不变"
+        },
+        {
+          "rule": "□3",
+          "definition": "全图关于左上至右下对角线镜像"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 0,
+          "matches": true
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 128,
+          "matches": false
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 68,
+          "matches": false
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 112,
+          "matches": false
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 54,
+      "group": 18,
+      "image_sha256": "68f5ba53987211337d42c271f7f92cd871ad6499ea612d488a7f71d58f99e0bc",
+      "actually_opened_original": true,
+      "first_answer": "B",
+      "first_answer_confirmed": true,
+      "answer": "B",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "◆4",
+          "definition": "仅右半内部上下镜像，左半不变"
+        },
+        {
+          "rule": "□4",
+          "definition": "全图关于右上至左下对角线镜像"
+        },
+        {
+          "rule": "◆3",
+          "definition": "仅左半内部上下镜像，右半不变"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 72,
+          "matches": false
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 0,
+          "matches": true
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 80,
+          "matches": false
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 88,
+          "matches": false
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 55,
+      "group": 19,
+      "image_sha256": "f8db24871313ac91eed2d473da593096634887e9a1574573abce1f8b81c6dcaf",
+      "actually_opened_original": true,
+      "first_answer": "A",
+      "first_answer_confirmed": true,
+      "answer": "A",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "△4",
+          "definition": "保留下半，向上平移复制以覆盖上半"
+        },
+        {
+          "rule": "●2",
+          "definition": "全图逆时针旋转90°"
+        },
+        {
+          "rule": "□1",
+          "definition": "四角小格各自顺时针转90°，格子位置不变"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 0,
+          "matches": true
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 32,
+          "matches": false
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 64,
+          "matches": false
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 92,
+          "matches": false
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 56,
+      "group": 19,
+      "image_sha256": "f066811e083b1fb72199a81f82c4be4647b81e203351d788fdeefc0dbb28ef66",
+      "actually_opened_original": true,
+      "first_answer": "D",
+      "first_answer_confirmed": true,
+      "answer": "D",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "□2",
+          "definition": "四角小格各自逆时针转90°，格子位置不变"
+        },
+        {
+          "rule": "●2",
+          "definition": "全图逆时针旋转90°"
+        },
+        {
+          "rule": "▲2",
+          "definition": "保留右半，将其左右镜像覆盖左半"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 64,
+          "matches": false
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 68,
+          "matches": false
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 64,
+          "matches": false
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 0,
+          "matches": true
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 57,
+      "group": 19,
+      "image_sha256": "a97c6fea5577dc1bafefe752f1c182f8bcf087e46c5ae4a0b972af82fee14fcd",
+      "actually_opened_original": true,
+      "first_answer": "B",
+      "first_answer_confirmed": false,
+      "answer": "D",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "▲2",
+          "definition": "保留右半，将其左右镜像覆盖左半"
+        },
+        {
+          "rule": "□1",
+          "definition": "四角小格各自顺时针转90°，格子位置不变"
+        },
+        {
+          "rule": "●2",
+          "definition": "全图逆时针旋转90°"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 32,
+          "matches": false
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 16,
+          "matches": false
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 64,
+          "matches": false
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 0,
+          "matches": true
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 58,
+      "group": 20,
+      "image_sha256": "f62fb20511b2cac50b4ec28d078258a4aac538866e47a55ebc48e446138d0ade",
+      "actually_opened_original": true,
+      "first_answer": "B",
+      "first_answer_confirmed": true,
+      "answer": "B",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "□4",
+          "definition": "全图关于右上至左下对角线镜像"
+        },
+        {
+          "rule": "◇1",
+          "definition": "仅上半黑白反色，下半不变"
+        },
+        {
+          "rule": "■1",
+          "definition": "象限位置顺时针轮换一格，内部朝向不变"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 96,
+          "matches": false
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 0,
+          "matches": true
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 128,
+          "matches": false
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 128,
+          "matches": false
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 59,
+      "group": 20,
+      "image_sha256": "13cb3e30b0ed21347879ef2dfed5edbdd0c780f950cfeb49e648d158ed0eaf5a",
+      "actually_opened_original": true,
+      "first_answer": "D",
+      "first_answer_confirmed": true,
+      "answer": "D",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "▲1",
+          "definition": "保留左半，将其左右镜像覆盖右半"
+        },
+        {
+          "rule": "■1",
+          "definition": "象限位置顺时针轮换一格，内部朝向不变"
+        },
+        {
+          "rule": "□3",
+          "definition": "全图关于左上至右下对角线镜像"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 36,
+          "matches": false
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 48,
+          "matches": false
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 80,
+          "matches": false
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 0,
+          "matches": true
+        }
+      ],
+      "visible_issues": []
+    },
+    {
+      "n": 60,
+      "group": 20,
+      "image_sha256": "1045853e15ae0c5b54c253d4701fef101ade1f8b88e7458d0b3ed25a68dade3c",
+      "actually_opened_original": true,
+      "first_answer": "C",
+      "first_answer_confirmed": true,
+      "answer": "C",
+      "unique": true,
+      "steps": [
+        {
+          "rule": "▲4",
+          "definition": "保留下半，将其上下镜像覆盖上半"
+        },
+        {
+          "rule": "△1",
+          "definition": "保留左半，向右平移复制以覆盖右半"
+        },
+        {
+          "rule": "□3",
+          "definition": "全图关于左上至右下对角线镜像"
+        }
+      ],
+      "option_comparison": [
+        {
+          "letter": "A",
+          "different_safe_samples": 104,
+          "matches": false
+        },
+        {
+          "letter": "B",
+          "different_safe_samples": 88,
+          "matches": false
+        },
+        {
+          "letter": "C",
+          "different_safe_samples": 0,
+          "matches": true
+        },
+        {
+          "letter": "D",
+          "different_safe_samples": 64,
+          "matches": false
+        }
+      ],
+      "visible_issues": []
+    }
+  ],
+  "all_unique": true,
+  "first_answers_correct": 16,
+  "actual_images_opened": 18,
+  "comparison_method": "实际裁取240×240输入PNG，以独立NumPy数组实现公开规则，比较每选项256个远离格线与斜边的内点；未读取作者模型或答案。",
+  "limits": [
+    "独立代理审题不等于教师盲审或学员试测",
+    "只检查题图与规则语义，没有查看最终Word页面或答案解析"
+  ],
+  "visual_notes": "已逐一打开18张原始题图。4×4格网正方，四候选共用外框，A—D位于框外下方；形状及右侧数字可辨；无明显裁切或重叠。"
+}

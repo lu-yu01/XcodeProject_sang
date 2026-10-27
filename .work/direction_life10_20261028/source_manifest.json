@@ -1,0 +1,92 @@
+[
+  {
+    "name": "house",
+    "label": "房屋线描",
+    "source_page": "https://openclipart.org/detail/213780/house-lineart",
+    "download_url": "https://openclipart.org/download/213780",
+    "original_svg_sha256": "08c4f7ce4264055e50f95d2790c44950fc69ac537cff5f3b0c368f06f4fe4e03",
+    "license": "CC0 / Public Domain as stated on source service page",
+    "license_evidence": "https://openclipart.org/share",
+    "use": "Native scene bases and explanatory diagrams; main question scenes unified with built-in image generation; original source vectors preserved."
+  },
+  {
+    "name": "car",
+    "label": "汽车线描",
+    "source_page": "https://openclipart.org/detail/215974/car-lineart",
+    "download_url": "https://openclipart.org/download/215974",
+    "original_svg_sha256": "3f357f7f10b5e3b3bf32ab81834080b9780425638d251f32561baaed40f7b2fd",
+    "license": "CC0 / Public Domain as stated on source service page",
+    "license_evidence": "https://openclipart.org/share",
+    "use": "Native scene bases and explanatory diagrams; main question scenes unified with built-in image generation; original source vectors preserved."
+  },
+  {
+    "name": "tree",
+    "label": "自然树线描",
+    "source_page": "https://openclipart.org/detail/213774/tree-lineart",
+    "download_url": "https://openclipart.org/download/213774",
+    "original_svg_sha256": "061b3c925711f6621dcc45abf905e4c63a6bb62f4e5df31b81db1bc14619f4f9",
+    "license": "CC0 / Public Domain as stated on source service page",
+    "license_evidence": "https://openclipart.org/share",
+    "use": "Native scene bases and explanatory diagrams; main question scenes unified with built-in image generation; original source vectors preserved."
+  },
+  {
+    "name": "lamp",
+    "label": "无背景路灯",
+    "source_page": "https://openclipart.org/detail/251873/street-lamp-without-background",
+    "download_url": "https://openclipart.org/download/251873",
+    "original_svg_sha256": "9b598591424d8bd632ee5948c3f969808e0f846ea06d45b9198e9c60ddfa13ae",
+    "license": "CC0 / Public Domain as stated on source service page",
+    "license_evidence": "https://openclipart.org/share",
+    "use": "Native scene bases and explanatory diagrams; main question scenes unified with built-in image generation; original source vectors preserved."
+  },
+  {
+    "name": "library",
+    "label": "图书馆建筑",
+    "source_page": "https://freesvg.org/library-building-icon",
+    "download_url": "https://freesvg.org/download/205739",
+    "original_svg_sha256": "ba9e6005fb6e00d6b414663aafdf3469e5bba21f97628f18d948c135284d225e",
+    "license": "CC0 / Public Domain as stated on source service page",
+    "license_evidence": "https://freesvg.org/library-building-icon",
+    "use": "Native scene bases and explanatory diagrams; main question scenes unified with built-in image generation; original source vectors preserved."
+  },
+  {
+    "name": "shop",
+    "label": "商店外观",
+    "source_page": "https://freesvg.org/supermarket-building",
+    "download_url": "https://freesvg.org/download/199559",
+    "original_svg_sha256": "c5676dfd42b1f61a4270952601f2aa5dfa58cf4377e03656e132a90a0a48c58e",
+    "license": "CC0 / Public Domain as stated on source service page",
+    "license_evidence": "https://freesvg.org/supermarket-building",
+    "use": "Native scene bases and explanatory diagrams; main question scenes unified with built-in image generation; original source vectors preserved."
+  },
+  {
+    "name": "clock",
+    "label": "钟楼外观",
+    "source_page": "https://freesvg.org/art-deco-clock-tower",
+    "download_url": "https://freesvg.org/download/59933",
+    "original_svg_sha256": "f3762197fad2509a4a10d59f8548bdf3ca63af3c01010ebf4c1c60b2075e3b25",
+    "license": "CC0 / Public Domain as stated on source service page",
+    "license_evidence": "https://freesvg.org/art-deco-clock-tower",
+    "use": "Native scene bases and explanatory diagrams; main question scenes unified with built-in image generation; original source vectors preserved."
+  },
+  {
+    "name": "person",
+    "label": "摄影者",
+    "source_page": "https://openclipart.org/detail/21887/comic-characters-photographer",
+    "download_url": "https://openclipart.org/download/21887",
+    "original_svg_sha256": "ed42f6ead8330fd580bac9e6ea6fb2c0cfbf67a8c244f54d569362aa03eb2593",
+    "license": "CC0 / Public Domain as stated on source service page",
+    "license_evidence": "https://openclipart.org/share",
+    "use": "Native scene bases and explanatory diagrams; main question scenes unified with built-in image generation; original source vectors preserved."
+  },
+  {
+    "name": "cinema",
+    "label": "影院外观",
+    "source_page": "https://freesvg.org/odeon-cinema-building-vector-image",
+    "download_url": "https://freesvg.org/download/30020",
+    "original_svg_sha256": "f93f3782fb96d80be48dbc195ca998b9f0445ea6436995eaaa1a972751971446",
+    "license": "CC0 / Public Domain as stated on source service page",
+    "license_evidence": "https://freesvg.org/odeon-cinema-building-vector-image",
+    "use": "Native scene bases and explanatory diagrams; main question scenes unified with built-in image generation; original source vectors preserved."
+  }
+]

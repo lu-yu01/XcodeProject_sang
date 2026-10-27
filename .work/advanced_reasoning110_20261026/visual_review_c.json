@@ -1,0 +1,336 @@
+{
+  "passed": true,
+  "pdf": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\preview.pdf",
+  "pdf_sha256": "1aefd1ff9834a0a1a0d34ca7123d49515bb4b8cfafa5368238aa32ecfc99a01b",
+  "word": "E:\\XcodeProject_sang\\模式题\\国考判断推理进阶专项练习-110题（含答案解析）.docx",
+  "word_sha256": "96fa64a3dacbd047a827f7a7021cf4269f22d531c44a280d83c71d94120b4183",
+  "pages_reviewed": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "method": "本次新导出后，对21—40每张原始150dpi页PNG逐张调用view_image(detail=original)实际查看；没有复用旧PDF/旧页图，也没有用抽文本或文件存在性替代视觉审阅。",
+  "pages": [
+    {
+      "page": 21,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-21.png",
+      "png_sha256": "e0816cb178759eab9349c01b452f52ac247ae27097763d1dcac9895d1c7fae53",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "第80题及四个选项完整；本节结束留白正常，页码21清楚。",
+      "defects": []
+    },
+    {
+      "page": 22,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-22.png",
+      "png_sha256": "215f24eb1170ec7008f4af7d87b83f0dd510e7af2d3ca5e2aeae29cf1ddfedb7",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "逻辑论证标题及81—84题，题干/设问/四项均完整，编号连续；84D未被截断。",
+      "defects": []
+    },
+    {
+      "page": 23,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-23.png",
+      "png_sha256": "f46090c1d0e45f0c11db45d0a98015d0a695a85e27dd9d4b04fd0dbc7d089dd7",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "85—89题完整，公交人数、筛检边界与对照条件均显示清楚，无选项拆到下一页。",
+      "defects": []
+    },
+    {
+      "page": 24,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-24.png",
+      "png_sha256": "bc8c2a2bf629447482fec018d75dc00b28651660869e21971acb0323c2618731",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "90—94题完整，百分数20%/50%清晰，94D与页脚有间隔，无遮挡。",
+      "defects": []
+    },
+    {
+      "page": 25,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-25.png",
+      "png_sha256": "ff784455dd8ff44fa60dbbb6c0b7bae8968f4bcbf72d44c58262bdada1c491a6",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "95—99题完整；95C单位成本与涨幅澄清已显示，97B跨行仍完整，99D在页内。",
+      "defects": []
+    },
+    {
+      "page": 26,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-26.png",
+      "png_sha256": "2fa20d3ff538d0eff6bcacb0122dfce1d1be1d8ce8dbd49371eabc916dc90a35",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "100—104题完整；101D本批范围、102A净变化、103C短于时间窗、104B不同借用人同时共码均为修订版。",
+      "defects": []
+    },
+    {
+      "page": 27,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-27.png",
+      "png_sha256": "ab8d4c42fb626a994255230ed69577be7dfe08b6c9ea475f11c57733256d9595",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "105—108题完整；106C分组比例人数齐全，107分母定义完整，108遗漏成本提问完整。",
+      "defects": []
+    },
+    {
+      "page": 28,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-28.png",
+      "png_sha256": "bc562de3c1556a906e85bb67aa8efe69fbe5be1a6eed45a58682d74760ede4a1",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "109—110题及四项均完整，110C保留记录与因果边界；章末留白正常，未出现空白页。",
+      "defects": []
+    },
+    {
+      "page": 29,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-29.png",
+      "png_sha256": "2c32a214bffb426da53ebb5906137764b262104545e83ec93b4558dfde4098ef",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "四类参考答案表均完整；1—110题号和答案可读，表格未跨页截行；81—110与本组冻结答案逐项一致。",
+      "defects": []
+    },
+    {
+      "page": 30,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-30.png",
+      "png_sha256": "6905e593e79def73c22576e05bd0de04d0e4847c2ecf5180c9dde353919a541e",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "类比解析标题及1—4题完整，每题A—D说明和最终答案均完整，无段落跨页遗失。",
+      "defects": []
+    },
+    {
+      "page": 31,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-31.png",
+      "png_sha256": "6a074bb8ab30486c2aaaf1260205158708bc951265530dc387e156b0df4d3b02",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "类比5—8题解析连续，答案B/C/D/A及四项解释完整。",
+      "defects": []
+    },
+    {
+      "page": 32,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-32.png",
+      "png_sha256": "71c9b593b4fa18a585d9194147b9f620b78c6a11f7ceebec01602d3ab3f6556f",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "类比9—12题解析连续；÷、×、=等公式字形清楚，分母和乘除方向说明完整。",
+      "defects": []
+    },
+    {
+      "page": 33,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-33.png",
+      "png_sha256": "65be708bbc64f5f5be7c87a0c3dd378e0acfa73e1bc096c92f3ee669a2b4c794",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "类比13—16题解析连续，填空方向与加工/类别/功能说明完整，标题与正文未分离。",
+      "defects": []
+    },
+    {
+      "page": 34,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-34.png",
+      "png_sha256": "7986300c208a43f848c440442c53d7d9b9099d5a5351eac9d01493f70b311c53",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "类比17—20题解析完整，圈号①②③字形清楚，集合包含/相离说明未裁切。",
+      "defects": []
+    },
+    {
+      "page": 35,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-35.png",
+      "png_sha256": "130e2bf2d108fedb62c12b669e30abad708e98408990af5b0e93759fa4080080",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "定义判断解析标题及21—24题完整，正负设问说明、四项及答案均清楚。",
+      "defects": []
+    },
+    {
+      "page": 36,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-36.png",
+      "png_sha256": "3bdf3326dc471b45e28c10b5d9efa35c42cc44bd4627fc236aec8f2fca2b7cef",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "定义25—29题解析完整；27独立随机抽样说明与28受试者/实施评分者盲均能正常显示，页末29结论完整。",
+      "defects": []
+    },
+    {
+      "page": 37,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-37.png",
+      "png_sha256": "e71d2ad9629dd9532a92e666fd2ebc36f99afd3e0b8ed06011e579d890c42a03",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "定义30—33题解析完整；训练→检索策略→成绩箭头正常，无缺字方框；重测与效标说明连续。",
+      "defects": []
+    },
+    {
+      "page": 38,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-38.png",
+      "png_sha256": "85031895f00877e4fcd8eeb4df084d5bb0b10f263acac3e35e54dd8d8c08c615",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "定义34—37题解析完整，归类说明无重叠，37D架构连接与新功能说明完整。",
+      "defects": []
+    },
+    {
+      "page": 39,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-39.png",
+      "png_sha256": "725c29fc7dfa06b60c91aa9a4ca61fe8e1d4279ac40127928b9f533711e07e4c",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "定义38—41题解析完整，人数/报酬与方法、研发类别、误差分类等说明连续，末尾41结论完整。",
+      "defects": []
+    },
+    {
+      "page": 40,
+      "png": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-40.png",
+      "png_sha256": "c8b994828eb01c4a0fa2a91a082d00dbd17fcf249021f7a89ad408335be8e7db",
+      "pixel_dimensions": [
+        1241,
+        1754
+      ],
+      "png_dpi_metadata": null,
+      "actual_image_viewed": true,
+      "view_detail": "original",
+      "passed": true,
+      "observations": "定义42—46题解析完整，双重语境与叙述范围说明清晰；46的90/120=75%、75/90≈83.3%、60/75=80%字形正确。",
+      "defects": []
+    }
+  ],
+  "summary": "20页均实际查看，无裁切、重叠、缺字、缺项、异常空白页或解析衔接缺失。显示题号、A—D项、页码顺序正常；第29页答案表完整。",
+  "numbering_scope": "视觉确认编号显示与顺序；底层原生Word编号另由build_info.native_list_numbering及根代理结构检查负责，不以像素审阅冒充XML证明。",
+  "read_only_review": true,
+  "word_or_images_modified": false
+}

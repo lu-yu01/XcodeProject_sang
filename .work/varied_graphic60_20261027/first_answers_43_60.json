@@ -1,0 +1,648 @@
+{
+  "scope": "Only public groups 15-19 and their actual question PNGs; group 20 pending final notification.",
+  "forbidden_materials_read": false,
+  "first_choices_frozen_at": "2026-10-28T00:19:17.677638",
+  "answers": [
+    {
+      "n": 43,
+      "first_choice": "C",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-43.png",
+      "actual_image_sha256": "0281fcabf00a31f45bf208e87bbb4cefadb54a1882d06fbd234d91adbbc71eef",
+      "actually_viewed": true,
+      "reason": "空实互换后，仅原空心的上、右两箭头成为实心并调转：上为黑左、右为黑右、下为白上、左为白右。",
+      "unique_visible_match": true,
+      "issues": []
+    },
+    {
+      "n": 44,
+      "first_choice": "B",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-44.png",
+      "actual_image_sha256": "f0337237a16f953765affbc1eb63e704b3f46ea71c78169b65d198688a424ba8",
+      "actually_viewed": true,
+      "reason": "顺时针移站后交换上下，再原地顺时针转向；上白上、右黑右、下白下、左黑上。",
+      "unique_visible_match": true,
+      "issues": []
+    },
+    {
+      "n": 45,
+      "first_choice": "C",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-45.png",
+      "actual_image_sha256": "e7ce532130a60238c7c6af81d0624f2b2f042003b900e8947e228899d0a9450b",
+      "actually_viewed": true,
+      "reason": "先交换左右并移站，原实心箭头调转，最后反空实；上白上、右黑右、下白左、左黑下。",
+      "unique_visible_match": true,
+      "issues": []
+    },
+    {
+      "n": 46,
+      "first_choice": "C",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-46.png",
+      "actual_image_sha256": "91c4f15f474cd8a995b1411378cd341a7e2d3fec7c4c45da93dfd98364e0890c",
+      "actually_viewed": true,
+      "reason": "顶端倒置F替换为同姿态P；左下正P变正R；右下R变F并作为当前F旋转180度，得到C。",
+      "unique_visible_match": true,
+      "issues": []
+    },
+    {
+      "n": 47,
+      "first_choice": "A",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-47.png",
+      "actual_image_sha256": "8bb27a770228fcc1911b3eca6c0ca84a05730c166340840f4d4c508fdc7d3bb9",
+      "actually_viewed": true,
+      "reason": "移站再交换下两站后，顶端来自原左下，左下来自原顶端，右下来自原右下；各字形左右镜像，A唯一。",
+      "unique_visible_match": true,
+      "issues": []
+    },
+    {
+      "n": 48,
+      "first_choice": "B",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-48.png",
+      "actual_image_sha256": "70464bf835442c1fd6c1184396e65631d204e64f2bf04d0d0751999659e84ad2",
+      "actually_viewed": true,
+      "reason": "顶端原F先顺时针转、再翻180度，替换为P再镜像成反向P；其余两字母分别得到倒F和顺时针转R，B匹配。",
+      "unique_visible_match": true,
+      "issues": []
+    },
+    {
+      "n": 49,
+      "first_choice": "B",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-49.png",
+      "actual_image_sha256": "07c8d7a38ff550d35bc72ce0f0fdd369bec429e51f19c4958db4c760a661d801",
+      "actually_viewed": true,
+      "reason": "先反空实，再只对现黑图形换形；自上顺时针为黑圆、白方、黑方、白圆、黑三角、白三角。",
+      "unique_visible_match": true,
+      "issues": [
+        "建议明确形状替换得到的新三角形统一尖端朝上；当前所有选项均朝上，可唯一选取。"
+      ]
+    },
+    {
+      "n": 50,
+      "first_choice": "A",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-50.png",
+      "actual_image_sha256": "4638044cca1a4a2c98a2269034dc9a06371c179d7dc2b2da30f8cc1f0fe8027f",
+      "actually_viewed": true,
+      "reason": "移站及交换上下后统一换形；自上顺时针为黑方、黑圆、白三角、白圆、黑三角、白方。",
+      "unique_visible_match": true,
+      "issues": [
+        "建议明确形状替换得到的新三角形统一尖端朝上；当前所有选项均朝上，可唯一选取。"
+      ]
+    },
+    {
+      "n": 51,
+      "first_choice": "C",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-51.png",
+      "actual_image_sha256": "92dfe8b8ba7169c98fa91c9f50f893d68b7e3f7baa7bc97393e9cdf3cb8f486b",
+      "actually_viewed": true,
+      "reason": "左右站位交换、顺移、现黑换形、反空实；自上顺时针为黑方、白方、黑三角、黑圆、白三角、白圆。",
+      "unique_visible_match": true,
+      "issues": [
+        "建议明确形状替换得到的新三角形统一尖端朝上；当前所有选项均朝上，可唯一选取。"
+      ]
+    },
+    {
+      "n": 52,
+      "first_choice": "B",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-52.png",
+      "actual_image_sha256": "5cd8c17656e925dffc5e9e9a22997af73c95ae46242bf8371fb6e1fd4fd77dd1",
+      "actually_viewed": true,
+      "reason": "分支交换得到白三角、黑方、白圆、黑圆；仅左分支换形后为白方、黑圆、白圆、黑圆。",
+      "unique_visible_match": true,
+      "issues": [
+        "建议明确形状替换得到的新三角形统一尖端朝上；当前所有选项均朝上，可唯一选取。"
+      ]
+    },
+    {
+      "n": 53,
+      "first_choice": "B",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-53.png",
+      "actual_image_sha256": "f3a147c9cb0e7a5dd90a2201f7536a02b61e418b028f9480ace01550d9edb782",
+      "actually_viewed": true,
+      "reason": "同胞交换，再交换中间二者，最后现黑换形；从左至右为白方、白三角、黑三角、黑圆。",
+      "unique_visible_match": true,
+      "issues": [
+        "建议明确形状替换得到的新三角形统一尖端朝上；当前所有选项均朝上，可唯一选取。"
+      ]
+    },
+    {
+      "n": 54,
+      "first_choice": "C",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-54.png",
+      "actual_image_sha256": "da3e702edcaa849c251f344aab01b45c404bb6bacb7330eaa53bb70b1899f650",
+      "actually_viewed": true,
+      "reason": "反空实、左分支换形、整分支交换、现黑换形；从左至右为白圆、白方、黑圆、黑三角。",
+      "unique_visible_match": true,
+      "issues": [
+        "建议明确形状替换得到的新三角形统一尖端朝上；当前所有选项均朝上，可唯一选取。"
+      ]
+    },
+    {
+      "n": 55,
+      "first_choice": "B",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-55.png",
+      "actual_image_sha256": "3b4a4e276de97ee873aaca76bfe3b6a88ce50924f27af2c0f4b3429ee37ae658",
+      "actually_viewed": true,
+      "reason": "内标记右移得到点、横、叉、点，再交换中间两标记；轮廓不动，结果点、叉、横、点。",
+      "unique_visible_match": true,
+      "issues": []
+    },
+    {
+      "n": 56,
+      "first_choice": "A",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-56.png",
+      "actual_image_sha256": "2b2a47d17a4fe199667a03def3bb551a643d22638ff5604c37a8c9e862d7b958",
+      "actually_viewed": true,
+      "reason": "轮廓左移后整体逆序，轮廓为三角、方、圆、六边形；标记替换后为叉、点、横、横。",
+      "unique_visible_match": true,
+      "issues": []
+    },
+    {
+      "n": 57,
+      "first_choice": "C",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-57.png",
+      "actual_image_sha256": "3fe7d931702128178e23ad33deaa09447fc4232692491f5e028867eead118ff9",
+      "actually_viewed": true,
+      "reason": "轮廓换形并左移得到方、三角、六边形、圆；标记右移后交换中间项得到横、点、叉、横。",
+      "unique_visible_match": true,
+      "issues": []
+    },
+    {
+      "n": 58,
+      "first_choice": "D",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-58.png",
+      "actual_image_sha256": "ae2db7f85cb4b1fc681de9b87929170a2a8aa18e49cd004afddd79dd15b9618c",
+      "actually_viewed": true,
+      "reason": "自上顺时针以0—7记射线：异或后左黑位为1、2、3、4，取补后右黑位为3、6、7，D唯一。",
+      "unique_visible_match": true,
+      "issues": []
+    },
+    {
+      "n": 59,
+      "first_choice": "B",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-59.png",
+      "actual_image_sha256": "3e73affce2408dfa5589baf11d23b1f954cd9b143491d36982a48c9c978d50f3",
+      "actually_viewed": true,
+      "reason": "交换并取交集后左黑位2、3、4、5，右黑位4、5；各转180度得到左0、1、6、7，右0、1，B唯一。",
+      "unique_visible_match": true,
+      "issues": []
+    },
+    {
+      "n": 60,
+      "first_choice": "D",
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-60.png",
+      "actual_image_sha256": "ea19a5104b9e5f2eb8afe3dee723c85d4325805ce37f9bcadd40d48883b4f1f1",
+      "actually_viewed": true,
+      "reason": "右取补为1、4、5；左并集后为除0外全部，交换后异或得到左2、3、6、7，右为除0外全部，D唯一。",
+      "unique_visible_match": true,
+      "issues": []
+    }
+  ],
+  "pending": [],
+  "public_groups_15_19_snapshot": [
+    {
+      "id": 15,
+      "title": "箭头的站位、指向与空实",
+      "intro": "四站固定在上、右、下、左，圆周细线仅用于定位，不参与操作。空心与实心以整个箭头是否填黑区分。移站不会改变箭头指向。",
+      "rules": [
+        {
+          "id": "T15_orbit",
+          "code": "↻",
+          "text": "四个箭头沿圆周顺时针移一站，指向不变。"
+        },
+        {
+          "id": "T15_turn",
+          "code": "↷",
+          "text": "每个箭头的指向均顺时针转90°，位置不变。"
+        },
+        {
+          "id": "T15_black",
+          "code": "B",
+          "text": "仅实心箭头原地调转180°。"
+        },
+        {
+          "id": "T15_fill",
+          "code": "◇",
+          "text": "所有箭头的实心、空心互换。"
+        },
+        {
+          "id": "T15_vertical",
+          "code": "↕",
+          "text": "仅交换上、下两站的箭头。"
+        },
+        {
+          "id": "T15_horizontal",
+          "code": "↔",
+          "text": "仅交换左、右两站的箭头。"
+        }
+      ],
+      "question_numbers": [
+        43,
+        44,
+        45
+      ],
+      "questions": [
+        {
+          "n": 43,
+          "chain": [
+            "◇",
+            "B"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-43.png",
+          "image_sha256": "0281fcabf00a31f45bf208e87bbb4cefadb54a1882d06fbd234d91adbbc71eef"
+        },
+        {
+          "n": 44,
+          "chain": [
+            "↻",
+            "↕",
+            "↷"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-44.png",
+          "image_sha256": "f0337237a16f953765affbc1eb63e704b3f46ea71c78169b65d198688a424ba8"
+        },
+        {
+          "n": 45,
+          "chain": [
+            "↔",
+            "↻",
+            "B",
+            "◇"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-45.png",
+          "image_sha256": "e7ce532130a60238c7c6af81d0624f2b2f042003b900e8947e228899d0a9450b"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "字母替换与字形操作",
+      "intro": "三站依次为上、右下、左下。字母可旋转、镜像；字母替换保留已有的旋转和镜像状态。三角形细线仅定位。",
+      "rules": [
+        {
+          "id": "T16_cycle",
+          "code": "F→P",
+          "text": "所有字母按F→P→R→F替换，朝向保留。"
+        },
+        {
+          "id": "T16_orbit",
+          "code": "△",
+          "text": "三个字母沿三角形顺时针移一站，朝向不变。"
+        },
+        {
+          "id": "T16_turn",
+          "code": "↷",
+          "text": "每个字母原地顺时针旋转90°。"
+        },
+        {
+          "id": "T16_mirror",
+          "code": "⇆",
+          "text": "每个字母仅在原位左右镜像。"
+        },
+        {
+          "id": "T16_select",
+          "code": "F²",
+          "text": "仅当前的F原地旋转180°。"
+        },
+        {
+          "id": "T16_base",
+          "code": "↔",
+          "text": "仅交换下方两个字母，朝向不变。"
+        }
+      ],
+      "question_numbers": [
+        46,
+        47,
+        48
+      ],
+      "questions": [
+        {
+          "n": 46,
+          "chain": [
+            "F→P",
+            "F²"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-46.png",
+          "image_sha256": "91c4f15f474cd8a995b1411378cd341a7e2d3fec7c4c45da93dfd98364e0890c"
+        },
+        {
+          "n": 47,
+          "chain": [
+            "△",
+            "↔",
+            "⇆"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-47.png",
+          "image_sha256": "8bb27a770228fcc1911b3eca6c0ca84a05730c166340840f4d4c508fdc7d3bb9"
+        },
+        {
+          "n": 48,
+          "chain": [
+            "↷",
+            "F²",
+            "F→P",
+            "⇆"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-48.png",
+          "image_sha256": "70464bf835442c1fd6c1184396e65631d204e64f2bf04d0d0751999659e84ad2"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "环形轨道上的选择性变换",
+      "intro": "六站自最上方起顺时针排列。轨道只定位；移站不改变三角形的尖端朝向。形状替换只改形状，保留空实。",
+      "rules": [
+        {
+          "id": "T17_orbit",
+          "code": "↻",
+          "text": "六个图形沿环形轨道顺时针移一站。"
+        },
+        {
+          "id": "T17_reverse",
+          "code": "⇆",
+          "text": "以竖直直径为轴交换左右站位，图形自身不变。"
+        },
+        {
+          "id": "T17_shape",
+          "code": "S",
+          "text": "所有形状按圆→三角→方→圆替换，空实保留。"
+        },
+        {
+          "id": "T17_fill",
+          "code": "◇",
+          "text": "所有图形的实心、空心互换。"
+        },
+        {
+          "id": "T17_opposite",
+          "code": "↕",
+          "text": "仅交换最上、最下两站的图形。"
+        },
+        {
+          "id": "T17_black",
+          "code": "B",
+          "text": "仅实心图形按圆→三角→方→圆替换。"
+        }
+      ],
+      "question_numbers": [
+        49,
+        50,
+        51
+      ],
+      "questions": [
+        {
+          "n": 49,
+          "chain": [
+            "◇",
+            "B"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-49.png",
+          "image_sha256": "07c8d7a38ff550d35bc72ce0f0fdd369bec429e51f19c4958db4c760a661d801"
+        },
+        {
+          "n": 50,
+          "chain": [
+            "↻",
+            "↕",
+            "S"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-50.png",
+          "image_sha256": "4638044cca1a4a2c98a2269034dc9a06371c179d7dc2b2da30f8cc1f0fe8027f"
+        },
+        {
+          "n": 51,
+          "chain": [
+            "⇆",
+            "↻",
+            "B",
+            "◇"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-51.png",
+          "image_sha256": "92dfe8b8ba7169c98fa91c9f50f893d68b7e3f7baa7bc97393e9cdf3cb8f486b"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "树形末端与分支操作",
+      "intro": "树形连线固定不变，只操作四个末端图形。末端位置按从左到右计数；形状替换保留空实。",
+      "rules": [
+        {
+          "id": "T18_branches",
+          "code": "⇄",
+          "text": "交换根节点下的两个整分支，各分支内部次序不变。"
+        },
+        {
+          "id": "T18_siblings",
+          "code": "↔",
+          "text": "左右分支内部的两个末端图形分别互换。"
+        },
+        {
+          "id": "T18_middle",
+          "code": "M",
+          "text": "仅交换从左到右第2、3个末端图形。"
+        },
+        {
+          "id": "T18_left",
+          "code": "L",
+          "text": "仅左分支图形按圆→三角→方→圆替换。"
+        },
+        {
+          "id": "T18_fill",
+          "code": "◇",
+          "text": "四个末端图形的实心、空心互换。"
+        },
+        {
+          "id": "T18_black",
+          "code": "B",
+          "text": "仅实心末端按圆→三角→方→圆替换。"
+        }
+      ],
+      "question_numbers": [
+        52,
+        53,
+        54
+      ],
+      "questions": [
+        {
+          "n": 52,
+          "chain": [
+            "⇄",
+            "L"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-52.png",
+          "image_sha256": "5cd8c17656e925dffc5e9e9a22997af73c95ae46242bf8371fb6e1fd4fd77dd1"
+        },
+        {
+          "n": 53,
+          "chain": [
+            "↔",
+            "M",
+            "B"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-53.png",
+          "image_sha256": "f3a147c9cb0e7a5dd90a2201f7536a02b61e418b028f9480ace01550d9edb782"
+        },
+        {
+          "n": 54,
+          "chain": [
+            "◇",
+            "L",
+            "⇄",
+            "B"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-54.png",
+          "image_sha256": "da3e702edcaa849c251f344aab01b45c404bb6bacb7330eaa53bb70b1899f650"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "外轮廓与内部标记分离",
+      "intro": "四个图形均由外轮廓和内标记组成。轮廓与标记可分别移动；未提到的另一层及位置均不变。",
+      "rules": [
+        {
+          "id": "T19_reverse",
+          "code": "⇆",
+          "text": "四个完整图形的左右次序颠倒。"
+        },
+        {
+          "id": "T19_outlines",
+          "code": "E",
+          "text": "仅外轮廓依次左移一位，最左轮廓移至最右。"
+        },
+        {
+          "id": "T19_marks",
+          "code": "K",
+          "text": "仅内部标记依次右移一位，最右标记移至最左。"
+        },
+        {
+          "id": "T19_markcycle",
+          "code": "·→×",
+          "text": "所有内标记按点→叉→横杠→点替换。"
+        },
+        {
+          "id": "T19_shapecycle",
+          "code": "S",
+          "text": "所有外轮廓按圆→方→三角→六边形→圆替换。"
+        },
+        {
+          "id": "T19_middle",
+          "code": "M",
+          "text": "仅交换中间两个图形的内部标记。"
+        }
+      ],
+      "question_numbers": [
+        55,
+        56,
+        57
+      ],
+      "questions": [
+        {
+          "n": 55,
+          "chain": [
+            "K",
+            "M"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-55.png",
+          "image_sha256": "3b4a4e276de97ee873aaca76bfe3b6a88ce50924f27af2c0f4b3429ee37ae658"
+        },
+        {
+          "n": 56,
+          "chain": [
+            "E",
+            "⇆",
+            "·→×"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-56.png",
+          "image_sha256": "2b2a47d17a4fe199667a03def3bb551a643d22638ff5604c37a8c9e862d7b958"
+        },
+        {
+          "n": 57,
+          "chain": [
+            "S",
+            "E",
+            "K",
+            "M"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-57.png",
+          "image_sha256": "3fe7d931702128178e23ad33deaa09447fc4232692491f5e028867eead118ff9"
+        }
+      ]
+    }
+  ],
+  "public_group_snapshot_note": "Snapshot added immediately after first-choice freeze and reporting; image hashes were verified during freeze.",
+  "group20_first_choices_frozen_at": "2026-10-28T00:22:31.437539",
+  "public_group20_final_snapshot": {
+    "id": 20,
+    "title": "双输入八辐射线形运算",
+    "intro": "两图各有八条射线位置，自正上方起顺时针排列；黑段为集合元素，空白细框为未选段。集合运算逐段进行，均使用该步操作前的左右图。",
+    "rules": [
+      {
+        "id": "T20_xor",
+        "code": "⊕",
+        "text": "左图改为左右图的异或；右图不变。"
+      },
+      {
+        "id": "T20_and",
+        "code": "∩",
+        "text": "右图改为左右图的交集；左图不变。"
+      },
+      {
+        "id": "T20_or",
+        "code": "∪",
+        "text": "左图改为左右图的并集；右图不变。"
+      },
+      {
+        "id": "T20_swap",
+        "code": "⇄",
+        "text": "左右两图互换。"
+      },
+      {
+        "id": "T20_half",
+        "code": "↶",
+        "text": "左右两图分别在原位旋转180°。"
+      },
+      {
+        "id": "T20_complement",
+        "code": "¬",
+        "text": "右图八条射线取补：黑段变白，白段变黑。"
+      }
+    ],
+    "question_numbers": [
+      58,
+      59,
+      60
+    ],
+    "questions": [
+      {
+        "n": 58,
+        "chain": [
+          "⊕",
+          "¬"
+        ],
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-58.png",
+        "image_sha256": "ae2db7f85cb4b1fc681de9b87929170a2a8aa18e49cd004afddd79dd15b9618c"
+      },
+      {
+        "n": 59,
+        "chain": [
+          "⇄",
+          "∩",
+          "↶"
+        ],
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-59.png",
+        "image_sha256": "3e73affce2408dfa5589baf11d23b1f954cd9b143491d36982a48c9c978d50f3"
+      },
+      {
+        "n": 60,
+        "chain": [
+          "¬",
+          "∪",
+          "⇄",
+          "⊕"
+        ],
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-60.png",
+        "image_sha256": "ea19a5104b9e5f2eb8afe3dee723c85d4325805ce37f9bcadd40d48883b4f1f1"
+      }
+    ]
+  }
+}

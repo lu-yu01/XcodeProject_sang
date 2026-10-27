@@ -1,0 +1,102 @@
+{
+  "passed": true,
+  "word_sha256": "8f22e32bc8e704c04511ae6229e83d458f299e6d55d8c60a3cc1773dc76b7031",
+  "grids": [
+    {
+      "question": 9,
+      "part": "word/media/image9.png",
+      "outer_box": [
+        480,
+        40,
+        1320,
+        880
+      ],
+      "outer_size_px": [
+        840,
+        840
+      ],
+      "cell_size_px": [
+        280,
+        280
+      ],
+      "grid_lines_continuous": true,
+      "word_grid_dimensions_mm": [
+        74.76716851851853,
+        74.76715954415954
+      ],
+      "square_in_word": true
+    },
+    {
+      "question": 10,
+      "part": "word/media/image10.png",
+      "outer_box": [
+        480,
+        40,
+        1320,
+        880
+      ],
+      "outer_size_px": [
+        840,
+        840
+      ],
+      "cell_size_px": [
+        280,
+        280
+      ],
+      "grid_lines_continuous": true,
+      "word_grid_dimensions_mm": [
+        74.76716851851853,
+        74.76715954415954
+      ],
+      "square_in_word": true
+    },
+    {
+      "question": 11,
+      "part": "word/media/image11.png",
+      "outer_box": [
+        480,
+        40,
+        1320,
+        880
+      ],
+      "outer_size_px": [
+        840,
+        840
+      ],
+      "cell_size_px": [
+        280,
+        280
+      ],
+      "grid_lines_continuous": true,
+      "word_grid_dimensions_mm": [
+        74.76716851851853,
+        74.76715954415954
+      ],
+      "square_in_word": true
+    },
+    {
+      "question": 12,
+      "part": "word/media/image12.png",
+      "outer_box": [
+        480,
+        40,
+        1320,
+        880
+      ],
+      "outer_size_px": [
+        840,
+        840
+      ],
+      "cell_size_px": [
+        280,
+        280
+      ],
+      "grid_lines_continuous": true,
+      "word_grid_dimensions_mm": [
+        74.76716851851853,
+        74.76715954415954
+      ],
+      "square_in_word": true
+    }
+  ]
+}

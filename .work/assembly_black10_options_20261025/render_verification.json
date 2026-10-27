@@ -1,0 +1,85 @@
+{
+  "passed": true,
+  "pages": 10,
+  "question_count": 10,
+  "embedded_images": 20,
+  "word_sha256": "c85f610506f23f384047c399b7d75d8ada12e7d2cd5e15d9f3e462e66f83af55",
+  "pdf_sha256": "63f3a30c9b4ef502dc68a1a0ec2135f4d54016e61cb9155e240efe6c0ffad9b3",
+  "all_stems_and_analyses_present": true,
+  "two_questions_per_page": true,
+  "question_and_answer_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "page_images": [
+    {
+      "page": 1,
+      "path": "E:\\XcodeProject_sang\\.work\\assembly_black10_options_20261025\\render\\page-01.png",
+      "sha256": "481e7e73a8d3a15df725c6b322bdc61faf8834f0e846e5c4e52c75a31e6808b7"
+    },
+    {
+      "page": 2,
+      "path": "E:\\XcodeProject_sang\\.work\\assembly_black10_options_20261025\\render\\page-02.png",
+      "sha256": "f21bef2cd11a50283aa6e60156f4e53d00979141f0aebbb9900e242d2524e58d"
+    },
+    {
+      "page": 3,
+      "path": "E:\\XcodeProject_sang\\.work\\assembly_black10_options_20261025\\render\\page-03.png",
+      "sha256": "367c84bb38581952e9f7527a51bd9cce75eb603b9682b42b1e501fc7ead8aa08"
+    },
+    {
+      "page": 4,
+      "path": "E:\\XcodeProject_sang\\.work\\assembly_black10_options_20261025\\render\\page-04.png",
+      "sha256": "5643292996b4a6366ea00f7fbd7acd39ec3101679833229ca17c24da17132e7e"
+    },
+    {
+      "page": 5,
+      "path": "E:\\XcodeProject_sang\\.work\\assembly_black10_options_20261025\\render\\page-05.png",
+      "sha256": "152b1437c832b9558707e70dbbb7672a479d4522d3f19d0a3593edd240e098e7"
+    },
+    {
+      "page": 6,
+      "path": "E:\\XcodeProject_sang\\.work\\assembly_black10_options_20261025\\render\\page-06.png",
+      "sha256": "654ec485bcb6f4369c375f807706f2c641aebe36e6598b4871cefe6ab83b68b2"
+    },
+    {
+      "page": 7,
+      "path": "E:\\XcodeProject_sang\\.work\\assembly_black10_options_20261025\\render\\page-07.png",
+      "sha256": "1a1888a05b945e2eac9c4b56e324096b36eeea7478cd00e5c6054ede413feee6"
+    },
+    {
+      "page": 8,
+      "path": "E:\\XcodeProject_sang\\.work\\assembly_black10_options_20261025\\render\\page-08.png",
+      "sha256": "c1ed33e7b5ced1ae4856b171fa987524a5dec6211ecaac0884fbf95da841e61f"
+    },
+    {
+      "page": 9,
+      "path": "E:\\XcodeProject_sang\\.work\\assembly_black10_options_20261025\\render\\page-09.png",
+      "sha256": "e58b0fbd2cc00a36f4dcac3bd44f21b81c94f1934b0cd54d0e3a1f1e5bdbfeae"
+    },
+    {
+      "page": 10,
+      "path": "E:\\XcodeProject_sang\\.work\\assembly_black10_options_20261025\\render\\page-10.png",
+      "sha256": "1bf8061bafe0e0c79edcc7f9f6a21ee1dc8172084a31ea28a33d2d90a3f315fc"
+    }
+  ],
+  "preview_png_status": "cleaned_after_completed_visual_review"
+}

@@ -1,0 +1,54 @@
+{
+  "reviewer": "life_blind_06_10",
+  "phase": "revision_closure",
+  "scope": "第7题光源投影标记及其与全部候选的几何对应",
+  "sources_used": [
+    "public_questions.json中当前第7题",
+    "实际重新打开当前assets/question-07.png原始分辨率画面"
+  ],
+  "prohibited_sources_read": false,
+  "first_answers_and_old_audit_overwritten": false,
+  "preserved_files_sha256": {
+    "life_first_06_10.json": "AFDA5E0BECCE3F71F4615E09FEA701B1CFF8F18FA5B5780BD696CBAEE0DE0A95",
+    "life_blind_06_10.json": "F4EA23B79DC9C660675DFD3EAE20DF975FE6460442062B0B5954144920B9E56F"
+  },
+  "public_questions_sha256_at_review": "22DE116E7392B25AD558B6C9AF6BD7C5995915482DC9ECD59ACD44982F3A6B53",
+  "question": {
+    "n": 7,
+    "stem": "上方俯视图中，黑点表示点光源在地面的竖直投影，并给出三根相同竖直圆柱及观察者的位置。点光源高于柱顶，地面水平，光源到三柱之间无遮挡。观察者面向三柱，看到的柱子和影子最可能是哪一项？",
+    "options": ["图A", "图B", "图C", "图D"],
+    "image": "assets/question-07.png",
+    "image_sha256": "184D11FDEBD9BFCC3AAEBC38A6FD5A4C72A19ABC5A1BB1E7CAF4C163C374715C",
+    "actually_reopened": true,
+    "first_answer": "D",
+    "closure_answer": "D",
+    "answer_changed": false,
+    "status": "pass",
+    "unique_from_current_image": true,
+    "projection_marker_check": "立杆下方有明确实心黑点，引线与‘光源投影’标签对应。题干同时明确此黑点表示点光源在地面的竖直投影，因此不再需要从灯头、杆底或图标中心猜测平面位置。",
+    "geometric_check": [
+      "当前图中，光源投影黑点约在(780,101)，三柱平面位置约为(853,178)、(915,145)、(894,98)。这些坐标仅用于记录目视定位，未读取任何生成模型或解析。",
+      "观察者位于柱群东南，图示视线向西北；画面右方向对应观察者右侧，即东北方向。按这个视线，俯视图左下的柱映到画面左侧，中间偏右的柱映到画面中部且较近，上方柱映到画面右侧且较远。",
+      "点光源高于柱顶，所以各柱地面影子从柱脚沿‘黑点→柱脚’射线继续向外，不能直接使用灯头图标的位置。",
+      "将三条地面影向变换到观察画面后，左柱影在左侧并向观察者一侧延伸；中柱影在右侧并向观察者一侧延伸；右柱影也向右并向观察者一侧延伸，横向分量较明显。D中左下、右下、向右较平的三影关系与之相符。"
+    ],
+    "candidate_checks": {
+      "A": "已实际检查：三影均向右下，左柱影的横向方向与黑点对应的地面射线不符，排除。",
+      "B": "已实际检查：可见影子向画面后方左上延伸，与光源投影在柱群更后、影子总体朝观察者侧延伸的关系不符，排除。",
+      "C": "已实际检查：中柱与右柱影主要偏左，与黑点对应的两条地面射线应向观察者右侧的关系不符，排除。",
+      "D": "已实际检查：左柱影朝左下，中柱影朝右下，右柱影朝右且较平，三影发散方向、柱体左右及近远关系相容；是唯一符合项。"
+    },
+    "candidate_visual_integrity": "当前四幅候选均已重新目视检查，柱体仍为三根，左右与近远结构清楚，未见修订上方标记导致候选图形、影向或选项标签损坏。此结论为本次视觉检查结果，不声称做过旧图像素差分。",
+    "previous_issue_resolved": true,
+    "previous_issue_resolution": "题干与黑点标签共同固定了唯一的光源地面投影位置，消除了此前灯头与立杆底端可能被分别当作光源平面位置的歧义。",
+    "remaining_ambiguities": [],
+    "required_revisions": []
+  },
+  "other_reviewed_images_unchanged_since_first_freeze": {
+    "6": {"answer": "A", "image_sha256": "FD34F40F334563780CA24B489C8A8445F28B2E02D757B844475718CB5D7D856D", "hash_unchanged": true},
+    "8": {"answer": "B", "image_sha256": "8C680BC492F9CEC8594A2B7A692C0C961D99CDC76314DD570D2E4183F4C63001", "hash_unchanged": true},
+    "9": {"answer": "C", "image_sha256": "464C148B8CFB1CF28B4CB432AA430C582C3F6C21CFE7780619AB1CCE57C49727", "hash_unchanged": true},
+    "10": {"answer": "A", "image_sha256": "D39FB8F3A56F0ECBE3290AB4DBD1C6B1DBDB9BDAC832BD4ABD2722766C7DB4DE", "hash_unchanged": true}
+  },
+  "closure_result": "第7题原图示歧义已闭环，D的唯一性恢复；第6—10题答案保持A、D、B、C、A。"
+}

@@ -1,0 +1,40 @@
+{
+  "scope": "仅本代理为放大复看创建的7张临时裁切图；21张题图不改不删",
+  "deleted": [
+    {
+      "name": "blind_crop16.png",
+      "bytes": 17553,
+      "sha256": "2c0d9318baaafb293067eedbf32fcab04f11fa45320760aa07f2d1f8a6e31696"
+    },
+    {
+      "name": "blind_crop17.png",
+      "bytes": 41387,
+      "sha256": "24b90f6d26e567a09cf68a5b50c5c1257af7a961f95e80c0bd9c8bf52808a065"
+    },
+    {
+      "name": "blind_crop21.png",
+      "bytes": 18073,
+      "sha256": "845aa33835e2f474aa1bbc1e2dd26db1d13edd5d721d09c3b2bf53f87497709f"
+    },
+    {
+      "name": "blind_reinspect03.png",
+      "bytes": 17500,
+      "sha256": "1eb76ab62f0d2733f6f769abd4a066fab240b622d631f940c9a7f2573fbb60cf"
+    },
+    {
+      "name": "blind_reinspect07.png",
+      "bytes": 17513,
+      "sha256": "8523709552f24f98eb52fd705a55d959c77406ad9d66d6ba68a86c694b152da4"
+    },
+    {
+      "name": "blind_reinspect08.png",
+      "bytes": 18897,
+      "sha256": "2ef6fb5596642449a29b9a59a02efc3399c0dd7803b720ab9c20408808c7edc3"
+    },
+    {
+      "name": "blind_reinspect12.png",
+      "bytes": 18038,
+      "sha256": "bf7d984ea3a21aa25c289107cc35fda508e76b5912bc63fe94f3e8d042e29305"
+    }
+  ]
+}

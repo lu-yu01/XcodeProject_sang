@@ -1,0 +1,184 @@
+{
+  "task": "三黑块立体拼合10题 形制依据",
+  "requested_form": "完整目标3黑块，已知①②各1黑块，四候选③各1黑块，三个部件必须共同拼合目标；本次10题全部按此形制创作。",
+  "source_color_note": "原图多称灰色；本次用户要求黑色标记，同为材料颜色约束，不是透视面的光照灰度。",
+  "strict_examples": [
+    {
+      "year": 2023,
+      "exam": "湖北省事业单位联考 职业能力倾向测验 C类 4月2日",
+      "question": 65,
+      "source_path": "真题/试卷/事业单位笔试-职测真题试卷/word版事业单位笔试职测563套/2023年4月2日湖北省事业单位联考《职业能力倾向测验》C类_2023122810_23.docx",
+      "source_sha256": "bb0b5eab66e019c0a749ea3b2490e02d952352020bda86c6fa7a7fbeade7c941",
+      "body_paragraph_index_zero_based": 438,
+      "stem_text": "65. (2023湖北)  左图为相同大小的白色和灰色正方体组合而成的多面体，下列立体图形和①、②可组合成左图所示多面体的是（    ）。",
+      "target_dark_cube_count": 3,
+      "target_view_count": 1,
+      "known_parts_dark_cube_counts": [
+        1,
+        1
+      ],
+      "option_dark_cube_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "actual_source_figure_reviewed": true,
+      "retained_reference": ".work/assembly_black10_20261025/reference/career2023_439_0.png",
+      "provenance": "本地题库/教研汇编，未核实为官方原卷或官方答案",
+      "target_dark_count_evidence": "原图可见左上1块、右侧上下2块，共3块；两已知部件及四候选各1灰块。"
+    },
+    {
+      "year": 2024,
+      "exam": "全国事业单位联考 职业能力倾向测验 C类 11月2日",
+      "question": 65,
+      "source_path": "真题/最新试卷/前图相关真题/23-25联考职测ABC类试题/2024年11月2日全国事业单位联考C类《职业能力倾向测验》笔试试题（黑龙江_云南_甘肃_吉林_海南_四川_湖北_新疆_重庆_安徽_青海）（网友回忆版）.docx",
+      "source_sha256": "5321f3f72d6a03067223c68fc7d5ea92066e8146c8b2ef893dc6141ce263ff27",
+      "body_paragraph_index_zero_based": 310,
+      "stem_text": "65   以下左图为15个白色和3个灰色正方体堆积而成的多面体，其可以由包括右边2个多面体在内的3个多面 体组合而成，问第3个多面体是( )。",
+      "target_dark_cube_count": 3,
+      "target_view_count": 1,
+      "known_parts_dark_cube_counts": [
+        1,
+        1
+      ],
+      "option_dark_cube_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "actual_source_figure_reviewed": true,
+      "retained_reference": ".work/assembly_black10_20261025/reference/career2024_all_510_0.png",
+      "provenance": "本地题库/教研汇编，未核实为官方原卷或官方答案",
+      "target_dark_count_evidence": "正文15白3灰；原图目标上方两块、右下前端一块为灰；已给两部件及四候选各1灰。",
+      "figure_format_note": "保留PNG为原嵌入JPEG的像素格式转换，未改变几何内容。"
+    },
+    {
+      "year": 2025,
+      "exam": "全国事业单位联考 职业能力倾向测验 C类 3月29日",
+      "question": 65,
+      "source_path": "真题/最新试卷/前图相关真题/23-25联考职测ABC类试题/2025年3月29日全国事业单位联考C类《职业能力倾向测验》笔试试题（广西_贵...docx",
+      "source_sha256": "d717d693583848181838347183e510a54c0c541332de66341c01e2def270d228",
+      "body_paragraph_index_zero_based": 346,
+      "stem_text": "65   下图中，左边的多面体由相同大小的15个白色和3个灰色正方体组合而成，其可以折分为①、②和③, 问以下哪项能填入问号处?()",
+      "target_dark_cube_count": 3,
+      "target_view_count": 1,
+      "known_parts_dark_cube_counts": [
+        1,
+        1
+      ],
+      "option_dark_cube_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "actual_source_figure_reviewed": true,
+      "retained_reference": null,
+      "provenance": "本地题库/教研汇编，未核实为官方原卷或官方答案",
+      "target_dark_count_evidence": "正文15白3灰；原图显示目标、①②和第三部件问号，四候选各1灰。目标仅单幅直观图，部分灰块可能被遮挡，不冒称原题已提供双视图。"
+    },
+    {
+      "year": 2025,
+      "exam": "国家公务员录用考试 副省级",
+      "question": 85,
+      "source_path": "真题/最新试卷/前图相关真题/国家/2025年国考真题/2025国考副省-题本+解析.docx",
+      "source_sha256": "c4500496d0f53164a4ea2a422a8081ab295ac264cb9630c4edf026876330b220",
+      "body_paragraph_index_zero_based": 27,
+      "stem_text": "85.左边为15个白色和3个灰色正方体组合而成多面体的正、反两面直观图，其可以由①、②和③三个多面体组合而成，问哪一项能填入问号处？",
+      "target_dark_cube_count": 3,
+      "target_view_count": 2,
+      "known_parts_dark_cube_counts": [
+        1,
+        1
+      ],
+      "option_dark_cube_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "actual_source_figure_reviewed": true,
+      "retained_reference": ".work/assembly_black10_20261025/reference/guokao2025_28_0.png",
+      "provenance": "本地题库/教研汇编，未核实为官方原卷或官方答案",
+      "target_dark_count_evidence": "正文15白3灰；目标正反两直观图，已知两件各灰1；A—D均有1灰。",
+      "same_item_other_exam": {
+        "exam": "2025国考地市级",
+        "question": 82,
+        "source_path": "真题/最新试卷/前图相关真题/国家/2025年国考真题/2025国考地市卷—题本+解析.docx",
+        "counted_once": true
+      }
+    }
+  ],
+  "contrasting_samples": [
+    {
+      "year": 2020,
+      "exam": "全国事业单位联考 职测 C类 下半年7月",
+      "question": 62,
+      "source_path": "真题/试卷/事业单位笔试-职测真题试卷/word版事业单位笔试职测563套/2020年下半年事业单位联考《职测》真题（C类）-7月_2023122914_28.docx",
+      "source_sha256": "a839e4132e520cf8e77fd04dbf430557ec964aa8c3dd97e4a73cba1ba6f633a8",
+      "body_paragraph_index_zero_based": 413,
+      "stem_text": "62. (2020全国)左图给定的是由相同大小的21个白色立方体和3个灰色立方体堆叠而成多面体的正视图和后视图，该多面体可以由①、②和③三个多面体组合而成，问以下哪项能填入问号处？",
+      "target_dark_cube_count": 3,
+      "target_view_count": 2,
+      "known_parts_dark_cube_counts": [
+        0,
+        0
+      ],
+      "option_dark_cube_counts": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "actual_source_figure_reviewed": true,
+      "retained_reference": null,
+      "provenance": "本地题库/教研汇编，未核实为官方原卷或官方答案",
+      "difference": "目标21白3灰，①②为纯白，候选③独自包含3灰；不属于每部件各1灰形制。仅记录该具体样本，不推导各考试统一历史分界。"
+    },
+    {
+      "year": 2026,
+      "exam": "国家公务员录用考试 行政执法类",
+      "question": 82,
+      "source_path": "真题/真题录制（事业单位、独立省份、国省考）/国考/2026年国家公务员录用考试【行政执法卷】.docx",
+      "source_sha256": "a4da10ce62bd283c2ee4bc3e11297474e4e4b48ef7d2b672ab72440e9e836bdc",
+      "body_paragraph_index_zero_based": 512,
+      "stem_text": "82. 左边为由12个白色正方体和3个灰色正方体组合而成的多面体前后两面直观图，问其可以由除哪项外的三个多面体组合而成？",
+      "target_dark_cube_count": 3,
+      "target_view_count": 2,
+      "known_parts_dark_cube_counts": [],
+      "option_dark_cube_counts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "actual_source_figure_reviewed": true,
+      "retained_reference": null,
+      "provenance": "本地题库/教研汇编，未核实为官方原卷或官方答案",
+      "difference": "目标12白3灰，四候选各1灰。设问是除哪项外，其余三件拼目标；没有固定已知的①②。属于三灰块选非变式，不作为本次已给两件求第三件的严格版式证据。"
+    }
+  ],
+  "retained_reference_count": 3,
+  "old_rule_priority_changes": [
+    {
+      "file": "知识库/立体拼合题命题与检查规则.md",
+      "section": "2 出题与干扰项 第一条",
+      "old_rule": "先确定凹凸补全、两部件组合、相同部件组合、三部件补形或选非等具体形式",
+      "priority_clause": "通用类型保留；本次用户已指定10题全部为给完整目标与两件已知部件、选择第三件的三部件拼合，不能改为单件补缺、两部件选结果或四选三选非。"
+    },
+    {
+      "file": "知识库/立体拼合题命题与检查规则.md",
+      "section": "3 图形表达 第一条",
+      "old_rule": "灰度若只用于面的朝向，须说明不表示材料颜色约束",
+      "priority_clause": "本次黑色小正方体是真实材料颜色，完整目标3黑、每个部件1黑必须随刚体旋转保留，不得用只有形状不核颜色的验证；白块侧面的透视灰度须与黑块明显区分。"
+    },
+    {
+      "file": "知识库/立体拼合题命题与检查规则.md",
+      "section": "4 正确性与成品检查",
+      "priority_clause": "在24种正向旋转和无重叠覆盖之外，增加逐格黑白颜色匹配，分别验证形状可拼而颜色不符等干扰；本次固定两已知件与候选三件共同覆盖完整目标。"
+    }
+  ],
+  "historical_boundary_note": "本次不研究或固化2023年前后的统一演变边界，只记录这些具体样例并执行用户全部三黑块的最终要求。"
+}

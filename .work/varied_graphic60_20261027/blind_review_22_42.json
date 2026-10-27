@@ -1,0 +1,3720 @@
+{
+  "reviewer": "varied_lines (non-author for groups 8–14)",
+  "source_boundary": "Read only public_questions.json groups 8–14, their actual question PNGs, and own frozen first-answer file; never opened curves.py, author answers, groups.json, questions.json or solution PNGs.",
+  "method": "First visually opened all 21 question PNGs and froze answers before any automated model. Then separately decoded visible ring sectors, petals, Venn regions, beads, gap/corner positions, filled droplet silhouettes, and curve orientation/dash density from PNG pixels, and wrote fresh operations from public rule text. Compared computed result against all four decoded options.",
+  "first_record": "first_answers_22_42.json (unchanged)",
+  "questions": [
+    {
+      "n": 22,
+      "group": 8,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-22.png",
+      "actual_image_sha256": "008fe303d3e93e0bf5139b0bd5600ae9436b158bd36fa1d7136ffbebff8aff31",
+      "actually_viewed": true,
+      "first_answer": "C",
+      "independent_answer": "C",
+      "unique": true,
+      "matching_options": [
+        "C"
+      ],
+      "source_from_public_image": [
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+          ]
+        ],
+        "B": [
+          [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1
+          ],
+          [
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1
+          ]
+        ],
+        "C": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1
+          ]
+        ],
+        "D": [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "槽界、内外环间隔及顶部参照清楚，左右翻转按页面竖轴无歧义。",
+      "defect": null
+    },
+    {
+      "n": 23,
+      "group": 8,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-23.png",
+      "actual_image_sha256": "4160f2373117afb9454828315633c74bf138105e71ffbecc6bfeb8af7e8683ee",
+      "actually_viewed": true,
+      "first_answer": "D",
+      "independent_answer": "D",
+      "unique": true,
+      "matching_options": [
+        "D"
+      ],
+      "source_from_public_image": [
+        [
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+          ]
+        ],
+        "B": [
+          [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1
+          ]
+        ],
+        "C": [
+          [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        ],
+        "D": [
+          [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "槽界、内外环间隔及顶部参照清楚，左右翻转按页面竖轴无歧义。",
+      "defect": null
+    },
+    {
+      "n": 24,
+      "group": 8,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-24.png",
+      "actual_image_sha256": "2249e44cade68182518f7ceee6bbf5580cf0a2db2079d044c295792c26536815",
+      "actually_viewed": true,
+      "first_answer": "D",
+      "independent_answer": "D",
+      "unique": true,
+      "matching_options": [
+        "D"
+      ],
+      "source_from_public_image": [
+        [
+          1,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          1
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1
+          ]
+        ],
+        "B": [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          [
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+          ]
+        ],
+        "C": [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "D": [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "槽界、内外环间隔及顶部参照清楚，左右翻转按页面竖轴无歧义。",
+      "defect": null
+    },
+    {
+      "n": 25,
+      "group": 9,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-25.png",
+      "actual_image_sha256": "e37c4cf0459c7901a23e5e2954657b8eda1ff5f4edcf82df84706470a24fedd8",
+      "actually_viewed": true,
+      "first_answer": "C",
+      "independent_answer": "C",
+      "unique": true,
+      "matching_options": [
+        "C"
+      ],
+      "source_from_public_image": [
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            1,
+            0,
+            1,
+            1,
+            0,
+            0
+          ]
+        ],
+        "B": [
+          [
+            0,
+            0,
+            1,
+            1,
+            1,
+            0
+          ],
+          [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+          ]
+        ],
+        "C": [
+          [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+          ]
+        ],
+        "D": [
+          [
+            1,
+            0,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            1,
+            1,
+            0,
+            0,
+            0,
+            1
+          ],
+          [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "长短差异与黑白填充可直接分辨，中心圈与花瓣分离。",
+      "defect": null
+    },
+    {
+      "n": 26,
+      "group": 9,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-26.png",
+      "actual_image_sha256": "15cb948bc7df41db9b4bd60465883093ca2e834bf1df8e15cda1599c4c32976f",
+      "actually_viewed": true,
+      "first_answer": "C",
+      "independent_answer": "C",
+      "unique": true,
+      "matching_options": [
+        "C"
+      ],
+      "source_from_public_image": [
+        [
+          1,
+          0,
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          1,
+          0,
+          1
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            0,
+            0,
+            1,
+            1,
+            1,
+            0
+          ],
+          [
+            0,
+            1,
+            1,
+            0,
+            1,
+            1
+          ]
+        ],
+        "B": [
+          [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        ],
+        "C": [
+          [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        ],
+        "D": [
+          [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "长短差异与黑白填充可直接分辨，中心圈与花瓣分离。",
+      "defect": null
+    },
+    {
+      "n": 27,
+      "group": 9,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-27.png",
+      "actual_image_sha256": "1e12567b8d2b68969c5c4a1137b06e0914f54d48688a6f3e7eaf54483a19d6ac",
+      "actually_viewed": true,
+      "first_answer": "A",
+      "independent_answer": "A",
+      "unique": true,
+      "matching_options": [
+        "A"
+      ],
+      "source_from_public_image": [
+        [
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            1,
+            0,
+            1,
+            1
+          ]
+        ],
+        "B": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            1,
+            1
+          ]
+        ],
+        "C": [
+          [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        ],
+        "D": [
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            1,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            1,
+            0,
+            1,
+            1
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "长短差异与黑白填充可直接分辨，中心圈与花瓣分离。",
+      "defect": null
+    },
+    {
+      "n": 28,
+      "group": 10,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-28.png",
+      "actual_image_sha256": "7fe4029dd06c1686fde9c4ace531bdbdb6875cdabbc1c9cef0baec08273abaf2",
+      "actually_viewed": true,
+      "first_answer": "C",
+      "independent_answer": "C",
+      "unique": true,
+      "matching_options": [
+        "C"
+      ],
+      "source_from_public_image": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "options_from_public_image": {
+        "A": [
+          1,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        "B": [
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        "C": [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "D": [
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "independent_steps": [
+        [
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "三圆归属按公开标号判断，黑区内圆弧不另描白线，但单独/双叠/三叠区域仍能确定。",
+      "defect": null
+    },
+    {
+      "n": 29,
+      "group": 10,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-29.png",
+      "actual_image_sha256": "00cf916d9b3eb2b60826ac4f45178eea0c5fd5ce2104ada917b50af19a346f9c",
+      "actually_viewed": true,
+      "first_answer": "B",
+      "independent_answer": "B",
+      "unique": true,
+      "matching_options": [
+        "B"
+      ],
+      "source_from_public_image": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "options_from_public_image": {
+        "A": [
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        "B": [
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        "C": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          0,
+          1
+        ],
+        "D": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "independent_steps": [
+        [
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "三圆归属按公开标号判断，黑区内圆弧不另描白线，但单独/双叠/三叠区域仍能确定。",
+      "defect": null
+    },
+    {
+      "n": 30,
+      "group": 10,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-30.png",
+      "actual_image_sha256": "71457dbe9137acd6637b59810520afaaec29b2a4117cf604abb18a44562672db",
+      "actually_viewed": true,
+      "first_answer": "C",
+      "independent_answer": "C",
+      "unique": true,
+      "matching_options": [
+        "C"
+      ],
+      "source_from_public_image": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "options_from_public_image": {
+        "A": [
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "B": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          1,
+          1
+        ],
+        "C": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        "D": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "independent_steps": [
+        [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "三圆归属按公开标号判断，黑区内圆弧不另描白线，但单独/双叠/三叠区域仍能确定。",
+      "defect": null
+    },
+    {
+      "n": 31,
+      "group": 11,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-31.png",
+      "actual_image_sha256": "348dae065d84f03bc1ee86ff002ff34e84f7b967635d883960ae1106bc770e99",
+      "actually_viewed": true,
+      "first_answer": "A",
+      "independent_answer": "A",
+      "unique": true,
+      "matching_options": [
+        "A"
+      ],
+      "source_from_public_image": [
+        [
+          1,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0,
+            1
+          ]
+        ],
+        "B": [
+          [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        ],
+        "C": [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "D": [
+          [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "六珠间距足够，上下轨分离；黑白珠与波线辨识清楚。",
+      "defect": null
+    },
+    {
+      "n": 32,
+      "group": 11,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-32.png",
+      "actual_image_sha256": "48ced97d4d8ea56e88fb23f647d08a8c70152aba4de9c7a7cdb4ddb1b4a0c0df",
+      "actually_viewed": true,
+      "first_answer": "D",
+      "independent_answer": "D",
+      "unique": true,
+      "matching_options": [
+        "D"
+      ],
+      "source_from_public_image": [
+        [
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          1,
+          0,
+          1,
+          0
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            1,
+            0,
+            1,
+            0,
+            0,
+            1
+          ]
+        ],
+        "B": [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ]
+        ],
+        "C": [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            1,
+            0,
+            1,
+            1,
+            0,
+            1
+          ]
+        ],
+        "D": [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "六珠间距足够，上下轨分离；黑白珠与波线辨识清楚。",
+      "defect": null
+    },
+    {
+      "n": 33,
+      "group": 11,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-33.png",
+      "actual_image_sha256": "650ec0a16fa37c65b2141db63fa4f23259267709b3a141afb06f95a2b7f4ce71",
+      "actually_viewed": true,
+      "first_answer": "A",
+      "independent_answer": "A",
+      "unique": true,
+      "matching_options": [
+        "A"
+      ],
+      "source_from_public_image": [
+        [
+          0,
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            0,
+            0,
+            1,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ]
+        ],
+        "B": [
+          [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+          ]
+        ],
+        "C": [
+          [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ]
+        ],
+        "D": [
+          [
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            0,
+            0,
+            1,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "六珠间距足够，上下轨分离；黑白珠与波线辨识清楚。",
+      "defect": null
+    },
+    {
+      "n": 34,
+      "group": 12,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-34.png",
+      "actual_image_sha256": "77cef684c7b5158ca108a0560ba4fac312a4f64efa57771f62c43ad500711559",
+      "actually_viewed": true,
+      "first_answer": "A",
+      "independent_answer": "A",
+      "unique": true,
+      "matching_options": [
+        "A"
+      ],
+      "source_from_public_image": [
+        [
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          0
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            3,
+            3,
+            3
+          ],
+          [
+            0,
+            1,
+            3
+          ]
+        ],
+        "B": [
+          [
+            3,
+            3,
+            3
+          ],
+          [
+            1,
+            2,
+            0
+          ]
+        ],
+        "C": [
+          [
+            3,
+            3,
+            3
+          ],
+          [
+            0,
+            1,
+            2
+          ]
+        ],
+        "D": [
+          [
+            2,
+            2,
+            2
+          ],
+          [
+            0,
+            1,
+            3
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            3,
+            3,
+            3
+          ],
+          [
+            1,
+            2,
+            0
+          ]
+        ],
+        [
+          [
+            3,
+            3,
+            3
+          ],
+          [
+            0,
+            1,
+            3
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "三层开口、角点均完整显示，无角点被开口遮住的问题。",
+      "defect": null
+    },
+    {
+      "n": 35,
+      "group": 12,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-35.png",
+      "actual_image_sha256": "96e43d35ffda6df84dfc2fa81e200ba9d87f4a662431eedf418d687daa044512",
+      "actually_viewed": true,
+      "first_answer": "B",
+      "independent_answer": "B",
+      "unique": true,
+      "matching_options": [
+        "B"
+      ],
+      "source_from_public_image": [
+        [
+          3,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          1
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            0,
+            2,
+            1
+          ],
+          [
+            0,
+            0,
+            1
+          ]
+        ],
+        "B": [
+          [
+            2,
+            3,
+            1
+          ],
+          [
+            0,
+            0,
+            1
+          ]
+        ],
+        "C": [
+          [
+            2,
+            1,
+            3
+          ],
+          [
+            0,
+            0,
+            1
+          ]
+        ],
+        "D": [
+          [
+            2,
+            3,
+            1
+          ],
+          [
+            1,
+            2,
+            1
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            2,
+            1,
+            3
+          ],
+          [
+            1,
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            1,
+            3
+          ],
+          [
+            1,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            2,
+            3,
+            1
+          ],
+          [
+            0,
+            0,
+            1
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "三层开口、角点均完整显示，无角点被开口遮住的问题。",
+      "defect": null
+    },
+    {
+      "n": 36,
+      "group": 12,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-36.png",
+      "actual_image_sha256": "7a522839a6450a1c0ad5057ea218250a53ce6076018aa9742c1c66dfcc0dc602",
+      "actually_viewed": true,
+      "first_answer": "A",
+      "independent_answer": "A",
+      "unique": true,
+      "matching_options": [
+        "A"
+      ],
+      "source_from_public_image": [
+        [
+          3,
+          3,
+          1
+        ],
+        [
+          1,
+          2,
+          1
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            0,
+            2,
+            2
+          ],
+          [
+            1,
+            0,
+            1
+          ]
+        ],
+        "B": [
+          [
+            1,
+            1,
+            3
+          ],
+          [
+            1,
+            0,
+            1
+          ]
+        ],
+        "C": [
+          [
+            0,
+            2,
+            2
+          ],
+          [
+            0,
+            0,
+            3
+          ]
+        ],
+        "D": [
+          [
+            2,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            1
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            1,
+            3,
+            3
+          ],
+          [
+            1,
+            2,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            3,
+            3
+          ],
+          [
+            0,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            3,
+            1,
+            1
+          ],
+          [
+            1,
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            0,
+            2,
+            2
+          ],
+          [
+            1,
+            0,
+            1
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "三层开口、角点均完整显示，无角点被开口遮住的问题。",
+      "defect": null
+    },
+    {
+      "n": 37,
+      "group": 13,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-37.png",
+      "actual_image_sha256": "b3d6e25a83bb9351271397d2c0074b876f0e9ebabc939fa6a965fe3b744716e3",
+      "actually_viewed": true,
+      "first_answer": "A",
+      "independent_answer": "A",
+      "unique": true,
+      "matching_options": [
+        "A"
+      ],
+      "source_from_public_image": [
+        [
+          3,
+          3,
+          2,
+          3
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            0,
+            0,
+            0,
+            3
+          ],
+          [
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "B": [
+          [
+            0,
+            0,
+            3,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            1
+          ]
+        ],
+        "C": [
+          [
+            3,
+            3,
+            3,
+            2
+          ],
+          [
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "D": [
+          [
+            2,
+            3,
+            3,
+            2
+          ],
+          [
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            0,
+            0,
+            3,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            0,
+            0,
+            3
+          ],
+          [
+            1,
+            0,
+            0,
+            0
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "水滴尖端与圆端差异明显，四方向及黑白均可区分。",
+      "defect": null
+    },
+    {
+      "n": 38,
+      "group": 13,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-38.png",
+      "actual_image_sha256": "28bfe9fbba504a8fa29063c0fd37e7ccdc5012834df56cff488ed2351674fba4",
+      "actually_viewed": true,
+      "first_answer": "C",
+      "independent_answer": "C",
+      "unique": true,
+      "matching_options": [
+        "C"
+      ],
+      "source_from_public_image": [
+        [
+          2,
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            2,
+            2,
+            0,
+            2
+          ],
+          [
+            0,
+            1,
+            1,
+            0
+          ]
+        ],
+        "B": [
+          [
+            2,
+            1,
+            0,
+            2
+          ],
+          [
+            0,
+            1,
+            1,
+            0
+          ]
+        ],
+        "C": [
+          [
+            2,
+            0,
+            1,
+            2
+          ],
+          [
+            0,
+            1,
+            1,
+            0
+          ]
+        ],
+        "D": [
+          [
+            2,
+            3,
+            1,
+            2
+          ],
+          [
+            0,
+            1,
+            1,
+            0
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            2,
+            0,
+            2,
+            2
+          ],
+          [
+            0,
+            0,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            2,
+            0,
+            1,
+            2
+          ],
+          [
+            0,
+            0,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            2,
+            0,
+            1,
+            2
+          ],
+          [
+            0,
+            1,
+            1,
+            0
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "水滴尖端与圆端差异明显，四方向及黑白均可区分。",
+      "defect": null
+    },
+    {
+      "n": 39,
+      "group": 13,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-39.png",
+      "actual_image_sha256": "4682f8c20e0717349abbbb9ebe7490c23b2eaa73d4c4ddd1199739bb581678c9",
+      "actually_viewed": true,
+      "first_answer": "A",
+      "independent_answer": "A",
+      "unique": true,
+      "matching_options": [
+        "A"
+      ],
+      "source_from_public_image": [
+        [
+          2,
+          1,
+          0,
+          3
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            1,
+            0,
+            3,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ],
+        "B": [
+          [
+            2,
+            1,
+            0,
+            3
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ],
+        "C": [
+          [
+            1,
+            0,
+            3,
+            2
+          ],
+          [
+            1,
+            0,
+            0,
+            1
+          ]
+        ],
+        "D": [
+          [
+            0,
+            3,
+            2,
+            3
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            3,
+            0,
+            1,
+            2
+          ],
+          [
+            0,
+            0,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            3,
+            2,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            0,
+            3,
+            2,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            3,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "水滴尖端与圆端差异明显，四方向及黑白均可区分。",
+      "defect": null
+    },
+    {
+      "n": 40,
+      "group": 14,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-40.png",
+      "actual_image_sha256": "86163d44fb131479601f1c430afdc8570241ca5b4b218cf1cc061436e2025264",
+      "actually_viewed": true,
+      "first_answer": "B",
+      "independent_answer": "B",
+      "unique": true,
+      "matching_options": [
+        "B"
+      ],
+      "source_from_public_image": [
+        [
+          1,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+          ]
+        ],
+        "B": [
+          [
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0,
+            1
+          ]
+        ],
+        "C": [
+          [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          [
+            1,
+            0,
+            1,
+            0,
+            0,
+            1
+          ]
+        ],
+        "D": [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "六段由黑节点分隔；上弯/下弯、虚/实线均清楚，圆方两端参照明确。",
+      "defect": null
+    },
+    {
+      "n": 41,
+      "group": 14,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-41.png",
+      "actual_image_sha256": "fee893a0b580130056b2417fb5ebc8fd50ae68ac785779a54bbe0a178f63835e",
+      "actually_viewed": true,
+      "first_answer": "B",
+      "independent_answer": "B",
+      "unique": true,
+      "matching_options": [
+        "B"
+      ],
+      "source_from_public_image": [
+        [
+          0,
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          0,
+          1
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            1,
+            1,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        ],
+        "B": [
+          [
+            1,
+            1,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ]
+        ],
+        "C": [
+          [
+            1,
+            1,
+            1,
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+          ]
+        ],
+        "D": [
+          [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            1,
+            1
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            1,
+            1,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            1,
+            1,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "六段由黑节点分隔；上弯/下弯、虚/实线均清楚，圆方两端参照明确。",
+      "defect": null
+    },
+    {
+      "n": 42,
+      "group": 14,
+      "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-42.png",
+      "actual_image_sha256": "9428032ba8e04e2d0d625d7f79a0c2e2950c3d01fcabd64391cbb4df49f86144",
+      "actually_viewed": true,
+      "first_answer": "D",
+      "independent_answer": "D",
+      "unique": true,
+      "matching_options": [
+        "D"
+      ],
+      "source_from_public_image": [
+        [
+          1,
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "options_from_public_image": {
+        "A": [
+          [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        ],
+        "B": [
+          [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            0,
+            0,
+            1
+          ]
+        ],
+        "C": [
+          [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        ],
+        "D": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      },
+      "independent_steps": [
+        [
+          [
+            0,
+            1,
+            0,
+            1,
+            1,
+            1
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            0,
+            1,
+            1,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        ],
+        [
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        ],
+        [
+          [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        ]
+      ],
+      "code_font_clear": true,
+      "diagram_clear": true,
+      "uncertainty": false,
+      "diagram_comment": "六段由黑节点分隔；上弯/下弯、虚/实线均清楚，圆方两端参照明确。",
+      "defect": null
+    }
+  ],
+  "first_vs_independent_agreement": 21,
+  "unique_current_answers": 21,
+  "actual_views": 22,
+  "revisions": [
+    {
+      "n": 28,
+      "old_sha256": "85ce79cdfb67b9eb012746febe7f3dae8533f37cfa4d3ea0720ff2baa63d9912",
+      "old_first_answer": "C",
+      "new_sha256": "7fe4029dd06c1686fde9c4ace531bdbdb6875cdabbc1c9cef0baec08273abaf2",
+      "new_actual_view": true,
+      "new_answer": "C",
+      "new_reason": "新版源黑区为①单独、③单独、①②。A后单独区①②黑；B后双叠区仅②③黑，其余白。C唯一吻合。",
+      "old_issue": "Root separately found original answer AB happened to equal a single mirror operation; original was therefore replaced. Frozen original record retained.",
+      "resolved": true
+    }
+  ],
+  "current_blocking_defects": [],
+  "font_review": "所有箭头、反向符号、⊕及拉丁字母均完整可见；未见方框缺字、文字与曲线重叠或候选字母进入图内。",
+  "overall": "当前21题均有唯一可见匹配项，首次目视选择与独立像素模型一致；仅28题按root修订追加新版审查，未覆盖旧首次记录。",
+  "final_code_recheck": {
+    "scope": "Current public question PNGs 22–42 after chain-spacing and operation-code display revisions",
+    "actual_final_recheck_views": 21,
+    "recheck_method": "Reopened all 21 final question PNGs, checked visible source and all four options, reread public rule text and normalized revised codes to the independently solved previous chains. Source/option semantics and order retain previous independent unique-answer check.",
+    "code_semantics_checks": [
+      {
+        "rule_id": "C11_2",
+        "previous_code": "→",
+        "current_code": "R",
+        "text": "仅上轨黑白状态向右循环移一珠。",
+        "meaning_unchanged": true
+      },
+      {
+        "rule_id": "C11_3",
+        "previous_code": "←",
+        "current_code": "L",
+        "text": "仅下轨黑白状态向左循环移一珠。",
+        "meaning_unchanged": true
+      },
+      {
+        "rule_id": "C14_1",
+        "previous_code": "→",
+        "current_code": "P",
+        "text": "仅上、下弯属性向右循环移动一段。",
+        "meaning_unchanged": true
+      },
+      {
+        "rule_id": "C14_2",
+        "previous_code": "←",
+        "current_code": "Q",
+        "text": "仅虚、实线属性向左循环移动一段。",
+        "meaning_unchanged": true
+      }
+    ],
+    "questions": [
+      {
+        "n": 22,
+        "group": 8,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-22.png",
+        "final_image_sha256": "8f5792b7048ef140b6485fe50f73ace94af7b5a9170be1a4a69a2c14d8d66674",
+        "previous_review_image_sha256": "008fe303d3e93e0bf5139b0bd5600ae9436b158bd36fa1d7136ffbebff8aff31",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "↻",
+          "↶"
+        ],
+        "normalized_previous_chain": [
+          "↻",
+          "↶"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "C",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 23,
+        "group": 8,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-23.png",
+        "final_image_sha256": "565f31c8ca5525d789fc9c9280956e233db203eeaa02e8ba1ae977ea4ef992a5",
+        "previous_review_image_sha256": "4160f2373117afb9454828315633c74bf138105e71ffbecc6bfeb8af7e8683ee",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "S",
+          "⊕",
+          "N"
+        ],
+        "normalized_previous_chain": [
+          "S",
+          "⊕",
+          "N"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "D",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 24,
+        "group": 8,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-24.png",
+        "final_image_sha256": "14cef443d594eccd47d4bd57dc950deee680a769069528cce633f436cf41218d",
+        "previous_review_image_sha256": "2249e44cade68182518f7ceee6bbf5580cf0a2db2079d044c295792c26536815",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "⇆",
+          "↶",
+          "⊕",
+          "↻"
+        ],
+        "normalized_previous_chain": [
+          "⇆",
+          "↶",
+          "⊕",
+          "↻"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "D",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 25,
+        "group": 9,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-25.png",
+        "final_image_sha256": "2ab0977db3e4cc41c39a773b6512e2c396846fae3cba21ea3b801cba463c045a",
+        "previous_review_image_sha256": "e37c4cf0459c7901a23e5e2954657b8eda1ff5f4edcf82df84706470a24fedd8",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "P",
+          "Q"
+        ],
+        "normalized_previous_chain": [
+          "P",
+          "Q"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "C",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 26,
+        "group": 9,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-26.png",
+        "final_image_sha256": "91d3503206b60548fb798cace8859f30dd9d92ead780be255ea521623b5d14dd",
+        "previous_review_image_sha256": "15cb948bc7df41db9b4bd60465883093ca2e834bf1df8e15cda1599c4c32976f",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "N",
+          "X",
+          "S"
+        ],
+        "normalized_previous_chain": [
+          "N",
+          "X",
+          "S"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "C",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 27,
+        "group": 9,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-27.png",
+        "final_image_sha256": "87ab6b63dac99f8547bb86f10c36b65b42b279ab0fc8e3bdc0ffacb8d20fed20",
+        "previous_review_image_sha256": "1e12567b8d2b68969c5c4a1137b06e0914f54d48688a6f3e7eaf54483a19d6ac",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "J",
+          "Q",
+          "X",
+          "P"
+        ],
+        "normalized_previous_chain": [
+          "J",
+          "Q",
+          "X",
+          "P"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "A",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 28,
+        "group": 10,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-28.png",
+        "final_image_sha256": "8360e53a568f492003322869d153be10b0a904c4188ab30e7e969872aad0b111",
+        "previous_review_image_sha256": "7fe4029dd06c1686fde9c4ace531bdbdb6875cdabbc1c9cef0baec08273abaf2",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "A",
+          "B"
+        ],
+        "normalized_previous_chain": [
+          "A",
+          "B"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "C",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 29,
+        "group": 10,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-29.png",
+        "final_image_sha256": "601798f2db5bc094204f87e64605dfb1fa47056b7e25ba30704fae1066d8b186",
+        "previous_review_image_sha256": "00cf916d9b3eb2b60826ac4f45178eea0c5fd5ce2104ada917b50af19a346f9c",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "S",
+          "T",
+          "N"
+        ],
+        "normalized_previous_chain": [
+          "S",
+          "T",
+          "N"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "B",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 30,
+        "group": 10,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-30.png",
+        "final_image_sha256": "fc9db536acff81af619b668c998332f9a6111e86818cfbb39a7084419b14de8c",
+        "previous_review_image_sha256": "71457dbe9137acd6637b59810520afaaec29b2a4117cf604abb18a44562672db",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "⇆",
+          "B",
+          "T",
+          "A"
+        ],
+        "normalized_previous_chain": [
+          "⇆",
+          "B",
+          "T",
+          "A"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "C",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 31,
+        "group": 11,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-31.png",
+        "final_image_sha256": "a031babb87f0f15afe3c6ab4b70c50e6f98368cbc061f7f3f05d2467ada2cfe1",
+        "previous_review_image_sha256": "348dae065d84f03bc1ee86ff002ff34e84f7b967635d883960ae1106bc770e99",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "S",
+          "R"
+        ],
+        "normalized_previous_chain": [
+          "S",
+          "→"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "A",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 32,
+        "group": 11,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-32.png",
+        "final_image_sha256": "0f6e4c7e506e8df378796b10ff12ac1ab262079c6bfda3e7751fe2ec211b49cc",
+        "previous_review_image_sha256": "48ced97d4d8ea56e88fb23f647d08a8c70152aba4de9c7a7cdb4ddb1b4a0c0df",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "L",
+          "⊕",
+          "⇆"
+        ],
+        "normalized_previous_chain": [
+          "←",
+          "⊕",
+          "⇆"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "D",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 33,
+        "group": 11,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-33.png",
+        "final_image_sha256": "3edb20f87d5628c78259a5a7a10151240d0e255d10407bd24bb3a8bfa6b87fdd",
+        "previous_review_image_sha256": "650ec0a16fa37c65b2141db63fa4f23259267709b3a141afb06f95a2b7f4ce71",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "J",
+          "R",
+          "⊕",
+          "S"
+        ],
+        "normalized_previous_chain": [
+          "J",
+          "→",
+          "⊕",
+          "S"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "A",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 34,
+        "group": 12,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-34.png",
+        "final_image_sha256": "2e85ac8c97ddcbda3299dacee823c3f2ade382180bea6d257e533e8e529f0383",
+        "previous_review_image_sha256": "77cef684c7b5158ca108a0560ba4fac312a4f64efa57771f62c43ad500711559",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "↻",
+          "↶"
+        ],
+        "normalized_previous_chain": [
+          "↻",
+          "↶"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "A",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 35,
+        "group": 12,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-35.png",
+        "final_image_sha256": "aa35949a75ff69fa35f2b795bf6bef1982019c0d05375a9206ef7020f17acef6",
+        "previous_review_image_sha256": "96e43d35ffda6df84dfc2fa81e200ba9d87f4a662431eedf418d687daa044512",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "S",
+          "P",
+          "⇆"
+        ],
+        "normalized_previous_chain": [
+          "S",
+          "P",
+          "⇆"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "B",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 36,
+        "group": 12,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-36.png",
+        "final_image_sha256": "52d7109481878bcb96af3049d06f76d20a87d2227b79ed89ec12e2d1fe66da54",
+        "previous_review_image_sha256": "7a522839a6450a1c0ad5057ea218250a53ce6076018aa9742c1c66dfcc0dc602",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "Q",
+          "↶",
+          "⇆",
+          "↻"
+        ],
+        "normalized_previous_chain": [
+          "Q",
+          "↶",
+          "⇆",
+          "↻"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "A",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 37,
+        "group": 13,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-37.png",
+        "final_image_sha256": "34677a070c482c3173e95fe9c5410827356c3ac74056bf180c4ce37b36ea8e50",
+        "previous_review_image_sha256": "b3d6e25a83bb9351271397d2c0074b876f0e9ebabc939fa6a965fe3b744716e3",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "↻",
+          "H"
+        ],
+        "normalized_previous_chain": [
+          "↻",
+          "H"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "A",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 38,
+        "group": 13,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-38.png",
+        "final_image_sha256": "59715f11efd072d9143fa48d73c49b85a8a421972b214646144737771ef45ad9",
+        "previous_review_image_sha256": "28bfe9fbba504a8fa29063c0fd37e7ccdc5012834df56cff488ed2351674fba4",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "V",
+          "↶",
+          "N"
+        ],
+        "normalized_previous_chain": [
+          "V",
+          "↶",
+          "N"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "C",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 39,
+        "group": 13,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-39.png",
+        "final_image_sha256": "febd07ffc9a28dac650de2fb926b5e67db8e44a0196fc32748ed7d7a29feec51",
+        "previous_review_image_sha256": "4682f8c20e0717349abbbb9ebe7490c23b2eaa73d4c4ddd1199739bb581678c9",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "D",
+          "H",
+          "↶",
+          "↻"
+        ],
+        "normalized_previous_chain": [
+          "D",
+          "H",
+          "↶",
+          "↻"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "A",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 40,
+        "group": 14,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-40.png",
+        "final_image_sha256": "3e1407135546d425f0d4268a44e456ed9d7512f2aa21ea693272fc8279efabb8",
+        "previous_review_image_sha256": "86163d44fb131479601f1c430afdc8570241ca5b4b218cf1cc061436e2025264",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "P",
+          "Q"
+        ],
+        "normalized_previous_chain": [
+          "→",
+          "←"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "B",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 41,
+        "group": 14,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-41.png",
+        "final_image_sha256": "70f306c34aca97dbdbdb718d99b7030df314aa6fee838ba05a79b414108f59e7",
+        "previous_review_image_sha256": "fee893a0b580130056b2417fb5ebc8fd50ae68ac785779a54bbe0a178f63835e",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "J",
+          "U",
+          "N"
+        ],
+        "normalized_previous_chain": [
+          "J",
+          "U",
+          "N"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "B",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      },
+      {
+        "n": 42,
+        "group": 14,
+        "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-42.png",
+        "final_image_sha256": "19989b1113ba97a12786e7656cf37c57bf09457fe1be909ae1bad210cf767857",
+        "previous_review_image_sha256": "9428032ba8e04e2d0d625d7f79a0c2e2950c3d01fcabd64391cbb4df49f86144",
+        "actually_reopened_and_viewed": true,
+        "displayed_chain": [
+          "S",
+          "Q",
+          "U",
+          "P"
+        ],
+        "normalized_previous_chain": [
+          "S",
+          "←",
+          "U",
+          "→"
+        ],
+        "chain_semantically_equivalent": true,
+        "source_and_four_options_visually_unchanged_since_previous_review": true,
+        "retained_answer": "D",
+        "retained_unique_match": true,
+        "code_font_clear": true,
+        "separator_distinguishable": true,
+        "unexpected_visual_change": null
+      }
+    ],
+    "blocking_defects": [],
+    "conclusion": "Current 21 displayed chains match public rules; R/L and P/Q are distinct from the separator arrow. All prior choices and uniqueness conclusions remain valid. No font, clipping or line/curve ambiguity introduced.",
+    "frozen_first_file_sha256": "851a3afe30fed8a2fb67ff46e1f75c1ce3551caa91ea1b6d02e8d0bc3a948afa",
+    "first_file_untouched": true,
+    "previous_question_28_revision_untouched": true
+  }
+}

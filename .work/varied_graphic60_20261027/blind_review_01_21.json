@@ -1,0 +1,2747 @@
+{
+  "reviewer": "varied_tokens",
+  "first_answers_sha256": "f91b350e969c78b9e9886d2fbaa999062bdd976898d0b0709f23e9fd7771b81b",
+  "first_answers_preserved": true,
+  "questions": 21,
+  "actual_images_opened": 21,
+  "independent_recomputed": 21,
+  "first_choice_matches_independent": 21,
+  "author_answer_accessed": false,
+  "author_model_accessed": false,
+  "method": "先逐张实际看图并冻结首次选择，再据公开规则自写七类变换；源图和所选候选均由目视转录，未读取作者场景、程序或答案。四候选的唯一性由实际看图比较。",
+  "limits": "未独立像素识别全部四项，也不替代最终Word页面缩印检查。",
+  "issue": {
+    "group": 3,
+    "rule": "X",
+    "original": "最下方左右两边",
+    "recommendation": "明确为底边左、右两段；否则可能理解为外侧下方斜边。",
+    "status": "closed",
+    "accepted_wording": "底边左、右两段分别与中心倒三角的左、右斜边交换线型。",
+    "closure_basis": "已复读公开规则；底边左、右两段指代明确，与此前第9题独立复算所用解释一致。"
+  },
+  "checks": [
+    {
+      "n": 1,
+      "first_choice": "D",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "e": [
+          [
+            1,
+            5,
+            1
+          ],
+          [
+            2,
+            3,
+            0
+          ],
+          [
+            2,
+            4,
+            1
+          ],
+          [
+            2,
+            5,
+            1
+          ],
+          [
+            4,
+            5,
+            1
+          ]
+        ],
+        "p": 5
+      },
+      "intermediates": [
+        {
+          "e": [
+            [
+              1,
+              5,
+              1
+            ],
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              4,
+              1
+            ],
+            [
+              2,
+              5,
+              1
+            ],
+            [
+              4,
+              5,
+              1
+            ]
+          ],
+          "p": 1
+        },
+        {
+          "e": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              4,
+              1
+            ],
+            [
+              2,
+              5,
+              1
+            ],
+            [
+              4,
+              5,
+              1
+            ],
+            [
+              5,
+              1,
+              1
+            ]
+          ],
+          "p": 1
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "e": [
+          [
+            2,
+            3,
+            0
+          ],
+          [
+            2,
+            4,
+            1
+          ],
+          [
+            2,
+            5,
+            1
+          ],
+          [
+            4,
+            5,
+            1
+          ],
+          [
+            5,
+            1,
+            1
+          ]
+        ],
+        "p": 1
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 2,
+      "first_choice": "D",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "e": [
+          [
+            1,
+            3,
+            0
+          ],
+          [
+            1,
+            4,
+            0
+          ],
+          [
+            1,
+            5,
+            1
+          ],
+          [
+            2,
+            4,
+            1
+          ],
+          [
+            5,
+            2,
+            1
+          ]
+        ],
+        "p": 3
+      },
+      "intermediates": [
+        {
+          "e": [
+            [
+              1,
+              3,
+              1
+            ],
+            [
+              1,
+              4,
+              1
+            ],
+            [
+              1,
+              5,
+              0
+            ],
+            [
+              2,
+              4,
+              0
+            ],
+            [
+              5,
+              2,
+              0
+            ]
+          ],
+          "p": 3
+        },
+        {
+          "e": [
+            [
+              1,
+              3,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              4,
+              1
+            ],
+            [
+              2,
+              5,
+              1
+            ],
+            [
+              3,
+              5,
+              0
+            ]
+          ],
+          "p": 3
+        },
+        {
+          "e": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              4,
+              1
+            ],
+            [
+              2,
+              5,
+              1
+            ],
+            [
+              3,
+              1,
+              0
+            ],
+            [
+              5,
+              3,
+              0
+            ]
+          ],
+          "p": 3
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "e": [
+          [
+            2,
+            1,
+            0
+          ],
+          [
+            2,
+            4,
+            1
+          ],
+          [
+            2,
+            5,
+            1
+          ],
+          [
+            3,
+            1,
+            0
+          ],
+          [
+            5,
+            3,
+            0
+          ]
+        ],
+        "p": 3
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 3,
+      "first_choice": "A",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "e": [
+          [
+            1,
+            3,
+            0
+          ],
+          [
+            2,
+            1,
+            1
+          ],
+          [
+            2,
+            3,
+            0
+          ],
+          [
+            5,
+            2,
+            1
+          ],
+          [
+            5,
+            4,
+            1
+          ]
+        ],
+        "p": 5
+      },
+      "intermediates": [
+        {
+          "e": [
+            [
+              1,
+              4,
+              0
+            ],
+            [
+              2,
+              3,
+              1
+            ],
+            [
+              2,
+              5,
+              1
+            ],
+            [
+              5,
+              1,
+              1
+            ],
+            [
+              5,
+              4,
+              0
+            ]
+          ],
+          "p": 2
+        },
+        {
+          "e": [
+            [
+              1,
+              4,
+              0
+            ],
+            [
+              2,
+              3,
+              1
+            ],
+            [
+              2,
+              5,
+              1
+            ],
+            [
+              5,
+              1,
+              1
+            ],
+            [
+              5,
+              4,
+              0
+            ]
+          ],
+          "p": 3
+        },
+        {
+          "e": [
+            [
+              1,
+              4,
+              0
+            ],
+            [
+              2,
+              5,
+              1
+            ],
+            [
+              3,
+              2,
+              1
+            ],
+            [
+              5,
+              1,
+              1
+            ],
+            [
+              5,
+              4,
+              0
+            ]
+          ],
+          "p": 3
+        },
+        {
+          "e": [
+            [
+              1,
+              5,
+              1
+            ],
+            [
+              2,
+              3,
+              1
+            ],
+            [
+              4,
+              1,
+              0
+            ],
+            [
+              4,
+              5,
+              0
+            ],
+            [
+              5,
+              2,
+              1
+            ]
+          ],
+          "p": 3
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "e": [
+          [
+            1,
+            5,
+            1
+          ],
+          [
+            2,
+            3,
+            1
+          ],
+          [
+            4,
+            1,
+            0
+          ],
+          [
+            4,
+            5,
+            0
+          ],
+          [
+            5,
+            2,
+            1
+          ]
+        ],
+        "p": 3
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 4,
+      "first_choice": "D",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "h": [
+          2,
+          4,
+          0,
+          1,
+          3
+        ],
+        "s": [
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "intermediates": [
+        {
+          "h": [
+            3,
+            2,
+            4,
+            0,
+            1
+          ],
+          "s": [
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "h": [
+            3,
+            2,
+            4,
+            0,
+            1
+          ],
+          "s": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "h": [
+          3,
+          2,
+          4,
+          0,
+          1
+        ],
+        "s": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 5,
+      "first_choice": "C",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "h": [
+          3,
+          2,
+          0,
+          1,
+          4
+        ],
+        "s": [
+          0,
+          1,
+          1,
+          1
+        ]
+      },
+      "intermediates": [
+        {
+          "h": [
+            1,
+            2,
+            4,
+            3,
+            0
+          ],
+          "s": [
+            0,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "h": [
+            0,
+            1,
+            2,
+            4,
+            3
+          ],
+          "s": [
+            0,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "h": [
+            0,
+            1,
+            2,
+            4,
+            3
+          ],
+          "s": [
+            1,
+            0,
+            0,
+            1
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "h": [
+          0,
+          1,
+          2,
+          4,
+          3
+        ],
+        "s": [
+          1,
+          0,
+          0,
+          1
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 6,
+      "first_choice": "B",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "h": [
+          1,
+          2,
+          0,
+          4,
+          3
+        ],
+        "s": [
+          0,
+          1,
+          1,
+          1
+        ]
+      },
+      "intermediates": [
+        {
+          "h": [
+            1,
+            2,
+            0,
+            4,
+            3
+          ],
+          "s": [
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "h": [
+            3,
+            2,
+            0,
+            4,
+            1
+          ],
+          "s": [
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "h": [
+            3,
+            4,
+            0,
+            2,
+            1
+          ],
+          "s": [
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "h": [
+            3,
+            4,
+            0,
+            2,
+            1
+          ],
+          "s": [
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "h": [
+          3,
+          4,
+          0,
+          2,
+          1
+        ],
+        "s": [
+          0,
+          1,
+          0,
+          0
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 7,
+      "first_choice": "B",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "d": [
+          0,
+          1,
+          0
+        ],
+        "h": [
+          0,
+          1,
+          0
+        ],
+        "u": [
+          1,
+          1,
+          0
+        ]
+      },
+      "intermediates": [
+        {
+          "d": [
+            0,
+            1,
+            0
+          ],
+          "h": [
+            1,
+            0,
+            1
+          ],
+          "u": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "d": [
+            1,
+            1,
+            0
+          ],
+          "h": [
+            0,
+            1,
+            0
+          ],
+          "u": [
+            1,
+            0,
+            1
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "d": [
+          1,
+          1,
+          0
+        ],
+        "h": [
+          0,
+          1,
+          0
+        ],
+        "u": [
+          1,
+          0,
+          1
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 8,
+      "first_choice": "A",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "d": [
+          0,
+          1,
+          0
+        ],
+        "h": [
+          1,
+          0,
+          1
+        ],
+        "u": [
+          1,
+          1,
+          1
+        ]
+      },
+      "intermediates": [
+        {
+          "d": [
+            1,
+            1,
+            1
+          ],
+          "h": [
+            1,
+            0,
+            1
+          ],
+          "u": [
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "d": [
+            0,
+            1,
+            1
+          ],
+          "h": [
+            1,
+            1,
+            1
+          ],
+          "u": [
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "d": [
+            0,
+            1,
+            1
+          ],
+          "h": [
+            0,
+            0,
+            0
+          ],
+          "u": [
+            0,
+            1,
+            0
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "d": [
+          0,
+          1,
+          1
+        ],
+        "h": [
+          0,
+          0,
+          0
+        ],
+        "u": [
+          0,
+          1,
+          0
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 9,
+      "first_choice": "D",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "d": [
+          1,
+          0,
+          1
+        ],
+        "h": [
+          0,
+          1,
+          0
+        ],
+        "u": [
+          1,
+          0,
+          1
+        ]
+      },
+      "intermediates": [
+        {
+          "d": [
+            0,
+            1,
+            0
+          ],
+          "h": [
+            1,
+            0,
+            1
+          ],
+          "u": [
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "d": [
+            1,
+            1,
+            0
+          ],
+          "h": [
+            0,
+            0,
+            0
+          ],
+          "u": [
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "d": [
+            0,
+            1,
+            1
+          ],
+          "h": [
+            1,
+            1,
+            0
+          ],
+          "u": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "d": [
+            0,
+            1,
+            1
+          ],
+          "h": [
+            0,
+            0,
+            1
+          ],
+          "u": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "d": [
+          0,
+          1,
+          1
+        ],
+        "h": [
+          0,
+          0,
+          1
+        ],
+        "u": [
+          0,
+          0,
+          0
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 10,
+      "first_choice": "D",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "s": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "to": [
+          2,
+          0,
+          3,
+          1
+        ]
+      },
+      "intermediates": [
+        {
+          "s": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "to": [
+            3,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "s": [
+            0,
+            1,
+            1,
+            1
+          ],
+          "to": [
+            3,
+            1,
+            0,
+            2
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "s": [
+          0,
+          1,
+          1,
+          1
+        ],
+        "to": [
+          3,
+          1,
+          0,
+          2
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 11,
+      "first_choice": "D",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "s": [
+          1,
+          0,
+          1,
+          0
+        ],
+        "to": [
+          1,
+          3,
+          0,
+          2
+        ]
+      },
+      "intermediates": [
+        {
+          "s": [
+            0,
+            1,
+            0,
+            1
+          ],
+          "to": [
+            2,
+            1,
+            3,
+            0
+          ]
+        },
+        {
+          "s": [
+            0,
+            1,
+            0,
+            1
+          ],
+          "to": [
+            2,
+            1,
+            0,
+            3
+          ]
+        },
+        {
+          "s": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "to": [
+            2,
+            1,
+            0,
+            3
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "s": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "to": [
+          2,
+          1,
+          0,
+          3
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 12,
+      "first_choice": "B",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "s": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "to": [
+          2,
+          1,
+          3,
+          0
+        ]
+      },
+      "intermediates": [
+        {
+          "s": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "to": [
+            1,
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "s": [
+            1,
+            0,
+            1,
+            0
+          ],
+          "to": [
+            3,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "s": [
+            1,
+            0,
+            1,
+            0
+          ],
+          "to": [
+            0,
+            3,
+            1,
+            2
+          ]
+        },
+        {
+          "s": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "to": [
+            0,
+            3,
+            1,
+            2
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "s": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "to": [
+          0,
+          3,
+          1,
+          2
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 13,
+      "first_choice": "A",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "l": [
+          4,
+          4,
+          3,
+          2,
+          1
+        ],
+        "p": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "s": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "intermediates": [
+        {
+          "l": [
+            1,
+            4,
+            4,
+            3,
+            2
+          ],
+          "p": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          "s": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "l": [
+            1,
+            4,
+            4,
+            3,
+            2
+          ],
+          "p": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          "s": [
+            1,
+            0,
+            1,
+            1,
+            0
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "l": [
+          1,
+          4,
+          4,
+          3,
+          2
+        ],
+        "p": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "s": [
+          1,
+          0,
+          1,
+          1,
+          0
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 14,
+      "first_choice": "C",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "l": [
+          4,
+          3,
+          3,
+          4,
+          2
+        ],
+        "p": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "s": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "intermediates": [
+        {
+          "l": [
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "p": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "s": [
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "l": [
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "p": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "s": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "l": [
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "p": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "s": [
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "l": [
+          1,
+          2,
+          2,
+          1,
+          3
+        ],
+        "p": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "s": [
+          0,
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 15,
+      "first_choice": "C",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "l": [
+          2,
+          4,
+          2,
+          4,
+          1
+        ],
+        "p": [
+          0,
+          1,
+          1,
+          0,
+          1
+        ],
+        "s": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "intermediates": [
+        {
+          "l": [
+            2,
+            4,
+            2,
+            4,
+            1
+          ],
+          "p": [
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          "s": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "l": [
+            1,
+            4,
+            2,
+            4,
+            2
+          ],
+          "p": [
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          "s": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "l": [
+            2,
+            1,
+            4,
+            2,
+            4
+          ],
+          "p": [
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          "s": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "l": [
+            2,
+            1,
+            4,
+            2,
+            4
+          ],
+          "p": [
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          "s": [
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "l": [
+          2,
+          1,
+          4,
+          2,
+          4
+        ],
+        "p": [
+          1,
+          0,
+          1,
+          1,
+          0
+        ],
+        "s": [
+          0,
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 16,
+      "first_choice": "D",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "l": [
+          2,
+          1,
+          1,
+          1,
+          3,
+          1
+        ],
+        "s": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "t": [
+          0,
+          2,
+          2,
+          1,
+          0,
+          1
+        ]
+      },
+      "intermediates": [
+        {
+          "l": [
+            2,
+            1,
+            1,
+            1,
+            3,
+            1
+          ],
+          "s": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "t": [
+            2,
+            2,
+            1,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "l": [
+            2,
+            1,
+            1,
+            1,
+            3,
+            1
+          ],
+          "s": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          "t": [
+            2,
+            2,
+            1,
+            0,
+            1,
+            0
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "l": [
+          2,
+          1,
+          1,
+          1,
+          3,
+          1
+        ],
+        "s": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        "t": [
+          2,
+          2,
+          1,
+          0,
+          1,
+          0
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 17,
+      "first_choice": "A",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "l": [
+          3,
+          1,
+          1,
+          2,
+          3,
+          1
+        ],
+        "s": [
+          1,
+          0,
+          1,
+          1,
+          0,
+          1
+        ],
+        "t": [
+          2,
+          1,
+          0,
+          0,
+          1,
+          1
+        ]
+      },
+      "intermediates": [
+        {
+          "l": [
+            3,
+            1,
+            1,
+            2,
+            3,
+            1
+          ],
+          "s": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "t": [
+            1,
+            2,
+            0,
+            0,
+            2,
+            2
+          ]
+        },
+        {
+          "l": [
+            3,
+            1,
+            1,
+            2,
+            3,
+            1
+          ],
+          "s": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "t": [
+            2,
+            0,
+            0,
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "l": [
+            3,
+            1,
+            1,
+            2,
+            3,
+            1
+          ],
+          "s": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            0
+          ],
+          "t": [
+            2,
+            0,
+            0,
+            2,
+            2,
+            1
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "l": [
+          3,
+          1,
+          1,
+          2,
+          3,
+          1
+        ],
+        "s": [
+          1,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        "t": [
+          2,
+          0,
+          0,
+          2,
+          2,
+          1
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 18,
+      "first_choice": "D",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "l": [
+          3,
+          2,
+          1,
+          2,
+          3,
+          1
+        ],
+        "s": [
+          1,
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        "t": [
+          1,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "intermediates": [
+        {
+          "l": [
+            1,
+            2,
+            3,
+            2,
+            1,
+            3
+          ],
+          "s": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          "t": [
+            1,
+            2,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "l": [
+            2,
+            2,
+            3,
+            1,
+            1,
+            3
+          ],
+          "s": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          "t": [
+            1,
+            2,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "l": [
+            3,
+            2,
+            2,
+            3,
+            1,
+            1
+          ],
+          "s": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          "t": [
+            1,
+            2,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "l": [
+            3,
+            2,
+            2,
+            3,
+            1,
+            1
+          ],
+          "s": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          "t": [
+            1,
+            2,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "l": [
+          3,
+          2,
+          2,
+          3,
+          1,
+          1
+        ],
+        "s": [
+          0,
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        "t": [
+          1,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 19,
+      "first_choice": "B",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "a": [
+          "a",
+          "b",
+          "c",
+          "d",
+          "e"
+        ],
+        "b": [
+          "b",
+          "d",
+          "g"
+        ]
+      },
+      "intermediates": [
+        {
+          "a": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e"
+          ],
+          "b": [
+            "b",
+            "d"
+          ]
+        },
+        {
+          "a": [
+            "a",
+            "c",
+            "e"
+          ],
+          "b": [
+            "b",
+            "d"
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "a": [
+          "a",
+          "c",
+          "e"
+        ],
+        "b": [
+          "b",
+          "d"
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 20,
+      "first_choice": "B",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "a": [
+          "a",
+          "c",
+          "f",
+          "g"
+        ],
+        "b": [
+          "c",
+          "f",
+          "g"
+        ]
+      },
+      "intermediates": [
+        {
+          "a": [
+            "a",
+            "b",
+            "e",
+            "g"
+          ],
+          "b": [
+            "c",
+            "f",
+            "g"
+          ]
+        },
+        {
+          "a": [
+            "c",
+            "f",
+            "g"
+          ],
+          "b": [
+            "a",
+            "b",
+            "e",
+            "g"
+          ]
+        },
+        {
+          "a": [
+            "a",
+            "b",
+            "c",
+            "e",
+            "f"
+          ],
+          "b": [
+            "a",
+            "b",
+            "e",
+            "g"
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "a": [
+          "a",
+          "b",
+          "c",
+          "e",
+          "f"
+        ],
+        "b": [
+          "a",
+          "b",
+          "e",
+          "g"
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    },
+    {
+      "n": 21,
+      "first_choice": "A",
+      "independent_result_matches_first_choice": true,
+      "source_from_opened_png": {
+        "a": [
+          "e",
+          "g"
+        ],
+        "b": [
+          "b",
+          "c",
+          "d",
+          "e"
+        ]
+      },
+      "intermediates": [
+        {
+          "a": [
+            "b",
+            "g"
+          ],
+          "b": [
+            "a",
+            "b",
+            "e",
+            "f"
+          ]
+        },
+        {
+          "a": [
+            "b",
+            "g"
+          ],
+          "b": [
+            "a",
+            "b",
+            "e",
+            "f",
+            "g"
+          ]
+        },
+        {
+          "a": [
+            "a",
+            "b",
+            "e",
+            "f",
+            "g"
+          ],
+          "b": [
+            "b",
+            "g"
+          ]
+        },
+        {
+          "a": [
+            "a",
+            "e",
+            "f"
+          ],
+          "b": [
+            "b",
+            "g"
+          ]
+        }
+      ],
+      "selected_candidate_from_opened_png": {
+        "a": [
+          "a",
+          "e",
+          "f"
+        ],
+        "b": [
+          "b",
+          "g"
+        ]
+      },
+      "visible_unique_after_comparing_four_options": true
+    }
+  ],
+  "follow_up": [
+    {
+      "reviewed_at_utc": "2026-10-27T16:28:48.631030+00:00",
+      "reason": "规则X措辞明确；题图链分隔箭头空格由2个缩为1个。",
+      "public_manifest_sha256": "de4983b886019773cb3b23cee253d7d97093dadda09def2ea5c31931c3289e47",
+      "actual_current_images_reopened": 21,
+      "first_answers_file_unchanged": true,
+      "exact_old_new_panel_pixel_comparison": "由root另行取旧Word图与新PNG证据；此记录只断言实际目视复看和公开链顺序未变。",
+      "records": [
+        {
+          "n": 1,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-01.png",
+          "final_image_sha256": "49bf9a41c20ebb892ecf3a03dbd7272d7f4a4fab94b6e26ec7b33458180422de",
+          "first_image_sha256": "8eb09ceb31bdf9adfe0d67751aa92d9b7cdcb211c84d61dfa70fb55e0d2e1b03",
+          "hash_changed": true,
+          "first_choice_retained": "D",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 2,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-02.png",
+          "final_image_sha256": "4ebc689fdc853710b1b35457fc1085f27739ac1226da6c7fe7b5ea839513fa30",
+          "first_image_sha256": "53f91faf3ac1890b0152c18116195ac6589181f989de58eb5879a23e54f7a99b",
+          "hash_changed": true,
+          "first_choice_retained": "D",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 3,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-03.png",
+          "final_image_sha256": "dc8e90a8911db2d291fff9bfac36d10534d2e9e2a5de68cfdbce672e8e639e42",
+          "first_image_sha256": "2a91291c0fa3214273669afd2ef52e00faf6e3d15d8b8f4bff74b965a05ff5a1",
+          "hash_changed": true,
+          "first_choice_retained": "A",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 4,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-04.png",
+          "final_image_sha256": "ad4e7d92d41e10555023576308310cfbea930832d04fef5c19bda27cc018d6d5",
+          "first_image_sha256": "fc68f988ad932ec36b2b6428b4b600952939e2f30513b9c3bbdfffd5f7074b92",
+          "hash_changed": true,
+          "first_choice_retained": "D",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 5,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-05.png",
+          "final_image_sha256": "daeeff195fa483a357ec6458711ac4bed556a25044d265b670291f6b9a8c4922",
+          "first_image_sha256": "18843a0f3873549b2f3ec8fae1e3389205d27bb27661acbe9c0344c198ad2923",
+          "hash_changed": true,
+          "first_choice_retained": "C",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 6,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-06.png",
+          "final_image_sha256": "03fe6e585a0cb7d78a474457bc26a9502a912e88427204b1c4b0b6bfdda66717",
+          "first_image_sha256": "6c0573a8331ae49e769d7738cfc42b6828975a85906e910924e2437984ef87c8",
+          "hash_changed": true,
+          "first_choice_retained": "B",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 7,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-07.png",
+          "final_image_sha256": "6fe87c2f086dcece309c287ff97110c06a96061869537d0fa619291fc1ecc6f4",
+          "first_image_sha256": "b152b7e111124d88fe41960e2456318593664f670d327500279c579af6aa1054",
+          "hash_changed": true,
+          "first_choice_retained": "B",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 8,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-08.png",
+          "final_image_sha256": "5cbab3760372c9075d2a2e85c7160e85acc1961713dcdbfff6c9550eabeb90b5",
+          "first_image_sha256": "0fb14a0cbc0136ab56e871f2f75874c23aa24df7c4ab50adb1bb971f34c2b395",
+          "hash_changed": true,
+          "first_choice_retained": "A",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 9,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-09.png",
+          "final_image_sha256": "87cafdc389f86cf94702f7ae90824e206e52c5a8471b9c49d0d7c0cea4607b8c",
+          "first_image_sha256": "9ddaee0501b7abd26d9c0b4f840ecb7363a1894aecef685fd5ab8d31dd879341",
+          "hash_changed": true,
+          "first_choice_retained": "D",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 10,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-10.png",
+          "final_image_sha256": "8ccf1cae7433f1ca843902898a317fc4f21e625df996a87b52a5a46fefd1eab8",
+          "first_image_sha256": "f313553ee18c50541321e268bc75cce593db961cdbe5d965dcd7cffbf0cf5a40",
+          "hash_changed": true,
+          "first_choice_retained": "D",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 11,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-11.png",
+          "final_image_sha256": "f6f43cf925a1ac94315cfa6c9acc93b3b9f0f6d1775d839490f98b7529e7c8e4",
+          "first_image_sha256": "5e9babd3f325e7ffda0feceb42ace3a149688cf4a85deb3596adc7b79e6fa35a",
+          "hash_changed": true,
+          "first_choice_retained": "D",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 12,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-12.png",
+          "final_image_sha256": "6c109d5cfa11df767b967b4def6850a173e2a952692871d10701ed44c3245aa7",
+          "first_image_sha256": "c4170c39077e6616f8efa39cea119de3bd9569b696b32c9a4721a4a3366578e4",
+          "hash_changed": true,
+          "first_choice_retained": "B",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 13,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-13.png",
+          "final_image_sha256": "e7a64ab5f615084c96072c38bddb1afec41ceb1dbcbf7f59090f24e54d4bf762",
+          "first_image_sha256": "85d787b7a75cc441daa6465c3b66646cf3d59aaa4cd5f9fa2683578789dcbe1e",
+          "hash_changed": true,
+          "first_choice_retained": "A",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 14,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-14.png",
+          "final_image_sha256": "a578c770b053162bbaf73d8077ab2abf4a7eb9676a4d8254042e8ac6a56de2c6",
+          "first_image_sha256": "c970311ba680fa56dee10418f905091051892205f034cedc7b43eef1400732df",
+          "hash_changed": true,
+          "first_choice_retained": "C",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 15,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-15.png",
+          "final_image_sha256": "bb4fa72af61d90ce74f6f588e505dd74cd0c688b838c2cd6a99b7f4c05ad5d08",
+          "first_image_sha256": "046362f51ddb28bbe6f3e9b8966c9787089c76892f4478ce677708ac8c010ad1",
+          "hash_changed": true,
+          "first_choice_retained": "C",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 16,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-16.png",
+          "final_image_sha256": "2c64e63abb06d5412469808bda45b1d1141de7e27faec5f7e13f4776ff85f8b7",
+          "first_image_sha256": "0d3ae643b234480d83de88f7aebc0516154f6d8c66cdf7c684f3b537390f06dc",
+          "hash_changed": true,
+          "first_choice_retained": "D",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 17,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-17.png",
+          "final_image_sha256": "fe6d4c8f485fbe1a292e34423cdc39d2bd27aaeb3b62d6d5504e37049a652c2a",
+          "first_image_sha256": "bdec6672c018f3704d1840caaea1229e9f436a2e73acf58bd0d91b50cd8101d1",
+          "hash_changed": true,
+          "first_choice_retained": "A",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 18,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-18.png",
+          "final_image_sha256": "4a344de97092238e65a0642f8c06cd482af7aeb8bf8b5939c0c9e27d03a99ed3",
+          "first_image_sha256": "a559db5d35f02314e6b4ae1992686b908aaf69dcad8119228e2c69e611325dc0",
+          "hash_changed": true,
+          "first_choice_retained": "D",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 19,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-19.png",
+          "final_image_sha256": "335306d1ed291983f214e5cec1ae7b7620ea9354f471ac81aa122638da79ed0b",
+          "first_image_sha256": "432c00dc15c857b29008070fa25a00d407421b9f2e890a16fb8ffa3b84e621f4",
+          "hash_changed": true,
+          "first_choice_retained": "B",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 20,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-20.png",
+          "final_image_sha256": "1c4b70d69e3ee40651d90d048ec5fb666917796f4d6176de106f7b25083f72e2",
+          "first_image_sha256": "c29ca1bc2be755f8c887563cc0556172d8bd0e2d054c3ee531c1a33cc52d0d50",
+          "hash_changed": true,
+          "first_choice_retained": "B",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        },
+        {
+          "n": 21,
+          "actual_reopened_current_image": true,
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-21.png",
+          "final_image_sha256": "f240717c1db365983f839e0b3a0ec671be43372ae9c7fe75afb81cc2d0a8af42",
+          "first_image_sha256": "36e3332a236db91b9e2eb31df83168b29dae9e38189b7680f8f63a2d7709a869",
+          "hash_changed": true,
+          "first_choice_retained": "A",
+          "source_and_four_candidate_contents_and_order_visually_unchanged": true,
+          "current_diagram_still_has_unique_matching_choice": true
+        }
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "reviewed_at_utc": "2026-10-27T16:46:11.118102+00:00",
+      "n": 12,
+      "trigger": "root只读审计发现首次选择与作者答案有差异，未告知具体作者答案；本次重新逐线独立复核。",
+      "allowed_evidence": "仅当前公开第4组intro/rules/chain及实际打开的question-12.png；未读作者模型或答案。",
+      "actual_current_image_opened": true,
+      "image_sha256": "6c109d5cfa11df767b967b4def6850a173e2a952692871d10701ed44c3245aa7",
+      "candidate_array_convention": "数组依次表示上端口1、2、3、4连接的下端口；0/1/2/3表示甲/乙/丙/丁。",
+      "actual_four_candidates": {
+        "A": {
+          "to": [
+            0,
+            2,
+            1,
+            3
+          ],
+          "styles": [
+            "虚",
+            "虚",
+            "虚",
+            "虚"
+          ],
+          "bottom_port_names": [
+            "甲",
+            "丙",
+            "乙",
+            "丁"
+          ]
+        },
+        "B": {
+          "to": [
+            0,
+            3,
+            2,
+            1
+          ],
+          "styles": [
+            "虚",
+            "虚",
+            "虚",
+            "虚"
+          ],
+          "bottom_port_names": [
+            "甲",
+            "丁",
+            "丙",
+            "乙"
+          ]
+        },
+        "C": {
+          "to": [
+            0,
+            1,
+            3,
+            2
+          ],
+          "styles": [
+            "虚",
+            "实",
+            "实",
+            "虚"
+          ],
+          "bottom_port_names": [
+            "甲",
+            "乙",
+            "丁",
+            "丙"
+          ]
+        },
+        "D": {
+          "to": [
+            0,
+            3,
+            1,
+            2
+          ],
+          "styles": [
+            "虚",
+            "虚",
+            "虚",
+            "虚"
+          ],
+          "bottom_port_names": [
+            "甲",
+            "丁",
+            "乙",
+            "丙"
+          ]
+        }
+      },
+      "independent_states": [
+        {
+          "step": "原图",
+          "to": [
+            2,
+            1,
+            3,
+            0
+          ],
+          "styles": [
+            "虚",
+            "虚",
+            "实",
+            "实"
+          ],
+          "bottom_port_names": [
+            "丙",
+            "乙",
+            "丁",
+            "甲"
+          ]
+        },
+        {
+          "step": "M",
+          "to": [
+            1,
+            2,
+            0,
+            3
+          ],
+          "styles": [
+            "虚",
+            "虚",
+            "实",
+            "实"
+          ],
+          "bottom_port_names": [
+            "乙",
+            "丙",
+            "甲",
+            "丁"
+          ]
+        },
+        {
+          "step": "X",
+          "to": [
+            3,
+            2,
+            0,
+            1
+          ],
+          "styles": [
+            "实",
+            "虚",
+            "实",
+            "虚"
+          ],
+          "bottom_port_names": [
+            "丁",
+            "丙",
+            "甲",
+            "乙"
+          ]
+        },
+        {
+          "step": "B",
+          "to": [
+            0,
+            3,
+            1,
+            2
+          ],
+          "styles": [
+            "实",
+            "虚",
+            "实",
+            "虚"
+          ],
+          "bottom_port_names": [
+            "甲",
+            "丁",
+            "乙",
+            "丙"
+          ]
+        },
+        {
+          "step": "D",
+          "to": [
+            0,
+            3,
+            1,
+            2
+          ],
+          "styles": [
+            "虚",
+            "虚",
+            "虚",
+            "虚"
+          ],
+          "bottom_port_names": [
+            "甲",
+            "丁",
+            "乙",
+            "丙"
+          ]
+        }
+      ],
+      "first_choice": "B",
+      "corrected_choice": "D",
+      "unique_match": "D",
+      "error": "先前目视把B项第3、4条线的下端口读反，误把B写成甲丁乙丙；实际B为甲丁丙乙。此前复算的运算目标甲丁乙丙正确，但候选B的转录错误，程序因而虚报吻合。",
+      "prior_claim_retracted": "先前21题首次均与独立复算对应的说法不能继续使用；第12题首次错选B，现更正为D。旧记录保留作历史。",
+      "repair_needed": false,
+      "repair_reason": "题干与规则一致，四候选只有D满足；属于审查者候选识读错误，无需改题或改图。",
+      "first_answers_file_unchanged": true,
+      "prior_records_retained": true
+    }
+  ],
+  "latest_effective_review": {
+    "questions": 21,
+    "first_choice_correct": 20,
+    "first_choice_wrong": 1,
+    "corrections": {
+      "12": {
+        "from": "B",
+        "to": "D",
+        "reason": "候选交叉连线识读错误"
+      }
+    },
+    "final_choices": {
+      "1": "D",
+      "2": "D",
+      "3": "A",
+      "4": "D",
+      "5": "C",
+      "6": "B",
+      "7": "B",
+      "8": "A",
+      "9": "D",
+      "10": "D",
+      "11": "D",
+      "12": "D",
+      "13": "A",
+      "14": "C",
+      "15": "C",
+      "16": "D",
+      "17": "A",
+      "18": "D",
+      "19": "B",
+      "20": "B",
+      "21": "A"
+    },
+    "rule_X_issue_closed": true,
+    "remaining_item_defects": [],
+    "interpretation": "原始首次记录和旧复核结论均保留；本字段及corrections为现行结论。"
+  }
+}

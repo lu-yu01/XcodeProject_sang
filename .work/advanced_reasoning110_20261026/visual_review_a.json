@@ -1,0 +1,352 @@
+{
+  "passed": true,
+  "pdf": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\preview.pdf",
+  "pdf_sha256": "1aefd1ff9834a0a1a0d34ca7123d49515bb4b8cfafa5368238aa32ecfc99a01b",
+  "word": "E:\\XcodeProject_sang\\模式题\\国考判断推理进阶专项练习-110题（含答案解析）.docx",
+  "word_sha256": "96fa64a3dacbd047a827f7a7021cf4269f22d531c44a280d83c71d94120b4183",
+  "pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "current_total_pages": 58,
+  "method": "实际逐页打开当前最终导出第1—20页，每张使用原始PNG尺寸。初步版页图未作为本次证据。",
+  "checks": [
+    "字体与字形",
+    "裁切与重叠",
+    "题干与ABCD四项完整",
+    "图像比例与圈号",
+    "公共材料与首题衔接",
+    "留白和分页",
+    "连续页码"
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-01.png",
+      "png_sha256": "035bc389e2af8a50a22947f97d81b2a8a120f2de90345cd57a274c2fa7aafe85",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "标题、编排说明、类比1—4",
+      "passed": true,
+      "issues": [],
+      "observation": "标题与说明清楚，类比题1—4及各ABCD完整，页眉页码正常，无重叠或裁切。"
+    },
+    {
+      "page": 2,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-02.png",
+      "png_sha256": "578c3c62992c3aa40e81dcac663258dff0cf443124bb75f0f4630c0d63c4815a",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "类比5—11",
+      "passed": true,
+      "issues": [],
+      "observation": "七道题均有题干及四项，行间距清楚，11题长设问未裁切，底部完整。"
+    },
+    {
+      "page": 3,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-03.png",
+      "png_sha256": "2a85493e6c75aa1c81633ca9a6858c780896d32bebb281488abb92a2e14377dc",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "类比12—17",
+      "passed": true,
+      "issues": [],
+      "observation": "填空式括号与配对选项显示正常，12—17题完整，编号连续，未出现整题跨页。"
+    },
+    {
+      "page": 4,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-04.png",
+      "png_sha256": "9e8e60a240faba7ad90e9dc421b359de125f98f0d613d2c5aae233d022fbd645",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "类比18—20及关系图",
+      "passed": true,
+      "issues": [],
+      "observation": "两幅关系图圆形无可见拉伸，①②③清楚且在合适区域；图框、设问和四项同页完整，无碰框或遮挡。"
+    },
+    {
+      "page": 5,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-05.png",
+      "png_sha256": "50deb8199212990c53e14f93f5785c6a6a79b96edf3689c21d2f755e04862bd9",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "定义21—23",
+      "passed": true,
+      "issues": [],
+      "observation": "模块标题及三道定义题完整，段落与选项缩进一致，23题末项换行后仍完整，未触页脚。"
+    },
+    {
+      "page": 6,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-06.png",
+      "png_sha256": "c4d3b84d78f079bd3025835b1f7beb5d7251d9659eb460980bbb651c03bc66d0",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "定义24—26",
+      "passed": true,
+      "issues": [],
+      "observation": "姓名/证件、控制方式标注与词典序数据均清楚，四项完整；长数据题自然换行，没有裁切。"
+    },
+    {
+      "page": 7,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-07.png",
+      "png_sha256": "d6d1c1c5e8f2f6a4101df3d9040ca9609c8d2bd8d77aa13e53f111387916801d",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "定义27—29",
+      "passed": true,
+      "issues": [],
+      "observation": "27项中独立随机明示、28D志愿者及实施评分人员不知代码明示均正确进入成品，三题完整。"
+    },
+    {
+      "page": 8,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-08.png",
+      "png_sha256": "6e144a37ecf309d3dda3c2c749cc1487cffd8d8bfa3d1fa9eddf8ef337dfd4c5",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "定义30—33",
+      "passed": true,
+      "issues": [],
+      "observation": "四道题及四项完整，31中介与调节关系读得清楚；33最后选项有足够底边留白。"
+    },
+    {
+      "page": 9,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-09.png",
+      "png_sha256": "af835ca2228d9c6f9fb374e806cf4eeffce97eab6439e37daec5f233a9d276dc",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "定义34—36",
+      "passed": true,
+      "issues": [],
+      "observation": "三道题完整，36成对措施和两类标签清楚，个案负担限定未丢失；换行无压字。"
+    },
+    {
+      "page": 10,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-10.png",
+      "png_sha256": "70757f6c8035051ae35e22b4c1cc21eb9e64f1804d40be4c4a0a296fb0028aa4",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "定义37—39",
+      "passed": true,
+      "issues": [],
+      "observation": "37工作原理与功能保留明示已入稿，38四项及39长研究项目题干完整，类别选项无缺字。"
+    },
+    {
+      "page": 11,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-11.png",
+      "png_sha256": "cbb73a76f1c55fd0b9bb32045587519bdda42a816fb768421625a67022d4ff89",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "定义40—43",
+      "passed": true,
+      "issues": [],
+      "observation": "误差、方法互证与预设定义全部可读，43肯定/否定句引号与连接符清楚，四项完整。"
+    },
+    {
+      "page": 12,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-12.png",
+      "png_sha256": "d3704f8408070eac2d6f22e5e50815fc855285511e77d6e6ab844c6a163ae5a4",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "定义44—46",
+      "passed": true,
+      "issues": [],
+      "observation": "内聚焦限定、溯因和百分数口径均清楚，46题120/90/100/75/60等数据及四项完整，无重叠。"
+    },
+    {
+      "page": 13,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-13.png",
+      "png_sha256": "ebe941641b25ec690ac79073e194b98bd38673d8e41d2c47a087b5dbcb69bab3",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "定义47—49",
+      "passed": true,
+      "issues": [],
+      "observation": "评价值三元组标点清楚，48A/B明确管理目标已入成品；49结构层级及四项完整。"
+    },
+    {
+      "page": 14,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-14.png",
+      "png_sha256": "c5573b21bff4ee031c11d4bbc7429afed2b79c9c91e68018f8c6e06e985cb32c",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "定义50模块尾页",
+      "passed": true,
+      "issues": [],
+      "observation": "50题及四项完整，页码正常；本页为定义模块末页，题后较大留白，下页新模块将整组材料51—55保持同页，属分节尾页留白。"
+    },
+    {
+      "page": 15,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-15.png",
+      "png_sha256": "697ec9b17e82c31d19da3f2a9af0d9aeced0ac6505fcff4ae051dc8e14fc4045",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "逻辑模块标题、公共材料51—55及全部五题",
+      "passed": true,
+      "issues": [],
+      "observation": "材料与首题同页，四个公共条件、附加条件不继承说明与51—55五题全部完整；字号可读且未挤入页脚。"
+    },
+    {
+      "page": 16,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-16.png",
+      "png_sha256": "9c09ae6026f2474f6767564908adb6c7c898566d66e42f48a96a32eb933d048b",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "公共材料56—60及全部五题",
+      "passed": true,
+      "issues": [],
+      "observation": "文件复核公共材料与首题完整衔接，56长分工选项各配对与分号清楚，57—60全部完整。"
+    },
+    {
+      "page": 17,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-17.png",
+      "png_sha256": "23132a0875dc0c6c0a37bff75221a22ebc219e4c3620def88fefd82a98b75395",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "公共材料61—65及全部五题",
+      "passed": true,
+      "issues": [],
+      "observation": "任务时长、共用资源、完成后下一时段说明与五题同页完整；起始时段数字、选项及末题均清楚。"
+    },
+    {
+      "page": 18,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-18.png",
+      "png_sha256": "7e6aa18767aeb66c75db167743811b60f80fdb5bbb7b95b77801893b695a4f02",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "独立题66—70",
+      "passed": true,
+      "issues": [],
+      "observation": "独立题标题与五题完整，70内部①②③正确显示，句子与四项无裁切，页码连续。"
+    },
+    {
+      "page": 19,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-19.png",
+      "png_sha256": "2324488e2b122147d6b38badbfa8daebf83d0aadf0e6e8dc5dc22dda42ce09ff",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "独立题71—75",
+      "passed": true,
+      "issues": [],
+      "observation": "真假判断的引号、①—④和数值均清楚，五题各四项完整，没有异常空白或跨页拆题。"
+    },
+    {
+      "page": 20,
+      "png_path": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\render\\page-20.png",
+      "png_sha256": "6feadb658662ba3126853c800cf4c957fd39a96bfd14d536dd28207b607c50f6",
+      "dimensions_pixels": [
+        1241,
+        1754
+      ],
+      "actual_viewed": true,
+      "view_method": "tools.view_image，detail=original，原始150dpi页面PNG；逐张查看非缩略拼图。",
+      "content": "独立题76—79",
+      "passed": true,
+      "issues": [],
+      "observation": "76/77人物数值条件清楚，78/79长结构选项完整自然换行，79D最后一行仍完整，无页脚冲突。"
+    }
+  ],
+  "blocking_issues": [],
+  "nonblocking_observations": [
+    {
+      "page": 14,
+      "kind": "module_end_whitespace",
+      "observation": "50题及四项完整，页码正常；本页为定义模块末页，题后较大留白，下页新模块将整组材料51—55保持同页，属分节尾页留白。",
+      "reported_to_parent": true
+    }
+  ],
+  "no_final_artifacts_modified": true
+}

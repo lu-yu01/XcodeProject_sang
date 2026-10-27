@@ -1,0 +1,35 @@
+[
+  {
+    "word": "E:\\XcodeProject_sang\\模式题\\国考判断推理原创模拟卷（一）-35题（含答案解析）.docx",
+    "word_sha256": "153bfde38db868266388e3b1f00d34f3c995a208d02e4ee296e2ae16ab307ad0",
+    "document_xml_sha256": "7de80e313b714d012660528ef02504e4b0b855291db37fb1a3d04ca21e03a0c0",
+    "visible_text_sha256": "ac21d26be11e50821fb7493e5694101a65c11f519104b75e3db427556dd41bdf",
+    "numbering_xml_sha256": "52afb38852742dd06a720689ecbde9d33a728513ea3f601008688802be80e263",
+    "embedded_images": 13,
+    "question_count": 35,
+    "original_workdir": "E:\\XcodeProject_sang\\.work\\guokao35",
+    "key": "doc1"
+  },
+  {
+    "word": "E:\\XcodeProject_sang\\模式题\\国考判断推理原创模拟卷（二）-2026行政执法-35题（含答案解析）.docx",
+    "word_sha256": "a8bd82e613a58e17c89d832e7e8c1d9e4829e6a94d6994b428021e893c693dc6",
+    "document_xml_sha256": "7320c67ae276852853ba38de92fd0e644b2b055cf4734e51fae9544b846259a9",
+    "visible_text_sha256": "c44306b243e31aa314ccd25df161b35c09062d96ded195d6da820f19315c4880",
+    "numbering_xml_sha256": "49b7ae7087498aa490f1614ac78c55bffc2a6533086a0d156141b1934c53ff2d",
+    "embedded_images": 10,
+    "question_count": 35,
+    "original_workdir": "E:\\XcodeProject_sang\\.work\\guokao2026_2",
+    "key": "doc2"
+  },
+  {
+    "word": "E:\\XcodeProject_sang\\模式题\\国考图形与逻辑专项练习-55题（含答案解析）.docx",
+    "word_sha256": "e169efd48fbcc95ba2cb75446bc0898860528e1b21cc6289e167cbaed93652da",
+    "document_xml_sha256": "67129d92dcda58aa9d78ef45c7eafd4d6858e31fe5f87bc85e9981fddc5b6f3f",
+    "visible_text_sha256": "b2df5a4f481d118fedf7cc141fe7a7608b9cc5b81efcef7a9a0d067b830f0531",
+    "numbering_xml_sha256": "9467e4691fb4386f6f1535735157540749ae014d97b5e96389bebeb8f5fa4759",
+    "embedded_images": 30,
+    "question_count": 55,
+    "original_workdir": "E:\\XcodeProject_sang\\.work\\zhuanxiang55_20261025",
+    "key": "doc55"
+  }
+]

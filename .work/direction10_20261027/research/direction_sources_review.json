@@ -1,0 +1,120 @@
+{
+  "source": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\特殊省份\\2026年最新试卷\\北京2025-2026.docx",
+  "source_sha256": "ce06e2f0b29742eeeb8ab9475da468c3d336d114152e15b00d388691398d0d5c",
+  "source_images": [
+    {
+      "p": 40,
+      "image": "E:\\XcodeProject_sang\\.work\\direction10_20261027\\research\\p40_0_image13.png",
+      "source": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\特殊省份\\2026年最新试卷\\北京2025-2026.docx",
+      "sha256": "747a4d99a0b64ef471f3240cba523e96d7e8a59387014dc5f7fd5ae67c6a95e4",
+      "actually_viewed": true
+    },
+    {
+      "p": 45,
+      "image": "E:\\XcodeProject_sang\\.work\\direction10_20261027\\research\\p45_0_image14.png",
+      "source": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\特殊省份\\2026年最新试卷\\北京2025-2026.docx",
+      "sha256": "88d4345a72c797d4b44de3f9efb4a02d84f3d23ec512403bc0570db502a4ce99",
+      "actually_viewed": true
+    },
+    {
+      "p": 53,
+      "image": "E:\\XcodeProject_sang\\.work\\direction10_20261027\\research\\p53_0_image16.png",
+      "source": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\特殊省份\\2026年最新试卷\\北京2025-2026.docx",
+      "sha256": "fe42882823a46044ad63e6c493aebc4fe6b153dbe907f2fd6a4ac2e1696f75ed",
+      "actually_viewed": true
+    },
+    {
+      "p": 532,
+      "image": "E:\\XcodeProject_sang\\.work\\direction10_20261027\\research\\p532_0_image47.tiff",
+      "source": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\特殊省份\\2026年最新试卷\\北京2025-2026.docx",
+      "sha256": "eea5854e6bd573c5cd4609a505400393b0467a1edacf55d33914825dead6fe86",
+      "actually_viewed": true
+    },
+    {
+      "p": 533,
+      "image": "E:\\XcodeProject_sang\\.work\\direction10_20261027\\research\\p533_0_image48.png",
+      "source": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\特殊省份\\2026年最新试卷\\北京2025-2026.docx",
+      "sha256": "3d3a56954c195d8dec10c4503e0e9c5b7e488a47ea1fa1be7e8c9207e1bd7f76",
+      "actually_viewed": true
+    }
+  ],
+  "tiff_preview": "E:\\XcodeProject_sang\\.work\\direction10_20261027\\research\\p532_0_image47.png",
+  "all_reference_images_actually_viewed": true,
+  "questions": [
+    {
+      "year_label": "2025单年题本可对应",
+      "q": 63,
+      "stem_paragraph": 39,
+      "image_paragraphs": [
+        40
+      ],
+      "local_answer": "B",
+      "local_sequence": "1-2-4-3",
+      "form": "倒车过程中，透过左侧车窗沿路连拍四张照片，按时间排序。",
+      "observations": "前景为路牌与不同电线杆，背景远山基本不变；通过相邻帧近景标志的相对位置、边界进入退出与视差串联。四照片原图为两行两列。",
+      "lessons": [
+        "固定观察方向与车辆前进/倒退条件必须同时明确。",
+        "远近地物应从同一场景同一拍摄轨迹投影产生，不可全体机械平移或随意拼图。",
+        "用可辨识而无文字提示的独特路标及轮廓，避免照片次序只能靠装饰物猜测。",
+        "干扰可来自前进倒退互换、左右窗混淆、相邻两帧误换，必须验证唯一序列。"
+      ]
+    },
+    {
+      "year_label": "2025单年题本可对应",
+      "q": 64,
+      "stem_paragraph": 44,
+      "image_paragraphs": [
+        45
+      ],
+      "local_answer": "A东北",
+      "form": "太阳正西，长方体建筑墙面朝东南西北，给出建筑及其影子照片，判断观察者方位。",
+      "observations": "画面是立体长方体与地面暗影，没有北箭头，需把太阳西、影子东和可见墙面联合转换。",
+      "lessons": [
+        "太阳光与投影方向相反，不能把暗色墙面当成地面影子。",
+        "画面左下不直接等于地理西南，须由观察方向建立画面坐标。",
+        "建筑棱和投影须由同一三维模型投影；选项方位应联合可见面与地面投影排除。"
+      ]
+    },
+    {
+      "year_label": "2025单年题本可对应",
+      "q": 66,
+      "stem_paragraph": 52,
+      "image_paragraphs": [
+        53
+      ],
+      "local_answer": "B",
+      "form": "光源与三相同圆柱和观察者的俯视位置已给定，选观察者看到的影子画面。",
+      "observations": "光源在俯视左侧，观察者在右侧，三个圆柱呈三角布置；正确观察图既满足影子背光，也满足观察者左右及远近。",
+      "lessons": [
+        "点光源的阴影应从光源经物体向外发散，不能画成平行太阳影。",
+        "同高物体在水平地面上的影长随光源/物体几何条件确定，勿凭外观任意画长短。",
+        "观察图须按观察者朝向重排左右和前后，不得照抄俯视图。"
+      ]
+    },
+    {
+      "year_label": "本地合编2026章，年份未经独立核准",
+      "q": 57,
+      "stem_paragraph": 531,
+      "image_paragraphs": [
+        532,
+        533
+      ],
+      "local_answer": "A",
+      "form": "山坡上高低两座塔的照片，选择观察者及两塔位置的俯视关系。",
+      "observations": "矮塔在图左，高塔在图右；高塔遮树、树又遮矮塔，形成高塔在前矮塔在后的遮挡链。正确俯视选项A同时满足左右与远近；D左右正确但前后错。",
+      "lessons": [
+        "不能只用图像大小推断远近，题干已经给真实高矮不同。",
+        "应给可靠遮挡链或明确视线交叉，用遮挡判深度。",
+        "至少一个干扰只改远近、一个只改左右、一个共线，防止单一左右判断即定位。"
+      ]
+    }
+  ],
+  "not_located": [
+    "城市景色排序",
+    "电影院和家的位置对应"
+  ],
+  "search_scope": "核对本地2025单年题本、合编2025-2026.docx、北京相关判断刷题DOCX与北京PPT可提取文字；未找到后两种情境的原题，不虚构题号或原卷归属。可按用户明确描述原创相应情境。",
+  "year_boundary": "延续前轮sources_2026_review.json：合编新旧稿媒体相同而年份标题变化，后章只能按本地标2026称呼，不能当作独立核准的2026官方原题。",
+  "original_blueprint_suggestion": "10题建议车窗连拍2、城市沿路景观序列2、太阳投影2、点光源观察1、影院与家位置/返回方向2、遮挡照片转俯视1；各用不同几何约束，非仅替换名词。",
+  "visual_constraints": "照片式观察题可用统一黑白矢量场景及真实投影替代照片素材；原题四连拍可2x2，若提供四个图形候选仍按用户要求共用横框并将A-D放下方；观察/方位必要信息可保留在图内。"
+}

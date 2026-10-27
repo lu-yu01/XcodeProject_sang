@@ -1,0 +1,106 @@
+{
+  "passed": true,
+  "frozen": true,
+  "author_estimated_difficulty_only": true,
+  "source_case_count": 29,
+  "national_cases": 26,
+  "local_cases": 3,
+  "read_2026_all_definitions": [
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95
+  ],
+  "read_2025_all_class_sections": {
+    "执法": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "地市": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "副省": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ]
+  },
+  "originality": "原创情境与叙述；只参考真题的要件结构和干扰方式。研究/生态情境为题设，不声称真实研究结论。",
+  "specific_semantic_repairs": [
+    "Q24不以公开学号查表当作可直接识别，改为保留姓名及完整证件的明确反例。",
+    "Q25第二次错误归类改为基于现有照度偏差，避免未给出的前馈模型假设。",
+    "Q31避免宣称中介与调节在理论上永远互斥，仅按已给作用判断。",
+    "Q36明确不成比例负担已发生，避免将承诺无限成本直接当作现实负担。",
+    "Q44设问明确要求内心呈现，排除纯外部片段在知识范围上的真空满足。",
+    "Q48明确正确情境存在效果不确定性。"
+  ],
+  "verification": {
+    "necessary_condition_matrix": 30,
+    "negative_direction_count": 9,
+    "paired_classification_recomputed_from_underlying_mechanisms": 7,
+    "raw_procedure_truth_world_rates_individual_recomputations": 4,
+    "all_unique": true
+  },
+  "choice_length_audit": {
+    "strictly_longest_correct_option_count": 1,
+    "items": [
+      {
+        "n": 45,
+        "lengths": [
+          43,
+          44,
+          41,
+          41
+        ],
+        "difference": 1
+      }
+    ],
+    "note": "长度差多数仅1—3个字，已削减显著长度偏差；不以选项长度作为正确性依据。"
+  },
+  "reading_load_characters": {
+    "min": 276,
+    "max": 376,
+    "average": 314.7
+  },
+  "frozen_sha256": {
+    "definitions.py": "a4412e6ad23cb700259878bb24e12743d6c9326a31163fcaed3bd2439e30c001",
+    "questions_definitions.json": "78ba329c466ca585a96c73af6e1e18b9b53361ac181580fa8038baafb88c52db",
+    "verification_definitions.json": "5b98858773174dcd99d03d328b0e2d26df0d535ff9041ad743f8ce539fbbe539",
+    "sources_definitions.json": "9b93455ae1cb67408ec9e3d0fe5c7e4c0e95feb34ce25463de8f36c48eab4f19"
+  },
+  "not_generated": [
+    "Word",
+    "Markdown"
+  ],
+  "review_status": "作者审计及程序检查通过，等待无答案独立求解；未将作者检查称为盲审。"
+}

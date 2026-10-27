@@ -1,0 +1,16 @@
+{
+  "docx": "E:\\XcodeProject_sang\\模式题\\立体拼合专项练习-10题（含答案解析）.docx",
+  "word_sha256": "6e2a0130b9380903a0348b48d168e7ce42d27d41dd4338eb0ca19295aa0e1b8c",
+  "question_count": 10,
+  "embedded_images": 20,
+  "answers": {
+    "C": 3,
+    "A": 3,
+    "D": 2,
+    "B": 2
+  },
+  "difficulty_estimates": {
+    "中等": 6,
+    "较难": 4
+  }
+}

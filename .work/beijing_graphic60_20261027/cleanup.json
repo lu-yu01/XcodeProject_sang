@@ -1,0 +1,337 @@
+{
+  "checked_at": "2026-10-27T15:11:50.874947+00:00",
+  "deleted": [
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-01.png",
+      "bytes": 283298,
+      "sha256": "76a1fc581d6db86ed38e44268df7bd523a897a1a5921140873000c7a799323fc"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-02.png",
+      "bytes": 261782,
+      "sha256": "ad2e39301f153b27df2b11d0ca796079abefeabdd95fa7e6b425eb7aafdc7219"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-03.png",
+      "bytes": 267215,
+      "sha256": "3e9ecdff8e0576514567aaef7a2884118df473582da24526c085c5001705fce6"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-04.png",
+      "bytes": 274651,
+      "sha256": "41baf36b0d4f164f78cee166a38bcca96988ea91b5b4737417d307d32384f45d"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-05.png",
+      "bytes": 277058,
+      "sha256": "6dcdfbb665f64e29086721ab83d93917d1d31e0df740b06c8aeacb7809cb0a29"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-06.png",
+      "bytes": 270646,
+      "sha256": "9a7439d652f0531b426ba601f90cdc78bd4b25654d5c965f9339060042564857"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-07.png",
+      "bytes": 266295,
+      "sha256": "cbf03dbc2d752742f7c78a32f16623e854092c74df31da5b9c32c497f2c56bfc"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-08.png",
+      "bytes": 267496,
+      "sha256": "87b95739104b5f8b3da4968ad6024c5706006d9c2423f42dd55aa9834c858ac0"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-09.png",
+      "bytes": 266284,
+      "sha256": "2e015f2a87a95b9a6b2371cb73b1967b854c44a6d4c0792d0a7cdad86a70ac76"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-10.png",
+      "bytes": 268663,
+      "sha256": "2f247b170ea8c67382e6d364686fb7aea7e13db7ec1a57a0faf5a3733ec4d263"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-11.png",
+      "bytes": 273381,
+      "sha256": "70e762a0d2fe02df69c8792e250aa0d7d3f5931c13e4ea68ece61971ddb69655"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-12.png",
+      "bytes": 269454,
+      "sha256": "63e652f95df57e4f1b8d782f2da94d86aae83f6b415259f26c3b252d4f00cf2b"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-13.png",
+      "bytes": 272142,
+      "sha256": "916bbafd4e7e2bc24a9ac5d3a0042a570625bad80e118c75e4e2768c565c7e9e"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-14.png",
+      "bytes": 268578,
+      "sha256": "173cdaeb0ea7b3894b5f076af93774ec4de47c0f4efce5ef490f5979d72b4f8f"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-15.png",
+      "bytes": 272389,
+      "sha256": "f84222f2744d9e5ab629595a6c1f95f452589baf767f6657cd7e5669de96d576"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-16.png",
+      "bytes": 264787,
+      "sha256": "b7fc3aeb7e04c1820deebb91c5eaa5fcf35a41c039ce7d29253948440ea5ea5b"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-17.png",
+      "bytes": 264457,
+      "sha256": "242af52829f1de6682e5da559c0bdf37daac458ef0b4a235ab1a94abe9b1376a"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-18.png",
+      "bytes": 267181,
+      "sha256": "bbd45a59d2aabcfa8ec64e3c86ee947ad8a33e6ce11e3961a7794e0e5ab6414a"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-19.png",
+      "bytes": 278616,
+      "sha256": "06a1cd4138f1e3788e7a9995334d32d30542f2162823eae7d5a3f0b05e325799"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-20.png",
+      "bytes": 284962,
+      "sha256": "57b23c963e5808eed9c1cffeb0b6bcbfcb3400d64e74a448a182dc1c478d30ca"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-21.png",
+      "bytes": 329726,
+      "sha256": "0c328e25e2107d72d83df03532d69b91dfbc83563aaee70a3a2ad62a2f538a61"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-22.png",
+      "bytes": 315598,
+      "sha256": "e50ae31a97fdd189c666a4f4641f9eaf24ae63bb0ab8ec6afa25aef8744b3cbd"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-23.png",
+      "bytes": 341420,
+      "sha256": "8a78d3c95be36d73a00023987c32848e0949f96d9e08f26ea293c92106d8cbb8"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-24.png",
+      "bytes": 355185,
+      "sha256": "7c96cc661c26cd9d85ec74afe8e5d9977fae4858ba3466b0d86f80e2b6ed6a6b"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-25.png",
+      "bytes": 346738,
+      "sha256": "ccf23b82290356262ad595a70efef27ee87e857fbfbcac5123d8911fb031261c"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-26.png",
+      "bytes": 355027,
+      "sha256": "e3e83beb89346fad67dd0d75fab72a9f939a26bd2d4cd94d4fe4cdb920ccae43"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-27.png",
+      "bytes": 314676,
+      "sha256": "337e3b95a17b71812724b1f9413b611b6d1c667104b54a708e4a983106f257ca"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-28.png",
+      "bytes": 328924,
+      "sha256": "23c2509755af6bcbfba82c10cab3c314854010ee1969b78c4b2a8fd2926dd849"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-29.png",
+      "bytes": 313729,
+      "sha256": "4a0d09bb0914582e6c4decbeed8279885feadc8d6877f674752f137a394e1eea"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-30.png",
+      "bytes": 339932,
+      "sha256": "d3b5912ef360d022d3a56a4449a46b58cdeec70ee4047545c779069595e1427d"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-31.png",
+      "bytes": 364238,
+      "sha256": "96bf6167317c8775e45389fe40b2bd204a7684d51c9a1edfe63e6b72835083a4"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-32.png",
+      "bytes": 339273,
+      "sha256": "89b05329b1623d4a431eda680d7bf63d095c0f80a856786847fc64d7a0686149"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-33.png",
+      "bytes": 339792,
+      "sha256": "fbb905bbfa4a6384956bf2bd0cf21af125345ba106c90190cb3c0c503a82b1a4"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-34.png",
+      "bytes": 338594,
+      "sha256": "c965dd652df36301753acd0444fa97c78f69eb1e203a991c30e351dab72e6744"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-35.png",
+      "bytes": 350816,
+      "sha256": "9242709a2a2355ae747bce3ac8c63335fbfb6ca2a348ab7f4e46921d17e5b37e"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-36.png",
+      "bytes": 335014,
+      "sha256": "f7a7924390337f117f0811579f46a415ded32ce3f823763cf722ea0e24ca83cc"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-37.png",
+      "bytes": 345056,
+      "sha256": "0611084f80ac59795c23839c5a48689f80c4dc16433008edcca53d5b6b209753"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-38.png",
+      "bytes": 347144,
+      "sha256": "59b8f4e4110559b50ef0789c492f26847da1163bc0bc7addf8597a855df897c9"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-39.png",
+      "bytes": 373450,
+      "sha256": "bfba7b8370d8b7d667a672c331fd5715fec9b749af88e88692d7c92f3163928b"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\render\\page-40.png",
+      "bytes": 381205,
+      "sha256": "a158a246ad62ff310a8483aab73b94fa97fb358b8fee96eebe1f85d494175e2c"
+    }
+  ],
+  "deleted_count": 40,
+  "freed_bytes": 12274872,
+  "retained_files_hash_unchanged": 123,
+  "retained_source_pngs": 120,
+  "retained_file_sha256": {
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-01.png": "890e2e4dad2c3db0af8ba194dd683050423dc83aea1d8d09f977e3797d27a9d4",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-02.png": "9fd9f0663078d8c554cf75088bf373cfcfac409fecc4886d9a697865e8183b84",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-03.png": "4f56ad1299494ab2e634babd87f549a9b75ae5eac4044dad3372f7d851bd3a46",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-04.png": "ebeda6a85dc78b329230d13c34ee55ff86f78c530521fefce8eccb2499baf8eb",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-05.png": "d6cc907986570bf66a1223bcd769af1432e0d84ed0b3a5b3c1715979147ab809",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-06.png": "a0f31949cd323a4a398c35d0aa03ebd15510f0dc4d2ec79ae99ab6ee347939dc",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-07.png": "d18a8bf232dccee08219a9953159011cd469275e02039882ebbfbd0743722420",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-08.png": "70db5d5c4a7c0ff2cc30204b5c41af9b1995490f5a7cd103d76f46de6155af32",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-09.png": "f4daeaa067d3464e72fd5ae7c3d5d8dbe964341c0cff10948c0009db37f0bb4c",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-10.png": "224eb83f384f79fccf57b62ad52637d7166523bafbaf8ce47e34d2482547b66e",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-11.png": "eb4e01acab442a4bd60e212a7cdc96142bbf7cf9ce96aba286391d860e24e391",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-12.png": "9f4621fe737ed74ea03af7772fb72a925932ec52a83c2047e69963bccce80ece",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-13.png": "5c1dd9ef2cec8d46c9d214642ecf2113b2741a7abe024846f8b78f6d129d4314",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-14.png": "8404df8712406bc22be5831876f6c13a419ddf95b19ca0ff7ff17cdcab4131f4",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-15.png": "7ff7331944d7682cc70a7572b7184209c45e87a0ca50497e101da37e604789f8",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-16.png": "24f1830f3a72a19e14670a711e6f311fd26bee0134aa7865ebfcb1d9a9d5d7ab",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-17.png": "8d38d887cd3bdc7c0ea019d01884415bf0cebdb318faf4bdf35bedc879d630f5",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-18.png": "03f1a65b199e015534f16c1a91a538a3b2ea29973243cf8e6cff08066117c0da",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-19.png": "d5d8a8251fe5c1080c61a1f7cb47c78fafa7926b5e92022f81d59f1a69bbb8b6",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-20.png": "53364f6eaf46fe62dae6c2eff54f273ed2859d21cb6dca47c1e320d247bf0589",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-21.png": "eb7729165e007046afded63e87f5cc5427e83b3794d67539e0b5b0d37037f471",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-22.png": "1e248a32f6fb0c6c87b2f835f23b39ff3bf67c7ea5f3e92c6b4aa9df5f53af2a",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-23.png": "c6b195cb4399a619be276a91687569ec2d8d0aba6b3a19faba96e5ac546f3ce7",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-24.png": "a7f132ff57b92b2b921638c920ed679699a6182fbde6e635b6d49afe94d2e085",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-25.png": "5121681d57ee408021fdf7453f58de90121b366e3f7c237953674895cb349956",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-26.png": "36667d6e45af012f4445689beb2c454e4321b5ccee72689a5556e2579100884b",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-27.png": "0f54bcb9338e769f3fc63d9986d5f78b6bfd8efcc7d3d7400db0eeb367696871",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-28.png": "e29a43d2288197935f7b06b8bfc5af00f7050d948571eca99d96155c5cbef270",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-29.png": "eeb73d39a8fb3cbf0c32e0cdebb79b58c384e382c3f3af9531fde030ad968364",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-30.png": "56ee2438d280d6b5d02ebb04cece66d4ed78398f946d87907668d5b1c0c44c9e",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-31.png": "8ee43f1a97003754c247a40e9a4570b8c07c3a54e14d8e480ac195699372258f",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-32.png": "52e7d9a03d3a192edd3b9e9f78bf9a1028d73c2b16edc79886130a5cb86dd780",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-33.png": "cda0d0a93888fced2531b896c66536751961b612cdfc9db768d67b95bc830ca4",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-34.png": "7758e74cb25eaa52e9290d2f8c67f41d809d13189dd6c4432af4103ff6efc533",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-35.png": "964f76a6fbc9dfe239616bc4e8e792a90e53ed8ef6b33d765b334f466c501780",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-36.png": "76bfaf909a3f7986382e5a9b26bbbf7c6503cd082976661e97f0616585e8fbf6",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-37.png": "7dd143685ee6e1427510bb0a1f2454a664f21d89f4b7d4fdc67fa3d5b3837547",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-38.png": "d18c7e46bd40634f64108325f96eaa22b27e59e7ec48c5ba8020696ebe2091d4",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-39.png": "15c24e0841ead11b73c9e5bb8fba73d8501c81a53326725385702d34f9a3c7a4",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-40.png": "f3738571bd6a8eff8b2b86f615f494264b964780d91b133b6f2948b094c67a48",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-41.png": "a7b7b13c0e2f6bffcb291ec53c9de48abd9173d4770e84681561fe21085f372f",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-42.png": "ca35a75ebfbfd9ad60229df6b2221a2a0880ed17fba4fb679bf2317d83c6a5ef",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-43.png": "7001c2694f3e7edf602ebd55ead851fac155428e5658b5d44c66ea0f1cbd18c6",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-44.png": "ad6b8aef239582cf99fc995d01a6ceb6e1a089c27e4bce0c01e1954dfc3f477d",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-45.png": "fb419ee217f368405520be5a721167798201406f1fd45b6f53b86c47736cf882",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-46.png": "2ca62e309a3b27c772583557be68640f48ab973c3c287f0be9334d596360548c",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-47.png": "b2e5ed3ab00e37e9460255500a68812d568da48b83d9fc321ff6346f5a709075",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-48.png": "4d6b3c42ebe0722c103f22dd23ebcfcc08c0f3b111aec36c426aa4fe5222b175",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-49.png": "357140922f8ba95b3215a8b0af4852bdb134eadb484222002234e0d1fba44f52",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-50.png": "35946c4eaf713836a3cf3525269efe08ebe7e3dcde5c094e404bc0a541cbf4fa",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-51.png": "4c298573688f3054a4910c060f7387f065291da646c140a0dffea26caa8352a9",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-52.png": "2b8e7b59a367114a2df5e1974b57e47d02a603a5cbe368eaff94b657d71abae9",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-53.png": "514ed6fd0d073b4a6260465bb9bae56b3125c390310605835c58224281790561",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-54.png": "68f5ba53987211337d42c271f7f92cd871ad6499ea612d488a7f71d58f99e0bc",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-55.png": "f8db24871313ac91eed2d473da593096634887e9a1574573abce1f8b81c6dcaf",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-56.png": "f066811e083b1fb72199a81f82c4be4647b81e203351d788fdeefc0dbb28ef66",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-57.png": "a97c6fea5577dc1bafefe752f1c182f8bcf087e46c5ae4a0b972af82fee14fcd",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-58.png": "f62fb20511b2cac50b4ec28d078258a4aac538866e47a55ebc48e446138d0ade",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-59.png": "13cb3e30b0ed21347879ef2dfed5edbdd0c780f950cfeb49e648d158ed0eaf5a",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\question-60.png": "1045853e15ae0c5b54c253d4701fef101ade1f8b88e7458d0b3ed25a68dade3c",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-01.png": "380aa0b9c0ec42b25b2382b8afd11468e5d6b421bd292052b4280b6ec39667e3",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-02.png": "302acf9b3dec683edfbf35cb0cb3346fa79ce56267bd8e10173fef7f314d6ed7",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-03.png": "a1a1ccb26770cb3f47cc1809752fe8eeb27b9d93bc7808ca6458e4dcacebe135",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-04.png": "2a9fd76fb12720d72cc4d785997c37daa7ede5639a5030a166fb43172523afbd",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-05.png": "0952e16a9c8453b051a55a23661d61bb98ed002076c78cd984ca0878e3292e25",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-06.png": "cdc7fef0484f2e7382419f5e5263fd784ba6c712d434387ea235b26039f0991c",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-07.png": "146724d2fb1ddb7cd1ca1698fa35cb4adb6622b2b54e6f6d100b9747d20c5af5",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-08.png": "a28d2d2fcb58d1ea4f9951b01c15e04de6f158cf5e210be7099da5605d6f35c8",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-09.png": "c8fbbca07438b35c3fd224a7dc55510a4a50fe7f232203b2c338b63f6ac9436c",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-10.png": "91c2858b7394b6b6d4bf8856d82c718840d601ca4764487eaed4fd5a06eefaee",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-11.png": "d6b5fb677d486c22138bbf27ce143c3c0cc30840b61f5272d643ec7f29bec2b9",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-12.png": "19b8aa20b53da0b4ae229143038acfb86d2ba21be6ff8fb1a7f9d50cfe22833e",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-13.png": "4eedf72d0a0d54a03813ef394fd56cadde0184cdf0009d20c3e49333075e17ee",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-14.png": "1fc5e760fb8451d5415212a008af6c1608d3f25b1e92e4c8dde1642a87d7688b",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-15.png": "649ea1ff850a22027bcf2f0d838ac034c3514e558c6c4aa417e2ca25308edfd8",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-16.png": "8c217721ca1ccd6ed46b056134beeb64a6617684c3803e451dd3d44fc08c682c",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-17.png": "db07088ffa3df25f42376b74f9eaae99416b9bf9115133e4c1e3f5dd2ee5bec3",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-18.png": "9af80c058fd27cf15f39ad48719aa8b0197d439d9eceadf6e4010c1f887dfd7e",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-19.png": "1f27b79ddb6051f606e6989584dc7d80622964025970901fc4087b0d9aecaf6a",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-20.png": "94ccfa8f0c2d8e3ff5a2d3e038bb211c65aaff42a8569fc9c154e6e95cdb77ec",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-21.png": "57d0a05930821ac254f3a0e75292e61a04b3229a501b79be9a0e5400e3ff2b51",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-22.png": "9c21d4a23e02a991e1b7c0c4edc0ce5877d19bdcc788f61e4730f4cfcebf2d4a",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-23.png": "d556da577e6352b1990147cbbaedc04ad039fae038d8cfc89fa6e4a8c5d1f14d",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-24.png": "828d8c69cf73b5b338c9b2104d315922d13faa3c0df780d407f6d4d3015f5e43",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-25.png": "d4fddfcafbfa30a6c766b6643727de79e0c1a3381b728c8ce269e69a9440c99c",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-26.png": "86f4e2b779d84dc5dc1943bce22f0164b77517ebc9d4dfd21c63a4a5ee131b19",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-27.png": "5b93ade4fbcee3b3943f343792a366b48f814e37e68733b3bc0d1369fbe24c2c",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-28.png": "b2ecd16137d02b2cf65a1c43a3098792a0c0c049c4d146deb774da46949dfb7e",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-29.png": "231018c7cafc46694109f5991e3282f59f2d5a3a7bccc3d759d8fdf39fa2fbb3",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-30.png": "c8ca34448872c638a7d1a4b8a9560a3aeb06bea6cc0cec0b1acaa0733360aba3",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-31.png": "08e6afe7751e83784b87888fde43f3c7801f888dc046a7491ee4e149f59e24a6",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-32.png": "387fcd4f60bca243b7578d075f790ebfcfac6c0c1e1022a6e71e4eed2bd41634",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-33.png": "79e7d340f5a6acdd5a7cfa35db2a34f9a8ee24a6ca9dca839613b25cd3bd8b18",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-34.png": "fe2281990070b0c4f58a9c5458b476ec0884ae37a14a48e8258c7a3082e257c3",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-35.png": "763f9c8d41830fa087a4520be4789a4dd2d457a62e3623a982585881898d6158",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-36.png": "b61bf84c58af535d741875bd841c0e706d84fd62890acc698b42c550ec10f727",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-37.png": "2a217cb5ca2ce048678f68753fd849e2c3fe8eb11523fc1804cae8022f86e0c9",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-38.png": "c74b9a4a7ae1062e5c8f375990f3af8240fce859fe793ad7683a75a66a8cf9eb",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-39.png": "0e0a6558190010def1ec5b35ae8a6ddd500ec90964e1399d2129461c953d3133",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-40.png": "955e9c6cc40ec9d97be3af9e4d4fc0ba752a369c7795f00db3fadcf0425014d5",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-41.png": "09e9b7ed52d1d9ac9c80c1abc1d66e9e42699288749c66b0ed87e02c91ad32b3",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-42.png": "336d7a951004cc916a709714fe9f39e4a8fa5852d13620025904dc2fbb0c2d38",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-43.png": "f515a6a541ad3f7776ae71f986c1dd9e84cd7536dc519c411cc77a09e88bbf97",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-44.png": "f1b746845e553f6185a22b291d42cbde9d091d22ee6da835a970976b9fcc969a",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-45.png": "4f492fd888a81bcbd21f37c74467e04d0c18e96ce4fe929cfd29f43b8fcb3bd0",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-46.png": "69d0cc1b1deb90239e2c891cfc17993ecf18812c4c77ddeaeca330c7fca26506",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-47.png": "78f2e30d9b87bb4ac15deaa5518abc33550856ada9e2411322ffbd1f391bb9f7",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-48.png": "7fcb09c166bfbe1734db952b8961e398b932c16b08b344e78628c9fdbfbe4a19",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-49.png": "7c7a0ee55e7b464b7e3adcf180170a63ba2417ab3db9c784770364a12bb71fdc",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-50.png": "f30ec6dde14ea61c1df65e188c3e8408f95fb5083905a77974b2f2f78bc0af64",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-51.png": "740fa2e544297f60856af099b664e44a2cb353ef864e3be9d5074ad13fe51305",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-52.png": "85f3e3310823fe155aaa90d9cfae2864b542e0b1e68925cf1d6f75e5f5da7470",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-53.png": "6e7e2e653a04d5279ccb0f105ccf0d9210644afaa6268cc8dd6a1e09f6ad2613",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-54.png": "5f0d7d0ab34fc13b9ae5f27d791f699166986bbe6f6ca6656bd6ef00b7a88d5c",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-55.png": "e6476358dbe97d9ba99ca2707ad5bf215fad803cacc4698380062c3290c1f1e9",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-56.png": "886f8ac08ce8bbc189bfa0a5de060816a13fe17fc11a4217cfdfbd83f833fa3f",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-57.png": "1dc151ec71d226561fd9b05c6a94dcea0de381128121746198a797daa809bcd7",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-58.png": "ed7b4d5c02986065edb267cac5f06d06dd9100c0cda638c817341abc8b3919cd",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-59.png": "cefb4300ce4d53c22923670bfdab8dad4a29b481904876ad7d02a62fe0a103f4",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\assets\\solution-60.png": "695edae66cf94a8b0c0883bcf372fa47101e31775a599eb558898fdb43209e5f",
+    "E:\\XcodeProject_sang\\模式题\\北京风格图形操作进阶练习-20组60题（含答案解析）.docx": "9be856058968fd7b41b9a1e1552766ae052efd741c55b24bfb5f4890cdb2d835",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\preview.pdf": "5b19aa572e0382ac5ed7989c632e36f8bc97c275be272fde03c468c9ecce4bd6",
+    "E:\\XcodeProject_sang\\.work\\beijing_graphic60_20261027\\final_check.json": "ba84f506d1d7fd023f0f9ed121d0a3193e146ef272679ba0e23d3236f4cafade"
+  },
+  "knowledge_links_passed": true,
+  "all_project_markdown_in_knowledge_base": true,
+  "scope": "仅本轮render/page-*.png共40张临时页图；保留120张正式图源、Word、PDF、源稿和全部报告。"
+}

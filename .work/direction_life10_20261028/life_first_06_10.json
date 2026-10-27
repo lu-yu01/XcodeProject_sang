@@ -1,0 +1,39 @@
+{
+  "reviewer": "life_blind_06_10",
+  "phase": "frozen_first_answers",
+  "source": "public_questions.json and visually opened assets/question-06.png through question-10.png only",
+  "prohibited_sources_read": false,
+  "must_not_overwrite": true,
+  "answers": [
+    {
+      "n": 6,
+      "answer": "A",
+      "image_sha256": "FD34F40F334563780CA24B489C8A8445F28B2E02D757B844475718CB5D7D856D",
+      "reason": "观察者在两柱西南，面向东北；旗杆影向西北，在这个观察方向下落到画面左侧。近柱在左、远柱在右，两根等高柱的太阳影应同向，故首次选择两影均向左的A。"
+    },
+    {
+      "n": 7,
+      "answer": "D",
+      "image_sha256": "06F935DE1052FDA7430A8E158D030B0C4501BEE81AFCDCF126D3801323A88C48",
+      "reason": "以图示光源地面位置向各柱作射线，影子均沿远离光源的方向。观察者从东南看向西北，左侧柱影向画面左下，中间较近柱影向右下，右侧较远柱影也向右且更平；点光源影向应散开，首次选择D。"
+    },
+    {
+      "n": 8,
+      "answer": "B",
+      "image_sha256": "8C680BC492F9CEC8594A2B7A692C0C961D99CDC76314DD570D2E4183F4C63001",
+      "reason": "家门朝北，商店应在家西北、影院在家东北；影院朝西，左前方的家在影院西南，右前方图书馆在影院西北。B满足全部约束；A图书馆在影院东北，C商店在家东北，D影院与商店相对家的左右均反。"
+    },
+    {
+      "n": 9,
+      "answer": "C",
+      "image_sha256": "464C148B8CFB1CF28B4CB432AA430C582C3F6C21CFE7780619AB1CCE57C49727",
+      "reason": "图上北箭头斜向右上，路线最后一段斜向左下，即向南；右转90度后面向西（图上左上）。由影院看，家落在转身后左前方，书店在右前方，选C。"
+    },
+    {
+      "n": 10,
+      "answer": "A",
+      "image_sha256": "D39FB8F3A56F0ECBE3290AB4DBD1C6B1DBDB9BDAC832BD4ABD2722766C7DB4DE",
+      "reason": "照片可见矮塔右沿挡住树干左侧的一部分，且树冠覆盖高塔左侧一部分，故沿视线的前后次序是摄影者、矮塔、树、高塔。A的前后次序相符。"
+    }
+  ]
+}

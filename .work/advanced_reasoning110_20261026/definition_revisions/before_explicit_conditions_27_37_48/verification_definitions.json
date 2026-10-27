@@ -1,0 +1,2975 @@
+{
+  "passed": true,
+  "question_count": 30,
+  "global_numbers": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "negative_questions": [
+    21,
+    28,
+    30,
+    34,
+    38,
+    41,
+    42,
+    48,
+    50
+  ],
+  "difficulty_counts": {
+    "中高": 19,
+    "中": 4,
+    "高": 7
+  },
+  "answer_distribution": {
+    "C": 11,
+    "B": 7,
+    "A": 6,
+    "D": 6
+  },
+  "verification_scope": "可执行要件合取/否定方向/唯一性及4题原始数据复算；自然语言到要件的映射另需无答案独立试解复核，不将此程序检查冒称独立盲审。",
+  "items": [
+    {
+      "n": 21,
+      "passed": true,
+      "direction": "negative",
+      "expression": [
+        "all",
+        "origin",
+        "ordered_chain",
+        "rules"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "origin": true,
+            "ordered_chain": true,
+            "rules": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "原始读数编号、阈值及合并日期共同提供来源、次序和规则，三项条件均成立。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "origin": true,
+            "ordered_chain": true,
+            "rules": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "底片是原始来源，去噪补色有先后和参数，三项条件均成立；人工加工也能形成溯源链。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "origin": false,
+            "ordered_chain": false,
+            "rules": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": true,
+          "specific_evidence": "修改人和历史版本只能说明谁改过及结果差异，不能从报表定位所用订单，也不能还原所用规则，不符合定义。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "origin": true,
+            "ordered_chain": true,
+            "rules": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "观测批次提供来源，依赖关系提供加工次序，配置文件提供规则参数，三项条件均成立。"
+        }
+      ],
+      "computed_selected_options": [
+        "C"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        46,
+        47,
+        44,
+        44
+      ]
+    },
+    {
+      "n": 22,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "minimum",
+        "different",
+        "no_single"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "minimum": false,
+            "different": true,
+            "no_single": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "提出和批准相分离，但修改全公司工资与既定采购任务无关，不符合最小权限。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "minimum": true,
+            "different": true,
+            "no_single": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "采购员和审核员各限于所需操作，不能批准本人提出的采购，且无无关权限，两项原则均符合。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "minimum": true,
+            "different": false,
+            "no_single": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "权限虽然限于采购任务，但限额内可由同一人提出并批准，违反本题给定的职责分离要求。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "minimum": false,
+            "different": false,
+            "no_single": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "共用账号拥有提出、批准全权限，账号角色没有分离；同时开放系统设置超出给定采购任务。密码如何保管不能补足这些条件。"
+        }
+      ],
+      "computed_selected_options": [
+        "B"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        45,
+        46,
+        44,
+        46
+      ]
+    },
+    {
+      "n": 23,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "detected",
+        "automatic_safe",
+        [
+          "not",
+          "service"
+        ]
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "detected": true,
+            "automatic_safe": false,
+            "service": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "切换后原服务继续，体现容错；没有描述因危险而进入预定安全状态，不满足设问的组合。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "detected": true,
+            "automatic_safe": true,
+            "service": false
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "检测失灵后自动制动进入安全状态，符合故障安全；原运送服务中断，不属于本题所称故障容错。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "detected": false,
+            "automatic_safe": false,
+            "service": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "由人获知投诉并重启，不是系统检测故障后自动进入安全状态，且服务中断。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "detected": true,
+            "automatic_safe": false,
+            "service": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "备份传感器维持正确读数，体现容错，不能仅因发出通知就认定自动进入了预定安全状态。"
+        }
+      ],
+      "computed_selected_options": [
+        "B"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        45,
+        45,
+        42,
+        46
+      ]
+    },
+    {
+      "n": 24,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "no_identification_alone",
+        "restorable"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "no_identification_alone": true,
+            "restorable": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "研究表单独不能识别，但额外对应表允许复原，符合去标识化且不符合不能复原的匿名化。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "no_identification_alone": true,
+            "restorable": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "题设明确不可识别且不能复原，属于匿名化，不符合“但不属于匿名化”的限制。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "no_identification_alone": false,
+            "restorable": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "只是限制访问者，信息内容仍直接识别个人，没有实施所定义的信息处理。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "no_identification_alone": false,
+            "restorable": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "姓名及完整身份证号仍直接指向本人，删除手机号未使信息达到不能直接识别的状态。"
+        }
+      ],
+      "computed_selected_options": [
+        "A"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        43,
+        47,
+        43,
+        45
+      ]
+    },
+    {
+      "n": 25,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "first_label",
+        "second_label"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "first_label": false,
+            "second_label": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "室温已有偏差是负反馈；外部热风尚未进入而提前补偿是前馈，两个标签均颠倒。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "first_label": false,
+            "second_label": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "固定日程不是检测外部扰动后按模型补偿，第一项不是定义中的前馈；第二项是负反馈。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "first_label": true,
+            "second_label": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "成品含水率偏差引发调整，属于负反馈；尚未进入的原料湿度作为扰动引发预补偿，属于前馈，两项均正确。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "first_label": true,
+            "second_label": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "第一项符合负反馈；第二项同样依据已出现的室内照度偏差进行调整，仍是负反馈，不能归为前馈。"
+        }
+      ],
+      "computed_selected_options": [
+        "C"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {
+        "classification_trace": [
+          [
+            {
+              "case": "a1",
+              "claimed_definition": "feedforward",
+              "underlying_facts": {
+                "output_error": true,
+                "reduce_error": true,
+                "external_detected": false,
+                "before_output": false,
+                "prior_relation": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "first_label"
+            },
+            {
+              "case": "a2",
+              "claimed_definition": "feedback",
+              "underlying_facts": {
+                "output_error": false,
+                "reduce_error": false,
+                "external_detected": true,
+                "before_output": true,
+                "prior_relation": true
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "second_label"
+            }
+          ],
+          [
+            {
+              "case": "b1",
+              "claimed_definition": "feedforward",
+              "underlying_facts": {
+                "output_error": false,
+                "reduce_error": false,
+                "external_detected": false,
+                "before_output": false,
+                "prior_relation": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "first_label"
+            },
+            {
+              "case": "b2",
+              "claimed_definition": "feedback",
+              "underlying_facts": {
+                "output_error": true,
+                "reduce_error": true,
+                "external_detected": false,
+                "before_output": false,
+                "prior_relation": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "second_label"
+            }
+          ],
+          [
+            {
+              "case": "c1",
+              "claimed_definition": "feedback",
+              "underlying_facts": {
+                "output_error": true,
+                "reduce_error": true,
+                "external_detected": false,
+                "before_output": false,
+                "prior_relation": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "first_label"
+            },
+            {
+              "case": "c2",
+              "claimed_definition": "feedforward",
+              "underlying_facts": {
+                "output_error": false,
+                "reduce_error": false,
+                "external_detected": true,
+                "before_output": true,
+                "prior_relation": true
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "second_label"
+            }
+          ],
+          [
+            {
+              "case": "d1",
+              "claimed_definition": "feedback",
+              "underlying_facts": {
+                "output_error": true,
+                "reduce_error": true,
+                "external_detected": false,
+                "before_output": false,
+                "prior_relation": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "first_label"
+            },
+            {
+              "case": "d2",
+              "claimed_definition": "feedforward",
+              "underlying_facts": {
+                "output_error": true,
+                "reduce_error": true,
+                "external_detected": false,
+                "before_output": false,
+                "prior_relation": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "second_label"
+            }
+          ]
+        ],
+        "classification_matches_facts": true
+      },
+      "option_lengths": [
+        47,
+        39,
+        45,
+        45
+      ]
+    },
+    {
+      "n": 26,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "priority",
+        "nested",
+        "extreme"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "priority": true,
+            "nested": true,
+            "extreme": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "安全最优集合是甲乙丁，寿命最优集合缩为乙丁，成本较低的是丁；每轮只处理上一轮的入选者。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "priority": false,
+            "nested": true,
+            "extreme": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "先按成本淘汰违反重要性次序，且安全并列后应先比较寿命，不能跳到成本。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "priority": true,
+            "nested": false,
+            "extreme": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "丙已因安全分被淘汰，不能在寿命比较时重回候选集合。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "priority": false,
+            "nested": false,
+            "extreme": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "加权得分允许低优先级指标补偿高优先级劣势，不是词典序逐级保留法。"
+        }
+      ],
+      "computed_selected_options": [
+        "A"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {
+        "computed_stages": [
+          [
+            "甲",
+            "乙",
+            "丁"
+          ],
+          [
+            "乙",
+            "丁"
+          ],
+          [
+            "丁"
+          ]
+        ],
+        "declared_stages_match": true
+      },
+      "option_lengths": [
+        36,
+        38,
+        35,
+        40
+      ]
+    },
+    {
+      "n": 27,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "first_label",
+        "second_label"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "first_label": false,
+            "second_label": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "每类中抽个体是分层，抽班后全查是整群，两个标签对调。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "first_label": false,
+            "second_label": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "自愿报名不是层内随机抽取；车间内又抽部分人也不是本题所定义的入选群全查。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "first_label": true,
+            "second_label": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "楼内住户全查符合整群；只调查一个年龄层未从每层抽样，不符合分层。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "first_label": true,
+            "second_label": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "每一规模层都随机抽企业，符合分层；随机选村后对入选村农户全查，符合整群，两项均正确。"
+        }
+      ],
+      "computed_selected_options": [
+        "D"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {
+        "classification_trace": [
+          [
+            {
+              "case": "a1",
+              "claimed_definition": "cluster",
+              "underlying_facts": {
+                "each_layer": true,
+                "individual_random": true,
+                "group_random": false,
+                "all_in_group": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "first_label"
+            },
+            {
+              "case": "a2",
+              "claimed_definition": "stratified",
+              "underlying_facts": {
+                "each_layer": false,
+                "individual_random": false,
+                "group_random": true,
+                "all_in_group": true
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "second_label"
+            }
+          ],
+          [
+            {
+              "case": "b1",
+              "claimed_definition": "stratified",
+              "underlying_facts": {
+                "each_layer": true,
+                "individual_random": false,
+                "group_random": false,
+                "all_in_group": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "first_label"
+            },
+            {
+              "case": "b2",
+              "claimed_definition": "cluster",
+              "underlying_facts": {
+                "each_layer": false,
+                "individual_random": true,
+                "group_random": true,
+                "all_in_group": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "second_label"
+            }
+          ],
+          [
+            {
+              "case": "c1",
+              "claimed_definition": "cluster",
+              "underlying_facts": {
+                "each_layer": false,
+                "individual_random": false,
+                "group_random": true,
+                "all_in_group": true
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "first_label"
+            },
+            {
+              "case": "c2",
+              "claimed_definition": "stratified",
+              "underlying_facts": {
+                "each_layer": false,
+                "individual_random": true,
+                "group_random": false,
+                "all_in_group": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "second_label"
+            }
+          ],
+          [
+            {
+              "case": "d1",
+              "claimed_definition": "stratified",
+              "underlying_facts": {
+                "each_layer": true,
+                "individual_random": true,
+                "group_random": false,
+                "all_in_group": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "first_label"
+            },
+            {
+              "case": "d2",
+              "claimed_definition": "cluster",
+              "underlying_facts": {
+                "each_layer": false,
+                "individual_random": false,
+                "group_random": true,
+                "all_in_group": true
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "second_label"
+            }
+          ]
+        ],
+        "classification_matches_facts": true
+      },
+      "option_lengths": [
+        40,
+        42,
+        44,
+        43
+      ]
+    },
+    {
+      "n": 28,
+      "passed": true,
+      "direction": "negative",
+      "expression": [
+        "all",
+        "random",
+        "participant_blind",
+        "researcher_blind"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "random": true,
+            "participant_blind": true,
+            "researcher_blind": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "随机数决定组别，受试者及实施、评分者均不知编码含义；独立人员保管编码不破坏题设双盲。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "random": false,
+            "participant_blind": true,
+            "researcher_blind": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": true,
+          "specific_evidence": "虽采取盲法，但由学员选择时段并由此决定班别，不是随机机制分组，不满足合取定义。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "random": true,
+            "participant_blind": true,
+            "researcher_blind": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "程序抽签满足随机分配，独立编码员不参与实施和评分，其知情不破坏题设双盲。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "random": true,
+            "participant_blind": true,
+            "researcher_blind": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "随机分组与受试者、实施评分者不知组别均已满足，界面一致只是辅助条件，不是唯一判据。"
+        }
+      ],
+      "computed_selected_options": [
+        "B"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        49,
+        43,
+        48,
+        49
+      ]
+    },
+    {
+      "n": 29,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "conditions",
+        "response",
+        "rule"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "conditions": false,
+            "response": false,
+            "rule": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "解释功能和可能影响因素，没有规定如何实施、观察和计分。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "conditions": false,
+            "response": false,
+            "rule": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "是在讨论概念内涵，未给出可复现的具体测量程序。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "conditions": true,
+            "response": true,
+            "rule": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "安静房间和呈现时长是条件，目标按键及漏按是反应，后十分钟漏按比例是计算规则，三项均明确。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "conditions": false,
+            "response": false,
+            "rule": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "报告量表分数与差错的相关性，未给出量表如何施测和计分，不能据结果相关代替操作性定义。"
+        }
+      ],
+      "computed_selected_options": [
+        "C"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        42,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "n": 30,
+      "passed": true,
+      "direction": "negative",
+      "expression": [
+        "all",
+        "waste",
+        "raw_or_regenerate"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "waste": true,
+            "raw_or_regenerate": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "废纸再生为纸浆及再生纸原料，符合废物的再生利用。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "waste": true,
+            "raw_or_regenerate": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "废玻璃转为生产原料，符合资源化，不能因最终仍制玻璃而否定。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "waste": true,
+            "raw_or_regenerate": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": true,
+          "specific_evidence": "门板保持部件身份直接用于新柜，是再利用；所述过程没有转为原料，未体现资源化。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "waste": true,
+            "raw_or_regenerate": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "废织物被处理为可再纺原料，符合资源化，不是完整旧织物继续作产品使用。"
+        }
+      ],
+      "computed_selected_options": [
+        "C"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        36,
+        35,
+        31,
+        32
+      ]
+    },
+    {
+      "n": 31,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "chain_label",
+        "strength_label"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "chain_label": false,
+            "strength_label": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "两种角色颠倒；与结果有关不是区分中介和调节的充分条件。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "chain_label": true,
+            "strength_label": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "检索策略位于训练到成绩的作用链，确属中介；睡眠未被训练改变且改变训练效果强弱，不能归为该作用链的中介。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "chain_label": false,
+            "strength_label": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "睡眠的归类正确，但检索策略承接训练对成绩的作用，不是题设所述关系强弱的分组条件。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "chain_label": true,
+            "strength_label": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "训练→检索策略→成绩构成中介路径，睡眠状况改变训练效果的强弱，分别符合两个定义。"
+        }
+      ],
+      "computed_selected_options": [
+        "D"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {
+        "classification_trace": [
+          [
+            {
+              "case": "strategy",
+              "claimed_definition": "moderator",
+              "underlying_facts": {
+                "effect_chain": true,
+                "changes_strength": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "chain_label"
+            },
+            {
+              "case": "sleep",
+              "claimed_definition": "mediator",
+              "underlying_facts": {
+                "effect_chain": false,
+                "changes_strength": true
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "strength_label"
+            }
+          ],
+          [
+            {
+              "case": "strategy",
+              "claimed_definition": "mediator",
+              "underlying_facts": {
+                "effect_chain": true,
+                "changes_strength": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "chain_label"
+            },
+            {
+              "case": "sleep",
+              "claimed_definition": "mediator",
+              "underlying_facts": {
+                "effect_chain": false,
+                "changes_strength": true
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "strength_label"
+            }
+          ],
+          [
+            {
+              "case": "strategy",
+              "claimed_definition": "moderator",
+              "underlying_facts": {
+                "effect_chain": true,
+                "changes_strength": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "chain_label"
+            },
+            {
+              "case": "sleep",
+              "claimed_definition": "moderator",
+              "underlying_facts": {
+                "effect_chain": false,
+                "changes_strength": true
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "strength_label"
+            }
+          ],
+          [
+            {
+              "case": "strategy",
+              "claimed_definition": "mediator",
+              "underlying_facts": {
+                "effect_chain": true,
+                "changes_strength": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "chain_label"
+            },
+            {
+              "case": "sleep",
+              "claimed_definition": "moderator",
+              "underlying_facts": {
+                "effect_chain": false,
+                "changes_strength": true
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "strength_label"
+            }
+          ]
+        ],
+        "classification_matches_facts": true
+      },
+      "option_lengths": [
+        34,
+        33,
+        33,
+        29
+      ]
+    },
+    {
+      "n": 32,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "before",
+        "diagnose",
+        "plan",
+        [
+          "not",
+          "predict"
+        ]
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "before": true,
+            "diagnose": false,
+            "plan": false,
+            "predict": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "直接预测半年后决赛表现，体现预测性评价，未体现根据知识困难安排学习内容。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "before": true,
+            "diagnose": true,
+            "plan": true,
+            "predict": false
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "开课前识别具体概念困难并据此安排补习，满足诊断的时间、对象和用途；所述用途没有预测后续表现。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "before": false,
+            "diagnose": true,
+            "plan": true,
+            "predict": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "反馈发生在该阅读活动进行中，不符合本题限定的开始前，不能按本题定义归为诊断性评价。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "before": true,
+            "diagnose": true,
+            "plan": true,
+            "predict": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "既识别困难用于辅导，又预测期末项目表现，同时体现两种评价，不符合“只体现”的限制。"
+        }
+      ],
+      "computed_selected_options": [
+        "B"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        39,
+        37,
+        40,
+        43
+      ]
+    },
+    {
+      "n": 33,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "same_tool",
+        "same_people",
+        "separated",
+        "consistency",
+        [
+          "not",
+          "external"
+        ]
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "same_tool": true,
+            "same_people": true,
+            "separated": false,
+            "consistency": false,
+            "external": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "职业选择是独立的外部效标，比较的是量表与效标的关系，不是同一工具的两次测量。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "same_tool": true,
+            "same_people": true,
+            "separated": false,
+            "consistency": true,
+            "external": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "两名评分员的同日评分考察评分者之间的一致性，缺少间隔一段时间的重测条件。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "same_tool": true,
+            "same_people": true,
+            "separated": true,
+            "consistency": true,
+            "external": false
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "同一批对象、同一工具、两周间隔和重复得分一致性均满足，没有外部效标比较，符合设问。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "same_tool": true,
+            "same_people": true,
+            "separated": false,
+            "consistency": false,
+            "external": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "独立任务正确率作为外部参照，属于效标关联效度的考察，不是量表的重复测量。"
+        }
+      ],
+      "computed_selected_options": [
+        "C"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        40,
+        41,
+        42,
+        42
+      ]
+    },
+    {
+      "n": 34,
+      "passed": true,
+      "direction": "negative",
+      "expression": [
+        "all",
+        "rule",
+        "not_specific_request"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "rule": true,
+            "not_specific_request": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "事先订阅一类提醒不等于当时请求某条信息，到期规则触发具体通知，属于主动推送。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "rule": true,
+            "not_specific_request": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "系统依据变更事件主动通知，用户没有当时查询该信息，符合主动推送。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "rule": true,
+            "not_specific_request": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": true,
+          "specific_evidence": "居民针对轮椅借用点发起具体检索，结果是对该请求的响应，属于按需获取。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "rule": true,
+            "not_specific_request": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "安全告警由异常登录触发，用户的预先授权不改变当时未具体请求这一事实，符合主动推送。"
+        }
+      ],
+      "computed_selected_options": [
+        "C"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        40,
+        40,
+        42,
+        44
+      ]
+    },
+    {
+      "n": 35,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "professional",
+        "users",
+        "sustained",
+        "delivery"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "professional": true,
+            "users": true,
+            "sustained": true,
+            "delivery": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "老人既是服务使用者，又持续投入分餐等劳动，与专业人员共同交付服务，全部条件成立。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "professional": true,
+            "users": true,
+            "sustained": true,
+            "delivery": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "参与的是需求表达和评价，没有直接参与服务实施，缺少交付要件。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "professional": true,
+            "users": false,
+            "sustained": true,
+            "delivery": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "餐饮企业承接外包，其员工不是作为该项服务使用者参与，缺少专业提供者与使用者共同实施的关系。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "professional": false,
+            "users": true,
+            "sustained": true,
+            "delivery": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "虽有持续劳动与互助，但没有专业服务提供者参与，不符合题设的合作主体结构。"
+        }
+      ],
+      "computed_selected_options": [
+        "A"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        41,
+        44,
+        42,
+        41
+      ]
+    },
+    {
+      "n": 36,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "first_label",
+        "second_label"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "first_label": false,
+            "second_label": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "为具体员工配译员是个案调整；初始为不同用户提供输入方式体现通用设计，标签颠倒。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "first_label": true,
+            "second_label": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "统一无台阶设计面向尽可能广泛使用者；针对一名学员的适配材料是必要且负担适当的个案调整，两项正确。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "first_label": false,
+            "second_label": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "只按常见用户设计并待投诉处理，未体现尽可能无需另行改造即可供所有人使用；第二项符合合理便利。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "first_label": true,
+            "second_label": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "第一项是通用设计；第二项已确认造成不成比例负担，缺少合理便利的负担边界条件，不能据个别请求就归类。"
+        }
+      ],
+      "computed_selected_options": [
+        "B"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {
+        "classification_trace": [
+          [
+            {
+              "case": "a1",
+              "claimed_definition": "universal",
+              "underlying_facts": {
+                "wide_use": false,
+                "no_special_adaptation": false,
+                "individual_case": true,
+                "necessary": true,
+                "appropriate": true,
+                "no_undue": true
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "first_label"
+            },
+            {
+              "case": "a2",
+              "claimed_definition": "accommodation",
+              "underlying_facts": {
+                "wide_use": true,
+                "no_special_adaptation": true,
+                "individual_case": false,
+                "necessary": false,
+                "appropriate": false,
+                "no_undue": true
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "second_label"
+            }
+          ],
+          [
+            {
+              "case": "b1",
+              "claimed_definition": "universal",
+              "underlying_facts": {
+                "wide_use": true,
+                "no_special_adaptation": true,
+                "individual_case": false,
+                "necessary": false,
+                "appropriate": false,
+                "no_undue": true
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "first_label"
+            },
+            {
+              "case": "b2",
+              "claimed_definition": "accommodation",
+              "underlying_facts": {
+                "wide_use": false,
+                "no_special_adaptation": false,
+                "individual_case": true,
+                "necessary": true,
+                "appropriate": true,
+                "no_undue": true
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "second_label"
+            }
+          ],
+          [
+            {
+              "case": "c1",
+              "claimed_definition": "universal",
+              "underlying_facts": {
+                "wide_use": false,
+                "no_special_adaptation": false,
+                "individual_case": false,
+                "necessary": false,
+                "appropriate": false,
+                "no_undue": true
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "first_label"
+            },
+            {
+              "case": "c2",
+              "claimed_definition": "accommodation",
+              "underlying_facts": {
+                "wide_use": false,
+                "no_special_adaptation": false,
+                "individual_case": true,
+                "necessary": true,
+                "appropriate": true,
+                "no_undue": true
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "second_label"
+            }
+          ],
+          [
+            {
+              "case": "d1",
+              "claimed_definition": "universal",
+              "underlying_facts": {
+                "wide_use": true,
+                "no_special_adaptation": true,
+                "individual_case": false,
+                "necessary": false,
+                "appropriate": false,
+                "no_undue": true
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "first_label"
+            },
+            {
+              "case": "d2",
+              "claimed_definition": "accommodation",
+              "underlying_facts": {
+                "wide_use": false,
+                "no_special_adaptation": false,
+                "individual_case": true,
+                "necessary": true,
+                "appropriate": true,
+                "no_undue": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "second_label"
+            }
+          ]
+        ],
+        "classification_matches_facts": true
+      },
+      "option_lengths": [
+        52,
+        56,
+        54,
+        66
+      ]
+    },
+    {
+      "n": 37,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "modules_same",
+        "architecture_change",
+        "new_function"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "modules_same": false,
+            "architecture_change": false,
+            "new_function": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "改变传感模块而维持架构，属于本题所称模块创新，不是架构创新。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "modules_same": false,
+            "architecture_change": false,
+            "new_function": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "改变发光模块的工作原理，主要连接不变，缺少保留模块而重组架构的条件。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "modules_same": true,
+            "architecture_change": false,
+            "new_function": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "涂色既未改连接布局，也未产生新功能，题设明确不计入两类创新。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "modules_same": true,
+            "architecture_change": true,
+            "new_function": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "基本模块保留，模块间连接由串联改为环形协同，并产生接力巡检新功能，满足全部条件。"
+        }
+      ],
+      "computed_selected_options": [
+        "D"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        44,
+        44,
+        41,
+        43
+      ]
+    },
+    {
+      "n": 38,
+      "passed": true,
+      "direction": "negative",
+      "expression": [
+        "all",
+        "task",
+        "open_unspecified",
+        "voluntary",
+        "used"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "task": true,
+            "open_unspecified": true,
+            "voluntary": true,
+            "used": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "不特定知情者公开提交线索，核验后用于档案任务，符合众包；成果仍经专业核验不影响归类。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "task": true,
+            "open_unspecified": true,
+            "voluntary": true,
+            "used": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "公开自愿投稿并采用成果，符合众包；支付报酬不是排除条件。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "task": true,
+            "open_unspecified": true,
+            "voluntary": true,
+            "used": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "公开招募、不特定参与者自愿认领，且贡献进入数据库，符合定义。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "task": true,
+            "open_unspecified": false,
+            "voluntary": true,
+            "used": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": true,
+          "specific_evidence": "任务交给事先确定的三位合同顾问，不是面向不特定参与者公开征集；有无报酬不是决定因素。"
+        }
+      ],
+      "computed_selected_options": [
+        "D"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        45,
+        43,
+        45,
+        40
+      ]
+    },
+    {
+      "n": 39,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "jia",
+        "yi",
+        "bing"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "jia": true,
+            "yi": false,
+            "bing": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "甲的归类正确；乙是在明确用途下获得机制新知识，应属应用；丙是基于已有知识解决产品开发未知问题，应属试验发展。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "jia": false,
+            "yi": false,
+            "bing": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "甲未指向特定应用，不能归应用；乙有明确检测目标，不能归基础；只有丙的归类正确。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "jia": true,
+            "yi": true,
+            "bing": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "甲研究基本原理而无特定用途，乙为明确用途取得机制新知识，丙在产品开发中系统地产生额外知识，三项分别符合。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "jia": false,
+            "yi": false,
+            "bing": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "甲无明确用途，乙重点是机制新知识，丙解决尚未知问题而非按成熟规程检测，三项均不相符。"
+        }
+      ],
+      "computed_selected_options": [
+        "C"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {
+        "classification_trace": [
+          [
+            {
+              "case": "jia",
+              "claimed_definition": "basic",
+              "underlying_facts": {
+                "new_knowledge": true,
+                "specific_use": false,
+                "development": false,
+                "routine": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "jia"
+            },
+            {
+              "case": "yi",
+              "claimed_definition": "development",
+              "underlying_facts": {
+                "new_knowledge": true,
+                "specific_use": true,
+                "development": false,
+                "routine": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "yi"
+            },
+            {
+              "case": "bing",
+              "claimed_definition": "applied",
+              "underlying_facts": {
+                "new_knowledge": true,
+                "specific_use": true,
+                "development": true,
+                "routine": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "bing"
+            }
+          ],
+          [
+            {
+              "case": "jia",
+              "claimed_definition": "applied",
+              "underlying_facts": {
+                "new_knowledge": true,
+                "specific_use": false,
+                "development": false,
+                "routine": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "jia"
+            },
+            {
+              "case": "yi",
+              "claimed_definition": "basic",
+              "underlying_facts": {
+                "new_knowledge": true,
+                "specific_use": true,
+                "development": false,
+                "routine": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "yi"
+            },
+            {
+              "case": "bing",
+              "claimed_definition": "development",
+              "underlying_facts": {
+                "new_knowledge": true,
+                "specific_use": true,
+                "development": true,
+                "routine": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "bing"
+            }
+          ],
+          [
+            {
+              "case": "jia",
+              "claimed_definition": "basic",
+              "underlying_facts": {
+                "new_knowledge": true,
+                "specific_use": false,
+                "development": false,
+                "routine": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "jia"
+            },
+            {
+              "case": "yi",
+              "claimed_definition": "applied",
+              "underlying_facts": {
+                "new_knowledge": true,
+                "specific_use": true,
+                "development": false,
+                "routine": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "yi"
+            },
+            {
+              "case": "bing",
+              "claimed_definition": "development",
+              "underlying_facts": {
+                "new_knowledge": true,
+                "specific_use": true,
+                "development": true,
+                "routine": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "bing"
+            }
+          ],
+          [
+            {
+              "case": "jia",
+              "claimed_definition": "applied",
+              "underlying_facts": {
+                "new_knowledge": true,
+                "specific_use": false,
+                "development": false,
+                "routine": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "jia"
+            },
+            {
+              "case": "yi",
+              "claimed_definition": "development",
+              "underlying_facts": {
+                "new_knowledge": true,
+                "specific_use": true,
+                "development": false,
+                "routine": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "yi"
+            },
+            {
+              "case": "bing",
+              "claimed_definition": "routine",
+              "underlying_facts": {
+                "new_knowledge": true,
+                "specific_use": true,
+                "development": true,
+                "routine": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "bing"
+            }
+          ]
+        ],
+        "classification_matches_facts": true
+      },
+      "option_lengths": [
+        14,
+        14,
+        14,
+        14
+      ]
+    },
+    {
+      "n": 40,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "constant",
+        "predictable",
+        "unpredictable"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "constant": true,
+            "predictable": true,
+            "unpredictable": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "甲恒定、乙可预测变化，均符合系统误差；丙不可预测，符合随机误差，三项均正确。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "constant": true,
+            "predictable": false,
+            "unpredictable": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "乙虽变化但按已知规律可预测，仍属系统误差；把“变化”等同“随机”不符合定义。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "constant": true,
+            "predictable": false,
+            "unpredictable": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "正负均出现不能推翻题设已确认的不可预测性，丙仍是随机误差；乙归类也不正确。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "constant": false,
+            "predictable": false,
+            "unpredictable": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "与参照值不相等只表明有误差，不能决定其是否随机；甲、乙均有明确系统性。"
+        }
+      ],
+      "computed_selected_options": [
+        "A"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {
+        "classification_trace": [
+          [
+            {
+              "case": "jia",
+              "claimed_definition": "systematic",
+              "underlying_facts": {
+                "predictable": true
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "constant"
+            },
+            {
+              "case": "yi",
+              "claimed_definition": "systematic",
+              "underlying_facts": {
+                "predictable": true
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "predictable"
+            },
+            {
+              "case": "bing",
+              "claimed_definition": "random",
+              "underlying_facts": {
+                "predictable": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "unpredictable"
+            }
+          ],
+          [
+            {
+              "case": "jia",
+              "claimed_definition": "systematic",
+              "underlying_facts": {
+                "predictable": true
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "constant"
+            },
+            {
+              "case": "yi",
+              "claimed_definition": "random",
+              "underlying_facts": {
+                "predictable": true
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "predictable"
+            },
+            {
+              "case": "bing",
+              "claimed_definition": "random",
+              "underlying_facts": {
+                "predictable": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "unpredictable"
+            }
+          ],
+          [
+            {
+              "case": "jia",
+              "claimed_definition": "systematic",
+              "underlying_facts": {
+                "predictable": true
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "constant"
+            },
+            {
+              "case": "yi",
+              "claimed_definition": "random",
+              "underlying_facts": {
+                "predictable": true
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "predictable"
+            },
+            {
+              "case": "bing",
+              "claimed_definition": "systematic",
+              "underlying_facts": {
+                "predictable": false
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "unpredictable"
+            }
+          ],
+          [
+            {
+              "case": "jia",
+              "claimed_definition": "random",
+              "underlying_facts": {
+                "predictable": true
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "constant"
+            },
+            {
+              "case": "yi",
+              "claimed_definition": "random",
+              "underlying_facts": {
+                "predictable": true
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "predictable"
+            },
+            {
+              "case": "bing",
+              "claimed_definition": "random",
+              "underlying_facts": {
+                "predictable": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "unpredictable"
+            }
+          ]
+        ],
+        "classification_matches_facts": true
+      },
+      "option_lengths": [
+        35,
+        35,
+        37,
+        35
+      ]
+    },
+    {
+      "n": 41,
+      "passed": true,
+      "direction": "negative",
+      "expression": [
+        "all",
+        "problem_in_survey"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "problem_in_survey": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "无回答又被擅自按无需求处理，属于实施及处理环节的问题，是非抽样误差。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "problem_in_survey": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "目标总体包括新企业而名录遗漏，属于抽样框覆盖问题，是非抽样误差。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "problem_in_survey": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "错误来自录入环节，不是随机抽样的代表性差异，属于非抽样误差。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "problem_in_survey": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": true,
+          "specific_evidence": "名录、回答、处理均无误，题项将差异限定为随机抽取的样本构成，属于抽样误差，不能归为非抽样误差。"
+        }
+      ],
+      "computed_selected_options": [
+        "D"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        45,
+        42,
+        43,
+        45
+      ]
+    },
+    {
+      "n": 42,
+      "passed": true,
+      "direction": "negative",
+      "expression": [
+        "all",
+        "same_phenomenon",
+        "different_methods",
+        "separate_evidence",
+        "crosscheck"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "same_phenomenon": true,
+            "different_methods": true,
+            "separate_evidence": true,
+            "crosscheck": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "计时观察与访谈的取证机制不同，分别形成证据后比较分歧，符合定义；存在分歧不是排除条件。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "same_phenomenon": true,
+            "different_methods": true,
+            "separate_evidence": true,
+            "crosscheck": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "轨迹记录与访谈分别提供证据，比较共同及不同发现，满足方法互证。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "same_phenomenon": true,
+            "different_methods": false,
+            "separate_evidence": false,
+            "crosscheck": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": true,
+          "specific_evidence": "只更换调查员和受访者，仍为同一问卷方法，且只是合并计算，未有不同方法证据的对照检验。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "same_phenomenon": true,
+            "different_methods": true,
+            "separate_evidence": true,
+            "crosscheck": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "系统记录与访谈是不同取证机制，围绕同一响应问题比较并检验解释，符合定义。"
+        }
+      ],
+      "computed_selected_options": [
+        "C"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        43,
+        42,
+        47,
+        48
+      ]
+    },
+    {
+      "n": 43,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "positive_preserves",
+        "negative_preserves"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "positive_preserves": true,
+            "negative_preserves": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "在题设限定的普通事件否定中，停止或未停止均以过去值夜班为背景，该背景在两式中都保留。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "positive_preserves": true,
+            "negative_preserves": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "至少两票能推出至少一票，但否定至少两票允许零票，因此后者不能保留所列命题。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "positive_preserves": true,
+            "negative_preserves": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "所有人到场能推出有人到场，但并非所有人到场允许无人到场，不能保留所列命题。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "positive_preserves": false,
+            "negative_preserves": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "今天是否停工均未承诺昨天开工；从今天状态不能补出昨天状态。"
+        }
+      ],
+      "computed_selected_options": [
+        "A"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {
+        "truth_world_preservation": [
+          [
+            true,
+            true
+          ],
+          [
+            true,
+            false
+          ],
+          [
+            true,
+            false
+          ],
+          [
+            false,
+            false
+          ]
+        ],
+        "worlds_match_facts": true
+      },
+      "option_lengths": [
+        33,
+        32,
+        36,
+        32
+      ]
+    },
+    {
+      "n": 44,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "one_mind",
+        "within_knowledge",
+        "inner_present"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "one_mind": true,
+            "within_knowledge": true,
+            "inner_present": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "只描述可观察动作和声音，没有直接内心呈现，属于本题的外聚焦。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "one_mind": false,
+            "within_knowledge": false,
+            "inner_present": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "同时直接进入林岚和陈伯的内心，越出单一人物的知识范围。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "one_mind": true,
+            "within_knowledge": true,
+            "inner_present": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "所见所闻与担忧、猜测都限于林岚，陈伯是否回来没有被叙述者直接证实，符合内聚焦。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "one_mind": true,
+            "within_knowledge": false,
+            "inner_present": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "叙述者直接告诉读者林岚尚不知道的改址和搬家事实，超出了林岚的知识范围。"
+        }
+      ],
+      "computed_selected_options": [
+        "C"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        38,
+        40,
+        42,
+        45
+      ]
+    },
+    {
+      "n": 45,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "phenomenon",
+        "explanation",
+        "not_guaranteed"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "phenomenon": true,
+            "explanation": false,
+            "not_guaranteed": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "按全称规则和个体事实推出必然结论，属于演绎，未提出解释假说。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "phenomenon": true,
+            "explanation": true,
+            "not_guaranteed": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "由共同失信号现象比较解释并选出待检假说，解释仍可能被后续证据推翻，符合溯因。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "phenomenon": true,
+            "explanation": false,
+            "not_guaranteed": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "只由观察频率估计下一件合格概率，没有提出解释现象的假说，按题设不属于溯因。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "phenomenon": true,
+            "explanation": false,
+            "not_guaranteed": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "按日期和既定制度进行归类，不是比较解释并提出假说。"
+        }
+      ],
+      "computed_selected_options": [
+        "B"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        43,
+        44,
+        41,
+        41
+      ]
+    },
+    {
+      "n": 46,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "claims_correct"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "claims_correct": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "激活率90/120=75%正确；提交率应为75/90而非100/90，次数和人数不能混用。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "claims_correct": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "激活率应为90/120=75%；通过率应为60/75=80%，不能将次数当分母。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "claims_correct": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "提交率75/90≈83.3%，通过率60/75=80%，均按题定人数口径计算，两项正确。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "claims_correct": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "两项均擅自改以注册人数为分母；定义中提交率分母为已激活人数，通过率分母为提交人数。"
+        }
+      ],
+      "computed_selected_options": [
+        "C"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {
+        "computed_rates_percent": {
+          "activation": 75.0,
+          "submission": 83.3,
+          "pass": 80.0
+        },
+        "claim_truth": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "raw_rates_match_facts": true
+      },
+      "option_lengths": [
+        43,
+        43,
+        42,
+        38
+      ]
+    },
+    {
+      "n": 47,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "someone_better",
+        "nobody_worse"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "someone_better": true,
+            "nobody_worse": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "第二人6→5变差，整体总分上升不能替代无人变差条件。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "someone_better": true,
+            "nobody_worse": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "第一人6→8、第三人6→7严格更好，第二人维持6，无人变差，满足两个条件。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "someone_better": true,
+            "nobody_worse": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "第二人6→4已经变差，未兑现承诺不能计入结果，仍不符合。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "someone_better": false,
+            "nobody_worse": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "无人变差成立，但也无人严格变好，缺少改进条件；方案名称不能改变结果。"
+        }
+      ],
+      "computed_selected_options": [
+        "B"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {
+        "computed_individual_conditions": [
+          [
+            true,
+            false
+          ],
+          [
+            true,
+            true
+          ],
+          [
+            true,
+            false
+          ],
+          [
+            false,
+            true
+          ]
+        ],
+        "raw_utilities_match_facts": true
+      },
+      "option_lengths": [
+        47,
+        48,
+        48,
+        49
+      ]
+    },
+    {
+      "n": 48,
+      "passed": true,
+      "direction": "negative",
+      "expression": [
+        "all",
+        "uncertainty",
+        "explicit",
+        "act_monitor",
+        "learn_adjust"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "uncertainty": true,
+            "explicit": true,
+            "act_monitor": true,
+            "learn_adjust": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "不确定性、作用预期、行动监测和反馈修订均已形成连续过程，符合定义。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "uncertainty": true,
+            "explicit": true,
+            "act_monitor": true,
+            "learn_adjust": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "分区行动用于检验解释，并根据监测更新模型及后续措施，满足完整过程。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "uncertainty": false,
+            "explicit": false,
+            "act_monitor": true,
+            "learn_adjust": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": true,
+          "specific_evidence": "有临时应对和记录，但未用记录检验作用认识，更未据学习更新后续管理，反馈学习链条缺失。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "uncertainty": true,
+            "explicit": true,
+            "act_monitor": true,
+            "learn_adjust": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "目标、预期、实施监测、偏差评估及改订措施构成反馈学习闭环，符合定义。"
+        }
+      ],
+      "computed_selected_options": [
+        "C"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        51,
+        49,
+        45,
+        50
+      ]
+    },
+    {
+      "n": 49,
+      "passed": true,
+      "direction": "positive",
+      "expression": [
+        "all",
+        "skeleton",
+        "membrane"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "skeleton": true,
+            "membrane": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": true,
+          "specific_evidence": "前肢骨架具有明确共同祖先来源；滑翔膜在祖先不存在而在两谱系独立出现，分别符合两个定义。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "skeleton": true,
+            "membrane": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "共同祖先的存在不意味着后来每种相似特征都由祖先继承，滑翔膜已明确为独立形成。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "skeleton": false,
+            "membrane": true
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "功能相近不能推翻题设确认的骨架继承关系，同源判据是结构来源，不是功能是否相近。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "skeleton": false,
+            "membrane": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": false,
+          "specific_evidence": "归类完全颠倒；出现早晚不是定义中的区分标准，应看共同继承还是独立形成。"
+        }
+      ],
+      "computed_selected_options": [
+        "A"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {},
+      "option_lengths": [
+        37,
+        39,
+        37,
+        40
+      ]
+    },
+    {
+      "n": 50,
+      "passed": true,
+      "direction": "negative",
+      "expression": [
+        "all",
+        "shared_limited",
+        "mechanism_label"
+      ],
+      "necessary_condition_matrix": [
+        {
+          "option": "A",
+          "necessary_conditions": {
+            "shared_limited": true,
+            "mechanism_label": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "有限空间是共同资源，释放物质直接抑制对方定殖，符合干扰性竞争。"
+        },
+        {
+          "option": "B",
+          "necessary_conditions": {
+            "shared_limited": true,
+            "mechanism_label": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "通过先吸收使营养剩余量减少，并非直接攻击对方，符合利用性竞争。"
+        },
+        {
+          "option": "C",
+          "necessary_conditions": {
+            "shared_limited": true,
+            "mechanism_label": true
+          },
+          "definition_expression_satisfied": true,
+          "selected_by_question_direction": false,
+          "specific_evidence": "直接驱赶使对方无法接近水源，归为干扰性竞争正确；尚有水不改变直接阻止获取的机制。"
+        },
+        {
+          "option": "D",
+          "necessary_conditions": {
+            "shared_limited": true,
+            "mechanism_label": false
+          },
+          "definition_expression_satisfied": false,
+          "selected_by_question_direction": true,
+          "specific_evidence": "题项只描述先吸水造成剩余量减少，属于利用性竞争；没有直接驱赶、阻挡或抑制对方，标签错误。"
+        }
+      ],
+      "computed_selected_options": [
+        "D"
+      ],
+      "unique": true,
+      "matches_published_answer": true,
+      "source_refs_valid": true,
+      "independent_recomputation": {
+        "classification_trace": [
+          [
+            {
+              "case": "a",
+              "claimed_definition": "interference",
+              "underlying_facts": {
+                "limited": true,
+                "adverse": true,
+                "direct": true,
+                "depletion": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "mechanism_label"
+            }
+          ],
+          [
+            {
+              "case": "b",
+              "claimed_definition": "exploitation",
+              "underlying_facts": {
+                "limited": true,
+                "adverse": true,
+                "direct": false,
+                "depletion": true
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "mechanism_label"
+            }
+          ],
+          [
+            {
+              "case": "c",
+              "claimed_definition": "interference",
+              "underlying_facts": {
+                "limited": true,
+                "adverse": true,
+                "direct": true,
+                "depletion": false
+              },
+              "satisfies_claimed_definition": true,
+              "matrix_key": "mechanism_label"
+            }
+          ],
+          [
+            {
+              "case": "d",
+              "claimed_definition": "interference",
+              "underlying_facts": {
+                "limited": true,
+                "adverse": true,
+                "direct": false,
+                "depletion": true
+              },
+              "satisfies_claimed_definition": false,
+              "matrix_key": "mechanism_label"
+            }
+          ]
+        ],
+        "classification_matches_facts": true
+      },
+      "option_lengths": [
+        47,
+        45,
+        46,
+        46
+      ]
+    }
+  ]
+}

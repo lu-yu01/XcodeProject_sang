@@ -1,0 +1,1485 @@
+{
+  "instructions": "每组共用本组规则。三个问题独立重置；操作从左到右。外框和候选字母不参加操作。只依据公开规则和题图选择结果。",
+  "groups": [
+    {
+      "id": 1,
+      "title": "有向线网 节点与箭头",
+      "intro": "五个节点和编号位置固定，编号沿顺时针递增；黑节点为选中点。交叉处不连通，未提及的属性均不变。",
+      "rules": [
+        {
+          "id": "N1_reverse",
+          "code": "↶",
+          "text": "所有线段的箭头均反向。"
+        },
+        {
+          "id": "N1_marker",
+          "code": "P",
+          "text": "黑节点沿编号顺序移后一位，5之后为1。"
+        },
+        {
+          "id": "N1_dash",
+          "code": "D",
+          "text": "所有连线实线与虚线互换。"
+        },
+        {
+          "id": "N1_incident",
+          "code": "I",
+          "text": "仅把与当前黑节点相连的箭头反向。"
+        },
+        {
+          "id": "N1_cycle",
+          "code": "C",
+          "text": "所有连线两端编号均加1，5之后为1；黑节点不动。"
+        },
+        {
+          "id": "N1_reflect",
+          "code": "M",
+          "text": "沿穿过节点1的竖轴翻转连线及黑节点，编号不动。"
+        }
+      ],
+      "question_numbers": [
+        1,
+        2,
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "chain": [
+            "P",
+            "I"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-01.png",
+          "image_sha256": "49bf9a41c20ebb892ecf3a03dbd7272d7f4a4fab94b6e26ec7b33458180422de"
+        },
+        {
+          "n": 2,
+          "chain": [
+            "D",
+            "C",
+            "I"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-02.png",
+          "image_sha256": "4ebc689fdc853710b1b35457fc1085f27739ac1226da6c7fe7b5ea839513fa30"
+        },
+        {
+          "n": 3,
+          "chain": [
+            "M",
+            "P",
+            "I",
+            "↶"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-03.png",
+          "image_sha256": "dc8e90a8911db2d291fff9bfac36d10534d2e9e2a5de68cfdbce672e8e639e42"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "折线路径 高度与线型",
+      "intro": "折线五个顶点按从左到右排列，横向间距和五档高度固定；只移动高度时，不改变各段线型。左黑、右空心端点固定。",
+      "rules": [
+        {
+          "id": "N2_height",
+          "code": "V",
+          "text": "五个顶点高度上下翻转。"
+        },
+        {
+          "id": "N2_cycle",
+          "code": "H",
+          "text": "五个顶点高度依次右移一位，最右高度移到最左。"
+        },
+        {
+          "id": "N2_ends",
+          "code": "E",
+          "text": "只交换最左与最右顶点的高度。"
+        },
+        {
+          "id": "N2_inner",
+          "code": "J",
+          "text": "只交换从左数第2与第4个顶点的高度。"
+        },
+        {
+          "id": "N2_ascending",
+          "code": "U",
+          "text": "仅将从左向右上升的线段作实虚互换。"
+        },
+        {
+          "id": "N2_style",
+          "code": "S",
+          "text": "四段线型顺序左右倒置，顶点不动。"
+        }
+      ],
+      "question_numbers": [
+        4,
+        5,
+        6
+      ],
+      "questions": [
+        {
+          "n": 4,
+          "chain": [
+            "H",
+            "U"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-04.png",
+          "image_sha256": "ad4e7d92d41e10555023576308310cfbea930832d04fef5c19bda27cc018d6d5"
+        },
+        {
+          "n": 5,
+          "chain": [
+            "V",
+            "H",
+            "U"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-05.png",
+          "image_sha256": "daeeff195fa483a357ec6458711ac4bed556a25044d265b670291f6b9a8c4922"
+        },
+        {
+          "n": 6,
+          "chain": [
+            "S",
+            "E",
+            "J",
+            "U"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-06.png",
+          "image_sha256": "03fe6e585a0cb7d78a474457bc26a9502a912e88427204b1c4b0b6bfdda66717"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "三角构架 方向族与内外边",
+      "intro": "构架位置固定，由四个等边小三角形组成。方向族指三条水平线、三条左下至右上线、三条左上至右下线；每族按中点从左到右编号。",
+      "rules": [
+        {
+          "id": "N3_all",
+          "code": "F",
+          "text": "全部九条线实虚互换。"
+        },
+        {
+          "id": "N3_horizontal",
+          "code": "H",
+          "text": "仅三条水平线实虚互换。"
+        },
+        {
+          "id": "N3_direction",
+          "code": "C",
+          "text": "三方向族线型按水平→右上斜→右下斜循环，同序号对应。"
+        },
+        {
+          "id": "N3_mirror",
+          "code": "M",
+          "text": "全部线型沿构架竖直中轴左右翻转。"
+        },
+        {
+          "id": "N3_inner",
+          "code": "T",
+          "text": "中心倒三角线型按上边→右边→左边循环。"
+        },
+        {
+          "id": "N3_exchange",
+          "code": "X",
+          "text": "底边左、右两段分别与中心倒三角的左、右斜边交换线型。"
+        }
+      ],
+      "question_numbers": [
+        7,
+        8,
+        9
+      ],
+      "questions": [
+        {
+          "n": 7,
+          "chain": [
+            "H",
+            "C"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-07.png",
+          "image_sha256": "6fe87c2f086dcece309c287ff97110c06a96061869537d0fa619291fc1ecc6f4"
+        },
+        {
+          "n": 8,
+          "chain": [
+            "M",
+            "T",
+            "H"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-08.png",
+          "image_sha256": "5cbab3760372c9075d2a2e85c7160e85acc1961713dcdbfff6c9550eabeb90b5"
+        },
+        {
+          "n": 9,
+          "chain": [
+            "F",
+            "X",
+            "C",
+            "H"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-09.png",
+          "image_sha256": "87cafdc389f86cf94702f7ae90824e206e52c5a8471b9c49d0d7c0cea4607b8c"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "双排接线 端口与连接",
+      "intro": "上下两排端口位置及标记固定，每个上端口恰连一个下端口。交叉处不连通；端点移动时，线型随该条线一起移动。",
+      "rules": [
+        {
+          "id": "N4_top",
+          "code": "U",
+          "text": "四条线的上端点依次右移，4的端点移至1。"
+        },
+        {
+          "id": "N4_bottom",
+          "code": "B",
+          "text": "四条线的下端点按甲乙丙丁循环移后一位。"
+        },
+        {
+          "id": "N4_outer",
+          "code": "E",
+          "text": "只交换下端点甲、丁所接的两条线。"
+        },
+        {
+          "id": "N4_left",
+          "code": "D",
+          "text": "仅将下端点接甲或乙的线作实虚互换。"
+        },
+        {
+          "id": "N4_ends",
+          "code": "X",
+          "text": "只交换上端点1、4所接的两条线。"
+        },
+        {
+          "id": "N4_mirror",
+          "code": "M",
+          "text": "所有下端点左右翻转，上端点不动。"
+        }
+      ],
+      "question_numbers": [
+        10,
+        11,
+        12
+      ],
+      "questions": [
+        {
+          "n": 10,
+          "chain": [
+            "B",
+            "D"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-10.png",
+          "image_sha256": "8ccf1cae7433f1ca843902898a317fc4f21e625df996a87b52a5a46fefd1eab8"
+        },
+        {
+          "n": 11,
+          "chain": [
+            "U",
+            "E",
+            "D"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-11.png",
+          "image_sha256": "f6f43cf925a1ac94315cfa6c9acc93b3b9f0f6d1775d839490f98b7529e7c8e4"
+        },
+        {
+          "n": 12,
+          "chain": [
+            "M",
+            "X",
+            "B",
+            "D"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-12.png",
+          "image_sha256": "6c109d5cfa11df767b967b4def6850a173e2a952692871d10701ed44c3245aa7"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "平行线束 长度与端点",
+      "intro": "五条水平线左端对齐，自上而下排列；长度为1—4个等长单位。空心或实心圆属于该行，未提及的属性不动。",
+      "rules": [
+        {
+          "id": "N5_length",
+          "code": "L",
+          "text": "五行长度依次下移一行，最下行长度移到最上行。"
+        },
+        {
+          "id": "N5_style",
+          "code": "S",
+          "text": "五行线型依次下移一行，最下行线型移到最上行。"
+        },
+        {
+          "id": "N5_complement",
+          "code": "C",
+          "text": "每行长度改为5减去原长度。"
+        },
+        {
+          "id": "N5_long",
+          "code": "D",
+          "text": "仅把长度为3或4单位的行作实虚互换。"
+        },
+        {
+          "id": "N5_point",
+          "code": "P",
+          "text": "五行圆点样式依次下移一行，最下行移到最上行。"
+        },
+        {
+          "id": "N5_ends",
+          "code": "E",
+          "text": "只交换第1行与第5行的长度。"
+        }
+      ],
+      "question_numbers": [
+        13,
+        14,
+        15
+      ],
+      "questions": [
+        {
+          "n": 13,
+          "chain": [
+            "L",
+            "D"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-13.png",
+          "image_sha256": "e7a64ab5f615084c96072c38bddb1afec41ceb1dbcbf7f59090f24e54d4bf762"
+        },
+        {
+          "n": 14,
+          "chain": [
+            "C",
+            "S",
+            "D"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-14.png",
+          "image_sha256": "a578c770b053162bbaf73d8077ab2abf4a7eb9676a4d8254042e8ac6a56de2c6"
+        },
+        {
+          "n": 15,
+          "chain": [
+            "P",
+            "E",
+            "L",
+            "D"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-15.png",
+          "image_sha256": "bb4fa72af61d90ce74f6f588e505dd74cd0c688b838c2cd6a99b7f4c05ad5d08"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "辐射线段 长度与端饰",
+      "intro": "六条射线方向固定，从正上方开始顺时针编号1—6；长度分三档。端饰为空心圆、实心圆或实心三角，三角尖端始终朝外。",
+      "rules": [
+        {
+          "id": "N6_length",
+          "code": "L",
+          "text": "六条射线的长度依次顺时针移一位。"
+        },
+        {
+          "id": "N6_tip",
+          "code": "T",
+          "text": "六个端饰依次逆时针移一位，长度与线型不动。"
+        },
+        {
+          "id": "N6_black",
+          "code": "D",
+          "text": "仅将端饰为实心圆的射线作实虚互换。"
+        },
+        {
+          "id": "N6_complement",
+          "code": "C",
+          "text": "最长、最短两档互换，中档不变。"
+        },
+        {
+          "id": "N6_shape",
+          "code": "S",
+          "text": "实心圆与实心三角互换，空心圆不变。"
+        },
+        {
+          "id": "N6_pair",
+          "code": "E",
+          "text": "只交换正上与正下两条射线的长度。"
+        }
+      ],
+      "question_numbers": [
+        16,
+        17,
+        18
+      ],
+      "questions": [
+        {
+          "n": 16,
+          "chain": [
+            "T",
+            "D"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-16.png",
+          "image_sha256": "2c64e63abb06d5412469808bda45b1d1141de7e27faec5f7e13f4776ff85f8b7"
+        },
+        {
+          "n": 17,
+          "chain": [
+            "S",
+            "T",
+            "D"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-17.png",
+          "image_sha256": "fe6d4c8f485fbe1a292e34423cdc39d2bd27aaeb3b62d6d5504e37049a652c2a"
+        },
+        {
+          "n": 18,
+          "chain": [
+            "C",
+            "E",
+            "L",
+            "D"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-18.png",
+          "image_sha256": "4a344de97092238e65a0642f8c06cd482af7aeb8bf8b5939c0c9e27d03a99ed3"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "双线框 集合运算与位置",
+      "intro": "甲、乙各有七段潜在线位，上中下三横线与左右各两竖线；六个定位点始终保留。运算按对应线位进行，未提及的图不变。",
+      "rules": [
+        {
+          "id": "N7_xor",
+          "code": "⊕",
+          "text": "甲改为甲乙对应线段去同存异所得图。"
+        },
+        {
+          "id": "N7_union",
+          "code": "∪",
+          "text": "乙改为甲乙全部线段合并所得图。"
+        },
+        {
+          "id": "N7_swap",
+          "code": "⇄",
+          "text": "甲乙两图互换。"
+        },
+        {
+          "id": "N7_rotate",
+          "code": "R",
+          "text": "甲乙两图均旋转180°，定位点不动。"
+        },
+        {
+          "id": "N7_mirror",
+          "code": "M",
+          "text": "仅甲图左右翻转。"
+        },
+        {
+          "id": "N7_middle",
+          "code": "T",
+          "text": "仅乙图中间横线作有无互换。"
+        }
+      ],
+      "question_numbers": [
+        19,
+        20,
+        21
+      ],
+      "questions": [
+        {
+          "n": 19,
+          "chain": [
+            "T",
+            "⊕"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-19.png",
+          "image_sha256": "335306d1ed291983f214e5cec1ae7b7620ea9354f471ac81aa122638da79ed0b"
+        },
+        {
+          "n": 20,
+          "chain": [
+            "M",
+            "⇄",
+            "⊕"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-20.png",
+          "image_sha256": "1c4b70d69e3ee40651d90d048ec5fb666917796f4d6176de106f7b25083f72e2"
+        },
+        {
+          "n": 21,
+          "chain": [
+            "R",
+            "∪",
+            "⇄",
+            "⊕"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-21.png",
+          "image_sha256": "f240717c1db365983f839e0b3a0ec671be43372ae9c7fe75afb81cc2d0a8af42"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "双环弧的层间变换",
+      "intro": "两环均分为8个槽。上方短线为固定参照；“一格”为45°。规则仅改变所指环，另一环保持不变。",
+      "rules": [
+        {
+          "id": "C8_1",
+          "code": "↻",
+          "text": "外环黑白状态顺时针移一格。"
+        },
+        {
+          "id": "C8_2",
+          "code": "↶",
+          "text": "内环黑白状态逆时针移一格。"
+        },
+        {
+          "id": "C8_3",
+          "code": "S",
+          "text": "内、外环同方位槽的黑白状态互换。"
+        },
+        {
+          "id": "C8_4",
+          "code": "⊕",
+          "text": "内环同方位异色变黑、同色变白；外环不变。"
+        },
+        {
+          "id": "C8_5",
+          "code": "N",
+          "text": "仅外环各槽黑白互换。"
+        },
+        {
+          "id": "C8_6",
+          "code": "⇆",
+          "text": "仅内环以竖直直径为轴左右翻转。"
+        }
+      ],
+      "question_numbers": [
+        22,
+        23,
+        24
+      ],
+      "questions": [
+        {
+          "n": 22,
+          "chain": [
+            "↻",
+            "↶"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-22.png",
+          "image_sha256": "8f5792b7048ef140b6485fe50f73ace94af7b5a9170be1a4a69a2c14d8d66674"
+        },
+        {
+          "n": 23,
+          "chain": [
+            "S",
+            "⊕",
+            "N"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-23.png",
+          "image_sha256": "565f31c8ca5525d789fc9c9280956e233db203eeaa02e8ba1ae977ea4ef992a5"
+        },
+        {
+          "n": 24,
+          "chain": [
+            "⇆",
+            "↶",
+            "⊕",
+            "↻"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-24.png",
+          "image_sha256": "14cef443d594eccd47d4bd57dc950deee680a769069528cce633f436cf41218d"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "长短花瓣的属性联动",
+      "intro": "六瓣花从正上方起顺时针编号1—6；编号仅用于说明。每瓣有长短、黑白两属性，中心小圆保持不变。",
+      "rules": [
+        {
+          "id": "C9_1",
+          "code": "P",
+          "text": "仅黑白属性顺时针移一瓣，长短位置不变。"
+        },
+        {
+          "id": "C9_2",
+          "code": "Q",
+          "text": "仅长短属性逆时针移一瓣，黑白位置不变。"
+        },
+        {
+          "id": "C9_3",
+          "code": "N",
+          "text": "每瓣长短互换，黑白不变。"
+        },
+        {
+          "id": "C9_4",
+          "code": "X",
+          "text": "仅长瓣黑白互换，短瓣不变。"
+        },
+        {
+          "id": "C9_5",
+          "code": "S",
+          "text": "各瓣属性互换：长黑、短白不变；长白↔短黑。"
+        },
+        {
+          "id": "C9_6",
+          "code": "J",
+          "text": "1、2瓣互换，3、4瓣互换，5、6瓣互换。"
+        }
+      ],
+      "question_numbers": [
+        25,
+        26,
+        27
+      ],
+      "questions": [
+        {
+          "n": 25,
+          "chain": [
+            "P",
+            "Q"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-25.png",
+          "image_sha256": "2ab0977db3e4cc41c39a773b6512e2c396846fae3cba21ea3b801cba463c045a"
+        },
+        {
+          "n": 26,
+          "chain": [
+            "N",
+            "X",
+            "S"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-26.png",
+          "image_sha256": "91d3503206b60548fb798cace8859f30dd9d92ead780be255ea521623b5d14dd"
+        },
+        {
+          "n": 27,
+          "chain": [
+            "J",
+            "Q",
+            "X",
+            "P"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-27.png",
+          "image_sha256": "87ab6b63dac99f8547bb86f10c36b65b42b279ab0fc8e3bdc0ffacb8d20fed20"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "三圆交叠区域重配",
+      "intro": "圆①在左上、②在右上、③在下。单独区仅属于该圆；双叠区恰属于两圆；中央三叠区单列，圆框和标号固定。",
+      "rules": [
+        {
+          "id": "C10_1",
+          "code": "A",
+          "text": "三个单独区黑白状态按①→②→③→①轮换。"
+        },
+        {
+          "id": "C10_2",
+          "code": "B",
+          "text": "双叠区状态按②③→①③→①②→②③轮换。"
+        },
+        {
+          "id": "C10_3",
+          "code": "S",
+          "text": "每个单独区与不含该圆的双叠区交换状态。"
+        },
+        {
+          "id": "C10_4",
+          "code": "T",
+          "text": "仅中央三叠区黑白互换。"
+        },
+        {
+          "id": "C10_5",
+          "code": "N",
+          "text": "仅三个双叠区黑白互换。"
+        },
+        {
+          "id": "C10_6",
+          "code": "⇆",
+          "text": "所有区域中圆①、②的归属对调，圆框固定。"
+        }
+      ],
+      "question_numbers": [
+        28,
+        29,
+        30
+      ],
+      "questions": [
+        {
+          "n": 28,
+          "chain": [
+            "A",
+            "B"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-28.png",
+          "image_sha256": "8360e53a568f492003322869d153be10b0a904c4188ab30e7e969872aad0b111"
+        },
+        {
+          "n": 29,
+          "chain": [
+            "S",
+            "T",
+            "N"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-29.png",
+          "image_sha256": "601798f2db5bc094204f87e64605dfb1fa47056b7e25ba30704fae1066d8b186"
+        },
+        {
+          "n": 30,
+          "chain": [
+            "⇆",
+            "B",
+            "T",
+            "A"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-30.png",
+          "image_sha256": "fc9db536acff81af619b668c998332f9a6111e86818cfbb39a7084419b14de8c"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "波线双轨的珠点迁移",
+      "intro": "上下两条波线各有6颗珠，从左向右编号1—6。轨道形状固定；循环移动越过末端即回到另一端。",
+      "rules": [
+        {
+          "id": "C11_1",
+          "code": "S",
+          "text": "上下轨对应珠的黑白状态互换。"
+        },
+        {
+          "id": "C11_2",
+          "code": "R",
+          "text": "仅上轨黑白状态向右循环移一珠。"
+        },
+        {
+          "id": "C11_3",
+          "code": "L",
+          "text": "仅下轨黑白状态向左循环移一珠。"
+        },
+        {
+          "id": "C11_4",
+          "code": "⊕",
+          "text": "下轨对应珠异色变黑、同色变白；上轨不变。"
+        },
+        {
+          "id": "C11_5",
+          "code": "⇆",
+          "text": "仅上轨六珠的黑白次序左右倒置。"
+        },
+        {
+          "id": "C11_6",
+          "code": "J",
+          "text": "两轨均将1、2珠，3、4珠，5、6珠分别互换。"
+        }
+      ],
+      "question_numbers": [
+        31,
+        32,
+        33
+      ],
+      "questions": [
+        {
+          "n": 31,
+          "chain": [
+            "S",
+            "R"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-31.png",
+          "image_sha256": "a031babb87f0f15afe3c6ab4b70c50e6f98368cbc061f7f3f05d2467ada2cfe1"
+        },
+        {
+          "n": 32,
+          "chain": [
+            "L",
+            "⊕",
+            "⇆"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-32.png",
+          "image_sha256": "0f6e4c7e506e8df378796b10ff12ac1ab262079c6bfda3e7751fe2ec211b49cc"
+        },
+        {
+          "n": 33,
+          "chain": [
+            "J",
+            "R",
+            "⊕",
+            "S"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-33.png",
+          "image_sha256": "3edb20f87d5628c78259a5a7a10151240d0e255d10407bd24bb3a8bfa6b87fdd"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "嵌套开口与角点的双系统",
+      "intro": "三个圆角方框从外至内为外、中、内层，每层有一侧开口及一枚角点。框的大小固定；属性轮换不改变框。",
+      "rules": [
+        {
+          "id": "C12_1",
+          "code": "↻",
+          "text": "每层开口沿上→右→下→左移动一侧。"
+        },
+        {
+          "id": "C12_2",
+          "code": "↶",
+          "text": "每层黑角点沿逆时针方向移动一个角。"
+        },
+        {
+          "id": "C12_3",
+          "code": "S",
+          "text": "仅交换外、内层的开口方向，中层不变。"
+        },
+        {
+          "id": "C12_4",
+          "code": "P",
+          "text": "黑角点位置属性按外→中→内→外轮换。"
+        },
+        {
+          "id": "C12_5",
+          "code": "⇆",
+          "text": "三层开口和黑角点同时左右翻转。"
+        },
+        {
+          "id": "C12_6",
+          "code": "Q",
+          "text": "开口方向属性按外→中→内→外轮换。"
+        }
+      ],
+      "question_numbers": [
+        34,
+        35,
+        36
+      ],
+      "questions": [
+        {
+          "n": 34,
+          "chain": [
+            "↻",
+            "↶"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-34.png",
+          "image_sha256": "2e85ac8c97ddcbda3299dacee823c3f2ade382180bea6d257e533e8e529f0383"
+        },
+        {
+          "n": 35,
+          "chain": [
+            "S",
+            "P",
+            "⇆"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-35.png",
+          "image_sha256": "aa35949a75ff69fa35f2b795bf6bef1982019c0d05375a9206ef7020f17acef6"
+        },
+        {
+          "n": 36,
+          "chain": [
+            "Q",
+            "↶",
+            "⇆",
+            "↻"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-36.png",
+          "image_sha256": "52d7109481878bcb96af3049d06f76d20a87d2227b79ed89ec12e2d1fe66da54"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "四枚水滴的方向与颜色",
+      "intro": "四枚水滴按左上、右上、左下、右下排列。交换水滴时连同方向和黑白一起移动，不做镜像。",
+      "rules": [
+        {
+          "id": "C13_1",
+          "code": "↻",
+          "text": "四枚水滴各自顺时针转90°，位置不变。"
+        },
+        {
+          "id": "C13_2",
+          "code": "H",
+          "text": "左上↔右上、左下↔右下，水滴方向不变。"
+        },
+        {
+          "id": "C13_3",
+          "code": "V",
+          "text": "左上↔左下、右上↔右下，水滴方向不变。"
+        },
+        {
+          "id": "C13_4",
+          "code": "↶",
+          "text": "仅黑水滴各自逆时针转90°，位置不变。"
+        },
+        {
+          "id": "C13_5",
+          "code": "N",
+          "text": "仅尖端朝上的水滴黑白互换。"
+        },
+        {
+          "id": "C13_6",
+          "code": "D",
+          "text": "左上↔右下、右上↔左下，水滴方向不变。"
+        }
+      ],
+      "question_numbers": [
+        37,
+        38,
+        39
+      ],
+      "questions": [
+        {
+          "n": 37,
+          "chain": [
+            "↻",
+            "H"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-37.png",
+          "image_sha256": "34677a070c482c3173e95fe9c5410827356c3ac74056bf180c4ce37b36ea8e50"
+        },
+        {
+          "n": 38,
+          "chain": [
+            "V",
+            "↶",
+            "N"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-38.png",
+          "image_sha256": "59715f11efd072d9143fa48d73c49b85a8a421972b214646144737771ef45ad9"
+        },
+        {
+          "n": 39,
+          "chain": [
+            "D",
+            "H",
+            "↶",
+            "↻"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-39.png",
+          "image_sha256": "febd07ffc9a28dac650de2fb926b5e67db8e44a0196fc32748ed7d7a29feec51"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "弯带的曲向与线型耦合",
+      "intro": "圆端至方端共有6段弯带，从左至右编号1—6。节点和两端标记固定；上弯、下弯以页面方向为准。",
+      "rules": [
+        {
+          "id": "C14_1",
+          "code": "P",
+          "text": "仅上、下弯属性向右循环移动一段。"
+        },
+        {
+          "id": "C14_2",
+          "code": "Q",
+          "text": "仅虚、实线属性向左循环移动一段。"
+        },
+        {
+          "id": "C14_3",
+          "code": "J",
+          "text": "1、2段，3、4段，5、6段分别整体互换。"
+        },
+        {
+          "id": "C14_4",
+          "code": "U",
+          "text": "仅虚线段的上、下弯互换。"
+        },
+        {
+          "id": "C14_5",
+          "code": "N",
+          "text": "仅上弯段的虚、实线互换。"
+        },
+        {
+          "id": "C14_6",
+          "code": "S",
+          "text": "逐段改换：上弯虚线↔下弯实线，其余不变。"
+        }
+      ],
+      "question_numbers": [
+        40,
+        41,
+        42
+      ],
+      "questions": [
+        {
+          "n": 40,
+          "chain": [
+            "P",
+            "Q"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-40.png",
+          "image_sha256": "3e1407135546d425f0d4268a44e456ed9d7512f2aa21ea693272fc8279efabb8"
+        },
+        {
+          "n": 41,
+          "chain": [
+            "J",
+            "U",
+            "N"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-41.png",
+          "image_sha256": "70f306c34aca97dbdbdb718d99b7030df314aa6fee838ba05a79b414108f59e7"
+        },
+        {
+          "n": 42,
+          "chain": [
+            "S",
+            "Q",
+            "U",
+            "P"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-42.png",
+          "image_sha256": "19989b1113ba97a12786e7656cf37c57bf09457fe1be909ae1bad210cf767857"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "箭头的站位、指向与空实",
+      "intro": "四站固定在上、右、下、左，圆周细线仅用于定位，不参与操作。空心与实心以整个箭头是否填黑区分。移站不会改变箭头指向。",
+      "rules": [
+        {
+          "id": "T15_orbit",
+          "code": "↻",
+          "text": "四个箭头沿圆周顺时针移一站，指向不变。"
+        },
+        {
+          "id": "T15_turn",
+          "code": "↷",
+          "text": "每个箭头的指向均顺时针转90°，位置不变。"
+        },
+        {
+          "id": "T15_black",
+          "code": "B",
+          "text": "仅实心箭头原地调转180°。"
+        },
+        {
+          "id": "T15_fill",
+          "code": "◇",
+          "text": "所有箭头的实心、空心互换。"
+        },
+        {
+          "id": "T15_vertical",
+          "code": "↕",
+          "text": "仅交换上、下两站的箭头。"
+        },
+        {
+          "id": "T15_horizontal",
+          "code": "↔",
+          "text": "仅交换左、右两站的箭头。"
+        }
+      ],
+      "question_numbers": [
+        43,
+        44,
+        45
+      ],
+      "questions": [
+        {
+          "n": 43,
+          "chain": [
+            "◇",
+            "B"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-43.png",
+          "image_sha256": "12f490b2a12ef1a4adb48b6c58efc877837147fe82c534b0415ecbe348efc985"
+        },
+        {
+          "n": 44,
+          "chain": [
+            "↻",
+            "↕",
+            "↷"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-44.png",
+          "image_sha256": "ad0aa6d176937e107f05648def8e912772fceda2a8c3a5e7e496f4041778e3c8"
+        },
+        {
+          "n": 45,
+          "chain": [
+            "↔",
+            "↻",
+            "B",
+            "◇"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-45.png",
+          "image_sha256": "f2542460af3def1113d5951561ddd7a90519d144a61be36c99fcceaf90d304f4"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "字母替换与字形操作",
+      "intro": "三站依次为上、右下、左下。字母可旋转、镜像；字母替换保留已有的旋转和镜像状态。三角形细线仅定位。",
+      "rules": [
+        {
+          "id": "T16_cycle",
+          "code": "C",
+          "text": "所有字母按F→P→R→F替换，朝向保留。"
+        },
+        {
+          "id": "T16_orbit",
+          "code": "△",
+          "text": "三个字母沿三角形顺时针移一站，朝向不变。"
+        },
+        {
+          "id": "T16_turn",
+          "code": "↷",
+          "text": "每个字母原地顺时针旋转90°。"
+        },
+        {
+          "id": "T16_mirror",
+          "code": "⇆",
+          "text": "每个字母仅在原位左右镜像。"
+        },
+        {
+          "id": "T16_select",
+          "code": "F²",
+          "text": "仅当前的F原地旋转180°。"
+        },
+        {
+          "id": "T16_base",
+          "code": "↔",
+          "text": "仅交换下方两个字母，朝向不变。"
+        }
+      ],
+      "question_numbers": [
+        46,
+        47,
+        48
+      ],
+      "questions": [
+        {
+          "n": 46,
+          "chain": [
+            "C",
+            "F²"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-46.png",
+          "image_sha256": "ef9d6a32df8a8c0e61b222a74125975476804db8671f9ff0bf398ca221a9e2f0"
+        },
+        {
+          "n": 47,
+          "chain": [
+            "△",
+            "↔",
+            "⇆"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-47.png",
+          "image_sha256": "3514f15d794273f0554d6b4ab6a290ff2b111f19e92839b28c0d3f6e698d2e47"
+        },
+        {
+          "n": 48,
+          "chain": [
+            "↷",
+            "F²",
+            "C",
+            "⇆"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-48.png",
+          "image_sha256": "18cf3bc8fbed644b9a30dc418c12b54ec0b360d2968cabec5c8bec50a0ad094e"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "环形轨道上的选择性变换",
+      "intro": "六站自最上方起顺时针排列。轨道只定位；三角形均尖端朝上。形状替换只改形状，保留空实。",
+      "rules": [
+        {
+          "id": "T17_orbit",
+          "code": "↻",
+          "text": "六个图形沿环形轨道顺时针移一站。"
+        },
+        {
+          "id": "T17_reverse",
+          "code": "⇆",
+          "text": "以竖直直径为轴交换左右站位，图形自身不变。"
+        },
+        {
+          "id": "T17_shape",
+          "code": "S",
+          "text": "所有形状按圆→三角→方→圆替换，空实保留。"
+        },
+        {
+          "id": "T17_fill",
+          "code": "◇",
+          "text": "所有图形的实心、空心互换。"
+        },
+        {
+          "id": "T17_opposite",
+          "code": "↕",
+          "text": "仅交换最上、最下两站的图形。"
+        },
+        {
+          "id": "T17_black",
+          "code": "B",
+          "text": "仅实心图形按圆→三角→方→圆替换。"
+        }
+      ],
+      "question_numbers": [
+        49,
+        50,
+        51
+      ],
+      "questions": [
+        {
+          "n": 49,
+          "chain": [
+            "◇",
+            "B"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-49.png",
+          "image_sha256": "984bc0de957f7f39e6e9cf2f0f9f3a7f88d38571a77fb16e7f22b6157ea4bf51"
+        },
+        {
+          "n": 50,
+          "chain": [
+            "↻",
+            "↕",
+            "S"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-50.png",
+          "image_sha256": "54da3a354369387e283c264eb70ec1c1376df9bf4e47f8d0216499d66f1c7666"
+        },
+        {
+          "n": 51,
+          "chain": [
+            "⇆",
+            "↻",
+            "B",
+            "◇"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-51.png",
+          "image_sha256": "ae575462ea48d49a8975728fa68d1aff7eabef533b0842f2358bc5f55e610cc4"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "树形末端与分支操作",
+      "intro": "树形连线固定不变，只操作四个末端图形。末端从左到右计数；形状替换保留空实，新三角形均尖端朝上。",
+      "rules": [
+        {
+          "id": "T18_branches",
+          "code": "⇄",
+          "text": "交换根节点下的两个整分支，各分支内部次序不变。"
+        },
+        {
+          "id": "T18_siblings",
+          "code": "↔",
+          "text": "左右分支内部的两个末端图形分别互换。"
+        },
+        {
+          "id": "T18_middle",
+          "code": "M",
+          "text": "仅交换从左到右第2、3个末端图形。"
+        },
+        {
+          "id": "T18_left",
+          "code": "L",
+          "text": "仅左分支图形按圆→三角→方→圆替换。"
+        },
+        {
+          "id": "T18_fill",
+          "code": "◇",
+          "text": "四个末端图形的实心、空心互换。"
+        },
+        {
+          "id": "T18_black",
+          "code": "B",
+          "text": "仅实心末端按圆→三角→方→圆替换。"
+        }
+      ],
+      "question_numbers": [
+        52,
+        53,
+        54
+      ],
+      "questions": [
+        {
+          "n": 52,
+          "chain": [
+            "⇄",
+            "L"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-52.png",
+          "image_sha256": "db000023d15d36e53cc2432513d137725caaceba28262025c4e53d2ba6ce6bc8"
+        },
+        {
+          "n": 53,
+          "chain": [
+            "↔",
+            "M",
+            "B"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-53.png",
+          "image_sha256": "1e8500527d96b7a0a656d83d5a146fe486c3de69d9145f09dc0d0404b99cfcb2"
+        },
+        {
+          "n": 54,
+          "chain": [
+            "◇",
+            "L",
+            "⇄",
+            "B"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-54.png",
+          "image_sha256": "7ec9342e513f8641c1f9f61c4728e2df2225e43bb0f96f398f148575df106e86"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "外轮廓与内部标记分离",
+      "intro": "四个图形均由外轮廓和内标记组成。轮廓与标记可分别移动；未提到的另一层及位置均不变。",
+      "rules": [
+        {
+          "id": "T19_reverse",
+          "code": "⇆",
+          "text": "四个完整图形的左右次序颠倒。"
+        },
+        {
+          "id": "T19_outlines",
+          "code": "E",
+          "text": "仅外轮廓依次左移一位，最左轮廓移至最右。"
+        },
+        {
+          "id": "T19_marks",
+          "code": "K",
+          "text": "仅内部标记依次右移一位，最右标记移至最左。"
+        },
+        {
+          "id": "T19_markcycle",
+          "code": "T",
+          "text": "所有内标记按点→叉→横杠→点替换。"
+        },
+        {
+          "id": "T19_shapecycle",
+          "code": "S",
+          "text": "所有外轮廓按圆→方→三角→六边形→圆替换。"
+        },
+        {
+          "id": "T19_middle",
+          "code": "M",
+          "text": "仅交换中间两个图形的内部标记。"
+        }
+      ],
+      "question_numbers": [
+        55,
+        56,
+        57
+      ],
+      "questions": [
+        {
+          "n": 55,
+          "chain": [
+            "K",
+            "M"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-55.png",
+          "image_sha256": "d55c9e4b6c9c462ac699347f5b4c4645c431d51e5eb181fe78e516ae801443ba"
+        },
+        {
+          "n": 56,
+          "chain": [
+            "E",
+            "⇆",
+            "T"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-56.png",
+          "image_sha256": "1609123b1a703a90a967fa6357be3136ad9170df03cae377389fe9990aefdeaf"
+        },
+        {
+          "n": 57,
+          "chain": [
+            "S",
+            "E",
+            "K",
+            "M"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-57.png",
+          "image_sha256": "f74ba516d879ed8a2b37c14dcffa20b24fc670d98480e6856341985dfcfee65c"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "双输入八辐射线形运算",
+      "intro": "两图各有八条射线位置，自正上方起顺时针排列；黑段为集合元素，空白细框为未选段。集合运算逐段进行，均使用该步操作前的左右图。",
+      "rules": [
+        {
+          "id": "T20_xor",
+          "code": "⊕",
+          "text": "左图改为左右图的异或；右图不变。"
+        },
+        {
+          "id": "T20_and",
+          "code": "∩",
+          "text": "右图改为左右图的交集；左图不变。"
+        },
+        {
+          "id": "T20_or",
+          "code": "∪",
+          "text": "左图改为左右图的并集；右图不变。"
+        },
+        {
+          "id": "T20_swap",
+          "code": "⇄",
+          "text": "左右两图互换。"
+        },
+        {
+          "id": "T20_half",
+          "code": "↶",
+          "text": "左右两图分别在原位旋转180°。"
+        },
+        {
+          "id": "T20_complement",
+          "code": "¬",
+          "text": "右图八条射线取补：黑段变白，白段变黑。"
+        }
+      ],
+      "question_numbers": [
+        58,
+        59,
+        60
+      ],
+      "questions": [
+        {
+          "n": 58,
+          "chain": [
+            "⊕",
+            "¬"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-58.png",
+          "image_sha256": "d37cc8bb0358a9e51bab493023c80a39ab4ae99eb21fdf8bc6fb957554b63ee3"
+        },
+        {
+          "n": 59,
+          "chain": [
+            "⇄",
+            "∩",
+            "↶"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-59.png",
+          "image_sha256": "ac6fc756ec491712bb4ba1ef22689653342257ca8d0424a5b564c47fcb7f65ec"
+        },
+        {
+          "n": 60,
+          "chain": [
+            "¬",
+            "∪",
+            "⇄",
+            "⊕"
+          ],
+          "image": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\assets\\question-60.png",
+          "image_sha256": "7deeda06772eb84ecae7dde7aed2711724ca0331f1bd982a88fb6f54e18d7470"
+        }
+      ]
+    }
+  ]
+}

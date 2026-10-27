@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "documents": 3,
+  "square_ninegrids": 6,
+  "pages_reviewed": 71,
+  "temporary_page_pngs_cleaned": 71,
+  "original_and_backup_files_unchanged": true,
+  "protected_hashes_unchanged": true,
+  "kb_files_checked": 11,
+  "valid_local_links": 150
+}

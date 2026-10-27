@@ -1,0 +1,187 @@
+{
+  "passed": true,
+  "questions": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "structure": {
+    "rules": 6,
+    "classification": 4
+  },
+  "checks": {
+    "11": {
+      "option_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "equal_black_count": 7
+    },
+    "12": {
+      "option_validity": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "signatures": [
+        [
+          2,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          3,
+          1
+        ],
+        [
+          1,
+          3,
+          2,
+          2
+        ]
+      ]
+    },
+    "13": {
+      "option_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_index": 1,
+      "same_black_count_all_options": true,
+      "distinct_options": true,
+      "wrong_operation_distinct_on_both_demonstrations": true,
+      "all_coordinate_checks": true,
+      "R_XOR_equals_XOR_of_both_R": true,
+      "equivalent_both_rotated_not_used_as_distractor": true
+    },
+    "14": {
+      "option_validity": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "distinct_options": true,
+      "same_count_by_state": true,
+      "equivalent_both_ud_inputs_not_distractor": true
+    },
+    "15": {
+      "option_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "correct_index": 3,
+      "same_black_count_all_options": true,
+      "distinct_options": true,
+      "wrong_operation_distinct_on_both_demonstrations": true,
+      "all_coordinate_checks": true,
+      "natural_family_hypotheses_tested": 384,
+      "matching_hypotheses": [
+        {
+          "first_transform": "I",
+          "second_transform": "R90",
+          "operation": "A-B"
+        }
+      ],
+      "first_two_complete_rows_select_one_hypothesis": true,
+      "candidate_black_counts": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "removed_extra_cyclic_shift": true,
+      "steps": 2
+    },
+    "16": {
+      "option_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "distinct_options": true,
+      "equal_edge_counts": true,
+      "different_input_transforms_do_not_commute_with_single_global_transform": true
+    },
+    "17": {
+      "correct_members": [
+        1,
+        3,
+        6
+      ],
+      "partition_validity": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "unique_partition": true
+    },
+    "18": {
+      "correct_members": [
+        1,
+        2,
+        4
+      ],
+      "partition_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "unique_partition": true
+    },
+    "19": {
+      "correct_members": [
+        1,
+        2,
+        5
+      ],
+      "partition_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "unique_partition": true
+    },
+    "20": {
+      "correct_members": [
+        1,
+        4,
+        5
+      ],
+      "partition_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "unique_partition": true
+    }
+  }
+}

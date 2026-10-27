@@ -1,0 +1,263 @@
+{
+  "year_range": "2022—2026为主；本次无需2021补充",
+  "national_priority": [
+    "C-GK26-80",
+    "C-GK26-81",
+    "C-GK26-82",
+    "C-H083",
+    "C-GK26-V80"
+  ],
+  "visual_checked_count": 18,
+  "sources": [
+    {
+      "id": "C-H002",
+      "year": 2025,
+      "exam": "上海公务员A类",
+      "file": "E:\\XcodeProject_sang\\真题\\最新试卷\\2025上海判断题本.docx",
+      "question": 10,
+      "paragraph": 28,
+      "visual_checked": true,
+      "visual_evidence": "reference_c/hit002_*",
+      "features": "锥体曲面标点的俯视位置；不能只取可见轮廓。",
+      "original_design_lesson": "投影保留标记绕序与相对位置。",
+      "provenance": "本地题本/解析整理稿，题图已实际核对；不声称已外部核实官方版本",
+      "question_in_this_document": 10,
+      "original_number_in_compilation": 70
+    },
+    {
+      "id": "C-H009",
+      "year": 2025,
+      "exam": "北京公务员",
+      "file": "E:\\XcodeProject_sang\\真题\\最新试卷\\2025年北京市公务员考试《行测》真题.docx",
+      "question": 62,
+      "paragraph": 236,
+      "visual_checked": true,
+      "visual_evidence": "reference_c/hit009_*",
+      "features": "非凸阶梯组合体，两个顶点在同一上棱，第三点在侧部；截面可有凹口。",
+      "original_design_lesson": "通过已知直线和第三点确定切面，再追踪全部实体边界。",
+      "provenance": "本地题本/解析整理稿，题图已实际核对；不声称已外部核实官方版本"
+    },
+    {
+      "id": "C-H027",
+      "year": 2023,
+      "exam": "浙江公务员",
+      "file": "E:\\XcodeProject_sang\\真题\\最新试卷\\2025浙江判断题本.docx",
+      "question": 80,
+      "paragraph": 34,
+      "visual_checked": true,
+      "visual_evidence": "reference_c/hit027_*",
+      "features": "阶梯棱柱的任意切面可能分离；文件名写2025，但内文章标题明确2023。",
+      "original_design_lesson": "截面不能简单当主视图；关注接触区和切面连通性。",
+      "provenance": "本地题本/解析整理稿，题图已实际核对；不声称已外部核实官方版本"
+    },
+    {
+      "id": "C-H046",
+      "year": 2023,
+      "exam": "5月7日事业单位联考C类",
+      "file": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\23-25联考职测ABC类试题\\2023年5月7日全国事业单位联考C类《职业能力倾向测验》试题（网友回忆版）.docx",
+      "question": 64,
+      "paragraph": 332,
+      "visual_checked": true,
+      "visual_evidence": "reference_c/hit046_*",
+      "features": "阶梯、斜面组合体的可行截面。",
+      "original_design_lesson": "干扰项用局部斜边方向和凹口，而非单靠边数。",
+      "provenance": "本地题本/解析整理稿，题图已实际核对；不声称已外部核实官方版本"
+    },
+    {
+      "id": "C-H047",
+      "year": 2023,
+      "exam": "5月7日事业单位联考C类",
+      "file": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\23-25联考职测ABC类试题\\2023年5月7日全国事业单位联考C类《职业能力倾向测验》试题（网友回忆版）.docx",
+      "question": 65,
+      "paragraph": 338,
+      "visual_checked": true,
+      "visual_evidence": "reference_c/hit047_*",
+      "features": "12白3黑方块，主视和左视给定，问可能的俯视。",
+      "original_design_lesson": "投影还约束遮挡和黑块是否位于表层。",
+      "provenance": "本地题本/解析整理稿，题图已实际核对；不声称已外部核实官方版本"
+    },
+    {
+      "id": "C-H054",
+      "year": 2023,
+      "exam": "8月26日事业单位联考C类",
+      "file": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\23-25联考职测ABC类试题\\2023年8月26日全国事业单位联考C类《职业能力倾向测验》试题（黑龙江_湖南_甘肃_吉林_四川_重庆_山西_安徽_新疆_内蒙古_湖北_辽宁_广西网友回忆版）.docx",
+      "question": 63,
+      "paragraph": 369,
+      "visual_checked": true,
+      "visual_evidence": "reference_c/hit054_*",
+      "features": "四棱锥与开槽下部组合，截面轮廓含折线。",
+      "original_design_lesson": "凹凸性与实体上/下部共同限制截面。",
+      "provenance": "本地题本/解析整理稿，题图已实际核对；不声称已外部核实官方版本"
+    },
+    {
+      "id": "C-H055",
+      "year": 2023,
+      "exam": "8月26日事业单位联考C类",
+      "file": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\23-25联考职测ABC类试题\\2023年8月26日全国事业单位联考C类《职业能力倾向测验》试题（黑龙江_湖南_甘肃_吉林_四川_重庆_山西_安徽_新疆_内蒙古_湖北_辽宁_广西网友回忆版）.docx",
+      "question": 64,
+      "paragraph": 375,
+      "visual_checked": true,
+      "visual_evidence": "reference_c/hit055_*",
+      "features": "错位方块的主视与左视；不可凭想象增加内部线。",
+      "original_design_lesson": "正投影需去重，并明确实棱和遮挡。",
+      "provenance": "本地题本/解析整理稿，题图已实际核对；不声称已外部核实官方版本"
+    },
+    {
+      "id": "C-H056",
+      "year": 2024,
+      "exam": "11月2日事业单位联考C类",
+      "file": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\23-25联考职测ABC类试题\\2024年11月2日全国事业单位联考C类《职业能力倾向测验》笔试试题（黑龙江_云南_甘肃_吉林_海南_四川_湖北_新疆_重庆_安徽_青海）（网友回忆版）.docx",
+      "question": 64,
+      "paragraph": 305,
+      "visual_checked": true,
+      "visual_evidence": "reference_c/hit056_*",
+      "features": "弧面、斜面组合实体，俯视区分真实分界线数。",
+      "original_design_lesson": "线条型投影要逐条投影，而非只比外框。",
+      "provenance": "本地题本/解析整理稿，题图已实际核对；不声称已外部核实官方版本"
+    },
+    {
+      "id": "C-H090",
+      "year": 2024,
+      "exam": "3月30日事业单位联考C类",
+      "file": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\事业单位\\11-15.2024年3月30日事业单位联考A+BCDE补充.docx",
+      "question": 63,
+      "paragraph": 888,
+      "visual_checked": true,
+      "visual_evidence": "reference_c/hit090_*",
+      "features": "复合曲面/棱柱的主视与左视成对判别。",
+      "original_design_lesson": "对同一实体同时核对两向视图。",
+      "provenance": "本地题本/解析整理稿，题图已实际核对；不声称已外部核实官方版本"
+    },
+    {
+      "id": "C-H083",
+      "year": 2025,
+      "exam": "国家公务员副省级",
+      "file": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\国家\\2025年国考真题\\2025国考副省-题本+解析.docx",
+      "question": 87,
+      "paragraph": 52,
+      "visual_checked": true,
+      "visual_evidence": "reference_c/hit083_*",
+      "features": "P/Q在同一已知棱，R不在该直线上；其唯一平面并非任意三点猜切。",
+      "original_design_lesson": "截面采用精确坐标求交，规则点位，完整保留凹凸。",
+      "provenance": "本地题本/解析整理稿，题图已实际核对；不声称已外部核实官方版本"
+    },
+    {
+      "id": "C-H153",
+      "year": 2023,
+      "exam": "安徽公务员",
+      "file": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\福建、安徽、事业单位真题&解析\\安徽word\\2023年安徽省公务员录用考试.docx",
+      "question": 85,
+      "paragraph": 565,
+      "visual_checked": true,
+      "visual_evidence": "reference_c/hit153_*",
+      "features": "线架的侧、正、顶视重构，斜杆在不同方向投影成斜线/横线/点。",
+      "original_design_lesson": "原创线架需明确方向并用线段投影去重核验。",
+      "provenance": "本地题本/解析整理稿，题图已实际核对；不声称已外部核实官方版本"
+    },
+    {
+      "id": "C-2022zj89",
+      "year": 2022,
+      "exam": "浙江公务员A类",
+      "file": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2022年浙江公务员考试《行测》真题（A类）_2023122611_05.docx",
+      "question": 89,
+      "paragraph": 613,
+      "visual_checked": true,
+      "visual_evidence": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_c\\2022zj89_section_image21.png"
+      ],
+      "features": "三棱台挖圆柱贯通孔，截面可能带孔或分离。",
+      "original_design_lesson": "保留截面孔洞/凹口及投影实线，不把存在几种可行视图误当唯一解。",
+      "provenance": "本地按题名与正文标年，实际看图"
+    },
+    {
+      "id": "C-2022sy59",
+      "year": 2022,
+      "exam": "11月12日事业单位联考A类",
+      "file": "E:\\XcodeProject_sang\\真题\\试卷\\事业单位笔试-职测真题试卷\\word版事业单位笔试职测563套\\2022年11月12日事业单位联考《职业能力倾向测验》（A类）_2023122810_25.docx",
+      "question": 59,
+      "paragraph": 386,
+      "visual_checked": true,
+      "visual_evidence": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_c\\2022sy59_section_image6.png"
+      ],
+      "features": "多段板件和圆柱混合体，任意方向视图核对可见缺口与线。",
+      "original_design_lesson": "保留截面孔洞/凹口及投影实线，不把存在几种可行视图误当唯一解。",
+      "provenance": "本地按题名与正文标年，实际看图"
+    },
+    {
+      "id": "C-2022sy62",
+      "year": 2022,
+      "exam": "11月12日事业单位联考A类",
+      "file": "E:\\XcodeProject_sang\\真题\\试卷\\事业单位笔试-职测真题试卷\\word版事业单位笔试职测563套\\2022年11月12日事业单位联考《职业能力倾向测验》（A类）_2023122810_25.docx",
+      "question": 62,
+      "paragraph": 395,
+      "visual_checked": true,
+      "visual_evidence": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_c\\2022sy62_section_image9.png"
+      ],
+      "features": "给定灰色切割板，问下部顶视剖面；曲边和U形槽方向必须同时匹配。",
+      "original_design_lesson": "保留截面孔洞/凹口及投影实线，不把存在几种可行视图误当唯一解。",
+      "provenance": "本地按题名与正文标年，实际看图"
+    },
+    {
+      "id": "C-GK26-80",
+      "year": 2026,
+      "exam": "国家公务员行政执法卷",
+      "file": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 80,
+      "visual_checked": true,
+      "visual_evidence": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_c\\2026gk_q80_p495_image7.jpeg"
+      ],
+      "features": "阶梯斜面组合体，Q/R同底棱，P在另一端顶点；截面由整条线与点确定。",
+      "original_design_lesson": "以此为主要形制依据；增难依靠相似干扰与多约束验证，不堆罕见几何概念。",
+      "provenance": "本地完整题本与根代理确认版本"
+    },
+    {
+      "id": "C-GK26-81",
+      "year": 2026,
+      "exam": "国家公务员行政执法卷",
+      "file": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 81,
+      "visual_checked": true,
+      "visual_evidence": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_c\\2026gk_q81_p503_image8.png",
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_c\\2026gk_q81_p504_image9.jpeg"
+      ],
+      "features": "双正方体组合成长方体，分别判断外表面展开图；需核对跨面图案与折叠方向。",
+      "original_design_lesson": "以此为主要形制依据；增难依靠相似干扰与多约束验证，不堆罕见几何概念。",
+      "provenance": "本地完整题本与根代理确认版本"
+    },
+    {
+      "id": "C-GK26-82",
+      "year": 2026,
+      "exam": "国家公务员行政执法卷",
+      "file": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 82,
+      "visual_checked": true,
+      "visual_evidence": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_c\\2026gk_q82_p513_image10.jpeg"
+      ],
+      "features": "12白3灰方块给正背直观图，排除不可参与拼合的部件。",
+      "original_design_lesson": "以此为主要形制依据；增难依靠相似干扰与多约束验证，不堆罕见几何概念。",
+      "provenance": "本地完整题本与根代理确认版本"
+    },
+    {
+      "id": "C-GK26-V80",
+      "year": 2026,
+      "exam": "国家公务员地市/副省差异课件",
+      "file": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026国考判断真题解析.pptx",
+      "question": 80,
+      "slide": 42,
+      "visual_checked": true,
+      "visual_evidence": [
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_c\\2026gk80_image20.png",
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_c\\2026gk80_image21.png",
+        "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\reference_c\\2026gk80_image22.png"
+      ],
+      "features": "15白3黑，俯视图及左视图推正视图；黑块遮挡约束。",
+      "original_design_lesson": "两向投影加总量/表层颜色联合判断；不得把任意可行投影当唯一。",
+      "provenance": "本地教研PPT，作为差异题参考"
+    }
+  ]
+}

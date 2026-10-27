@@ -1,0 +1,13 @@
+{
+  "instruction": "只看题干、题图、选项独立求解，不读作者代码、答案、解析、模型、解释图或修订记录；记录自然规律、选择、置信度及歧义。",
+  "cards": [
+    {
+      "n": 15,
+      "stem": "观察九宫格每行三幅图的关系，从四个选项中选出最合适的一项。",
+      "ask": "",
+      "options": [],
+      "image": "E:\\XcodeProject_sang\\.work\\advanced_figures30_20261025\\assets\\q15.png",
+      "image_sha256": "c1a7aee18442aae043c747ac00c0d66c8990e9be5d1aa8d5357493b7816fdccb"
+    }
+  ]
+}

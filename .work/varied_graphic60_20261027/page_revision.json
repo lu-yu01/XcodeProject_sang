@@ -1,0 +1,530 @@
+{
+  "change": "Only group15 heading punctuation changed to spaces in two native headings; all source figures unchanged.",
+  "preceding_word_sha256": "00b5fd66b760301245de9df441f8ac330274204653ca8bbde32a8349ef28c925",
+  "preceding_pdf_sha256": "58c9b024a8d3258269890ab94a52f65dd90479acacbd58d0b2bc6726e4efcf65",
+  "current_pdf_sha256": "0ab90a11d51afc695c43fbdb3064dc991e23174c9a1b340f7cc922521dbb3e84",
+  "byte_identical_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "changed_pages_requiring_actual_reopen": [
+    15,
+    35
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-01.png",
+      "sha256": "ccc09cc7eeb0385edf30845a2037aaf767d09c21975123cdb0b96662b4e429ba",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 2,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-02.png",
+      "sha256": "78b4af185107992207e1a81c84f240e0e14e43a1f87e70a89b00454b3199028b",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 3,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-03.png",
+      "sha256": "02a3d8980182dc74f427f7c49900f16cbe189035e9b6dab1a8144788881acd2e",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 4,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-04.png",
+      "sha256": "ef6a141cbf0c665f778ecc300d516efc84773b98bd9869a851948318bf3bfc48",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 5,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-05.png",
+      "sha256": "43da1185179c355f69720a0f4cc0d4f2e23d485f32a3d8943f3b3ec47a05ae2a",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 6,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-06.png",
+      "sha256": "6f0c16ea3ac17c80e002c8bfd70730ec4e96305becb34ffc3960ec60c78cffd5",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 7,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-07.png",
+      "sha256": "ce515bcbe9316d955f94447c6ac8f78cc7a0c2e34ec4cbd7d2c8838175154672",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 8,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-08.png",
+      "sha256": "06233332472d68079030a91c8b8d35f450e8508a835e0c22533b08e14c651825",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 9,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-09.png",
+      "sha256": "dbbb77b463915454495e72fa5831081f26621a57b7e28866b483e37dbaed47f3",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 10,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-10.png",
+      "sha256": "370347e7141bab371593d34156ac0de553ba68b6866c436c68cb3e4ca0f5e8f0",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 11,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-11.png",
+      "sha256": "c1d8056b018d8a1573a881c4df068938616004a8927c50beb73e9b7b995baab8",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 12,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-12.png",
+      "sha256": "dc1d55b90b347bc8727bd43e5fab1ede7ae7d90b864f0c43c80125274af7789c",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 13,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-13.png",
+      "sha256": "df3a2172906b501b468431a1c18dd1d558656179acd5955d1999610306cc54dc",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 14,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-14.png",
+      "sha256": "787b6cb8bce42dbcf147e177bb08da1da008b169b4856d00e54f23c39e8579c5",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 15,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-15.png",
+      "sha256": "6261245cb0ab9e1040c07ee508a7659887f420e353a9c99de43c39a8deb3fc70",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": false,
+      "result": "pending"
+    },
+    {
+      "page": 16,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-16.png",
+      "sha256": "b660110f2f6b0db280331c7138647d8f033dda98a5e3adcab9129a22602199dc",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 17,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-17.png",
+      "sha256": "d38cb2516c4547d538c0e3545e8b3e37a072c893a2bd304347103ad9e5b1d88f",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 18,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-18.png",
+      "sha256": "190cbd54bcbc2612afcf67a106123393e0f72e441e567a3a0dd0b233199eaee0",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 19,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-19.png",
+      "sha256": "5d00caafe766db296f548ca81331f12c0ccf55c69bd2841c538254ea784faa85",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 20,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-20.png",
+      "sha256": "f40a687a94c8a7508e4ecdbe8013b63cd59ccf676fe5919eb392a9202b4ce42c",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 21,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-21.png",
+      "sha256": "22f08270ff0a48462a6a770205b992f886b393bc4f4af2394af9a152f2c9af77",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 22,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-22.png",
+      "sha256": "e25ce00d8cc025d73877577928adb919ea83cafef21807dc2369f6eb2ce10389",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 23,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-23.png",
+      "sha256": "2451f0c6a314c7d156cb49b9c0e7c88d3e4b7362dfb1b94919f3fb6551bdd256",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 24,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-24.png",
+      "sha256": "e01341708332f0532bb6e03f7e409d88ea47021535dad27ed32d1b073342b77d",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 25,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-25.png",
+      "sha256": "a30826e7e582e3e58c2f88b2a10d7b3af7032a7c33416ccf1cfec281418786a7",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 26,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-26.png",
+      "sha256": "21062cfab547445db4cb5e25b7309c1938ed52708beed0aa213ec57ad19c9e95",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 27,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-27.png",
+      "sha256": "3d88658ad6414bd2ed0c0553a32f48fafaa82ea29825dac41446628a7d57d894",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 28,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-28.png",
+      "sha256": "12d5ed92e4da6fe3e49b1b732d09865d414b83fc34f4f81b0955012ffa1e619b",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 29,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-29.png",
+      "sha256": "a7b1d2dbcada746abd43d6b0497b576eb2d1c0be6115d20ec3d424b8d86a8efd",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 30,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-30.png",
+      "sha256": "a601c2157072f9509391b896e1ebc91254fc5a5785a0358241c5565bf6dbb062",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 31,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-31.png",
+      "sha256": "87e9b49d0808d962107de18db136033021a871ed7806e79dc707a4331e7f814b",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 32,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-32.png",
+      "sha256": "799e9b13f70b997f63e60a3a429f622c6765411e3cdd243433a17722a71a8bcc",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 33,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-33.png",
+      "sha256": "058ea99010a9cb54e3a0d26323f201b65dfb9a283b91f6cb8a98c3efa4ced708",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 34,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-34.png",
+      "sha256": "7d10a04822ffc6591c072123410dfe6bb69cecd99d1128d3e84d4c6cfc9b8aac",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 35,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-35.png",
+      "sha256": "9b533f3d69cfeb92a0dc189db96e7f3c8dabaf7f1d2c4c1e9afbc3916a7f6002",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": false,
+      "result": "pending"
+    },
+    {
+      "page": 36,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-36.png",
+      "sha256": "73fab716e1ba03c43a04a9082fca4041f73e654ad9c21e2d75208c3170837bf9",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 37,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-37.png",
+      "sha256": "9cb009e4a837c86635cc224a6ba3e83b6d8eb692479029e0914970fd5f1ebf61",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 38,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-38.png",
+      "sha256": "69b544ad7ebaa2fa6d9b0546ac36032c3c16ea18a222b3966a48c2beb92fd274",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 39,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-39.png",
+      "sha256": "6ed46310f3c2601a9ede5579a83ffce09588644cd8f4bf11d04192040a8829dc",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    },
+    {
+      "page": 40,
+      "path": "E:\\XcodeProject_sang\\.work\\varied_graphic60_20261027\\render\\page-40.png",
+      "sha256": "57c03638e80b1bad966204a12e0331c4dbc9b7bd8b20363a516b4391846bda2b",
+      "pixels": [
+        1241,
+        1754
+      ],
+      "actually_opened_at_original_size": true,
+      "result": "pass",
+      "inspection_basis": "Byte-identical page to directly inspected preceding export"
+    }
+  ]
+}

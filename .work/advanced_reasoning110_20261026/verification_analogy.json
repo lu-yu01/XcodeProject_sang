@@ -1,0 +1,216 @@
+{
+  "passed": true,
+  "scope": "关系标注一致性、公式与集合见证验证；语义唯一性仍须独立解题，非自动语义证明。",
+  "checks": {
+    "1": {
+      "signature_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "answer": "B"
+    },
+    "2": {
+      "signature_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "answer": "D"
+    },
+    "3": {
+      "signature_validity": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "answer": "A"
+    },
+    "4": {
+      "signature_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "answer": "C"
+    },
+    "5": {
+      "signature_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "answer": "B"
+    },
+    "6": {
+      "signature_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "answer": "C"
+    },
+    "7": {
+      "signature_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "answer": "D"
+    },
+    "8": {
+      "signature_validity": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "answer": "A"
+    },
+    "9": {
+      "signature_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "answer": "C"
+    },
+    "10": {
+      "signature_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "answer": "B"
+    },
+    "11": {
+      "signature_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "answer": "D"
+    },
+    "12": {
+      "signature_validity": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "answer": "A"
+    },
+    "13": {
+      "signature_validity": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "answer": "A"
+    },
+    "14": {
+      "signature_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "answer": "C"
+    },
+    "15": {
+      "signature_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "answer": "B"
+    },
+    "16": {
+      "signature_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "answer": "D"
+    },
+    "17": {
+      "signature_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "answer": "D"
+    },
+    "18": {
+      "signature_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "answer": "B"
+    },
+    "19": {
+      "signature_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "answer": "C",
+      "finite_region_witness_validity": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    "20": {
+      "signature_validity": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "answer": "A",
+      "finite_region_witness_validity": [
+        true,
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "numeric_identity_examples": [
+    {
+      "total": 12,
+      "denominator": 3,
+      "ratio": "4"
+    },
+    {
+      "total": 35,
+      "denominator": 7,
+      "ratio": "5"
+    },
+    {
+      "total": 21,
+      "denominator": 2,
+      "ratio": "21/2"
+    }
+  ],
+  "circle_geometry_matches_set_profiles": true
+}

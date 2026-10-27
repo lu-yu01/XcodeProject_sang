@@ -1,0 +1,458 @@
+{
+  "status": "content_and_image_checks_passed_waiting_render",
+  "time": "2026-10-25T21:20:12.833396+08:00",
+  "source_word": "E:\\XcodeProject_sang\\模式题\\国考图形与逻辑专项练习-55题（含答案解析）.docx",
+  "output_word": "E:\\XcodeProject_sang\\模式题\\国考图形与逻辑专项练习-55题（图片规范版，含答案解析）.docx",
+  "source_sha256": "e169efd48fbcc95ba2cb75446bc0898860528e1b21cc6289e167cbaed93652da",
+  "output_sha256": "e7b5123e41ea0123f2d49589299ef5b2008144ebfa009e78480557e4ba3d09e6",
+  "question_count": 55,
+  "image_count": 30,
+  "changed_question_images": [
+    14,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "unchanged_question_images": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "native_captions_added": {
+    "18": "题干三图从左到右依次为正视图、右视图、俯视占位图。",
+    "19": "题干三图从左到右依次为第1、第2、第3层，各小图上方均为前方。"
+  },
+  "original_word_xml_preserved_except_two_caption_paragraphs": true,
+  "numbering_xml_identical": true,
+  "all_other_zip_members_identical": true,
+  "changed_zip_members": [
+    "word/document.xml",
+    "word/media/image14.png",
+    "word/media/image17.png",
+    "word/media/image18.png",
+    "word/media/image19.png",
+    "word/media/image20.png",
+    "word/media/image21.png"
+  ],
+  "no_shape_pixels_changed_outside_exact_text_bands": true,
+  "four_option_form": "Questions 1-21 already use a single four-cell horizontal outer frame with A-D underneath; preserved.",
+  "classification_form": "Questions 22-30 keep six separate source figures and original native text choices; preserved.",
+  "two_group_form": "Questions 5-8 remain on one horizontal baseline; source figure pixels unchanged.",
+  "preserved_essential_data": [
+    "question marks",
+    "cube face digits",
+    "section point labels",
+    "circles 1-6",
+    "Q18 numeric answer values",
+    "Q20 part identifiers 甲/乙"
+  ],
+  "per_question": [
+    {
+      "n": 1,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "5479889792a17ef1774aabafea48ffd26efe15e927d56189a325a954a40a01c9",
+      "new_png_sha256": "5479889792a17ef1774aabafea48ffd26efe15e927d56189a325a954a40a01c9",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 2,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "0d843806d8acd9843e0e1c54718e9b7814ba980a87ff9b4db0d5035ede4bab7e",
+      "new_png_sha256": "0d843806d8acd9843e0e1c54718e9b7814ba980a87ff9b4db0d5035ede4bab7e",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 3,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "21e8a26dfd892fb9adf6bbea1f7373bedb7c72b73efe1a99593364c66c392461",
+      "new_png_sha256": "21e8a26dfd892fb9adf6bbea1f7373bedb7c72b73efe1a99593364c66c392461",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 4,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "518ba0c24bace61881a39a9b4ced721157ee5d0e81e7801908d08d9560bc0cc0",
+      "new_png_sha256": "518ba0c24bace61881a39a9b4ced721157ee5d0e81e7801908d08d9560bc0cc0",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 5,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "4861b4f3adaa7d57742726cdcc29be43ff6c0f6c7b7a9b7947f2bd37517683ee",
+      "new_png_sha256": "4861b4f3adaa7d57742726cdcc29be43ff6c0f6c7b7a9b7947f2bd37517683ee",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 6,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "b8c35571f4a41622defbc96804420fb44088dca2d19935dfc02178c6f543266c",
+      "new_png_sha256": "b8c35571f4a41622defbc96804420fb44088dca2d19935dfc02178c6f543266c",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 7,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "55a73e53fa1ac5178db508874446e486234fcd397012ef3de1614c8a696dbef5",
+      "new_png_sha256": "55a73e53fa1ac5178db508874446e486234fcd397012ef3de1614c8a696dbef5",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 8,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "eb2d5aafa833cde89522551ac3d61197a521b8e8bd02918cc99170b2b9111303",
+      "new_png_sha256": "eb2d5aafa833cde89522551ac3d61197a521b8e8bd02918cc99170b2b9111303",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 9,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "160280146374cc929d033c3fb2a741f5a1d1a5d580052c915661778d8b316e64",
+      "new_png_sha256": "160280146374cc929d033c3fb2a741f5a1d1a5d580052c915661778d8b316e64",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 10,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "0138ccbf13e46bfa09f5d7629468ae03e99521ec50f9eee6b11d005420703183",
+      "new_png_sha256": "0138ccbf13e46bfa09f5d7629468ae03e99521ec50f9eee6b11d005420703183",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 11,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "143b5cf6f65c2c5c324d7e437a347a6da1ea3a7d7a7d69f9b53c7e837a627fac",
+      "new_png_sha256": "143b5cf6f65c2c5c324d7e437a347a6da1ea3a7d7a7d69f9b53c7e837a627fac",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 12,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "77e80ce1294bfd52fb2d56ce8cc59269d2021338af73d50fd18a0826d02fbcbc",
+      "new_png_sha256": "77e80ce1294bfd52fb2d56ce8cc59269d2021338af73d50fd18a0826d02fbcbc",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 13,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "45af189c21a8d9250d22b2531e3fb8074063db76921892dc3d586a4c992d2588",
+      "new_png_sha256": "45af189c21a8d9250d22b2531e3fb8074063db76921892dc3d586a4c992d2588",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 14,
+      "changed": true,
+      "difference_bbox": [
+        322,
+        714,
+        1479,
+        744
+      ],
+      "only_text_regions_changed": true,
+      "source_png_sha256": "7e34566d5fd48f7d684db6ce5e8d06c90683560ebcd2788e6f0201b77d148448",
+      "new_png_sha256": "2770c67b6b0188641f1055576cc15ad6cce46f57cc165bfa76aaf6786cfc82fe",
+      "removed_text": [
+        "相对（四处）"
+      ],
+      "native_caption_added": null
+    },
+    {
+      "n": 15,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "5e3f4e5b3740806eaae11a3b4fbcf78d9ce3bc574bccbc4bc161833bfe90c269",
+      "new_png_sha256": "5e3f4e5b3740806eaae11a3b4fbcf78d9ce3bc574bccbc4bc161833bfe90c269",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 16,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "cd76936cb7b3b1dfbf8e6a17656cd2ed37f470d38fc21084428ee5c76e939427",
+      "new_png_sha256": "cd76936cb7b3b1dfbf8e6a17656cd2ed37f470d38fc21084428ee5c76e939427",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 17,
+      "changed": true,
+      "difference_bbox": [
+        419,
+        371,
+        1485,
+        402
+      ],
+      "only_text_regions_changed": true,
+      "source_png_sha256": "34be278a2c2e513ebb66bf99c68992725cacffa5ca2f12c10b31f7cb77121cec",
+      "new_png_sha256": "bbb93b5ada65b37a9565b9eb6e2f12e51d713a39fc2fe30c57ba8589ddf24417",
+      "removed_text": [
+        "原纸",
+        "左半向右折",
+        "下半向上折后剪去灰格"
+      ],
+      "native_caption_added": null
+    },
+    {
+      "n": 18,
+      "changed": true,
+      "difference_bbox": [
+        422,
+        366,
+        1428,
+        398
+      ],
+      "only_text_regions_changed": true,
+      "source_png_sha256": "a230863eb0ce80862020b8a66a3efccd4f2b9ef18b8cd058ccddee7c333b9e69",
+      "new_png_sha256": "272182d80f441c53d6534f6905cf242d1a8fb8412efeae441bf98e6d65993cd5",
+      "removed_text": [
+        "正视图",
+        "右视图",
+        "俯视占位图"
+      ],
+      "native_caption_added": "题干三图从左到右依次为正视图、右视图、俯视占位图。"
+    },
+    {
+      "n": 19,
+      "changed": true,
+      "difference_bbox": [
+        417,
+        71,
+        1382,
+        387
+      ],
+      "only_text_regions_changed": true,
+      "source_png_sha256": "52f2b8988996029e2d264f0fd4a06b9fd4e93b807284b03cc581f13d018e1e22",
+      "new_png_sha256": "b484f9ab9305e22a52555cab94e7a19b56acc4c04815dc55b620f61ba44a90bc",
+      "removed_text": [
+        "第1层",
+        "第2层",
+        "第3层",
+        "前（三处）"
+      ],
+      "native_caption_added": "题干三图从左到右依次为第1、第2、第3层，各小图上方均为前方。"
+    },
+    {
+      "n": 20,
+      "changed": true,
+      "difference_bbox": [
+        600,
+        371,
+        1198,
+        403
+      ],
+      "only_text_regions_changed": true,
+      "source_png_sha256": "b45032641bccac640eea82b71c3a87b89adaf9bd3664eb16f469f072b2bc11c4",
+      "new_png_sha256": "6f2eff24a247530fee1f3af9b860c72766880080290f89e25b8b9d0896f28bc6",
+      "removed_text": [
+        "部件（两处前缀；甲、乙保留）"
+      ],
+      "native_caption_added": null
+    },
+    {
+      "n": 21,
+      "changed": true,
+      "difference_bbox": [
+        321,
+        373,
+        1537,
+        402
+      ],
+      "only_text_regions_changed": true,
+      "source_png_sha256": "df5cf70928c16a9d233370edd25c275848aa2257d1b6639838bc75b228ab157f",
+      "new_png_sha256": "d90dcbd360cc08c508393a55b30a5435fe2f0e19c9a89d7b88cb35afa7732ddf",
+      "removed_text": [
+        "原纸",
+        "右半向左折",
+        "上半向下折",
+        "沿斜线再对折"
+      ],
+      "native_caption_added": null
+    },
+    {
+      "n": 22,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "5f799e80ec199c68486f30797b265fa36ddff862122ca813bb41ed715e2ecbaa",
+      "new_png_sha256": "5f799e80ec199c68486f30797b265fa36ddff862122ca813bb41ed715e2ecbaa",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 23,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "d3501eef0be09d5386347dbf007e1bc7f6005617cc14c2cd7ab166cae3b9275d",
+      "new_png_sha256": "d3501eef0be09d5386347dbf007e1bc7f6005617cc14c2cd7ab166cae3b9275d",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 24,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "7f5eedfa0b500c623c58ad5a83435e07033c391457238b595a0f7a06d873b0c0",
+      "new_png_sha256": "7f5eedfa0b500c623c58ad5a83435e07033c391457238b595a0f7a06d873b0c0",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 25,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "b25c685c09c2e3d2254bb0b50839a8d945a530e77d3d7edf3248ca945cfd7656",
+      "new_png_sha256": "b25c685c09c2e3d2254bb0b50839a8d945a530e77d3d7edf3248ca945cfd7656",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 26,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "dfa79e70685f87dfec4b5e2fc9a00c05577a5b7320fa09bd8f1aa210946d01a2",
+      "new_png_sha256": "dfa79e70685f87dfec4b5e2fc9a00c05577a5b7320fa09bd8f1aa210946d01a2",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 27,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "eaf83aeb2345bd287d70b00331bd8d97303cf256a78f2ee3cb6ea4182e2a5de1",
+      "new_png_sha256": "eaf83aeb2345bd287d70b00331bd8d97303cf256a78f2ee3cb6ea4182e2a5de1",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 28,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "824b8bedb7042d1ecfee5f1cfbf077227b27d7cc63b8b0dc545c73c6b6fb76a0",
+      "new_png_sha256": "824b8bedb7042d1ecfee5f1cfbf077227b27d7cc63b8b0dc545c73c6b6fb76a0",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 29,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "5921938125d1d9c9168af42213c1442492e1e127189ef43c4a32d5670529c145",
+      "new_png_sha256": "5921938125d1d9c9168af42213c1442492e1e127189ef43c4a32d5670529c145",
+      "removed_text": [],
+      "native_caption_added": null
+    },
+    {
+      "n": 30,
+      "changed": false,
+      "difference_bbox": null,
+      "only_text_regions_changed": true,
+      "source_png_sha256": "e846c2d7d07fc5541a1c916c9dac89e4c934adb02d9a7a7c652b6d40b4c5cb8a",
+      "new_png_sha256": "e846c2d7d07fc5541a1c916c9dac89e4c934adb02d9a7a7c652b6d40b4c5cb8a",
+      "removed_text": [],
+      "native_caption_added": null
+    }
+  ],
+  "media_by_question": {
+    "1": "word/media/image1.png",
+    "2": "word/media/image2.png",
+    "3": "word/media/image3.png",
+    "4": "word/media/image4.png",
+    "5": "word/media/image5.png",
+    "6": "word/media/image6.png",
+    "7": "word/media/image7.png",
+    "8": "word/media/image8.png",
+    "9": "word/media/image9.png",
+    "10": "word/media/image10.png",
+    "11": "word/media/image11.png",
+    "12": "word/media/image12.png",
+    "13": "word/media/image13.png",
+    "14": "word/media/image14.png",
+    "15": "word/media/image15.png",
+    "16": "word/media/image16.png",
+    "17": "word/media/image17.png",
+    "18": "word/media/image18.png",
+    "19": "word/media/image19.png",
+    "20": "word/media/image20.png",
+    "21": "word/media/image21.png",
+    "22": "word/media/image22.png",
+    "23": "word/media/image23.png",
+    "24": "word/media/image24.png",
+    "25": "word/media/image25.png",
+    "26": "word/media/image26.png",
+    "27": "word/media/image27.png",
+    "28": "word/media/image28.png",
+    "29": "word/media/image29.png",
+    "30": "word/media/image30.png"
+  }
+}

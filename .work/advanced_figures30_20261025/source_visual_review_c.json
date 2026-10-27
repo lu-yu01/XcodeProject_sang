@@ -1,0 +1,58 @@
+{
+  "passed": true,
+  "reviewer": "author visual source-image review",
+  "question_images_reviewed": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "explanation_images_reviewed": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "notes": [
+    "三截面P/Q均在同一条明确底棱上，R为规则顶点或棱中点，题干完整给定尺寸。",
+    "图形投影方向与①②③对应关系在原生题干说明。",
+    "九道空间题四选项均在单横排四格大框，A-D框外下置；双展开图在各选项格内上下排列，仍四个候选横排。",
+    "所有题图与解析图已实际逐张view_image检查；27/28改正净图垂直居中，25增强行最高层独立约束并补充19块下界证明。",
+    "Q29全新种子与坐标，另见novelty_c.json；Q30为全新四面链/星共边数据。",
+    "正式Word全页验收由根代理完成。"
+  ],
+  "image_sha256": {
+    "q21.png": "7e708d2d2e93059f7a0a93246888fda6903042172d832ac57c884307abcbe0d0",
+    "q22.png": "8298f3e0b8e2ad92c04d00cb49db3173930ef1f4a666dd034d7d17c562f67ed2",
+    "q23.png": "64cdc2be644191bb4f793177271b7c9714c5551bb8f23b56c0bc734b958b1c75",
+    "q24.png": "05939dadb9c35a7d7d88ebda7b1df7ed6833e1b8fd4764d41f5dbad24e50408d",
+    "q25.png": "b8c56cc81867939da97510b3db71f8de8ac49395b1f64687d5ccca407f208f63",
+    "q26.png": "9aedc1a446e634e3f8973d3666a80bd1dea278c57752c45d0bf6f285670d09cc",
+    "q27.png": "096e9dc1f2a151b1b6c22f031233107862b41a4d4081e47c601bd1d86e4469f5",
+    "q28.png": "87101cce3b520107792a8dc26b0703bbcee3f3b8003d93a8fb63c168137bac54",
+    "q29.png": "5e914eb552767cd0d7e24d75d6eb056ea74c17a63fa33f2f7e0c2362ba31dd34",
+    "q30.png": "ae233349171436835e4c9836e9cc19d6803393090fe4d83a27df1f24dad5140d",
+    "e21.png": "e815f5af4df09c78bad0369a56cad810d36ae259033d65e38d44f3f201aef49a",
+    "e22.png": "200763e1e9bddfe4bc8753a457068ada2459efef599f8ec3d253fc5bbbee68c5",
+    "e23.png": "7813e6e900ecb2c91b9f7eff2109c70e9d73851c4c374a2e1e29ae6b16017bd3",
+    "e24.png": "a2217bf57461f68d5e6b60efee53c15e07b06568161d46605d3d80fb22f9dd7d",
+    "e25.png": "7e5f41fd28c7e0a8d78e20c9af894f033235bffa24ed1352bbd865f8fa028555",
+    "e26.png": "586059bbd542c086c4613207ca0dfe4b0c9e10d8670931fa9862a5e0bdbba156",
+    "e27.png": "19ee2c627c5b45e0e266bedb7e53df1b9af34a465a35ea759e886d33b52f4723",
+    "e28.png": "9a1a5deda3ddc1cd1bf9212a715389444e56699354e128f5edacbd898ab792eb",
+    "e29.png": "ab427da33dc153f3849d488431ec6c33c11dfd0e64920630b812a84f6007462c",
+    "e30.png": "36a69751a62a4c3f1b316ce5235c2b1233cd8fe4e19ab34e95f77dbc5aa5e35d"
+  }
+}

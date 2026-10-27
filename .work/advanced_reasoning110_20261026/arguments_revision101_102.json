@@ -1,0 +1,12 @@
+{
+  "changed_questions": [
+    101,
+    102
+  ],
+  "other_28_questions_identical": true,
+  "all_stems_asks_answers_unchanged": true,
+  "old_snapshot": "revision_history/before_q101_q102_scope",
+  "new_questions_sha256": "e17a29dea2367e91a7a7cb97c4093527d8b930ad348c46c50e1b95019665d977",
+  "revised_card_sha256": "9fa4723b33d9d744f6ce2d8d9fa2ee5485fcfed7a09cd79c9f0997f34e07513e",
+  "explicit_negation_and_overstrength_witnesses_in_model": true
+}

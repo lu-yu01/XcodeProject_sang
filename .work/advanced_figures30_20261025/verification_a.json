@@ -1,0 +1,388 @@
+{
+  "passed": true,
+  "questions": [
+    {
+      "n": 1,
+      "candidate_pass": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "all_black_count": 3,
+      "trajectories_independent": true
+    },
+    {
+      "n": 2,
+      "candidate_pass": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "outer_each_one_axis": true
+    },
+    {
+      "n": 3,
+      "candidate_pass": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "candidate_black_counts": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "matrix_outer_square": [
+        840,
+        840
+      ],
+      "cell_square": [
+        280,
+        280
+      ],
+      "option_graphic_size": 125
+    },
+    {
+      "n": 4,
+      "candidate_pass": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "candidate_face_count": 3,
+      "candidate_dots": 4,
+      "all_candidate_total_sides": 15,
+      "convex_interior_angle_counts": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3
+      }
+    },
+    {
+      "n": 5,
+      "candidate_pass": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "face_counts_verified_by_euler": {
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7
+      },
+      "raw_internal_segments_each": 6,
+      "graphic_frame_counted": true
+    },
+    {
+      "n": 6,
+      "candidate_pass": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "candidate_stats": [
+        {
+          "faces": 2,
+          "components": 2,
+          "strokes": 3,
+          "odd_vertices": 6,
+          "segments": 9
+        },
+        {
+          "faces": 2,
+          "components": 2,
+          "strokes": 4,
+          "odd_vertices": 6,
+          "segments": 9
+        },
+        {
+          "faces": 2,
+          "components": 2,
+          "strokes": 3,
+          "odd_vertices": 6,
+          "segments": 9
+        },
+        {
+          "faces": 2,
+          "components": 2,
+          "strokes": 3,
+          "odd_vertices": 6,
+          "segments": 9
+        }
+      ],
+      "stem_stats": [
+        {
+          "faces": 2,
+          "components": 2,
+          "strokes": 2,
+          "odd_vertices": 4,
+          "segments": 8
+        },
+        {
+          "faces": 2,
+          "components": 2,
+          "strokes": 3,
+          "odd_vertices": 6,
+          "segments": 9
+        },
+        {
+          "faces": 2,
+          "components": 2,
+          "strokes": 4,
+          "odd_vertices": 6,
+          "segments": 9
+        },
+        {
+          "faces": 2,
+          "components": 2,
+          "strokes": 2,
+          "odd_vertices": 4,
+          "segments": 8
+        },
+        {
+          "faces": 2,
+          "components": 2,
+          "strokes": 3,
+          "odd_vertices": 6,
+          "segments": 9
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "faces": [
+        {
+          "central": true,
+          "axis_count": 0,
+          "largest_area": 58.0,
+          "total_area": 99.0,
+          "other_face_total_area": 41.0
+        },
+        {
+          "central": false,
+          "axis_count": 1,
+          "largest_area": 60.0,
+          "total_area": 99.0,
+          "other_face_total_area": 39.0
+        },
+        {
+          "central": true,
+          "axis_count": 0,
+          "largest_area": 59.0,
+          "total_area": 99.0,
+          "other_face_total_area": 40.0
+        },
+        {
+          "central": false,
+          "axis_count": 1,
+          "largest_area": 55.0,
+          "total_area": 99.0,
+          "other_face_total_area": 44.0
+        },
+        {
+          "central": false,
+          "axis_count": 1,
+          "largest_area": 60.25,
+          "total_area": 99.0,
+          "other_face_total_area": 38.75
+        },
+        {
+          "central": true,
+          "axis_count": 0,
+          "largest_area": 58.75,
+          "total_area": 99.0,
+          "other_face_total_area": 40.25
+        }
+      ],
+      "maximum_unique_by_area_bound": true,
+      "each_maximum_sides": 6,
+      "candidate_pass": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "n": 8,
+      "black_counts": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "properties": [
+        {
+          "central": true,
+          "axes": 0
+        },
+        {
+          "central": false,
+          "axes": 1
+        },
+        {
+          "central": false,
+          "axes": 1
+        },
+        {
+          "central": true,
+          "axes": 0
+        },
+        {
+          "central": true,
+          "axes": 0
+        },
+        {
+          "central": false,
+          "axes": 1
+        }
+      ],
+      "outer_contours_identical": true,
+      "candidate_pass": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "n": 9,
+      "per_face_right_angles": [
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "total_right_angles": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "total_faces": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "total_sides": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "no_reflex_angles": true,
+      "all_individual_pentagons_asymmetric": true,
+      "candidate_pass": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "n": 10,
+      "crossings": [
+        {
+          "point": [
+            1.5142857142857142,
+            0.0
+          ],
+          "inside": false,
+          "boundary_crossings": 4
+        },
+        {
+          "point": [
+            -0.19999999999999996,
+            0.0
+          ],
+          "inside": true,
+          "boundary_crossings": 4
+        },
+        {
+          "point": [
+            -0.19999999999999996,
+            0.0
+          ],
+          "inside": true,
+          "boundary_crossings": 4
+        },
+        {
+          "point": [
+            1.5142857142857142,
+            0.0
+          ],
+          "inside": false,
+          "boundary_crossings": 4
+        },
+        {
+          "point": [
+            1.5142857142857142,
+            0.0
+          ],
+          "inside": false,
+          "boundary_crossings": 4
+        },
+        {
+          "point": [
+            -0.19999999999999996,
+            0.0
+          ],
+          "inside": true,
+          "boundary_crossings": 4
+        }
+      ],
+      "candidate_pass": [
+        false,
+        true,
+        false,
+        false
+      ]
+    }
+  ],
+  "originality": "Original coordinates and distractors; abilities informed by cited local question examples.",
+  "layout_rules": {
+    "two_groups_same_horizontal_line": true,
+    "matrix_square": true,
+    "classification_six_stem_figures_native_text_options": true,
+    "image_titles": false
+  }
+}

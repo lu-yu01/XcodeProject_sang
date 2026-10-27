@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "time": "2026-10-25T21:07:05.210791+08:00",
+  "word_sha256": "c85f610506f23f384047c399b7d75d8ada12e7d2cd5e15d9f3e462e66f83af55",
+  "pdf_sha256": "63f3a30c9b4ef502dc68a1a0ec2135f4d54016e61cb9155e240efe6c0ffad9b3",
+  "pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "sources": [
+    "visual_questions.json",
+    "visual_answers.json"
+  ],
+  "status": "completed_before_preview_cleanup",
+  "note": "10页均已实际查看；临时页图随后按用户偏好清理，成品未改变。"
+}

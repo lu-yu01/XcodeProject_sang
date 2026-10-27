@@ -1,0 +1,1668 @@
+{
+  "status": "passed",
+  "time": "2026-10-25T19:16:34.361755+08:00",
+  "rotation_count": 24,
+  "question_count": 10,
+  "option_count": 40,
+  "answer_distribution": {
+    "A": 3,
+    "B": 2,
+    "C": 3,
+    "D": 2
+  },
+  "model_sha256": "5542119a4362f3d4ee76fed467c137ab56fa74deace39cdf12187cc026f133f7",
+  "scope": "24 proper rotations and all integer translations in each target; exact cover, no overlap, all pieces used, no reflections; not learner difficulty validation",
+  "questions": [
+    {
+      "n": 1,
+      "mode": "fill",
+      "except": false,
+      "answer": "C",
+      "fits": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "options": [
+        {
+          "option": "A",
+          "fits": false,
+          "piece_placement_counts": [
+            8,
+            8
+          ],
+          "witness": null
+        },
+        {
+          "option": "B",
+          "fits": false,
+          "piece_placement_counts": [
+            8,
+            8
+          ],
+          "witness": null
+        },
+        {
+          "option": "C",
+          "fits": true,
+          "piece_placement_counts": [
+            8,
+            8
+          ],
+          "witness": [
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                0,
+                1,
+                0
+              ],
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                1,
+                0,
+                1
+              ],
+              [
+                2,
+                0,
+                0
+              ]
+            ],
+            [
+              [
+                0,
+                1,
+                1
+              ],
+              [
+                1,
+                1,
+                0
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                2,
+                0,
+                1
+              ],
+              [
+                2,
+                1,
+                0
+              ],
+              [
+                2,
+                1,
+                1
+              ]
+            ]
+          ]
+        },
+        {
+          "option": "D",
+          "fits": false,
+          "piece_placement_counts": [
+            8,
+            8
+          ],
+          "witness": null
+        }
+      ],
+      "true_3d_targets": true,
+      "same_option_volume": true,
+      "same_option_box_dimensions": true
+    },
+    {
+      "n": 2,
+      "mode": "fill",
+      "except": false,
+      "answer": "A",
+      "fits": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "option": "A",
+          "fits": true,
+          "piece_placement_counts": [
+            8,
+            8
+          ],
+          "witness": [
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                0,
+                1,
+                0
+              ],
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                2,
+                0,
+                0
+              ],
+              [
+                2,
+                1,
+                0
+              ],
+              [
+                3,
+                0,
+                0
+              ],
+              [
+                3,
+                0,
+                1
+              ]
+            ],
+            [
+              [
+                0,
+                1,
+                1
+              ],
+              [
+                1,
+                0,
+                1
+              ],
+              [
+                1,
+                1,
+                0
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                2,
+                0,
+                1
+              ],
+              [
+                2,
+                1,
+                1
+              ],
+              [
+                3,
+                1,
+                0
+              ],
+              [
+                3,
+                1,
+                1
+              ]
+            ]
+          ]
+        },
+        {
+          "option": "B",
+          "fits": false,
+          "piece_placement_counts": [
+            8,
+            8
+          ],
+          "witness": null
+        },
+        {
+          "option": "C",
+          "fits": false,
+          "piece_placement_counts": [
+            8,
+            8
+          ],
+          "witness": null
+        },
+        {
+          "option": "D",
+          "fits": false,
+          "piece_placement_counts": [
+            8,
+            8
+          ],
+          "witness": null
+        }
+      ],
+      "true_3d_targets": true,
+      "same_option_volume": true,
+      "same_option_box_dimensions": true
+    },
+    {
+      "n": 3,
+      "mode": "assemble",
+      "except": false,
+      "answer": "D",
+      "fits": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "options": [
+        {
+          "option": "A",
+          "fits": false,
+          "piece_placement_counts": [
+            3,
+            3
+          ],
+          "witness": null
+        },
+        {
+          "option": "B",
+          "fits": false,
+          "piece_placement_counts": [
+            2,
+            3
+          ],
+          "witness": null
+        },
+        {
+          "option": "C",
+          "fits": false,
+          "piece_placement_counts": [
+            1,
+            0
+          ],
+          "witness": null
+        },
+        {
+          "option": "D",
+          "fits": true,
+          "piece_placement_counts": [
+            4,
+            4
+          ],
+          "witness": [
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                0,
+                1,
+                0
+              ],
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                2,
+                0,
+                0
+              ],
+              [
+                2,
+                0,
+                1
+              ]
+            ],
+            [
+              [
+                0,
+                0,
+                2
+              ],
+              [
+                0,
+                1,
+                1
+              ],
+              [
+                0,
+                1,
+                2
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                2,
+                1,
+                1
+              ],
+              [
+                2,
+                1,
+                2
+              ]
+            ]
+          ]
+        }
+      ],
+      "true_3d_targets": true,
+      "same_option_volume": true,
+      "same_option_box_dimensions": true
+    },
+    {
+      "n": 4,
+      "mode": "assemble",
+      "except": false,
+      "answer": "B",
+      "fits": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "option": "A",
+          "fits": false,
+          "piece_placement_counts": [
+            7,
+            7
+          ],
+          "witness": null
+        },
+        {
+          "option": "B",
+          "fits": true,
+          "piece_placement_counts": [
+            6,
+            6
+          ],
+          "witness": [
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                0,
+                1,
+                0
+              ],
+              [
+                1,
+                0,
+                1
+              ]
+            ],
+            [
+              [
+                0,
+                0,
+                2
+              ],
+              [
+                0,
+                1,
+                1
+              ],
+              [
+                0,
+                1,
+                2
+              ],
+              [
+                1,
+                1,
+                1
+              ]
+            ]
+          ]
+        },
+        {
+          "option": "C",
+          "fits": false,
+          "piece_placement_counts": [
+            6,
+            6
+          ],
+          "witness": null
+        },
+        {
+          "option": "D",
+          "fits": false,
+          "piece_placement_counts": [
+            7,
+            7
+          ],
+          "witness": null
+        }
+      ],
+      "true_3d_targets": true,
+      "same_option_volume": true,
+      "same_option_box_dimensions": true
+    },
+    {
+      "n": 5,
+      "mode": "fill",
+      "except": false,
+      "answer": "A",
+      "fits": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "option": "A",
+          "fits": true,
+          "piece_placement_counts": [
+            16,
+            16,
+            11
+          ],
+          "witness": [
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                2,
+                0,
+                0
+              ]
+            ],
+            [
+              [
+                0,
+                1,
+                0
+              ],
+              [
+                0,
+                1,
+                1
+              ],
+              [
+                1,
+                1,
+                0
+              ],
+              [
+                2,
+                1,
+                0
+              ]
+            ],
+            [
+              [
+                1,
+                0,
+                1
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                2,
+                0,
+                1
+              ],
+              [
+                2,
+                1,
+                1
+              ]
+            ]
+          ]
+        },
+        {
+          "option": "B",
+          "fits": false,
+          "piece_placement_counts": [
+            16,
+            16,
+            24
+          ],
+          "witness": null
+        },
+        {
+          "option": "C",
+          "fits": false,
+          "piece_placement_counts": [
+            16,
+            16,
+            24
+          ],
+          "witness": null
+        },
+        {
+          "option": "D",
+          "fits": false,
+          "piece_placement_counts": [
+            16,
+            16,
+            16
+          ],
+          "witness": null
+        }
+      ],
+      "true_3d_targets": true,
+      "same_option_volume": true,
+      "same_option_box_dimensions": false
+    },
+    {
+      "n": 6,
+      "mode": "assemble",
+      "except": false,
+      "answer": "C",
+      "fits": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "options": [
+        {
+          "option": "A",
+          "fits": false,
+          "piece_placement_counts": [
+            19,
+            19,
+            13
+          ],
+          "witness": null
+        },
+        {
+          "option": "B",
+          "fits": false,
+          "piece_placement_counts": [
+            19,
+            20,
+            13
+          ],
+          "witness": null
+        },
+        {
+          "option": "C",
+          "fits": true,
+          "piece_placement_counts": [
+            19,
+            19,
+            14
+          ],
+          "witness": [
+            [
+              [
+                0,
+                1,
+                1
+              ],
+              [
+                0,
+                1,
+                2
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                1,
+                2,
+                1
+              ]
+            ],
+            [
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                0,
+                0,
+                2
+              ],
+              [
+                1,
+                0,
+                2
+              ],
+              [
+                1,
+                1,
+                2
+              ]
+            ],
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                1,
+                0,
+                1
+              ],
+              [
+                1,
+                1,
+                0
+              ]
+            ]
+          ]
+        },
+        {
+          "option": "D",
+          "fits": false,
+          "piece_placement_counts": [
+            19,
+            19,
+            13
+          ],
+          "witness": null
+        }
+      ],
+      "true_3d_targets": true,
+      "same_option_volume": true,
+      "same_option_box_dimensions": true
+    },
+    {
+      "n": 7,
+      "mode": "fill",
+      "except": false,
+      "answer": "B",
+      "fits": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "option": "A",
+          "fits": false,
+          "piece_placement_counts": [
+            8,
+            8
+          ],
+          "witness": null
+        },
+        {
+          "option": "B",
+          "fits": true,
+          "piece_placement_counts": [
+            8,
+            8
+          ],
+          "witness": [
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                0,
+                1,
+                0
+              ],
+              [
+                0,
+                1,
+                1
+              ],
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                1,
+                1,
+                0
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                1,
+                2,
+                1
+              ],
+              [
+                2,
+                1,
+                0
+              ]
+            ],
+            [
+              [
+                0,
+                2,
+                0
+              ],
+              [
+                0,
+                2,
+                1
+              ],
+              [
+                1,
+                0,
+                1
+              ],
+              [
+                1,
+                2,
+                0
+              ],
+              [
+                2,
+                0,
+                0
+              ],
+              [
+                2,
+                0,
+                1
+              ],
+              [
+                2,
+                1,
+                1
+              ],
+              [
+                2,
+                2,
+                0
+              ],
+              [
+                2,
+                2,
+                1
+              ]
+            ]
+          ]
+        },
+        {
+          "option": "C",
+          "fits": false,
+          "piece_placement_counts": [
+            8,
+            8
+          ],
+          "witness": null
+        },
+        {
+          "option": "D",
+          "fits": false,
+          "piece_placement_counts": [
+            8,
+            8
+          ],
+          "witness": null
+        }
+      ],
+      "true_3d_targets": true,
+      "same_option_volume": true,
+      "same_option_box_dimensions": true
+    },
+    {
+      "n": 8,
+      "mode": "assemble",
+      "except": true,
+      "answer": "D",
+      "fits": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "options": [
+        {
+          "option": "A",
+          "fits": true,
+          "piece_placement_counts": [
+            6,
+            6
+          ],
+          "witness": [
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                1,
+                0,
+                1
+              ],
+              [
+                1,
+                1,
+                0
+              ],
+              [
+                2,
+                0,
+                0
+              ]
+            ],
+            [
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                1,
+                2,
+                1
+              ],
+              [
+                2,
+                0,
+                1
+              ],
+              [
+                2,
+                1,
+                0
+              ],
+              [
+                2,
+                1,
+                1
+              ],
+              [
+                2,
+                2,
+                1
+              ]
+            ]
+          ]
+        },
+        {
+          "option": "B",
+          "fits": true,
+          "piece_placement_counts": [
+            4,
+            4
+          ],
+          "witness": [
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                1,
+                0,
+                1
+              ],
+              [
+                1,
+                1,
+                0
+              ],
+              [
+                2,
+                0,
+                0
+              ]
+            ],
+            [
+              [
+                0,
+                1,
+                2
+              ],
+              [
+                1,
+                0,
+                2
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                1,
+                1,
+                2
+              ],
+              [
+                2,
+                1,
+                1
+              ],
+              [
+                2,
+                1,
+                2
+              ]
+            ]
+          ]
+        },
+        {
+          "option": "C",
+          "fits": true,
+          "piece_placement_counts": [
+            1,
+            1
+          ],
+          "witness": [
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                1,
+                0,
+                1
+              ],
+              [
+                1,
+                1,
+                0
+              ],
+              [
+                2,
+                0,
+                0
+              ]
+            ],
+            [
+              [
+                0,
+                2,
+                1
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                1,
+                2,
+                0
+              ],
+              [
+                1,
+                2,
+                1
+              ],
+              [
+                2,
+                2,
+                0
+              ],
+              [
+                2,
+                2,
+                1
+              ]
+            ]
+          ]
+        },
+        {
+          "option": "D",
+          "fits": false,
+          "piece_placement_counts": [
+            7,
+            9
+          ],
+          "witness": null
+        }
+      ],
+      "true_3d_targets": true,
+      "same_option_volume": true,
+      "same_option_box_dimensions": true
+    },
+    {
+      "n": 9,
+      "mode": "fill",
+      "except": false,
+      "answer": "C",
+      "fits": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "options": [
+        {
+          "option": "A",
+          "fits": false,
+          "piece_placement_counts": [
+            32,
+            8,
+            32
+          ],
+          "witness": null
+        },
+        {
+          "option": "B",
+          "fits": false,
+          "piece_placement_counts": [
+            32,
+            8,
+            32
+          ],
+          "witness": null
+        },
+        {
+          "option": "C",
+          "fits": true,
+          "piece_placement_counts": [
+            32,
+            8,
+            32
+          ],
+          "witness": [
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                0,
+                1,
+                0
+              ],
+              [
+                0,
+                1,
+                1
+              ],
+              [
+                0,
+                2,
+                0
+              ],
+              [
+                1,
+                1,
+                0
+              ]
+            ],
+            [
+              [
+                0,
+                2,
+                1
+              ],
+              [
+                1,
+                0,
+                1
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                1,
+                2,
+                0
+              ],
+              [
+                1,
+                2,
+                1
+              ],
+              [
+                2,
+                0,
+                1
+              ]
+            ],
+            [
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                2,
+                0,
+                0
+              ],
+              [
+                2,
+                1,
+                0
+              ],
+              [
+                2,
+                1,
+                1
+              ],
+              [
+                2,
+                2,
+                0
+              ],
+              [
+                2,
+                2,
+                1
+              ]
+            ]
+          ]
+        },
+        {
+          "option": "D",
+          "fits": false,
+          "piece_placement_counts": [
+            32,
+            8,
+            32
+          ],
+          "witness": null
+        }
+      ],
+      "true_3d_targets": true,
+      "same_option_volume": true,
+      "same_option_box_dimensions": true
+    },
+    {
+      "n": 10,
+      "mode": "assemble",
+      "except": true,
+      "answer": "A",
+      "fits": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "options": [
+        {
+          "option": "A",
+          "fits": false,
+          "piece_placement_counts": [
+            8,
+            5,
+            13
+          ],
+          "witness": null
+        },
+        {
+          "option": "B",
+          "fits": true,
+          "piece_placement_counts": [
+            6,
+            3,
+            10
+          ],
+          "witness": [
+            [
+              [
+                0,
+                1,
+                1
+              ],
+              [
+                0,
+                2,
+                0
+              ],
+              [
+                0,
+                2,
+                1
+              ],
+              [
+                0,
+                3,
+                0
+              ],
+              [
+                0,
+                3,
+                1
+              ]
+            ],
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                1,
+                0,
+                1
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                2,
+                0,
+                0
+              ]
+            ],
+            [
+              [
+                1,
+                2,
+                0
+              ],
+              [
+                1,
+                3,
+                0
+              ],
+              [
+                1,
+                3,
+                1
+              ],
+              [
+                2,
+                2,
+                0
+              ],
+              [
+                2,
+                3,
+                0
+              ]
+            ]
+          ]
+        },
+        {
+          "option": "C",
+          "fits": true,
+          "piece_placement_counts": [
+            15,
+            5,
+            23
+          ],
+          "witness": [
+            [
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                0,
+                1,
+                0
+              ],
+              [
+                0,
+                1,
+                1
+              ],
+              [
+                0,
+                2,
+                0
+              ],
+              [
+                0,
+                2,
+                1
+              ]
+            ],
+            [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                1,
+                0,
+                0
+              ],
+              [
+                1,
+                0,
+                1
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                2,
+                0,
+                0
+              ]
+            ],
+            [
+              [
+                2,
+                0,
+                1
+              ],
+              [
+                2,
+                1,
+                0
+              ],
+              [
+                2,
+                1,
+                1
+              ],
+              [
+                3,
+                1,
+                0
+              ],
+              [
+                3,
+                1,
+                1
+              ]
+            ]
+          ]
+        },
+        {
+          "option": "D",
+          "fits": true,
+          "piece_placement_counts": [
+            25,
+            16,
+            41
+          ],
+          "witness": [
+            [
+              [
+                1,
+                0,
+                2
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                1,
+                1,
+                2
+              ],
+              [
+                1,
+                2,
+                1
+              ],
+              [
+                1,
+                2,
+                2
+              ]
+            ],
+            [
+              [
+                0,
+                2,
+                0
+              ],
+              [
+                0,
+                2,
+                1
+              ],
+              [
+                1,
+                1,
+                0
+              ],
+              [
+                1,
+                2,
+                0
+              ],
+              [
+                1,
+                3,
+                0
+              ]
+            ],
+            [
+              [
+                0,
+                2,
+                2
+              ],
+              [
+                0,
+                3,
+                1
+              ],
+              [
+                0,
+                3,
+                2
+              ],
+              [
+                1,
+                3,
+                1
+              ],
+              [
+                1,
+                3,
+                2
+              ]
+            ]
+          ]
+        }
+      ],
+      "true_3d_targets": true,
+      "same_option_volume": true,
+      "same_option_box_dimensions": true
+    }
+  ],
+  "human_reason_certificates": {
+    "1": {
+      "unique_residual_rotation_class": true,
+      "mirror_distractor_proved": true
+    },
+    "2": {
+      "unique_residual_rotation_class": true,
+      "mirror_distractor_proved": true,
+      "correct_max_straight_run": 4,
+      "D_max_straight_run": 3
+    },
+    "7": {
+      "unique_residual_rotation_class": true,
+      "mirror_distractor_proved": true,
+      "branch_lengths_by_option": [
+        [
+          1,
+          1,
+          6
+        ],
+        [
+          1,
+          1,
+          6
+        ],
+        [
+          2,
+          3,
+          3
+        ],
+        [
+          1,
+          3,
+          4
+        ]
+      ]
+    },
+    "3": {
+      "A_B_all_residuals_disconnected": true,
+      "C_connected_residual_has_degree3": true,
+      "given_B_has_max_degree2": true
+    },
+    "4": {
+      "A_D_connected_residuals_branched": true,
+      "C_connected_residuals_planar": true,
+      "given_piece_3d_chain": true
+    },
+    "5": {
+      "connected_residual_classes": 2,
+      "all_planar": true,
+      "profiles": [
+        "square_cycle",
+        "S_chain"
+      ]
+    },
+    "6": {
+      "A_B_D_connected_remainders_max_degree": 2,
+      "given_C_degree_profile": [
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    "8": {
+      "D_all_remainders_disconnected": true,
+      "A_B_C_witnesses_saved": true
+    },
+    "9": {
+      "connected_residual_classes": 2,
+      "all_options_cycle_with_two_cell_tail": true,
+      "A_is_mirror_of_C": true
+    },
+    "10": {
+      "A_minimum_overlap_between_given_A_B": 1,
+      "B_C_D_witnesses_saved": true
+    }
+  }
+}

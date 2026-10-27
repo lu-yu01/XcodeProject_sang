@@ -1,0 +1,18 @@
+{
+  "deleted": [
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic3_20261027\\render\\page-01.png",
+      "bytes": 243562,
+      "sha256": "2b399216f80dbfb838d26dab03d57ef90fc8c975e74a49b0a813bc3d53cad262"
+    },
+    {
+      "path": "E:\\XcodeProject_sang\\.work\\beijing_graphic3_20261027\\render\\page-02.png",
+      "bytes": 313298,
+      "sha256": "97ab9ac567770062246a623542452c21e98831de7f40128dac539faedbf1b93c"
+    }
+  ],
+  "deleted_count": 2,
+  "freed_bytes": 556860,
+  "retained_files_hash_unchanged": 8,
+  "scope": "仅本轮render/page-*.png临时页图；全部题图、解析图、参考图、Word、PDF和报告保留。"
+}

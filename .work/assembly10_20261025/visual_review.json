@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "time": "2026-10-25T19:29:07.338536+08:00",
+  "pdf_sha256": "ba746926c21be05b1f9f17d625e36eb734c6f72a6520eb653959f905f1a7ed3b",
+  "word_sha256": "6e2a0130b9380903a0348b48d168e7ce42d27d41dd4338eb0ca19295aa0e1b8c",
+  "pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "review_records": [
+    "visual_01_10.json",
+    "visual_11_15.json"
+  ],
+  "status": "completed_before_cleanup",
+  "note": "历史逐页检查绑定未修改的最终PDF；检查完成后按用户偏好清理页面PNG。"
+}

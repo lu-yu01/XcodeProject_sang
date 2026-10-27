@@ -1,0 +1,117 @@
+{
+  "passed": true,
+  "checked_at": "2026-10-27T15:49:35.758099+00:00",
+  "word": "E:\\XcodeProject_sang\\模式题\\北京风格情境方向图形推理-10题（含答案解析）.docx",
+  "word_sha256": "89dce87495adc6c03828fd5ee308758d46ef047529254ba636f66ec163e3b8d9",
+  "pdf_sha256": "fd3a7c474bd28942d8e5f207d0ddbeb0fa916ade68554d0bacf989757b4e8a81",
+  "questions": 10,
+  "pages": 10,
+  "question_pages": 5,
+  "analysis_pages": 5,
+  "visible_images": 20,
+  "model_checks": {
+    "passed": true,
+    "questions": 10,
+    "checks": {
+      "1": {
+        "chronological_photo_labels": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "unique_option": "B",
+        "near_object_pixel_x_by_time": [
+          145.0,
+          200.0,
+          255.0,
+          310.0
+        ]
+      },
+      "2": {
+        "chronological_photo_labels": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "unique_option": "D",
+        "near_object_pixel_x_by_time": [
+          300.0,
+          250.0,
+          200.0,
+          150.0
+        ]
+      },
+      "3": {
+        "chronological_photo_labels": [
+          2,
+          4,
+          3,
+          1
+        ],
+        "unique_option": "A"
+      },
+      "4": {
+        "chronological_photo_labels": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "unique_option": "C"
+      },
+      "8": {
+        "matching_options": [
+          "B"
+        ]
+      },
+      "9": {
+        "arrival_heading": "南",
+        "after_right_turn": "西",
+        "home_relative": "左前",
+        "store_relative": "右前"
+      },
+      "10": {
+        "front_to_back": [
+          "矮塔",
+          "树",
+          "高塔"
+        ],
+        "matching_options": [
+          "A"
+        ]
+      },
+      "7": {
+        "point_light_away_and_concurrent": true
+      },
+      "6": {
+        "parallel_world_shadows": "西北",
+        "observer": "西南"
+      },
+      "5": {
+        "sun": "正北",
+        "world_shadow": "正南",
+        "observer": "西南"
+      }
+    },
+    "limits": "程序验证几何和唯一性边界；最终还须独立图面试解及Word全部页图复核。"
+  },
+  "physics_checks": {
+    "point_light_rim_ray_plane_checks": 72,
+    "shadow_option_viewports": 8,
+    "sun_observer_quadrants_unique": 4
+  },
+  "blind_first_answers_matching": 10,
+  "blind_final_answers_matching": 10,
+  "sunlight_wording_issue_closed": true,
+  "existing_words_unchanged": 11,
+  "template_preserve_only_parts_unchanged": true,
+  "visual_pages_actually_opened": 10,
+  "knowledge_links_passed": true,
+  "limits": [
+    "原创专项配额并非某年考试配额",
+    "代理试解不是教师盲审",
+    "未进行学员试测或实测难度校准"
+  ]
+}

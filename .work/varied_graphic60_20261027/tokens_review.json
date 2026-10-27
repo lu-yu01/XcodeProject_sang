@@ -1,0 +1,204 @@
+{
+  "groups": 6,
+  "questions": 18,
+  "all_passed": true,
+  "checks": [
+    {
+      "group": 15,
+      "question": 1,
+      "length": 2,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 9,
+      "render_collision": false
+    },
+    {
+      "group": 15,
+      "question": 2,
+      "length": 3,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 13,
+      "render_collision": false
+    },
+    {
+      "group": 15,
+      "question": 3,
+      "length": 4,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 17,
+      "render_collision": false
+    },
+    {
+      "group": 16,
+      "question": 1,
+      "length": 2,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 10,
+      "render_collision": false
+    },
+    {
+      "group": 16,
+      "question": 2,
+      "length": 3,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 13,
+      "render_collision": false
+    },
+    {
+      "group": 16,
+      "question": 3,
+      "length": 4,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 20,
+      "render_collision": false
+    },
+    {
+      "group": 17,
+      "question": 1,
+      "length": 2,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 10,
+      "render_collision": false
+    },
+    {
+      "group": 17,
+      "question": 2,
+      "length": 3,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 15,
+      "render_collision": false
+    },
+    {
+      "group": 17,
+      "question": 3,
+      "length": 4,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 20,
+      "render_collision": false
+    },
+    {
+      "group": 18,
+      "question": 1,
+      "length": 2,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 10,
+      "render_collision": false
+    },
+    {
+      "group": 18,
+      "question": 2,
+      "length": 3,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 13,
+      "render_collision": false
+    },
+    {
+      "group": 18,
+      "question": 3,
+      "length": 4,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 16,
+      "render_collision": false
+    },
+    {
+      "group": 19,
+      "question": 1,
+      "length": 2,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 10,
+      "render_collision": false
+    },
+    {
+      "group": 19,
+      "question": 2,
+      "length": 3,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 13,
+      "render_collision": false
+    },
+    {
+      "group": 19,
+      "question": 3,
+      "length": 4,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 13,
+      "render_collision": false
+    },
+    {
+      "group": 20,
+      "question": 1,
+      "length": 2,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 9,
+      "render_collision": false
+    },
+    {
+      "group": 20,
+      "question": 2,
+      "length": 3,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 14,
+      "render_collision": false
+    },
+    {
+      "group": 20,
+      "question": 3,
+      "length": 4,
+      "every_step_effective": true,
+      "every_deletion_changes_answer": true,
+      "independent_path_equal": true,
+      "wrong_distinct": 17,
+      "render_collision": false
+    }
+  ],
+  "carrier_families": {
+    "15": "箭头的站位、指向与空实",
+    "16": "字母替换与字形操作",
+    "17": "环形轨道上的选择性变换",
+    "18": "树形末端与分支操作",
+    "19": "外轮廓与内部标记分离",
+    "20": "双输入八辐射线形运算"
+  },
+  "scope": "精确离散场景与八射线逐位集合/矩阵复算；不代替Word实际排版和外部盲解。",
+  "random_operation_crosscheck": {
+    "seed": 77261,
+    "scenes": 600,
+    "operations": 3600,
+    "passed": true,
+    "input_mutation": false
+  },
+  "revision_20": "双七段显示改为八辐射线形，集合域为8个位置，180度旋转改为对向射线映射。"
+}

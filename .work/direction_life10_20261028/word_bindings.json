@@ -1,0 +1,288 @@
+{
+  "source_sha256": "89dce87495adc6c03828fd5ee308758d46ef047529254ba636f66ec163e3b8d9",
+  "revised_sha256": "8377b84094a4e786869fd46be0fe6e7add3a80211c5092a99d662c76d06d1b0f",
+  "bindings": [
+    {
+      "n": 1,
+      "kind": "question",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-01.png",
+      "pixels": [
+        2172,
+        724
+      ],
+      "word_part": "word/media/image7.png",
+      "sha256": "a9bc3767744941b7b69fc22506de0ab63ef64d27c2f7eaf238e48720c7043071",
+      "cx": 6108192,
+      "cy": 2036064
+    },
+    {
+      "n": 2,
+      "kind": "question",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-02.png",
+      "pixels": [
+        2172,
+        724
+      ],
+      "word_part": "word/media/image8.png",
+      "sha256": "921abe21c2e19091fa87efb818e75adaf469059464cf93fdaef90077661d4f94",
+      "cx": 6108192,
+      "cy": 2036064
+    },
+    {
+      "n": 3,
+      "kind": "question",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-03.png",
+      "pixels": [
+        1798,
+        875
+      ],
+      "word_part": "word/media/image9.png",
+      "sha256": "7b1f4a937f292bf83a4aa29aad899b23fd956d638ff7e2afa58eeac1c7e8bc8f",
+      "cx": 6108192,
+      "cy": 2972563
+    },
+    {
+      "n": 4,
+      "kind": "question",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-04.png",
+      "pixels": [
+        2172,
+        724
+      ],
+      "word_part": "word/media/image10.png",
+      "sha256": "526ba0cfce44322abb514bb6783b3396a05c40a08104af4ba2f503dce27549e4",
+      "cx": 6108192,
+      "cy": 2036064
+    },
+    {
+      "n": 5,
+      "kind": "question",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-05.png",
+      "pixels": [
+        2172,
+        724
+      ],
+      "word_part": "word/media/image11.png",
+      "sha256": "83b997849ac2de090a14396f5fc6da467443a1aad3ef91b88bc722010881a27d",
+      "cx": 6108192,
+      "cy": 2036064
+    },
+    {
+      "n": 6,
+      "kind": "question",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-06.png",
+      "pixels": [
+        1863,
+        844
+      ],
+      "word_part": "word/media/image12.png",
+      "sha256": "fd34f40f334563780ca24b489c8a8445f28b2e02d757b844475718cb5d7d856d",
+      "cx": 6108192,
+      "cy": 2767211
+    },
+    {
+      "n": 7,
+      "kind": "question",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-07.png",
+      "pixels": [
+        1862,
+        845
+      ],
+      "word_part": "word/media/image13.png",
+      "sha256": "184d11fdebd9bfcc3aaebc38a6fd5a4c72a19abc5a1bb1e7caf4c163c374715c",
+      "cx": 6108192,
+      "cy": 2771978
+    },
+    {
+      "n": 8,
+      "kind": "question",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-08.png",
+      "pixels": [
+        1634,
+        962
+      ],
+      "word_part": "word/media/image14.png",
+      "sha256": "8c680bc492f9cec8594a2b7a692c0c961d99cdc76314dd570d2e4183f4c63001",
+      "cx": 6108192,
+      "cy": 3596133
+    },
+    {
+      "n": 9,
+      "kind": "question",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-09.png",
+      "pixels": [
+        1654,
+        951
+      ],
+      "word_part": "word/media/image15.png",
+      "sha256": "464c148b8cfb1cf28b4cb432aa430c582c3f6c21cfe7780619ab1cce57c49727",
+      "cx": 6108192,
+      "cy": 3512026
+    },
+    {
+      "n": 10,
+      "kind": "question",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\question-10.png",
+      "pixels": [
+        1674,
+        940
+      ],
+      "word_part": "word/media/image16.png",
+      "sha256": "d39fb8f3a56f0ecbe3290ab4dbd1c6b1dbdb9bdac832bd4abd2722766c7db4de",
+      "cx": 6108192,
+      "cy": 3429929
+    },
+    {
+      "n": 1,
+      "kind": "solution",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-01.png",
+      "pixels": [
+        1800,
+        410
+      ],
+      "word_part": "word/media/image17.png",
+      "sha256": "33a2d3d03f96b2888e1ee776e0414700a4a26abddbfe97410f9429ef2dfa0277",
+      "cx": 6108192,
+      "cy": 1391310
+    },
+    {
+      "n": 2,
+      "kind": "solution",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-02.png",
+      "pixels": [
+        1800,
+        410
+      ],
+      "word_part": "word/media/image18.png",
+      "sha256": "3505eb87cd66a396f34efe6c7f3e418871d2ead4c450904c289a4c7d3c41e926",
+      "cx": 6108192,
+      "cy": 1391310
+    },
+    {
+      "n": 3,
+      "kind": "solution",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-03.png",
+      "pixels": [
+        1800,
+        410
+      ],
+      "word_part": "word/media/image19.png",
+      "sha256": "c69ed3a7d7d428befcf21da2b0302d72934619f200bf31b446fcb48fbb652eae",
+      "cx": 6108192,
+      "cy": 1391310
+    },
+    {
+      "n": 4,
+      "kind": "solution",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-04.png",
+      "pixels": [
+        1800,
+        410
+      ],
+      "word_part": "word/media/image20.png",
+      "sha256": "66d6b72fa7806bed588f8b5c47c5a13ffe272ae52e7ac8881d6bb95077fef79f",
+      "cx": 6108192,
+      "cy": 1391310
+    },
+    {
+      "n": 5,
+      "kind": "solution",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-05.png",
+      "pixels": [
+        1800,
+        410
+      ],
+      "word_part": "word/media/image21.png",
+      "sha256": "6d648e7ec5d24f456ded633dcef9a6db3455bf98488690d2ff98ebe0e0d7b013",
+      "cx": 6108192,
+      "cy": 1391310
+    },
+    {
+      "n": 6,
+      "kind": "solution",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-06.png",
+      "pixels": [
+        1800,
+        410
+      ],
+      "word_part": "word/media/image22.png",
+      "sha256": "1852b09afd61bf78e6499e047b948d01c95506e5e19f3f230a93e3adec5489fe",
+      "cx": 6108192,
+      "cy": 1391310
+    },
+    {
+      "n": 7,
+      "kind": "solution",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-07.png",
+      "pixels": [
+        1800,
+        410
+      ],
+      "word_part": "word/media/image23.png",
+      "sha256": "c914c0e2e7a3a26103b9148e6cbf635fc05ab56ae07ace5f430f4357b829b9ed",
+      "cx": 6108192,
+      "cy": 1391310
+    },
+    {
+      "n": 8,
+      "kind": "solution",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-08.png",
+      "pixels": [
+        1800,
+        410
+      ],
+      "word_part": "word/media/image24.png",
+      "sha256": "a1007a21064640fcaff640f4244658458f15d93ff6b600d87971901e6b2f6f29",
+      "cx": 6108192,
+      "cy": 1391310
+    },
+    {
+      "n": 9,
+      "kind": "solution",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-09.png",
+      "pixels": [
+        1800,
+        410
+      ],
+      "word_part": "word/media/image25.png",
+      "sha256": "ddb73bb9c92f50826c62251e8a20e447ddc6765fb429f9aceb489783c8805d78",
+      "cx": 6108192,
+      "cy": 1391310
+    },
+    {
+      "n": 10,
+      "kind": "solution",
+      "source": "E:\\XcodeProject_sang\\.work\\direction_life10_20261028\\assets\\solution-10.png",
+      "pixels": [
+        1800,
+        410
+      ],
+      "word_part": "word/media/image26.png",
+      "sha256": "1baef5eb2df4d09d40c00313223c959e42468444b8313e8658399dfe566b221f",
+      "cx": 6108192,
+      "cy": 1391310
+    }
+  ],
+  "preserve_only_identical": [
+    "[Content_Types].xml",
+    "_rels/.rels",
+    "docProps/core.xml",
+    "docProps/app.xml",
+    "word/_rels/document.xml.rels",
+    "word/styles.xml",
+    "word/stylesWithEffects.xml",
+    "word/settings.xml",
+    "word/webSettings.xml",
+    "word/fontTable.xml",
+    "word/theme/theme1.xml",
+    "customXml/item1.xml",
+    "customXml/_rels/item1.xml.rels",
+    "customXml/itemProps1.xml",
+    "word/numbering.xml",
+    "docProps/thumbnail.jpeg"
+  ],
+  "text_changes": [
+    "第4题取消等角条件，保留连续向右转、同地同焦距及顺序判断。",
+    "第7题明确黑点为点光源在地面的竖直投影。"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "word_sha256": "96fa64a3dacbd047a827f7a7021cf4269f22d531c44a280d83c71d94120b4183",
+  "pdf_sha256": "1aefd1ff9834a0a1a0d34ca7123d49515bb4b8cfafa5368238aa32ecfc99a01b",
+  "reviewer": "root",
+  "scope": "最终版本实际补看关键页面；不代替各分段逐页复核",
+  "pages": [
+    {
+      "page": 4,
+      "sha256": "9e8e60a240faba7ad90e9dc421b359de125f98f0d613d2c5aae233d022fbd645",
+      "actually_viewed": true,
+      "passed": true,
+      "note": "两幅关系图比例和圈号清晰，四项完整"
+    },
+    {
+      "page": 15,
+      "sha256": "697ec9b17e82c31d19da3f2a9af0d9aeced0ac6505fcff4ae051dc8e14fc4045",
+      "actually_viewed": true,
+      "passed": true,
+      "note": "第一组材料与5题同页，编号完整"
+    },
+    {
+      "page": 17,
+      "sha256": "23132a0875dc0c6c0a37bff75221a22ebc219e4c3620def88fefd82a98b75395",
+      "actually_viewed": true,
+      "passed": true,
+      "note": "资源时段约束及5题同页，边界说明完整"
+    },
+    {
+      "page": 29,
+      "sha256": "2c32a214bffb426da53ebb5906137764b262104545e83ec93b4558dfde4098ef",
+      "actually_viewed": true,
+      "passed": true,
+      "note": "4模块答案表完整且页内显示"
+    }
+  ]
+}

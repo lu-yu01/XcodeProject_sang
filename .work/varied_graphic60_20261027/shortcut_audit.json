@@ -1,0 +1,7 @@
+{
+  "questions_checked": 60,
+  "identity_chain": [],
+  "single_public_rule_shortcut": [],
+  "removable_steps": [],
+  "basis": "Final model.verify checks all 60 source states, every public rule and every step deletion."
+}

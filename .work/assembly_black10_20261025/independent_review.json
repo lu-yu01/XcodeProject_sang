@@ -1,0 +1,4563 @@
+{
+  "passed_math": true,
+  "method": "Independent quarter-turn closure, anchor translations and recursive exact coverage with strict white/black correspondence",
+  "puzzles_sha256": "b78a7a214ef98bf7386f12cdbf2a47b74353cf632e9b8dfb2e502fa30fbb71e0",
+  "questions": [
+    {
+      "n": 1,
+      "colour_solvable": {
+        "A": false,
+        "B": false,
+        "C": true,
+        "D": false
+      },
+      "geometry_solvable": {
+        "A": true,
+        "B": false,
+        "C": true,
+        "D": false
+      },
+      "answer": "C",
+      "geometry_valid_colour_wrong_options": [
+        "A"
+      ],
+      "black_counts": {
+        "target": 3,
+        "each_part_and_option": 1
+      },
+      "coloured_witness_verified": true,
+      "options_equal_volume": true,
+      "visuals": [
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "target"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given1"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              0,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given2"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              0,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "A"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "B"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "C"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "D"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "colour_solvable": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false
+      },
+      "geometry_solvable": {
+        "A": true,
+        "B": true,
+        "C": false,
+        "D": false
+      },
+      "answer": "A",
+      "geometry_valid_colour_wrong_options": [
+        "B"
+      ],
+      "black_counts": {
+        "target": 3,
+        "each_part_and_option": 1
+      },
+      "coloured_witness_verified": true,
+      "options_equal_volume": true,
+      "visuals": [
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "target"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              0,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given1"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              2,
+              0,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given2"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "A"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              0,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "B"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "C"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "D"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "colour_solvable": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": true
+      },
+      "geometry_solvable": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": true
+      },
+      "answer": "D",
+      "geometry_valid_colour_wrong_options": [
+        "A"
+      ],
+      "black_counts": {
+        "target": 3,
+        "each_part_and_option": 1
+      },
+      "coloured_witness_verified": true,
+      "options_equal_volume": true,
+      "visuals": [
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              0,
+              3,
+              0
+            ],
+            [
+              0,
+              3,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              1
+            ],
+            [
+              1,
+              3,
+              0
+            ],
+            [
+              1,
+              3,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              3,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "target"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given1"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given2"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "A"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              0,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "B"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "C"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "D"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "colour_solvable": {
+        "A": false,
+        "B": true,
+        "C": false,
+        "D": false
+      },
+      "geometry_solvable": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": false
+      },
+      "answer": "B",
+      "geometry_valid_colour_wrong_options": [
+        "A",
+        "C"
+      ],
+      "black_counts": {
+        "target": 3,
+        "each_part_and_option": 1
+      },
+      "coloured_witness_verified": true,
+      "options_equal_volume": true,
+      "visuals": [
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "target"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              2,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given1"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given2"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              2,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "A"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              2,
+              1,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "B"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              2,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "C"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "D"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "colour_solvable": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false
+      },
+      "geometry_solvable": {
+        "A": true,
+        "B": true,
+        "C": false,
+        "D": false
+      },
+      "answer": "A",
+      "geometry_valid_colour_wrong_options": [
+        "B"
+      ],
+      "black_counts": {
+        "target": 3,
+        "each_part_and_option": 1
+      },
+      "coloured_witness_verified": true,
+      "options_equal_volume": true,
+      "visuals": [
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              0,
+              3,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              1
+            ],
+            [
+              1,
+              3,
+              0
+            ],
+            [
+              1,
+              3,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              1
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              2,
+              3,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "target"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              0,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given1"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              0,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given2"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              1
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              2,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "A"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              2,
+              2,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "B"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              0,
+              1
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              2,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "C"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              0,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "D"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "colour_solvable": {
+        "A": false,
+        "B": false,
+        "C": true,
+        "D": false
+      },
+      "geometry_solvable": {
+        "A": true,
+        "B": false,
+        "C": true,
+        "D": false
+      },
+      "answer": "C",
+      "geometry_valid_colour_wrong_options": [
+        "A"
+      ],
+      "black_counts": {
+        "target": 3,
+        "each_part_and_option": 1
+      },
+      "coloured_witness_verified": true,
+      "options_equal_volume": true,
+      "visuals": [
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              0,
+              2
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              2
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              0,
+              1
+            ],
+            [
+              2,
+              0,
+              2
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              1,
+              2
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              2
+            ],
+            [
+              2,
+              1,
+              2
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "target"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              2,
+              2,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given1"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              0,
+              2
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              2,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given2"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              2,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              2,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "A"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              1
+            ],
+            [
+              2,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              2,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "B"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              1
+            ],
+            [
+              2,
+              0,
+              1
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              2,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "C"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              0,
+              1
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              2,
+              0,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "D"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "colour_solvable": {
+        "A": false,
+        "B": true,
+        "C": false,
+        "D": false
+      },
+      "geometry_solvable": {
+        "A": true,
+        "B": true,
+        "C": true,
+        "D": false
+      },
+      "answer": "B",
+      "geometry_valid_colour_wrong_options": [
+        "A",
+        "C"
+      ],
+      "black_counts": {
+        "target": 3,
+        "each_part_and_option": 1
+      },
+      "coloured_witness_verified": true,
+      "options_equal_volume": true,
+      "visuals": [
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "target"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              2,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given1"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given2"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "A"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              0,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              2,
+              0,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "B"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "C"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              0,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "D"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "colour_solvable": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "D": true
+      },
+      "geometry_solvable": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": true
+      },
+      "answer": "D",
+      "geometry_valid_colour_wrong_options": [
+        "A"
+      ],
+      "black_counts": {
+        "target": 3,
+        "each_part_and_option": 1
+      },
+      "coloured_witness_verified": true,
+      "options_equal_volume": true,
+      "visuals": [
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              1
+            ],
+            [
+              3,
+              0,
+              0
+            ],
+            [
+              3,
+              1,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              3,
+              0,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "target"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              0,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              2,
+              0,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given1"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              3,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              3,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given2"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              1
+            ],
+            [
+              1,
+              3,
+              0
+            ],
+            [
+              1,
+              3,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              2,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "A"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              0,
+              3,
+              0
+            ],
+            [
+              0,
+              3,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              0,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "B"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              0,
+              3,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              3,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "C"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              1
+            ],
+            [
+              1,
+              3,
+              0
+            ],
+            [
+              1,
+              3,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              3,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "D"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "colour_solvable": {
+        "A": false,
+        "B": false,
+        "C": true,
+        "D": false
+      },
+      "geometry_solvable": {
+        "A": true,
+        "B": false,
+        "C": true,
+        "D": false
+      },
+      "answer": "C",
+      "geometry_valid_colour_wrong_options": [
+        "A"
+      ],
+      "black_counts": {
+        "target": 3,
+        "each_part_and_option": 1
+      },
+      "coloured_witness_verified": true,
+      "options_equal_volume": true,
+      "visuals": [
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              0,
+              2
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              1,
+              2
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              0,
+              1
+            ],
+            [
+              2,
+              0,
+              2
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              1,
+              2
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              2
+            ],
+            [
+              2,
+              2,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "target"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              2,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given1"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              0,
+              1
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              2,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given2"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              0,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              0,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "A"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              0,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "B"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              0,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "C"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "D"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "colour_solvable": {
+        "A": true,
+        "B": false,
+        "C": false,
+        "D": false
+      },
+      "geometry_solvable": {
+        "A": true,
+        "B": true,
+        "C": false,
+        "D": false
+      },
+      "answer": "A",
+      "geometry_valid_colour_wrong_options": [
+        "B"
+      ],
+      "black_counts": {
+        "target": 3,
+        "each_part_and_option": 1
+      },
+      "coloured_witness_verified": true,
+      "options_equal_volume": true,
+      "visuals": [
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              0,
+              1
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              0,
+              0
+            ],
+            [
+              3,
+              0,
+              1
+            ],
+            [
+              3,
+              1,
+              0
+            ],
+            [
+              3,
+              1,
+              1
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              3,
+              1,
+              1
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "target"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              0,
+              1
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              2,
+              2,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given1"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              0,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              0,
+              2,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "given2"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              2,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              0,
+              1
+            ],
+            [
+              1,
+              0,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              1,
+              2,
+              1
+            ],
+            [
+              1,
+              3,
+              1
+            ],
+            [
+              2,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              3,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "A"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              0,
+              0
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              3,
+              1,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "B"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              0,
+              0
+            ],
+            [
+              3,
+              1,
+              0
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              2,
+              2,
+              0
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "C"
+        },
+        {
+          "black_all_visible": true,
+          "hidden_occupied_cells": [],
+          "hidden_empty_cells": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              2,
+              0,
+              0
+            ]
+          ],
+          "rendered_pose_cells": [
+            [
+              0,
+              1,
+              1
+            ],
+            [
+              0,
+              2,
+              1
+            ],
+            [
+              1,
+              1,
+              1
+            ],
+            [
+              2,
+              0,
+              1
+            ],
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              1,
+              1
+            ],
+            [
+              3,
+              1,
+              1
+            ]
+          ],
+          "rendered_pose_black": [
+            [
+              1,
+              1,
+              1
+            ]
+          ],
+          "count_labels_sufficient_for_occlusion": true,
+          "shape": "D"
+        }
+      ]
+    }
+  ],
+  "unresolved_visual_risks": [],
+  "passed_display_geometry": true,
+  "passed_semantics": true,
+  "analysis_review_status": "passed",
+  "semantic_review_observations": [
+    "逐题读完最终10题各两段解析；外形可拼但颜色错的选项与独立求解表一致。",
+    "独立核对第1至6题黑格邻格数、端格、分岔、方片闭环与镜像描述，未发现错误。",
+    "第7、9、10题同形换黑干扰的黑格度数及连接距离分布与正确项相同，确需比较空间位置；第8题正确黑格距链端为1和4，A为2和3。",
+    "第9题正确黑格在两方片共用棱端点，A在接短尾角；第10题正确黑端格沿两三岔格连线延长，B位于垂直支枝。",
+    "第8B、第9B、第10C的几何确与正确外形互为不可旋转重合的镜像。",
+    "目标展示仅绕竖轴选择观察角度；第6题三层说明明确按解析图方向观察。"
+  ]
+}

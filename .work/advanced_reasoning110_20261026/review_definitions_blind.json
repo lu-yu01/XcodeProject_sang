@@ -1,0 +1,742 @@
+{
+  "reviewer": "C组代理独立题面试解，非教师盲审",
+  "input_file": "blind_cards_definitions.json",
+  "input_sha256": "7b50666e34ff7d7eecf9ac871fddcda6dce7bb5e39168188b6874c4eae939dba",
+  "read_only_materials": "只读当前盲卡21—50题干/设问/选项，未读取definitions.py、questions_definitions、verification_definitions、来源释义、标准答案或其他人的试解。",
+  "reviews": [
+    {
+      "n": 21,
+      "first_pass_answer": "C",
+      "answer": "C",
+      "confidence": 0.99,
+      "extracted_requirements": "结果可回到原始数据；加工顺序；每次规则参数；仅版本不够。",
+      "option_judgments": [
+        "A原始读数、剔除阈值与合并记录可依次定位，符合。",
+        "B底片关联、先后与参数完整，符合。",
+        "C只有版本和修改人，缺订单原始数据与计算规则，不符合。",
+        "D观测批次、依赖链及配置文件可还原，符合。"
+      ],
+      "question_direction": "负向/选不符合",
+      "negative_question_checked": true,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "5a34a2d9917fed4706d66ce16a1f776a5e142b4a7b22b0c10c9ca681d1227711"
+    },
+    {
+      "n": 22,
+      "first_pass_answer": "B",
+      "answer": "B",
+      "confidence": 0.99,
+      "extracted_requirements": "账号仅有任务所需权限；提出和批准分给不同主体；同一主体不能全包。",
+      "option_judgments": [
+        "A采购互制但工资修改权多余，违最小权限。",
+        "B采购只提改单，审核只批他人单且无无关工资权，两项均符。",
+        "C限额内可自提自批，违职责分离。",
+        "D单账号可做全流程且能财务设置，至少权限过宽，不能同时符合。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [
+        "A工资资料权限明显超任务，排除入口较直接。"
+      ],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "88f1b8bae67c3dff54d60385996ccf5db76a721fee90b62db948fea483f1eda2"
+    },
+    {
+      "n": 23,
+      "first_pass_answer": "B",
+      "answer": "B",
+      "confidence": 0.99,
+      "extracted_requirements": "故障后自动进入预定安全状态；原服务允许中断；容错则须即时保持正确服务。",
+      "option_judgments": [
+        "A备用电源维持交易正确服务，是容错，不能选。",
+        "B自动断驱动制动，危险受限但运送停止，是安全而非容错。",
+        "C投诉后人工重启，不是检测后自动进入安全状态。",
+        "D备用传感器维持精度，是容错。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [
+        "C投诉后人工重启与自动安全差距较大。"
+      ],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "a605a89d792b02ad2c7bd2f8a576a6975ad62b518e1ca6c987932b530cc4c96f"
+    },
+    {
+      "n": 24,
+      "first_pass_answer": "A",
+      "answer": "A",
+      "confidence": 0.99,
+      "extracted_requirements": "单独处理表不能识别人；借额外信息能复原则去标识但非匿名。",
+      "option_judgments": [
+        "A随机码表本身不可识别，另存可授权映射，可复原，符合组合。",
+        "B题定无法识别且不能复原，属于匿名，不符“非匿名”。",
+        "C访问限制不改变名册内容，不是处理后不可识别。",
+        "D仍有姓名和完整身份证号，可直接识别，不符。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [
+        "C仅访问控制、D仍完整身份证，均较易排。"
+      ],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "f4894627b620e405429e28ffba0103fe22600aa718f72274fdc968428ad7d8e9"
+    },
+    {
+      "n": 25,
+      "first_pass_answer": "C",
+      "answer": "C",
+      "confidence": 0.99,
+      "extracted_requirements": "负反馈由已出现输出偏差启动并减偏；扰动前馈测未作用输出的外扰提前补偿。",
+      "option_judgments": [
+        "A把已出现温差标前馈、即将入室扰动标反馈，颠倒。",
+        "B固定八点未检测外部扰动，不是题定前馈；后项反馈对。",
+        "C成品含水率偏差后纠正是反馈，未入原料湿度提前补偿是前馈。",
+        "D水温项对；已超照度再关闭是按输出偏差，不是前馈。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "67708cef17dfc609d2f569836c9760535df220f6868706d5f01324e168f00a94"
+    },
+    {
+      "n": 26,
+      "first_pass_answer": "A",
+      "answer": "A",
+      "confidence": 0.99,
+      "extracted_requirements": "按安全、寿命、低成本逐层筛选，只在留下者中继续，已淘汰者不重入。",
+      "option_judgments": [
+        "A95分留甲乙丁，10年留乙丁，14万元选丁，正确。",
+        "B先以成本删乙，违反安全先行。",
+        "C丙安全不足已经淘汰，不可因寿命重入。",
+        "D加权补偿不同于词典序。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [
+        "D加权决策与逐层淘汰差异显眼，但B/C仍考查优先序和不得重入。"
+      ],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "8c185f6a639e9ac7f2572d2896d28c0746889fcf6206eeac090ed3f72b67b326"
+    },
+    {
+      "n": 27,
+      "first_pass_answer": "D",
+      "answer": "D",
+      "confidence": 0.99,
+      "extracted_requirements": "分层须每层独立随机抽个体；整群先随机抽群，再调查群内全部，不含再抽个体。",
+      "option_judgments": [
+        "A两种标签正好互换。",
+        "B分层找自愿者不随机；群内再抽十人是多阶段，均不符。",
+        "C第一项整群对，第二项漏其余层，不符分层。",
+        "D每层随机企业与随机村全户分别符合。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "778e8913ccc3b32af903c604373e79f36ecba9181a7ce05d3e201e6be14511aa"
+    },
+    {
+      "n": 28,
+      "first_pass_answer": "B",
+      "answer": "B",
+      "confidence": 0.78,
+      "extracted_requirements": "由随机机制分组；受试者、直接实施及评定研究者在实验中均不知组别。",
+      "option_judgments": [
+        "A随机数分组且学员、授课评分都盲，符合。",
+        "B学员依方便时段自选，明确不随机，首选不属于。",
+        "C抽签且受试者、执行评分均不知，符合。",
+        "D电脑随机，明确实施评分者盲；但未明说受试者盲，同界面不足以保证该要件。"
+      ],
+      "question_direction": "负向/选不符合",
+      "negative_question_checked": true,
+      "ambiguities": [
+        "B明确非随机，应为首次首选；D未明示受试者不知组别，“同样界面”不能保证这一点，若严格仅凭描述判归属，D也缺双盲要件。建议补明志愿者不知代码含义。"
+      ],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "004fd36eb069678978aca6c83bde8a73006c94074514ee65f21cee2533327bd6"
+    },
+    {
+      "n": 29,
+      "first_pass_answer": "C",
+      "answer": "C",
+      "confidence": 0.99,
+      "extracted_requirements": "可复做程序，同时有实施条件、可记录反应、计分或判定规则。",
+      "option_judgments": [
+        "A说概念作用及影响因素，无操作计分。",
+        "B概念讨论无观察程序。",
+        "C房间、20分钟符号与目标按键、后10分钟漏按比例俱全。",
+        "D仅说量表得分相关，未给该概念的实施与计分程序。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "38978554e31a48968d2a782fab909309c7f9b2d738e8ffb41e7377979400ccbf"
+    },
+    {
+      "n": 30,
+      "first_pass_answer": "C",
+      "answer": "C",
+      "confidence": 0.97,
+      "extracted_requirements": "资源化以废物作原料或再生利用；再利用明确包括部件继续作产品部件。",
+      "option_judgments": [
+        "A纸打浆后作再生纸生产原料，资源化。",
+        "B玻璃粉碎熔融为原料，资源化。",
+        "C完好门板按原尺寸继续作门板部件，只体现再利用，首选没有资源化。",
+        "D织物处理成可再纺原料，资源化。"
+      ],
+      "question_direction": "负向/选不符合",
+      "negative_question_checked": true,
+      "ambiguities": [
+        "“再生利用”未另展开，但本题以产品/部件继续使用对照原料再生的明示方式，C作为没有资源化的首选可稳定判断；不需借外部法律定义。"
+      ],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "faa25b02d37e92238d55cf26386bed0693ce54170550e4cf5f663a91c075325a"
+    },
+    {
+      "n": 31,
+      "first_pass_answer": "D",
+      "answer": "D",
+      "confidence": 0.99,
+      "extracted_requirements": "中介为因素先改变它、再由它影响结果；调节为效果随变量值变，且本情境训练不改睡眠。",
+      "option_judgments": [
+        "A中介与调节倒置。",
+        "B睡眠不在训练所改变的因果中介链，不能都中介。",
+        "C检索策略在训练到成绩的路径，不是题示调节。",
+        "D策略中介、睡眠调节，匹配。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [
+        "前三项主要是标签对调或全归一类，关系在题干中已明确，整体偏基础。"
+      ],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "638d1ddf8745aeaa998fa6aeeca872df52e5aa602b010ac5725412801b880ba8"
+    },
+    {
+      "n": 32,
+      "first_pass_answer": "B",
+      "answer": "B",
+      "confidence": 0.99,
+      "extracted_requirements": "诊断在该活动开始前查已有知识困难并调整；预测以当前信息预估后续表现。",
+      "option_judgments": [
+        "A估未来决赛可能是预测，非只诊断。",
+        "B课前查概率缺口并安排内容，没有预估目标表现，只诊断。",
+        "C课中发现刚学误解，不符题定开始前。",
+        "D既查缺口又预测期末，为两者兼有。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "685b738483e07d160d952a6cffb725b320eb524422634ceb2ff68b02d5a4e3db"
+    },
+    {
+      "n": 33,
+      "first_pass_answer": "C",
+      "answer": "C",
+      "confidence": 0.99,
+      "extracted_requirements": "同工具、同对象、隔时、特征稳定的一致性是重测；与独立适当外标联系是效标效度。",
+      "option_judgments": [
+        "A量表对后续职业选择外标，效标效度。",
+        "B同日不同评分员是一致性，但非同工具隔时重测。",
+        "C同人同量表隔两周稳定，无外标，是重测。",
+        "D独立实验正确率作参照，是外标。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "f4eec3f4a165864fcb2556c502bd0a2628c1e022cc21c5ea1bb7ef84a834b7ab"
+    },
+    {
+      "n": 34,
+      "first_pass_answer": "C",
+      "answer": "C",
+      "confidence": 0.99,
+      "extracted_requirements": "系统按规则主动发送当时未请求的具体信息；早前授权类提醒不等于当时具体请求。",
+      "option_judgments": [
+        "A授权后自动到期消息，为主动推送。",
+        "B登机口变更未等查询主动发送，符合。",
+        "C用户输入具体轮椅借用需求后响应，是按需获取。",
+        "D异常登录自动警报，先前授权不改归类。"
+      ],
+      "question_direction": "负向/选不符合",
+      "negative_question_checked": true,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "7246e377fbaaadbd7eca09cf8a1d1d57ec30bdcf07afa10559a54c312d7d5c27"
+    },
+    {
+      "n": 35,
+      "first_pass_answer": "A",
+      "answer": "A",
+      "confidence": 0.99,
+      "extracted_requirements": "专业提供者与使用者持续协作；使用者时间技能劳动直接参与实施交付；意见或非使用者外包排除。",
+      "option_judgments": [
+        "A就餐老人轮流分餐维持秩序，专业人员负责安全营养，符合。",
+        "B只问卷评价、实施全由站方，不符。",
+        "C餐饮企业外包，不是使用者共同交付。",
+        "D居民自助无专业提供者合作，不符。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "4ce4d7da6c24148abe9e67b573d63c6fbcc3e277182e6e70227671db11282d42"
+    },
+    {
+      "n": 36,
+      "first_pass_answer": "B",
+      "answer": "B",
+      "confidence": 0.99,
+      "extracted_requirements": "通用设计面向广泛人群初始无需专门改造；合理便利是特定个案、必要适当且不成比例负担排除。",
+      "option_judgments": [
+        "A个案译员与通用可选操作标签颠倒。",
+        "B统一无台阶面向多人；个人适配材料且负担适当，两项均符。",
+        "C小字只照常见人，不符尽可能全体；个案工位可符合。",
+        "D多输入方式可通用，但已确认不成比例负担的个案改造不符合理便利。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "5461f5d75f80d4c33ecac9841ec239f6eab2d950f16b2e8358fac8290d3ab31c"
+    },
+    {
+      "n": 37,
+      "first_pass_answer": "D",
+      "answer": "D",
+      "confidence": 0.99,
+      "extracted_requirements": "架构保留基本模块自身原理功能，改连接布局而生新功能；模块创新换模块不改主要连接布局。",
+      "option_judgments": [
+        "A改传感模块但布局接口不改，是模块型。",
+        "B换发光原理模块、主要连接不改，是模块型。",
+        "C纯外观无新功能，明确排除。",
+        "D模块功能保留，串联改环形协同生接力功能，是架构。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "a5d634c47f2491592169c0570eb45a94c19cb5a2b7eedfdd7f7437a5c42233a2"
+    },
+    {
+      "n": 38,
+      "first_pass_answer": "D",
+      "answer": "D",
+      "confidence": 0.99,
+      "extracted_requirements": "组织公开向事先不特定者征集自愿贡献并用于任务；报酬无关。",
+      "option_judgments": [
+        "A公开线索并核用档案，符合。",
+        "B公开任何人投稿并采用，有偿也符合。",
+        "C公开招募、自由认领、合格标注入库，符合。",
+        "D事先确定三顾问合同，不是向不特定参与者公开征集。"
+      ],
+      "question_direction": "负向/选不符合",
+      "negative_question_checked": true,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [
+        "D事先已确定三顾问，反公开不特定要件很直接。"
+      ],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "2705bcd30f74fdbbfc290f07a667186e40cd9f70fea72ad006296e4b408bd279"
+    },
+    {
+      "n": 39,
+      "first_pass_answer": "C",
+      "answer": "C",
+      "confidence": 0.99,
+      "extracted_requirements": "基础为新原理无特定用途；应用为特定目标研究新知；发展用已有知形成额外知与新产品实改。",
+      "option_judgments": [
+        "A把乙应用和丙发展互换。",
+        "B甲无具体用途，不是应用，乙不是基础。",
+        "C甲基础、乙有目标未知机制为应用、丙小型化系统试验新设计为发展。",
+        "D甲乙错，丙有未知问题与新设计，不是例行检测。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "628c3ddbe6c4d6dc39eef01337aa43b8d8aaa2b405db933df463a2795ed66039"
+    },
+    {
+      "n": 40,
+      "first_pass_answer": "A",
+      "answer": "A",
+      "confidence": 0.99,
+      "extracted_requirements": "系统误差恒定或可预测变化；随机误差不可预测；是否变化本身不够。",
+      "option_judgments": [
+        "A甲恒偏、乙温度已知线性都系统；丙不可预测是随机。",
+        "B乙虽变但有已知规律，不是随机。",
+        "C正负交替不足以证明规律，且丙题定不可预测。",
+        "D不等于参照不等于随机，混淆误差存在与误差分类。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [
+        "B/C/D均把某单一表面变化当充分标准，要件阅读清楚时较易排。"
+      ],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "b57c1e83cf076f856308cde38c7e877db335ea0dc169de9750a3c1afde727343"
+    },
+    {
+      "n": 41,
+      "first_pass_answer": "D",
+      "answer": "D",
+      "confidence": 0.99,
+      "extracted_requirements": "抽样误差来自抽取随机性；框遗漏、拒答、录入问题均非抽样，全面调查也可有后者。",
+      "option_judgments": [
+        "A未答并当无需求是非抽样。",
+        "B旧名录遗漏新企业是框覆盖问题，非抽样。",
+        "C18误录81是录入错误，非抽样。",
+        "D抽样回复处理都无问题，只因随机样本构成，是抽样，故不能归非抽样。"
+      ],
+      "question_direction": "负向/选不符合",
+      "negative_question_checked": true,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [
+        "C明显录入反转，较弱但与定义例示一致。"
+      ],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "e1972b1ca9dec86ffd2ab0527a5e7fac42fa13481178d7161754765338041ab7"
+    },
+    {
+      "n": 42,
+      "first_pass_answer": "C",
+      "answer": "C",
+      "confidence": 0.99,
+      "extracted_requirements": "同一现象、至少两种不同取证机制、分别证据并比较一致或分歧；换人/增样/重算不算不同方法。",
+      "option_judgments": [
+        "A计时观察与访谈并查分歧，符合。",
+        "B轨迹与跟访证据比对，符合。",
+        "C三人仍同问卷合并重算，只换人和样本，不符不同机制。",
+        "D工单时间戳与访谈互检，符合。"
+      ],
+      "question_direction": "负向/选不符合",
+      "negative_question_checked": true,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "21ed01f5d539338c7a829167adac6b98fbf15b231a314c2f679cb37dad49a275"
+    },
+    {
+      "n": 43,
+      "first_pass_answer": "A",
+      "answer": "A",
+      "confidence": 0.99,
+      "extracted_requirements": "肯定与仅否定事件的否定句，普通正常语境下都保留同背景承诺；不能把断言当预设。",
+      "option_judgments": [
+        "A停止/未停止都以过去值过夜班为背景。",
+        "B没至少两票可能为零票，不保留至少一票。",
+        "C并非全到可能无人到，不保留至少一到。",
+        "D今天停工不必昨日恰开工，今天未停工也不承诺昨日开工。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "0a7904a35154d1f19fe94c615d4a20a9a41bedb31a3f45d6be0210a2acfe8dd7"
+    },
+    {
+      "n": 44,
+      "first_pass_answer": "C",
+      "answer": "C",
+      "confidence": 0.99,
+      "extracted_requirements": "含聚焦人物内心；信息不超过该人物感知、知识、猜测，不直接揭示他人内心或其未知真相。",
+      "option_judgments": [
+        "A只动作外部无内心，不满足“含内心”。",
+        "B同时直入林和陈两人的心，超范围。",
+        "C林的想法、所听、所猜且不确认，限制在林范围。",
+        "D直接告知林不知道的地址与搬走事实，越界。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "8e4bceade4411c2dcd789eaddcfc46f553024601bdb847715892d495418e4481"
+    },
+    {
+      "n": 45,
+      "first_pass_answer": "B",
+      "answer": "B",
+      "confidence": 0.99,
+      "extracted_requirements": "由现象比较候选解释提出较佳待检假说，非必然；单纯频率推广排除。",
+      "option_judgments": [
+        "A规则加实例必然推出校准，是演绎。",
+        "B双传感失信号，比较共享电源与独立损坏，暂取待检解释，是溯因。",
+        "C用18/20频率推下件概率，无解释假说，不符。",
+        "D按已查入库日与制度归档是规则应用，不是解释假说比较。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "1629a559950bb282745e6dc31d48a14a85e961a197bf762397cc6607f79d1eb8"
+    },
+    {
+      "n": 46,
+      "first_pass_answer": "C",
+      "answer": "C",
+      "confidence": 0.99,
+      "extracted_requirements": "激活90/120；提交75/90（不是100次）；通过60/75；保留一位小数。",
+      "option_judgments": [
+        "A75%激活对，但100/90把提交次数当人数，错。",
+        "B激活应75%而非83.3%，通过应80%而非60%。",
+        "C提交83.3%、通过80%，人数分母都对。",
+        "D62.5%与50%都错用注册者作统一分母。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "d726ab7a82d04a5ad10e0c496ddef2fc89572d3ebda3a7436d6c95eb91c5c4f3"
+    },
+    {
+      "n": 47,
+      "first_pass_answer": "B",
+      "answer": "B",
+      "confidence": 0.99,
+      "extracted_requirements": "每人不降且至少一人严格升；只看各人自身变化；未兑现补偿不算。",
+      "option_judgments": [
+        "A第二人6降5，违无人变差。",
+        "B8、6、7均不低于6且两人严格升。",
+        "C第二人6降4，未来承诺不能补当前损失。",
+        "D所有人不变，缺严格改善。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [
+        "D全不变明显少严格改善；A/C的总和与未来补偿仍有辨析价值。"
+      ],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "320d330f3741c7b7852f4ca4ae540766354a6151e8939ad48f0a0f48fb0a9a52"
+    },
+    {
+      "n": 48,
+      "first_pass_answer": "C",
+      "answer": "C",
+      "confidence": 0.97,
+      "extracted_requirements": "重要不确定性；目标和可检认识；行动监测；评估更新认识并调整；连续反馈。",
+      "option_judgments": [
+        "A补水时点不确定、预期机制、两安排与监测比较修订，可组成反馈。",
+        "B疏伐关系不确定、待检解释、分区监测幼树、更新模型调整，符合。",
+        "C暴雨临时闭、拍照存档但仍原方案，明确无检验更新或反馈，不完整。",
+        "D水质目标预期、实施测量评估和改订完整。"
+      ],
+      "question_direction": "负向/选不符合",
+      "negative_question_checked": true,
+      "ambiguities": [
+        "A/B目标从鸟类使用、林更新及待检作用关系可读出，C则明确不更新反馈，首选稳定；若坚持“明确目标”逐字明示，可在A/B各补目标短语提高严密性。"
+      ],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "07782aa41e9a5addb1738eec728815859a07faa591adafd209af07006d4bd73d"
+    },
+    {
+      "n": 49,
+      "first_pass_answer": "A",
+      "answer": "A",
+      "confidence": 0.99,
+      "extracted_requirements": "同源须同层结构由共同祖先继承；趋同为独立形成的相似功能特征；不同结构层级分别判。",
+      "option_judgments": [
+        "A前肢骨架继承同源，独立膜趋同，层级分清。",
+        "B物种共祖不保证后来所有相似结构同源。",
+        "C功能类似不排除骨架继承的同源性。",
+        "D把祖先骨架判趋同、独立膜判同源，与题给起源相反。"
+      ],
+      "question_direction": "正向/选符合或正确归类",
+      "negative_question_checked": false,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [
+        "B/C带“只要…都/不能”等绝对化，题干已明确结构起源，难度中等。"
+      ],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "233296e6a63b181c5ae168ff02b38ed9acf74079094c0a83af79365ebf584273"
+    },
+    {
+      "n": 50,
+      "first_pass_answer": "D",
+      "answer": "D",
+      "confidence": 0.99,
+      "extracted_requirements": "同一有限资源且不利影响；直接驱赶阻挡抑制为干扰；先消耗资源间接压制为利用。",
+      "option_judgments": [
+        "A物质直接抑制定殖、有限空间，干扰标签正确。",
+        "B先吸营养使剩余不足，利用标签正确。",
+        "C直接驱赶，剩水尚在仍进不去，是干扰。",
+        "D先吸水减剩余，明明利用性却标干扰，不相符。"
+      ],
+      "question_direction": "负向/选不符合",
+      "negative_question_checked": true,
+      "ambiguities": [],
+      "external_substantive_knowledge_required": false,
+      "external_knowledge_note": "仅按题干定义和情境已给事实；未查外部实质定义或作者材料。",
+      "weaker_distractors": [],
+      "method": "首次从盲卡题干抽要件，再逐项判断；26/46/47只做题内数值与顺序比较。",
+      "input_card_sha256": "403dd5e627cecaf5131c396eafc5637c3a39a2da5222cd9dee14404db04474fb"
+    }
+  ],
+  "summary": {
+    "questions_reviewed": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "first_pass_answers": {
+      "21": "C",
+      "22": "B",
+      "23": "B",
+      "24": "A",
+      "25": "C",
+      "26": "A",
+      "27": "D",
+      "28": "B",
+      "29": "C",
+      "30": "C",
+      "31": "D",
+      "32": "B",
+      "33": "C",
+      "34": "C",
+      "35": "A",
+      "36": "B",
+      "37": "D",
+      "38": "D",
+      "39": "C",
+      "40": "A",
+      "41": "D",
+      "42": "C",
+      "43": "A",
+      "44": "C",
+      "45": "B",
+      "46": "C",
+      "47": "B",
+      "48": "C",
+      "49": "A",
+      "50": "D"
+    },
+    "clear_self_containment_issue": [
+      28
+    ],
+    "minor_wording_note": [
+      48
+    ],
+    "external_lookup_used": false,
+    "author_key_comparison_performed": false
+  },
+  "issues_reported_to_root": [
+    "28D受试者盲要件未明示，B首选但应补D以排除缺项。",
+    "48A/B可把目标写得更明示；并非当前明确多解。"
+  ]
+}

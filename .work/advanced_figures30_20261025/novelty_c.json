@@ -1,0 +1,57 @@
+{
+  "q29_generated_fresh_seed": 263029,
+  "old_workbook_comparisons": [
+    {
+      "old_n": 1,
+      "same_colored_target_up_to_rotation": false,
+      "same_known_colored_piece_pair": false
+    },
+    {
+      "old_n": 2,
+      "same_colored_target_up_to_rotation": false,
+      "same_known_colored_piece_pair": false
+    },
+    {
+      "old_n": 3,
+      "same_colored_target_up_to_rotation": false,
+      "same_known_colored_piece_pair": false
+    },
+    {
+      "old_n": 4,
+      "same_colored_target_up_to_rotation": false,
+      "same_known_colored_piece_pair": false
+    },
+    {
+      "old_n": 5,
+      "same_colored_target_up_to_rotation": false,
+      "same_known_colored_piece_pair": false
+    },
+    {
+      "old_n": 6,
+      "same_colored_target_up_to_rotation": false,
+      "same_known_colored_piece_pair": false
+    },
+    {
+      "old_n": 7,
+      "same_colored_target_up_to_rotation": false,
+      "same_known_colored_piece_pair": false
+    },
+    {
+      "old_n": 8,
+      "same_colored_target_up_to_rotation": false,
+      "same_known_colored_piece_pair": false
+    },
+    {
+      "old_n": 9,
+      "same_colored_target_up_to_rotation": false,
+      "same_known_colored_piece_pair": false
+    },
+    {
+      "old_n": 10,
+      "same_colored_target_up_to_rotation": false,
+      "same_known_colored_piece_pair": false
+    }
+  ],
+  "no_old_known_piece_pair_reused": true,
+  "q30_new_four_face_path_vs_star": "旧55题Q8为三个面链/环，Q28为节点连接，Q30为符号绕序；本题为四面P4/K1,3，共边数据新建。"
+}

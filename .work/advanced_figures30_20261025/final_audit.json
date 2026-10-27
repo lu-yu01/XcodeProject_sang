@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "questions": 30,
+  "pages": 30,
+  "embedded_images": 51,
+  "independent_answers_matched": 30,
+  "temporary_page_pngs_cleaned": 30,
+  "existing_word_files_unchanged": 7,
+  "protected_files_unchanged": 357,
+  "valid_local_kb_links": 121,
+  "word_sha256": "4b71bbaa803211b012aaaa23e4301842b647e651af5debdbb4798fed8aad38f6",
+  "pdf_sha256": "23fb39f66fbd50dd54e41a956b62ddf616c841de272e56d8db5949e4e6a30662"
+}

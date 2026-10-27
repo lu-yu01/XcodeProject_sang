@@ -1,0 +1,79 @@
+{
+  "checked_at": "2026-10-27T15:48:48.174074+00:00",
+  "word_sha256": "89dce87495adc6c03828fd5ee308758d46ef047529254ba636f66ec163e3b8d9",
+  "pdf_sha256": "fd3a7c474bd28942d8e5f207d0ddbeb0fa916ade68554d0bacf989757b4e8a81",
+  "pages": [
+    {
+      "page": 1,
+      "actually_opened": true,
+      "passed": true,
+      "sha256": "f06b8d7a1f786461147e62608a65f7c0df91be5bfc0c1df08d02f5fc2c95f9e0",
+      "observations": "两题题干、必要方位及地标、完整照片/候选、编号和候选外字母均可读，未见裁切、重叠、缺图或题图拆页。"
+    },
+    {
+      "page": 2,
+      "actually_opened": true,
+      "passed": true,
+      "sha256": "792a3c7818b0ca3abe532aca2a18a7af603235e6965d4bc40714ad3179b5347c",
+      "observations": "两题题干、必要方位及地标、完整照片/候选、编号和候选外字母均可读，未见裁切、重叠、缺图或题图拆页。"
+    },
+    {
+      "page": 3,
+      "actually_opened": true,
+      "passed": true,
+      "sha256": "a5935e822617b83b42c80c8016ddd5494cc2e9f25f3f300ea4cf567843f111a2",
+      "observations": "两题题干、必要方位及地标、完整照片/候选、编号和候选外字母均可读，未见裁切、重叠、缺图或题图拆页。"
+    },
+    {
+      "page": 4,
+      "actually_opened": true,
+      "passed": true,
+      "sha256": "9788ccc0c5496966b7ca82b21bbc2738bfd8213abb42d2d7585590697ece1221",
+      "observations": "两题题干、必要方位及地标、完整照片/候选、编号和候选外字母均可读，未见裁切、重叠、缺图或题图拆页。"
+    },
+    {
+      "page": 5,
+      "actually_opened": true,
+      "passed": true,
+      "sha256": "76e869a7b43ae9321965949775f66b501329fb643247904d98bef8f4d4963f0e",
+      "observations": "两题题干、必要方位及地标、完整照片/候选、编号和候选外字母均可读，未见裁切、重叠、缺图或题图拆页。"
+    },
+    {
+      "page": 6,
+      "actually_opened": true,
+      "passed": true,
+      "sha256": "ba29f8deb03bac69c26a5d7024b62b5d5d8224c0decece16dc1aab3726c2d10d",
+      "observations": "两题正确答案、方向示意图及具体干扰解释完整，未见裁切、重叠、缺字或解析拆页。"
+    },
+    {
+      "page": 7,
+      "actually_opened": true,
+      "passed": true,
+      "sha256": "fff7b69f9faf3ab9c5cedb1a9095c8b222851ec9cff33ad177b3563af65ed51e",
+      "observations": "两题正确答案、方向示意图及具体干扰解释完整，未见裁切、重叠、缺字或解析拆页。"
+    },
+    {
+      "page": 8,
+      "actually_opened": true,
+      "passed": true,
+      "sha256": "9b7102f0284b3d112d718b549e78c5393b2e3fd4c6e2ceaa42fef7c3d5a71c03",
+      "observations": "两题正确答案、方向示意图及具体干扰解释完整，未见裁切、重叠、缺字或解析拆页。"
+    },
+    {
+      "page": 9,
+      "actually_opened": true,
+      "passed": true,
+      "sha256": "c7f0385f57b9574911163e415b024a0b6051cb6630889729591568fcfac0b489",
+      "observations": "两题正确答案、方向示意图及具体干扰解释完整，未见裁切、重叠、缺字或解析拆页。"
+    },
+    {
+      "page": 10,
+      "actually_opened": true,
+      "passed": true,
+      "sha256": "aed908a697b772d1151629daa31fd7013742e1f1ebdab82517467b88b14dc0f6",
+      "observations": "两题正确答案、方向示意图及具体干扰解释完整，未见裁切、重叠、缺字或解析拆页。"
+    }
+  ],
+  "reference_pages_actually_opened": 2,
+  "renderer": "打包render_docx.py缺少soffice.exe；诊断后用独立隐藏Word只读导出PDF，pypdfium2按150dpi栅格化。"
+}

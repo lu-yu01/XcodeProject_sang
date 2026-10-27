@@ -1,0 +1,4869 @@
+{
+  "passed": true,
+  "questions": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+  ],
+  "structure": {
+    "shared_material": 15,
+    "translation": 4,
+    "truth": 4,
+    "independent_analysis": 4,
+    "parallel_structure": 3
+  },
+  "group_checks": {
+    "51": {
+      "model_count": 10,
+      "all_models": [
+        [
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "additional_conditions_reset_per_question": true
+    },
+    "56": {
+      "model_count": 56,
+      "all_models": [
+        [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            2
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            0,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            2
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            0,
+            2
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            2,
+            3
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            0,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            0,
+            2
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            0,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            0,
+            2
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            3
+          ]
+        ],
+        [
+          [
+            0,
+            3
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            2
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            0,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            0,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            0,
+            3
+          ]
+        ]
+      ],
+      "additional_conditions_reset_per_question": true
+    },
+    "61": {
+      "model_count": 17,
+      "all_models": [
+        [
+          1,
+          3,
+          3,
+          5,
+          5
+        ],
+        [
+          1,
+          3,
+          3,
+          5,
+          6
+        ],
+        [
+          1,
+          3,
+          3,
+          6,
+          5
+        ],
+        [
+          1,
+          3,
+          3,
+          6,
+          6
+        ],
+        [
+          1,
+          3,
+          4,
+          6,
+          6
+        ],
+        [
+          1,
+          4,
+          3,
+          5,
+          5
+        ],
+        [
+          1,
+          4,
+          3,
+          5,
+          6
+        ],
+        [
+          1,
+          4,
+          3,
+          6,
+          5
+        ],
+        [
+          1,
+          4,
+          3,
+          6,
+          6
+        ],
+        [
+          1,
+          4,
+          4,
+          6,
+          6
+        ],
+        [
+          1,
+          5,
+          3,
+          6,
+          6
+        ],
+        [
+          1,
+          5,
+          4,
+          6,
+          6
+        ],
+        [
+          2,
+          4,
+          4,
+          6,
+          6
+        ],
+        [
+          2,
+          5,
+          4,
+          6,
+          6
+        ],
+        [
+          3,
+          5,
+          1,
+          3,
+          6
+        ],
+        [
+          3,
+          5,
+          1,
+          4,
+          6
+        ],
+        [
+          3,
+          5,
+          1,
+          6,
+          6
+        ]
+      ],
+      "additional_conditions_reset_per_question": true
+    }
+  },
+  "checks": {
+    "51": {
+      "model_count": 10,
+      "evaluation_mode": "may",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 0,
+          "false_count": 10,
+          "satisfying_witness": null,
+          "counterexample": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "启用乙、戊、己、辛，其余不启用",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 1,
+          "false_count": 9,
+          "satisfying_witness": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0
+          ],
+          "counterexample": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "satisfying_witness_text": "启用乙、戊、己、庚，其余不启用",
+          "counterexample_text": "启用乙、戊、己、辛，其余不启用",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 10,
+          "satisfying_witness": null,
+          "counterexample": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "启用乙、戊、己、辛，其余不启用",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 10,
+          "satisfying_witness": null,
+          "counterexample": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "启用乙、戊、己、辛，其余不启用",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        }
+      ],
+      "answer": "B"
+    },
+    "52": {
+      "model_count": 10,
+      "evaluation_mode": "must",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 9,
+          "false_count": 1,
+          "satisfying_witness": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "counterexample": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "satisfying_witness_text": "启用乙、戊、己、辛，其余不启用",
+          "counterexample_text": "启用乙、丙、庚、辛，其余不启用",
+          "second_satisfying_witness": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0
+          ],
+          "second_satisfying_witness_text": "启用乙、戊、己、庚，其余不启用"
+        },
+        {
+          "true_count": 10,
+          "false_count": 0,
+          "satisfying_witness": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "启用乙、戊、己、辛，其余不启用",
+          "counterexample_text": null,
+          "second_satisfying_witness": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0
+          ],
+          "second_satisfying_witness_text": "启用乙、戊、己、庚，其余不启用"
+        },
+        {
+          "true_count": 6,
+          "false_count": 4,
+          "satisfying_witness": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "counterexample": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0
+          ],
+          "satisfying_witness_text": "启用乙、戊、己、辛，其余不启用",
+          "counterexample_text": "启用乙、戊、己、庚，其余不启用",
+          "second_satisfying_witness": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "second_satisfying_witness_text": "启用乙、丙、庚、辛，其余不启用"
+        },
+        {
+          "true_count": 7,
+          "false_count": 3,
+          "satisfying_witness": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "counterexample": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1
+          ],
+          "satisfying_witness_text": "启用乙、戊、己、辛，其余不启用",
+          "counterexample_text": "启用甲、丙、己、辛，其余不启用",
+          "second_satisfying_witness": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0
+          ],
+          "second_satisfying_witness_text": "启用乙、戊、己、庚，其余不启用"
+        }
+      ],
+      "answer": "B"
+    },
+    "53": {
+      "model_count": 2,
+      "evaluation_mode": "may",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "options": [
+        {
+          "true_count": 0,
+          "false_count": 2,
+          "satisfying_witness": null,
+          "counterexample": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "启用乙、戊、己、辛，其余不启用",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 2,
+          "satisfying_witness": null,
+          "counterexample": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "启用乙、戊、己、辛，其余不启用",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 2,
+          "satisfying_witness": null,
+          "counterexample": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "启用乙、戊、己、辛，其余不启用",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 1,
+          "false_count": 1,
+          "satisfying_witness": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0
+          ],
+          "counterexample": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "satisfying_witness_text": "启用乙、戊、己、庚，其余不启用",
+          "counterexample_text": "启用乙、戊、己、辛，其余不启用",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        }
+      ],
+      "answer": "D"
+    },
+    "54": {
+      "model_count": 4,
+      "evaluation_mode": "cannot",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "options": [
+        {
+          "true_count": 1,
+          "false_count": 3,
+          "satisfying_witness": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "counterexample": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1
+          ],
+          "satisfying_witness_text": "启用乙、丙、庚、辛，其余不启用",
+          "counterexample_text": "启用甲、丙、戊、辛，其余不启用",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 1,
+          "false_count": 3,
+          "satisfying_witness": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          "counterexample": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "satisfying_witness_text": "启用甲、丙、丁、戊，其余不启用",
+          "counterexample_text": "启用乙、丙、庚、辛，其余不启用",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 1,
+          "false_count": 3,
+          "satisfying_witness": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          "counterexample": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "satisfying_witness_text": "启用甲、乙、丙、戊，其余不启用",
+          "counterexample_text": "启用乙、丙、庚、辛，其余不启用",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 4,
+          "satisfying_witness": null,
+          "counterexample": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "启用乙、丙、庚、辛，其余不启用",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        }
+      ],
+      "answer": "D"
+    },
+    "55": {
+      "model_count": 10,
+      "evaluation_mode": "unique",
+      "unique_answer": true,
+      "option_validity": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 1,
+          "false_count": 9,
+          "satisfying_witness": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "counterexample": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "satisfying_witness_text": "启用乙、丙、庚、辛，其余不启用",
+          "counterexample_text": "启用乙、戊、己、辛，其余不启用",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 4,
+          "false_count": 6,
+          "satisfying_witness": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          "counterexample": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "satisfying_witness_text": "启用甲、丙、丁、己，其余不启用",
+          "counterexample_text": "启用乙、戊、己、辛，其余不启用",
+          "second_satisfying_witness": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          "second_satisfying_witness_text": "启用甲、丙、丁、戊，其余不启用"
+        },
+        {
+          "true_count": 4,
+          "false_count": 6,
+          "satisfying_witness": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "counterexample": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0
+          ],
+          "satisfying_witness_text": "启用乙、戊、己、辛，其余不启用",
+          "counterexample_text": "启用乙、戊、己、庚，其余不启用",
+          "second_satisfying_witness": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0
+          ],
+          "second_satisfying_witness_text": "启用乙、丙、戊、己，其余不启用"
+        },
+        {
+          "true_count": 4,
+          "false_count": 6,
+          "satisfying_witness": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0
+          ],
+          "counterexample": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+          ],
+          "satisfying_witness_text": "启用乙、丙、戊、己，其余不启用",
+          "counterexample_text": "启用乙、戊、己、辛，其余不启用",
+          "second_satisfying_witness": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1
+          ],
+          "second_satisfying_witness_text": "启用甲、丙、己、辛，其余不启用"
+        }
+      ],
+      "answer": "A"
+    },
+    "56": {
+      "model_count": 56,
+      "evaluation_mode": "may",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 0,
+          "false_count": 56,
+          "satisfying_witness": null,
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "甲由林、陈复核；乙由林、许复核；丙由周、陈复核；丁由许、赵复核",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 56,
+          "satisfying_witness": null,
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "甲由林、陈复核；乙由林、许复核；丙由周、陈复核；丁由许、赵复核",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 1,
+          "false_count": 55,
+          "satisfying_witness": [
+            [
+              2,
+              3
+            ],
+            [
+              0,
+              4
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": "甲由许、陈复核；乙由林、赵复核；丙由周、陈复核；丁由许、赵复核",
+          "counterexample_text": "甲由林、陈复核；乙由林、许复核；丙由周、陈复核；丁由许、赵复核",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 56,
+          "satisfying_witness": null,
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "甲由林、陈复核；乙由林、许复核；丙由周、陈复核；丁由许、赵复核",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        }
+      ],
+      "answer": "C"
+    },
+    "57": {
+      "model_count": 6,
+      "evaluation_mode": "must",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 0,
+          "false_count": 6,
+          "satisfying_witness": null,
+          "counterexample": [
+            [
+              2,
+              3
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              1,
+              4
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "甲由许、陈复核；乙由林、陈复核；丙由许、赵复核；丁由周、赵复核",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 6,
+          "false_count": 0,
+          "satisfying_witness": [
+            [
+              2,
+              3
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              1,
+              4
+            ]
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "甲由许、陈复核；乙由林、陈复核；丙由许、赵复核；丁由周、赵复核",
+          "counterexample_text": null,
+          "second_satisfying_witness": [
+            [
+              2,
+              3
+            ],
+            [
+              0,
+              4
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "second_satisfying_witness_text": "甲由许、陈复核；乙由林、赵复核；丙由周、陈复核；丁由许、赵复核"
+        },
+        {
+          "true_count": 0,
+          "false_count": 6,
+          "satisfying_witness": null,
+          "counterexample": [
+            [
+              2,
+              3
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              1,
+              4
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "甲由许、陈复核；乙由林、陈复核；丙由许、赵复核；丁由周、赵复核",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 6,
+          "satisfying_witness": null,
+          "counterexample": [
+            [
+              2,
+              3
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              1,
+              4
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "甲由许、陈复核；乙由林、陈复核；丙由许、赵复核；丁由周、赵复核",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        }
+      ],
+      "answer": "B"
+    },
+    "58": {
+      "model_count": 2,
+      "evaluation_mode": "may",
+      "unique_answer": true,
+      "option_validity": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 1,
+          "false_count": 1,
+          "satisfying_witness": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": "甲由林、陈复核；乙由林、许复核；丙由周、赵复核；丁由许、赵复核",
+          "counterexample_text": "甲由林、陈复核；乙由林、许复核；丙由周、陈复核；丁由许、赵复核",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 2,
+          "satisfying_witness": null,
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "甲由林、陈复核；乙由林、许复核；丙由周、陈复核；丁由许、赵复核",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 2,
+          "satisfying_witness": null,
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "甲由林、陈复核；乙由林、许复核；丙由周、陈复核；丁由许、赵复核",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 2,
+          "satisfying_witness": null,
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "甲由林、陈复核；乙由林、许复核；丙由周、陈复核；丁由许、赵复核",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        }
+      ],
+      "answer": "A"
+    },
+    "59": {
+      "model_count": 10,
+      "evaluation_mode": "cannot",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 2,
+          "false_count": 8,
+          "satisfying_witness": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": "甲由林、陈复核；乙由周、许复核；丙由周、赵复核；丁由许、赵复核",
+          "counterexample_text": "甲由林、陈复核；乙由林、许复核；丙由周、赵复核；丁由许、赵复核",
+          "second_satisfying_witness": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "second_satisfying_witness_text": "甲由林、陈复核；乙由周、赵复核；丙由周、许复核；丁由许、赵复核"
+        },
+        {
+          "true_count": 2,
+          "false_count": 8,
+          "satisfying_witness": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": "甲由林、陈复核；乙由周、许复核；丙由周、赵复核；丁由许、赵复核",
+          "counterexample_text": "甲由林、陈复核；乙由林、许复核；丙由周、赵复核；丁由许、赵复核",
+          "second_satisfying_witness": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "second_satisfying_witness_text": "甲由林、陈复核；乙由周、赵复核；丙由周、许复核；丁由许、赵复核"
+        },
+        {
+          "true_count": 0,
+          "false_count": 10,
+          "satisfying_witness": null,
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "甲由林、陈复核；乙由林、许复核；丙由周、赵复核；丁由许、赵复核",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 4,
+          "false_count": 6,
+          "satisfying_witness": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              4
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": "甲由林、陈复核；乙由林、许复核；丙由周、赵复核；丁由许、赵复核",
+          "counterexample_text": "甲由林、陈复核；乙由林、赵复核；丙由周、许复核；丁由许、赵复核",
+          "second_satisfying_witness": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              0,
+              4
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "second_satisfying_witness_text": "甲由林、陈复核；乙由周、许复核；丙由林、赵复核；丁由许、赵复核"
+        }
+      ],
+      "answer": "C"
+    },
+    "60": {
+      "model_count": 56,
+      "evaluation_mode": "unique",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "options": [
+        {
+          "true_count": 2,
+          "false_count": 54,
+          "satisfying_witness": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              1,
+              2
+            ]
+          ],
+          "satisfying_witness_text": "甲由林、陈复核；乙由林、许复核；丙由周、陈复核；丁由许、赵复核",
+          "counterexample_text": "甲由林、陈复核；乙由林、陈复核；丙由许、赵复核；丁由周、许复核",
+          "second_satisfying_witness": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "second_satisfying_witness_text": "甲由林、陈复核；乙由林、许复核；丙由周、赵复核；丁由许、赵复核"
+        },
+        {
+          "true_count": 2,
+          "false_count": 54,
+          "satisfying_witness": [
+            [
+              2,
+              3
+            ],
+            [
+              0,
+              4
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": "甲由许、陈复核；乙由林、赵复核；丙由周、陈复核；丁由许、赵复核",
+          "counterexample_text": "甲由林、陈复核；乙由林、许复核；丙由周、陈复核；丁由许、赵复核",
+          "second_satisfying_witness": [
+            [
+              2,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "second_satisfying_witness_text": "甲由许、陈复核；乙由周、赵复核；丙由林、陈复核；丁由许、赵复核"
+        },
+        {
+          "true_count": 4,
+          "false_count": 52,
+          "satisfying_witness": [
+            [
+              1,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              1,
+              3
+            ]
+          ],
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": "甲由周、许复核；乙由林、陈复核；丙由许、赵复核；丁由周、陈复核",
+          "counterexample_text": "甲由林、陈复核；乙由林、许复核；丙由周、陈复核；丁由许、赵复核",
+          "second_satisfying_witness": [
+            [
+              1,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              1,
+              4
+            ]
+          ],
+          "second_satisfying_witness_text": "甲由周、许复核；乙由林、陈复核；丙由许、赵复核；丁由周、赵复核"
+        },
+        {
+          "true_count": 1,
+          "false_count": 55,
+          "satisfying_witness": [
+            [
+              0,
+              3
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              1,
+              4
+            ]
+          ],
+          "counterexample": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "satisfying_witness_text": "甲由林、陈复核；乙由许、陈复核；丙由许、赵复核；丁由周、赵复核",
+          "counterexample_text": "甲由林、陈复核；乙由林、许复核；丙由周、陈复核；丁由许、赵复核",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        }
+      ],
+      "answer": "D"
+    },
+    "61": {
+      "model_count": 17,
+      "evaluation_mode": "may",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 0,
+          "false_count": 17,
+          "satisfying_witness": null,
+          "counterexample": [
+            1,
+            3,
+            3,
+            5,
+            5
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "清洗、标定、扫描、复核、封装分别从第1、3、3、5、5时段开始",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 1,
+          "false_count": 16,
+          "satisfying_witness": [
+            1,
+            4,
+            3,
+            5,
+            6
+          ],
+          "counterexample": [
+            1,
+            3,
+            3,
+            5,
+            5
+          ],
+          "satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第1、4、3、5、6时段开始",
+          "counterexample_text": "清洗、标定、扫描、复核、封装分别从第1、3、3、5、5时段开始",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 17,
+          "satisfying_witness": null,
+          "counterexample": [
+            1,
+            3,
+            3,
+            5,
+            5
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "清洗、标定、扫描、复核、封装分别从第1、3、3、5、5时段开始",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 17,
+          "satisfying_witness": null,
+          "counterexample": [
+            1,
+            3,
+            3,
+            5,
+            5
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "清洗、标定、扫描、复核、封装分别从第1、3、3、5、5时段开始",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        }
+      ],
+      "answer": "B"
+    },
+    "62": {
+      "model_count": 17,
+      "evaluation_mode": "aggregate",
+      "computed_value": 5,
+      "unique_answer": true,
+      "option_values": [
+        4,
+        6,
+        5,
+        7
+      ],
+      "option_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "finish_distribution": {
+        "5": 2,
+        "6": 15
+      },
+      "optimal_witness": [
+        1,
+        3,
+        3,
+        5,
+        5
+      ],
+      "resource_lower_bound": 5,
+      "answer": "C"
+    },
+    "63": {
+      "model_count": 3,
+      "evaluation_mode": "must",
+      "unique_answer": true,
+      "option_validity": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 3,
+          "false_count": 0,
+          "satisfying_witness": [
+            3,
+            5,
+            1,
+            3,
+            6
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第3、5、1、3、6时段开始",
+          "counterexample_text": null,
+          "second_satisfying_witness": [
+            3,
+            5,
+            1,
+            4,
+            6
+          ],
+          "second_satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第3、5、1、4、6时段开始"
+        },
+        {
+          "true_count": 0,
+          "false_count": 3,
+          "satisfying_witness": null,
+          "counterexample": [
+            3,
+            5,
+            1,
+            3,
+            6
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "清洗、标定、扫描、复核、封装分别从第3、5、1、3、6时段开始",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 3,
+          "satisfying_witness": null,
+          "counterexample": [
+            3,
+            5,
+            1,
+            3,
+            6
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "清洗、标定、扫描、复核、封装分别从第3、5、1、3、6时段开始",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 3,
+          "satisfying_witness": null,
+          "counterexample": [
+            3,
+            5,
+            1,
+            3,
+            6
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "清洗、标定、扫描、复核、封装分别从第3、5、1、3、6时段开始",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        }
+      ],
+      "answer": "A"
+    },
+    "64": {
+      "model_count": 6,
+      "evaluation_mode": "cannot",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 2,
+          "false_count": 4,
+          "satisfying_witness": [
+            1,
+            4,
+            3,
+            5,
+            5
+          ],
+          "counterexample": [
+            1,
+            4,
+            3,
+            5,
+            6
+          ],
+          "satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第1、4、3、5、5时段开始",
+          "counterexample_text": "清洗、标定、扫描、复核、封装分别从第1、4、3、5、6时段开始",
+          "second_satisfying_witness": [
+            1,
+            4,
+            3,
+            6,
+            5
+          ],
+          "second_satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第1、4、3、6、5时段开始"
+        },
+        {
+          "true_count": 0,
+          "false_count": 6,
+          "satisfying_witness": null,
+          "counterexample": [
+            1,
+            4,
+            3,
+            5,
+            5
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "清洗、标定、扫描、复核、封装分别从第1、4、3、5、5时段开始",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 1,
+          "false_count": 5,
+          "satisfying_witness": [
+            2,
+            4,
+            4,
+            6,
+            6
+          ],
+          "counterexample": [
+            1,
+            4,
+            3,
+            5,
+            5
+          ],
+          "satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第2、4、4、6、6时段开始",
+          "counterexample_text": "清洗、标定、扫描、复核、封装分别从第1、4、3、5、5时段开始",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 2,
+          "false_count": 4,
+          "satisfying_witness": [
+            1,
+            4,
+            4,
+            6,
+            6
+          ],
+          "counterexample": [
+            1,
+            4,
+            3,
+            5,
+            5
+          ],
+          "satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第1、4、4、6、6时段开始",
+          "counterexample_text": "清洗、标定、扫描、复核、封装分别从第1、4、3、5、5时段开始",
+          "second_satisfying_witness": [
+            2,
+            4,
+            4,
+            6,
+            6
+          ],
+          "second_satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第2、4、4、6、6时段开始"
+        }
+      ],
+      "answer": "B"
+    },
+    "65": {
+      "model_count": 4,
+      "evaluation_mode": "not_must",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "options": [
+        {
+          "true_count": 4,
+          "false_count": 0,
+          "satisfying_witness": [
+            1,
+            3,
+            3,
+            5,
+            5
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第1、3、3、5、5时段开始",
+          "counterexample_text": null,
+          "second_satisfying_witness": [
+            1,
+            3,
+            3,
+            5,
+            6
+          ],
+          "second_satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第1、3、3、5、6时段开始"
+        },
+        {
+          "true_count": 4,
+          "false_count": 0,
+          "satisfying_witness": [
+            1,
+            3,
+            3,
+            5,
+            5
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第1、3、3、5、5时段开始",
+          "counterexample_text": null,
+          "second_satisfying_witness": [
+            1,
+            3,
+            3,
+            5,
+            6
+          ],
+          "second_satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第1、3、3、5、6时段开始"
+        },
+        {
+          "true_count": 4,
+          "false_count": 0,
+          "satisfying_witness": [
+            1,
+            3,
+            3,
+            5,
+            5
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第1、3、3、5、5时段开始",
+          "counterexample_text": null,
+          "second_satisfying_witness": [
+            1,
+            3,
+            3,
+            5,
+            6
+          ],
+          "second_satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第1、3、3、5、6时段开始"
+        },
+        {
+          "true_count": 2,
+          "false_count": 2,
+          "satisfying_witness": [
+            1,
+            3,
+            3,
+            5,
+            5
+          ],
+          "counterexample": [
+            1,
+            4,
+            3,
+            5,
+            5
+          ],
+          "satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第1、3、3、5、5时段开始",
+          "counterexample_text": "清洗、标定、扫描、复核、封装分别从第1、4、3、5、5时段开始",
+          "second_satisfying_witness": [
+            1,
+            3,
+            3,
+            5,
+            6
+          ],
+          "second_satisfying_witness_text": "清洗、标定、扫描、复核、封装分别从第1、3、3、5、6时段开始"
+        }
+      ],
+      "answer": "D"
+    },
+    "66": {
+      "model_count": 1,
+      "evaluation_mode": "must",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "options": [
+        {
+          "true_count": 0,
+          "false_count": 1,
+          "satisfying_witness": null,
+          "counterexample": [
+            false,
+            true,
+            true,
+            true,
+            true
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "备用链路不可用，本地缓存可用，已完成预同步",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 1,
+          "satisfying_witness": null,
+          "counterexample": [
+            false,
+            true,
+            true,
+            true,
+            true
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "备用链路不可用，本地缓存可用，已完成预同步",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 1,
+          "satisfying_witness": null,
+          "counterexample": [
+            false,
+            true,
+            true,
+            true,
+            true
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "备用链路不可用，本地缓存可用，已完成预同步",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 1,
+          "false_count": 0,
+          "satisfying_witness": [
+            false,
+            true,
+            true,
+            true,
+            true
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "备用链路不可用，本地缓存可用，已完成预同步",
+          "counterexample_text": null,
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        }
+      ],
+      "answer": "D"
+    },
+    "67": {
+      "model_count": 180,
+      "evaluation_mode": "must",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 102,
+          "false_count": 78,
+          "satisfying_witness": [
+            0,
+            3,
+            7
+          ],
+          "counterexample": [
+            0,
+            2,
+            7
+          ],
+          "satisfying_witness_text": "档案1：未经特别复核、未登记、未加密、未公开；档案2：经特别复核、已登记、未加密、未公开；档案3：经特别复核、已登记、已加密、未公开",
+          "counterexample_text": "档案1：未经特别复核、未登记、未加密、未公开；档案2：未经特别复核、已登记、未加密、未公开；档案3：经特别复核、已登记、已加密、未公开",
+          "second_satisfying_witness": [
+            0,
+            7,
+            3
+          ],
+          "second_satisfying_witness_text": "档案1：未经特别复核、未登记、未加密、未公开；档案2：经特别复核、已登记、已加密、未公开；档案3：经特别复核、已登记、未加密、未公开"
+        },
+        {
+          "true_count": 78,
+          "false_count": 102,
+          "satisfying_witness": [
+            0,
+            2,
+            7
+          ],
+          "counterexample": [
+            0,
+            7,
+            10
+          ],
+          "satisfying_witness_text": "档案1：未经特别复核、未登记、未加密、未公开；档案2：未经特别复核、已登记、未加密、未公开；档案3：经特别复核、已登记、已加密、未公开",
+          "counterexample_text": "档案1：未经特别复核、未登记、未加密、未公开；档案2：经特别复核、已登记、已加密、未公开；档案3：未经特别复核、已登记、未加密、已公开",
+          "second_satisfying_witness": [
+            0,
+            3,
+            7
+          ],
+          "second_satisfying_witness_text": "档案1：未经特别复核、未登记、未加密、未公开；档案2：经特别复核、已登记、未加密、未公开；档案3：经特别复核、已登记、已加密、未公开"
+        },
+        {
+          "true_count": 180,
+          "false_count": 0,
+          "satisfying_witness": [
+            0,
+            2,
+            7
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "档案1：未经特别复核、未登记、未加密、未公开；档案2：未经特别复核、已登记、未加密、未公开；档案3：经特别复核、已登记、已加密、未公开",
+          "counterexample_text": null,
+          "second_satisfying_witness": [
+            0,
+            3,
+            7
+          ],
+          "second_satisfying_witness_text": "档案1：未经特别复核、未登记、未加密、未公开；档案2：经特别复核、已登记、未加密、未公开；档案3：经特别复核、已登记、已加密、未公开"
+        },
+        {
+          "true_count": 48,
+          "false_count": 132,
+          "satisfying_witness": [
+            2,
+            7,
+            8
+          ],
+          "counterexample": [
+            0,
+            2,
+            7
+          ],
+          "satisfying_witness_text": "档案1：未经特别复核、已登记、未加密、未公开；档案2：经特别复核、已登记、已加密、未公开；档案3：未经特别复核、未登记、未加密、已公开",
+          "counterexample_text": "档案1：未经特别复核、未登记、未加密、未公开；档案2：未经特别复核、已登记、未加密、未公开；档案3：经特别复核、已登记、已加密、未公开",
+          "second_satisfying_witness": [
+            2,
+            7,
+            12
+          ],
+          "second_satisfying_witness_text": "档案1：未经特别复核、已登记、未加密、未公开；档案2：经特别复核、已登记、已加密、未公开；档案3：未经特别复核、未登记、已加密、已公开"
+        }
+      ],
+      "answer": "C"
+    },
+    "68": {
+      "model_count": 175,
+      "evaluation_mode": "must",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "options": [
+        {
+          "true_count": 31,
+          "false_count": 144,
+          "satisfying_witness": [
+            0,
+            5
+          ],
+          "counterexample": [
+            0,
+            1
+          ],
+          "satisfying_witness_text": "申请1：不加急、未复核、不涉密、未授权；申请2：加急、未复核、涉密、未授权",
+          "counterexample_text": "申请1：不加急、未复核、不涉密、未授权；申请2：加急、未复核、不涉密、未授权",
+          "second_satisfying_witness": [
+            1,
+            5
+          ],
+          "second_satisfying_witness_text": "申请1：加急、未复核、不涉密、未授权；申请2：加急、未复核、涉密、未授权"
+        },
+        {
+          "true_count": 49,
+          "false_count": 126,
+          "satisfying_witness": [
+            1,
+            1
+          ],
+          "counterexample": [
+            0,
+            1
+          ],
+          "satisfying_witness_text": "申请1：加急、未复核、不涉密、未授权；申请2：加急、未复核、不涉密、未授权",
+          "counterexample_text": "申请1：不加急、未复核、不涉密、未授权；申请2：加急、未复核、不涉密、未授权",
+          "second_satisfying_witness": [
+            1,
+            4
+          ],
+          "second_satisfying_witness_text": "申请1：加急、未复核、不涉密、未授权；申请2：不加急、未复核、涉密、未授权"
+        },
+        {
+          "true_count": 49,
+          "false_count": 126,
+          "satisfying_witness": [
+            0,
+            5
+          ],
+          "counterexample": [
+            0,
+            1
+          ],
+          "satisfying_witness_text": "申请1：不加急、未复核、不涉密、未授权；申请2：加急、未复核、涉密、未授权",
+          "counterexample_text": "申请1：不加急、未复核、不涉密、未授权；申请2：加急、未复核、不涉密、未授权",
+          "second_satisfying_witness": [
+            1,
+            4
+          ],
+          "second_satisfying_witness_text": "申请1：加急、未复核、不涉密、未授权；申请2：不加急、未复核、涉密、未授权"
+        },
+        {
+          "true_count": 175,
+          "false_count": 0,
+          "satisfying_witness": [
+            0,
+            1
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "申请1：不加急、未复核、不涉密、未授权；申请2：加急、未复核、不涉密、未授权",
+          "counterexample_text": null,
+          "second_satisfying_witness": [
+            0,
+            4
+          ],
+          "second_satisfying_witness_text": "申请1：不加急、未复核、不涉密、未授权；申请2：不加急、未复核、涉密、未授权"
+        }
+      ],
+      "answer": "D",
+      "whole_statement_equivalence_all_256_worlds": true
+    },
+    "69": {
+      "model_count": 4,
+      "evaluation_mode": "must",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 2,
+          "false_count": 2,
+          "satisfying_witness": [
+            false,
+            false,
+            true,
+            true,
+            false
+          ],
+          "counterexample": [
+            false,
+            false,
+            false,
+            true,
+            true
+          ],
+          "satisfying_witness_text": "精密模式关闭，刻写采用激光；温控关闭，光学防护开启",
+          "counterexample_text": "精密模式关闭，刻写采用机械；温控关闭，光学防护开启",
+          "second_satisfying_witness": [
+            true,
+            true,
+            false,
+            false,
+            true
+          ],
+          "second_satisfying_witness_text": "精密模式开启，刻写采用机械；温控开启，光学防护关闭"
+        },
+        {
+          "true_count": 2,
+          "false_count": 2,
+          "satisfying_witness": [
+            false,
+            false,
+            true,
+            true,
+            false
+          ],
+          "counterexample": [
+            false,
+            false,
+            false,
+            true,
+            true
+          ],
+          "satisfying_witness_text": "精密模式关闭，刻写采用激光；温控关闭，光学防护开启",
+          "counterexample_text": "精密模式关闭，刻写采用机械；温控关闭，光学防护开启",
+          "second_satisfying_witness": [
+            true,
+            true,
+            false,
+            false,
+            true
+          ],
+          "second_satisfying_witness_text": "精密模式开启，刻写采用机械；温控开启，光学防护关闭"
+        },
+        {
+          "true_count": 4,
+          "false_count": 0,
+          "satisfying_witness": [
+            false,
+            false,
+            false,
+            true,
+            true
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "精密模式关闭，刻写采用机械；温控关闭，光学防护开启",
+          "counterexample_text": null,
+          "second_satisfying_witness": [
+            false,
+            false,
+            true,
+            true,
+            false
+          ],
+          "second_satisfying_witness_text": "精密模式关闭，刻写采用激光；温控关闭，光学防护开启"
+        },
+        {
+          "true_count": 3,
+          "false_count": 1,
+          "satisfying_witness": [
+            false,
+            false,
+            true,
+            true,
+            false
+          ],
+          "counterexample": [
+            false,
+            false,
+            false,
+            true,
+            true
+          ],
+          "satisfying_witness_text": "精密模式关闭，刻写采用激光；温控关闭，光学防护开启",
+          "counterexample_text": "精密模式关闭，刻写采用机械；温控关闭，光学防护开启",
+          "second_satisfying_witness": [
+            false,
+            true,
+            false,
+            false,
+            true
+          ],
+          "second_satisfying_witness_text": "精密模式关闭，刻写采用机械；温控开启，光学防护关闭"
+        }
+      ],
+      "answer": "C"
+    },
+    "70": {
+      "model_count": 1,
+      "evaluation_mode": "must",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 0,
+          "false_count": 1,
+          "satisfying_witness": null,
+          "counterexample": [
+            1,
+            [
+              true,
+              true,
+              false
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "样本在乙柜，三条记录依次为真、真、假",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 1,
+          "satisfying_witness": null,
+          "counterexample": [
+            1,
+            [
+              true,
+              true,
+              false
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "样本在乙柜，三条记录依次为真、真、假",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 1,
+          "false_count": 0,
+          "satisfying_witness": [
+            1,
+            [
+              true,
+              true,
+              false
+            ]
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "样本在乙柜，三条记录依次为真、真、假",
+          "counterexample_text": null,
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 1,
+          "satisfying_witness": null,
+          "counterexample": [
+            1,
+            [
+              true,
+              true,
+              false
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "样本在乙柜，三条记录依次为真、真、假",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        }
+      ],
+      "answer": "C"
+    },
+    "71": {
+      "model_count": 1,
+      "evaluation_mode": "must",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "options": [
+        {
+          "true_count": 0,
+          "false_count": 1,
+          "satisfying_witness": null,
+          "counterexample": [
+            [
+              true,
+              false,
+              false,
+              false,
+              true
+            ],
+            [
+              false,
+              false,
+              true,
+              true
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "批准甲、戊，四个判断依次为假、假、真、真",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 1,
+          "satisfying_witness": null,
+          "counterexample": [
+            [
+              true,
+              false,
+              false,
+              false,
+              true
+            ],
+            [
+              false,
+              false,
+              true,
+              true
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "批准甲、戊，四个判断依次为假、假、真、真",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 1,
+          "satisfying_witness": null,
+          "counterexample": [
+            [
+              true,
+              false,
+              false,
+              false,
+              true
+            ],
+            [
+              false,
+              false,
+              true,
+              true
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "批准甲、戊，四个判断依次为假、假、真、真",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 1,
+          "false_count": 0,
+          "satisfying_witness": [
+            [
+              true,
+              false,
+              false,
+              false,
+              true
+            ],
+            [
+              false,
+              false,
+              true,
+              true
+            ]
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "批准甲、戊，四个判断依次为假、假、真、真",
+          "counterexample_text": null,
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        }
+      ],
+      "answer": "D"
+    },
+    "72": {
+      "model_count": 2,
+      "evaluation_mode": "may",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 0,
+          "false_count": 2,
+          "satisfying_witness": null,
+          "counterexample": [
+            2,
+            [
+              false,
+              true,
+              false,
+              true
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "通过2份，四条统计依次为假、真、假、真",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 2,
+          "satisfying_witness": null,
+          "counterexample": [
+            2,
+            [
+              false,
+              true,
+              false,
+              true
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "通过2份，四条统计依次为假、真、假、真",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 1,
+          "false_count": 1,
+          "satisfying_witness": [
+            4,
+            [
+              false,
+              true,
+              false,
+              true
+            ]
+          ],
+          "counterexample": [
+            2,
+            [
+              false,
+              true,
+              false,
+              true
+            ]
+          ],
+          "satisfying_witness_text": "通过4份，四条统计依次为假、真、假、真",
+          "counterexample_text": "通过2份，四条统计依次为假、真、假、真",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 0,
+          "false_count": 2,
+          "satisfying_witness": null,
+          "counterexample": [
+            2,
+            [
+              false,
+              true,
+              false,
+              true
+            ]
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "通过2份，四条统计依次为假、真、假、真",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        }
+      ],
+      "answer": "C"
+    },
+    "73": {
+      "model_count": 4,
+      "evaluation_mode": "must",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 3,
+          "false_count": 1,
+          "satisfying_witness": [
+            [
+              false,
+              true,
+              false,
+              true
+            ],
+            [
+              false,
+              true,
+              false,
+              false
+            ]
+          ],
+          "counterexample": [
+            [
+              false,
+              true,
+              true,
+              false
+            ],
+            [
+              false,
+              true,
+              true,
+              true
+            ]
+          ],
+          "satisfying_witness_text": "亮灯为乙、丁，四个判断依次为假、真、假、假",
+          "counterexample_text": "亮灯为乙、丙，四个判断依次为假、真、真、真",
+          "second_satisfying_witness": [
+            [
+              true,
+              false,
+              true,
+              false
+            ],
+            [
+              false,
+              true,
+              false,
+              false
+            ]
+          ],
+          "second_satisfying_witness_text": "亮灯为甲、丙，四个判断依次为假、真、假、假"
+        },
+        {
+          "true_count": 4,
+          "false_count": 0,
+          "satisfying_witness": [
+            [
+              false,
+              true,
+              false,
+              true
+            ],
+            [
+              false,
+              true,
+              false,
+              false
+            ]
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "亮灯为乙、丁，四个判断依次为假、真、假、假",
+          "counterexample_text": null,
+          "second_satisfying_witness": [
+            [
+              false,
+              true,
+              true,
+              false
+            ],
+            [
+              false,
+              true,
+              true,
+              true
+            ]
+          ],
+          "second_satisfying_witness_text": "亮灯为乙、丙，四个判断依次为假、真、真、真"
+        },
+        {
+          "true_count": 2,
+          "false_count": 2,
+          "satisfying_witness": [
+            [
+              false,
+              true,
+              false,
+              true
+            ],
+            [
+              false,
+              true,
+              false,
+              false
+            ]
+          ],
+          "counterexample": [
+            [
+              false,
+              true,
+              true,
+              false
+            ],
+            [
+              false,
+              true,
+              true,
+              true
+            ]
+          ],
+          "satisfying_witness_text": "亮灯为乙、丁，四个判断依次为假、真、假、假",
+          "counterexample_text": "亮灯为乙、丙，四个判断依次为假、真、真、真",
+          "second_satisfying_witness": [
+            [
+              true,
+              false,
+              true,
+              false
+            ],
+            [
+              false,
+              true,
+              false,
+              false
+            ]
+          ],
+          "second_satisfying_witness_text": "亮灯为甲、丙，四个判断依次为假、真、假、假"
+        },
+        {
+          "true_count": 2,
+          "false_count": 2,
+          "satisfying_witness": [
+            [
+              false,
+              true,
+              false,
+              true
+            ],
+            [
+              false,
+              true,
+              false,
+              false
+            ]
+          ],
+          "counterexample": [
+            [
+              false,
+              true,
+              true,
+              false
+            ],
+            [
+              false,
+              true,
+              true,
+              true
+            ]
+          ],
+          "satisfying_witness_text": "亮灯为乙、丁，四个判断依次为假、真、假、假",
+          "counterexample_text": "亮灯为乙、丙，四个判断依次为假、真、真、真",
+          "second_satisfying_witness": [
+            [
+              true,
+              false,
+              true,
+              false
+            ],
+            [
+              false,
+              true,
+              false,
+              false
+            ]
+          ],
+          "second_satisfying_witness_text": "亮灯为甲、丙，四个判断依次为假、真、假、假"
+        }
+      ],
+      "answer": "B"
+    },
+    "74": {
+      "model_count": 4,
+      "evaluation_mode": "must",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 0,
+          "false_count": 4,
+          "satisfying_witness": null,
+          "counterexample": [
+            1,
+            5,
+            2,
+            4,
+            3
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "甲、乙、丙、丁、戊分别用时1、5、2、4、3分钟",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        },
+        {
+          "true_count": 4,
+          "false_count": 0,
+          "satisfying_witness": [
+            1,
+            5,
+            2,
+            4,
+            3
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "甲、乙、丙、丁、戊分别用时1、5、2、4、3分钟",
+          "counterexample_text": null,
+          "second_satisfying_witness": [
+            1,
+            5,
+            4,
+            2,
+            3
+          ],
+          "second_satisfying_witness_text": "甲、乙、丙、丁、戊分别用时1、5、4、2、3分钟"
+        },
+        {
+          "true_count": 2,
+          "false_count": 2,
+          "satisfying_witness": [
+            1,
+            5,
+            2,
+            4,
+            3
+          ],
+          "counterexample": [
+            2,
+            4,
+            5,
+            1,
+            3
+          ],
+          "satisfying_witness_text": "甲、乙、丙、丁、戊分别用时1、5、2、4、3分钟",
+          "counterexample_text": "甲、乙、丙、丁、戊分别用时2、4、5、1、3分钟",
+          "second_satisfying_witness": [
+            1,
+            5,
+            4,
+            2,
+            3
+          ],
+          "second_satisfying_witness_text": "甲、乙、丙、丁、戊分别用时1、5、4、2、3分钟"
+        },
+        {
+          "true_count": 0,
+          "false_count": 4,
+          "satisfying_witness": null,
+          "counterexample": [
+            1,
+            5,
+            2,
+            4,
+            3
+          ],
+          "satisfying_witness_text": null,
+          "counterexample_text": "甲、乙、丙、丁、戊分别用时1、5、2、4、3分钟",
+          "second_satisfying_witness": null,
+          "second_satisfying_witness_text": null
+        }
+      ],
+      "answer": "B"
+    },
+    "75": {
+      "model_count": 4,
+      "evaluation_mode": "must",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 2,
+          "false_count": 2,
+          "satisfying_witness": [
+            0,
+            2,
+            4,
+            1,
+            3,
+            5
+          ],
+          "counterexample": [
+            0,
+            2,
+            4,
+            1,
+            5,
+            3
+          ],
+          "satisfying_witness_text": "从林起按顺时针为林、许、赵、周、陈、吴",
+          "counterexample_text": "从林起按顺时针为林、许、赵、周、吴、陈",
+          "second_satisfying_witness": [
+            0,
+            3,
+            5,
+            1,
+            2,
+            4
+          ],
+          "second_satisfying_witness_text": "从林起按顺时针为林、陈、吴、周、许、赵"
+        },
+        {
+          "true_count": 2,
+          "false_count": 2,
+          "satisfying_witness": [
+            0,
+            2,
+            4,
+            1,
+            3,
+            5
+          ],
+          "counterexample": [
+            0,
+            2,
+            4,
+            1,
+            5,
+            3
+          ],
+          "satisfying_witness_text": "从林起按顺时针为林、许、赵、周、陈、吴",
+          "counterexample_text": "从林起按顺时针为林、许、赵、周、吴、陈",
+          "second_satisfying_witness": [
+            0,
+            3,
+            5,
+            1,
+            2,
+            4
+          ],
+          "second_satisfying_witness_text": "从林起按顺时针为林、陈、吴、周、许、赵"
+        },
+        {
+          "true_count": 4,
+          "false_count": 0,
+          "satisfying_witness": [
+            0,
+            2,
+            4,
+            1,
+            3,
+            5
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "从林起按顺时针为林、许、赵、周、陈、吴",
+          "counterexample_text": null,
+          "second_satisfying_witness": [
+            0,
+            2,
+            4,
+            1,
+            5,
+            3
+          ],
+          "second_satisfying_witness_text": "从林起按顺时针为林、许、赵、周、吴、陈"
+        },
+        {
+          "true_count": 2,
+          "false_count": 2,
+          "satisfying_witness": [
+            0,
+            3,
+            5,
+            1,
+            2,
+            4
+          ],
+          "counterexample": [
+            0,
+            2,
+            4,
+            1,
+            3,
+            5
+          ],
+          "satisfying_witness_text": "从林起按顺时针为林、陈、吴、周、许、赵",
+          "counterexample_text": "从林起按顺时针为林、许、赵、周、陈、吴",
+          "second_satisfying_witness": [
+            0,
+            5,
+            3,
+            1,
+            2,
+            4
+          ],
+          "second_satisfying_witness_text": "从林起按顺时针为林、吴、陈、周、许、赵"
+        }
+      ],
+      "answer": "C"
+    },
+    "76": {
+      "model_count": 3,
+      "evaluation_mode": "must",
+      "unique_answer": true,
+      "option_validity": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "options": [
+        {
+          "true_count": 3,
+          "false_count": 0,
+          "satisfying_witness": [
+            [
+              1,
+              0,
+              2
+            ],
+            [
+              0,
+              1,
+              2
+            ]
+          ],
+          "counterexample": null,
+          "satisfying_witness_text": "唐去南站用声检；岳去东站用光检；孟去西站用磁检",
+          "counterexample_text": null,
+          "second_satisfying_witness": [
+            [
+              2,
+              0,
+              1
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ],
+          "second_satisfying_witness_text": "唐去西站用磁检；岳去东站用光检；孟去南站用声检"
+        },
+        {
+          "true_count": 2,
+          "false_count": 1,
+          "satisfying_witness": [
+            [
+              1,
+              0,
+              2
+            ],
+            [
+              0,
+              1,
+              2
+            ]
+          ],
+          "counterexample": [
+            [
+              2,
+              0,
+              1
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ],
+          "satisfying_witness_text": "唐去南站用声检；岳去东站用光检；孟去西站用磁检",
+          "counterexample_text": "唐去西站用磁检；岳去东站用光检；孟去南站用声检",
+          "second_satisfying_witness": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              0,
+              1
+            ]
+          ],
+          "second_satisfying_witness_text": "唐去西站用磁检；岳去南站用声检；孟去东站用光检"
+        },
+        {
+          "true_count": 2,
+          "false_count": 1,
+          "satisfying_witness": [
+            [
+              1,
+              0,
+              2
+            ],
+            [
+              0,
+              1,
+              2
+            ]
+          ],
+          "counterexample": [
+            [
+              2,
+              0,
+              1
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ],
+          "satisfying_witness_text": "唐去南站用声检；岳去东站用光检；孟去西站用磁检",
+          "counterexample_text": "唐去西站用磁检；岳去东站用光检；孟去南站用声检",
+          "second_satisfying_witness": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              0,
+              1
+            ]
+          ],
+          "second_satisfying_witness_text": "唐去西站用磁检；岳去南站用声检；孟去东站用光检"
+        },
+        {
+          "true_count": 2,
+          "false_count": 1,
+          "satisfying_witness": [
+            [
+              2,
+              0,
+              1
+            ],
+            [
+              2,
+              1,
+              0
+            ]
+          ],
+          "counterexample": [
+            [
+              1,
+              0,
+              2
+            ],
+            [
+              0,
+              1,
+              2
+            ]
+          ],
+          "satisfying_witness_text": "唐去西站用磁检；岳去东站用光检；孟去南站用声检",
+          "counterexample_text": "唐去南站用声检；岳去东站用光检；孟去西站用磁检",
+          "second_satisfying_witness": [
+            [
+              2,
+              1,
+              0
+            ],
+            [
+              2,
+              0,
+              1
+            ]
+          ],
+          "second_satisfying_witness_text": "唐去西站用磁检；岳去南站用声检；孟去东站用光检"
+        }
+      ],
+      "answer": "A"
+    },
+    "77": {
+      "model_count": 7,
+      "evaluation_mode": "aggregate",
+      "computed_value": 2,
+      "unique_answer": true,
+      "option_values": [
+        1,
+        3,
+        4,
+        2
+      ],
+      "option_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "possible_maximum_centers": [
+        "乙",
+        "丁"
+      ],
+      "witnesses": {
+        "乙": [
+          1,
+          6,
+          3,
+          4
+        ],
+        "丁": [
+          2,
+          5,
+          1,
+          6
+        ]
+      },
+      "answer": "D"
+    },
+    "78": {
+      "evaluation_mode": "structure_isomorphism",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "source_truth_check": {
+        "premise_model_count": 15,
+        "conclusion_true_count": 15,
+        "conclusion_false_count": 0,
+        "valid_in_small_model_family": true,
+        "first_premise_witness": [
+          {
+            "A": false,
+            "B": false,
+            "C": false,
+            "D": false
+          },
+          {
+            "A": true,
+            "B": true,
+            "C": false,
+            "D": true
+          }
+        ],
+        "counterexample": null
+      },
+      "option_checks": [
+        {
+          "structure_match": false,
+          "premise_model_count": 28,
+          "conclusion_true_count": 28,
+          "conclusion_false_count": 0,
+          "valid_in_small_model_family": true,
+          "first_premise_witness": [
+            {
+              "A": false,
+              "B": false,
+              "C": false,
+              "D": false
+            },
+            {
+              "A": false,
+              "B": true,
+              "C": false,
+              "D": true
+            }
+          ],
+          "counterexample": null
+        },
+        {
+          "structure_match": true,
+          "premise_model_count": 15,
+          "conclusion_true_count": 15,
+          "conclusion_false_count": 0,
+          "valid_in_small_model_family": true,
+          "first_premise_witness": [
+            {
+              "A": false,
+              "B": false,
+              "C": false,
+              "D": false
+            },
+            {
+              "A": true,
+              "B": true,
+              "C": false,
+              "D": true
+            }
+          ],
+          "counterexample": null
+        },
+        {
+          "structure_match": false,
+          "premise_model_count": 51,
+          "conclusion_true_count": 38,
+          "conclusion_false_count": 13,
+          "valid_in_small_model_family": false,
+          "first_premise_witness": [
+            {
+              "A": false,
+              "B": false,
+              "C": false,
+              "D": false
+            },
+            {
+              "A": true,
+              "B": false,
+              "C": false,
+              "D": true
+            }
+          ],
+          "counterexample": [
+            {
+              "A": false,
+              "B": false,
+              "C": false,
+              "D": false
+            },
+            {
+              "A": true,
+              "B": false,
+              "C": true,
+              "D": true
+            }
+          ]
+        },
+        {
+          "structure_match": false,
+          "premise_model_count": 25,
+          "conclusion_true_count": 25,
+          "conclusion_false_count": 0,
+          "valid_in_small_model_family": true,
+          "first_premise_witness": [
+            {
+              "A": false,
+              "B": false,
+              "C": false,
+              "D": false
+            },
+            {
+              "A": false,
+              "B": false,
+              "C": false,
+              "D": false
+            }
+          ],
+          "counterexample": null
+        }
+      ],
+      "answer": "B"
+    },
+    "79": {
+      "evaluation_mode": "structure_isomorphism",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "source_truth_check": {
+        "premise_model_count": 4,
+        "conclusion_true_count": 1,
+        "conclusion_false_count": 3,
+        "valid_in_small_model_family": false,
+        "first_premise_witness": {
+          "P": false,
+          "Q": false,
+          "R": true
+        },
+        "counterexample": {
+          "P": false,
+          "Q": false,
+          "R": true
+        }
+      },
+      "option_checks": [
+        {
+          "structure_match": false,
+          "premise_model_count": 4,
+          "conclusion_true_count": 3,
+          "conclusion_false_count": 1,
+          "valid_in_small_model_family": false,
+          "first_premise_witness": {
+            "P": false,
+            "Q": false,
+            "R": true
+          },
+          "counterexample": {
+            "P": false,
+            "Q": false,
+            "R": true
+          }
+        },
+        {
+          "structure_match": false,
+          "premise_model_count": 3,
+          "conclusion_true_count": 3,
+          "conclusion_false_count": 0,
+          "valid_in_small_model_family": true,
+          "first_premise_witness": {
+            "P": false,
+            "Q": false,
+            "R": false
+          },
+          "counterexample": null
+        },
+        {
+          "structure_match": false,
+          "premise_model_count": 1,
+          "conclusion_true_count": 1,
+          "conclusion_false_count": 0,
+          "valid_in_small_model_family": true,
+          "first_premise_witness": {
+            "P": true,
+            "Q": true,
+            "R": true
+          },
+          "counterexample": null
+        },
+        {
+          "structure_match": true,
+          "premise_model_count": 4,
+          "conclusion_true_count": 1,
+          "conclusion_false_count": 3,
+          "valid_in_small_model_family": false,
+          "first_premise_witness": {
+            "P": false,
+            "Q": false,
+            "R": true
+          },
+          "counterexample": {
+            "P": false,
+            "Q": false,
+            "R": true
+          }
+        }
+      ],
+      "answer": "D"
+    },
+    "80": {
+      "evaluation_mode": "structure_isomorphism",
+      "unique_answer": true,
+      "option_validity": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "source_truth_check": {
+        "premise_model_count": 11,
+        "conclusion_true_count": 11,
+        "conclusion_false_count": 0,
+        "valid_in_small_model_family": true,
+        "first_premise_witness": [
+          {
+            "A": false,
+            "B": false,
+            "C": true
+          },
+          {
+            "A": true,
+            "B": false,
+            "C": true
+          }
+        ],
+        "counterexample": null
+      },
+      "option_checks": [
+        {
+          "structure_match": false,
+          "premise_model_count": 16,
+          "conclusion_true_count": 16,
+          "conclusion_false_count": 0,
+          "valid_in_small_model_family": true,
+          "first_premise_witness": [
+            {
+              "A": false,
+              "B": false,
+              "C": true
+            },
+            {
+              "A": false,
+              "B": false,
+              "C": true
+            }
+          ],
+          "counterexample": null
+        },
+        {
+          "structure_match": false,
+          "premise_model_count": 20,
+          "conclusion_true_count": 11,
+          "conclusion_false_count": 9,
+          "valid_in_small_model_family": false,
+          "first_premise_witness": [
+            {
+              "A": false,
+              "B": false,
+              "C": false
+            },
+            {
+              "A": true,
+              "B": false,
+              "C": false
+            }
+          ],
+          "counterexample": [
+            {
+              "A": false,
+              "B": false,
+              "C": false
+            },
+            {
+              "A": true,
+              "B": false,
+              "C": false
+            }
+          ]
+        },
+        {
+          "structure_match": true,
+          "premise_model_count": 11,
+          "conclusion_true_count": 11,
+          "conclusion_false_count": 0,
+          "valid_in_small_model_family": true,
+          "first_premise_witness": [
+            {
+              "A": false,
+              "B": false,
+              "C": true
+            },
+            {
+              "A": true,
+              "B": false,
+              "C": true
+            }
+          ],
+          "counterexample": null
+        },
+        {
+          "structure_match": false,
+          "premise_model_count": 11,
+          "conclusion_true_count": 11,
+          "conclusion_false_count": 0,
+          "valid_in_small_model_family": true,
+          "first_premise_witness": [
+            {
+              "A": false,
+              "B": false,
+              "C": false
+            },
+            {
+              "A": true,
+              "B": true,
+              "C": true
+            }
+          ],
+          "counterexample": null
+        }
+      ],
+      "answer": "C"
+    }
+  },
+  "answer_counts": {
+    "B": 8,
+    "D": 9,
+    "A": 4,
+    "C": 9
+  },
+  "scope": "结构同构检查以明确的算子、量词和否定作用域为准；不以主题或有效性代替结构。量词题的有限反例空间配有小模型界及演绎说明。"
+}

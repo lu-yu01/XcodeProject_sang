@@ -1,0 +1,21 @@
+{
+  "reviewed_at": "2026-10-27T14:17:27.632830+00:00",
+  "word_sha256": "8f6bfc65f747339780734e1bf0a9d567423ab3e2147441055311fd9355a855e9",
+  "pdf_sha256": "6acd329119234a988a248992c19b2d7fd441003e79e2ab7d1143780800dae5b1",
+  "renderer": "packaged render_docx.py failed: bundled soffice unavailable; dedicated hidden Microsoft Word COM read-only export succeeded; pypdfium2 rasterized at150dpi",
+  "pages": [
+    {
+      "page": 1,
+      "actually_opened": true,
+      "passed": true,
+      "observations": "完整查看规则表与三题。8种规则符号均显示完整；3条操作链从左到右；每题四候选位于同一个外框，A—D在下方；4×4网格保持正方形。无缺图、裁切、重叠、跨页或答案泄露。"
+    },
+    {
+      "page": 2,
+      "actually_opened": true,
+      "passed": true,
+      "observations": "完整查看答案表与三组4态分步图。原图、三步状态与操作符号一一对应；解析与干扰项文字完整，未被拆页、遮挡或裁切。"
+    }
+  ],
+  "limits": "代理逐页视觉复核，不等同教师独立审题或学员试测。"
+}

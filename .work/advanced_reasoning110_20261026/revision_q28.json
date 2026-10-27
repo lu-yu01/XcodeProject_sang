@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "trigger": "独立无答案求解发现原Q28D未明示志愿者也不知具体方法，不能由同样界面推知受试者盲。",
+  "baseline_directory": "E:\\XcodeProject_sang\\.work\\advanced_reasoning110_20261026\\definition_revisions\\q28_before_explicit_participant_blind",
+  "change": [
+    {
+      "n": 28,
+      "field": "options",
+      "before": [
+        "记忆训练采用外观相同的两套材料，由独立人员用随机数分组，学员、授课员和评分员在结题前均不知编码含义",
+        "学员按方便时段选择甲班或乙班，训练材料只标编码，学员、授课员和评分员均不知班别对应方法",
+        "两种注意力训练由程序抽签分配，执行员和受试者只见材料代码，独立编码员封存分组表，评分员也不知组别",
+        "同一批志愿者经电脑随机分为两组，训练内容通过同样界面呈现，参与实施和评分者均不知代码对应方法"
+      ],
+      "after": [
+        "记忆训练采用外观相同的两套材料，由独立人员用随机数分组，学员、授课员和评分员在结题前均不知编码含义",
+        "学员按方便时段选择甲班或乙班，训练材料只标编码，学员、授课员和评分员均不知班别对应方法",
+        "两种注意力训练由程序抽签分配，执行员和受试者只见材料代码，独立编码员封存分组表，评分员也不知组别",
+        "同一批志愿者经电脑随机分为两组，训练内容通过同样界面呈现，志愿者及实施、评分人员均不知代码对应方法"
+      ]
+    }
+  ],
+  "corrected_condition": "Q28D受试者盲现在有明确原生选项文字支持。",
+  "all_answers_unchanged": true,
+  "models_unchanged": true,
+  "other29_questions_bytewise_semantic_equal": true,
+  "sha256": {
+    "definitions.py": "a78de322faaebd6d3152cd6f55dcee148145af365e9b069db5bcb5eed3138279",
+    "questions_definitions.json": "bdacc7929e3831bf0e939732151bda938df8831b40757ed23669a70e69a24e89",
+    "verification_definitions.json": "f4c3c4732a11e5cc94a56a1a9c511f9875a4ca8467b9adf02992c81911ed5fc6"
+  }
+}

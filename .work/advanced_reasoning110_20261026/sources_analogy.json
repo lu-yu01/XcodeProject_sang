@@ -1,0 +1,326 @@
+{
+  "scope": "2022—2026国考为主；26个不同题例，不对跨卷重复题多计权",
+  "sources": [
+    {
+      "id": "AX26-96",
+      "year": 2026,
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 96,
+      "digest": "经年/积岁",
+      "application": "近义关系，还需排除种属、交叉、组成",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "figure_actually_viewed": false,
+      "file_sha256": "a4da10ce62bd283c2ee4bc3e11297474e4e4b48ef7d2b672ab72440e9e836bdc"
+    },
+    {
+      "id": "AX26-97",
+      "year": 2026,
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 97,
+      "digest": "口腔/唾液/淀粉酶",
+      "application": "三词的分泌与成分关系须同时满足",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "figure_actually_viewed": false,
+      "file_sha256": "a4da10ce62bd283c2ee4bc3e11297474e4e4b48ef7d2b672ab72440e9e836bdc"
+    },
+    {
+      "id": "AX26-98",
+      "year": 2026,
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 98,
+      "digest": "护士人数/护患比/患者人数",
+      "application": "公式位置、口径、分母单位都需一致",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "figure_actually_viewed": false,
+      "file_sha256": "a4da10ce62bd283c2ee4bc3e11297474e4e4b48ef7d2b672ab72440e9e836bdc"
+    },
+    {
+      "id": "AX26-99",
+      "year": 2026,
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 99,
+      "digest": "颅内疾病与岩石断裂填空",
+      "application": "两侧因果方向一致",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "figure_actually_viewed": false,
+      "file_sha256": "a4da10ce62bd283c2ee4bc3e11297474e4e4b48ef7d2b672ab72440e9e836bdc"
+    },
+    {
+      "id": "AX26-100",
+      "year": 2026,
+      "path": "E:\\XcodeProject_sang\\真题\\真题录制（事业单位、独立省份、国省考）\\国考\\2026年国家公务员录用考试【行政执法卷】.docx",
+      "question": 100,
+      "digest": "两集合交叉、第三集合位于交集的图示",
+      "application": "按全套集合区域选项，而非只识别一对关系",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "figure_actually_viewed": true,
+      "file_sha256": "a4da10ce62bd283c2ee4bc3e11297474e4e4b48ef7d2b672ab72440e9e836bdc"
+    },
+    {
+      "id": "AX25-96",
+      "year": 2025,
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\国家\\2025年国考真题\\2025国考地市卷—题本+解析.docx",
+      "question": 96,
+      "digest": "殚精竭虑/费尽心机",
+      "application": "近义之外检查感情色彩方向",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "8e65509d2a7e4e0cb2c676c194463c8b2a8a91e9fee70d607023f04dbd89eedd"
+    },
+    {
+      "id": "AX25-97",
+      "year": 2025,
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\国家\\2025年国考真题\\2025国考地市卷—题本+解析.docx",
+      "question": 97,
+      "digest": "逐客令/挡箭牌",
+      "application": "名物与其命名依据，而非只看功能相似",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "8e65509d2a7e4e0cb2c676c194463c8b2a8a91e9fee70d607023f04dbd89eedd"
+    },
+    {
+      "id": "AX25-98",
+      "year": 2025,
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\国家\\2025年国考真题\\2025国考地市卷—题本+解析.docx",
+      "question": 98,
+      "digest": "直观性/即时性/网络直播",
+      "application": "多属性与对象的同时对应",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "8e65509d2a7e4e0cb2c676c194463c8b2a8a91e9fee70d607023f04dbd89eedd"
+    },
+    {
+      "id": "AX25-99",
+      "year": 2025,
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\国家\\2025年国考真题\\2025国考地市卷—题本+解析.docx",
+      "question": 99,
+      "digest": "群众来访/窗口接访/调查督办",
+      "application": "连续环节与偏序，不混目的或工具",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "8e65509d2a7e4e0cb2c676c194463c8b2a8a91e9fee70d607023f04dbd89eedd"
+    },
+    {
+      "id": "AX25-100",
+      "year": 2025,
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\国家\\2025年国考真题\\2025国考地市卷—题本+解析.docx",
+      "question": 100,
+      "digest": "稀树草原/国际公约填空",
+      "application": "两侧种属关系和词序对齐",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "8e65509d2a7e4e0cb2c676c194463c8b2a8a91e9fee70d607023f04dbd89eedd"
+    },
+    {
+      "id": "AX25E-96",
+      "year": 2025,
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\国家\\2025年国考真题\\2025国考执法-题本+解析.docx",
+      "question": 96,
+      "digest": "嘤其鸣矣/求其友声",
+      "application": "方式到目的",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "e0b0dba5ab90551a5215cc55c484ae95fc37495db63e75261ff6f4b0b47f5991"
+    },
+    {
+      "id": "AX25E-99",
+      "year": 2025,
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\国家\\2025年国考真题\\2025国考执法-题本+解析.docx",
+      "question": 99,
+      "digest": "收集罪证/提取指纹/透明胶",
+      "application": "目的、方法、工具分层",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "e0b0dba5ab90551a5215cc55c484ae95fc37495db63e75261ff6f4b0b47f5991"
+    },
+    {
+      "id": "AX25E-100",
+      "year": 2025,
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\国家\\2025年国考真题\\2025国考执法-题本+解析.docx",
+      "question": 100,
+      "digest": "行政文书/汇编语言填空",
+      "application": "上下位概念方向",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "e0b0dba5ab90551a5215cc55c484ae95fc37495db63e75261ff6f4b0b47f5991"
+    },
+    {
+      "id": "AX25D-104",
+      "year": 2025,
+      "path": "E:\\XcodeProject_sang\\真题\\最新试卷\\前图相关真题\\国家\\2025年国考真题\\2025国考副省-题本+解析.docx",
+      "question": 104,
+      "digest": "光伏电站/电池板/发电",
+      "application": "整体组成与功能同时校验；同主题不能替代关系",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "c4500496d0f53164a4ea2a422a8081ab295ac264cb9630c4edf026876330b220"
+    },
+    {
+      "id": "AX22-91",
+      "year": 2022,
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2022年国家公务员考试《行测》真题（行政执法）_2023122616_28.docx",
+      "question": 91,
+      "digest": "贸易摩擦/出口下滑",
+      "application": "因果方向",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "e8da41b90172e68118f78b747ea0fbc2ef34b55f18ed970c9a86177a14ae068f"
+    },
+    {
+      "id": "AX22-92",
+      "year": 2022,
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2022年国家公务员考试《行测》真题（行政执法）_2023122616_28.docx",
+      "question": 92,
+      "digest": "载歌/载舞",
+      "application": "语法结构之外再判同时或先后",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "e8da41b90172e68118f78b747ea0fbc2ef34b55f18ed970c9a86177a14ae068f"
+    },
+    {
+      "id": "AX22-93",
+      "year": 2022,
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2022年国家公务员考试《行测》真题（行政执法）_2023122616_28.docx",
+      "question": 93,
+      "digest": "微型无人机/旋翼无人机",
+      "application": "分类维度不同形成交叉",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "e8da41b90172e68118f78b747ea0fbc2ef34b55f18ed970c9a86177a14ae068f"
+    },
+    {
+      "id": "AX22-94",
+      "year": 2022,
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2022年国家公务员考试《行测》真题（行政执法）_2023122616_28.docx",
+      "question": 94,
+      "digest": "呼吸系统/生殖系统",
+      "application": "并列关系仍区分反对与矛盾",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "e8da41b90172e68118f78b747ea0fbc2ef34b55f18ed970c9a86177a14ae068f"
+    },
+    {
+      "id": "AX23-91",
+      "year": 2023,
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2023年国家公务员考试《行测》真题（行政执法类）_2023122614_56.docx",
+      "question": 91,
+      "digest": "铜镜/化妆镜",
+      "application": "交叉之外区分材料命名、用途命名",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "008a460ee5edf48c19a4a3d81acfa2b1a1fa3d8505e5b638801f73fc8a329e64"
+    },
+    {
+      "id": "AX23-92",
+      "year": 2023,
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2023年国家公务员考试《行测》真题（行政执法类）_2023122614_56.docx",
+      "question": 92,
+      "digest": "小计/总计",
+      "application": "数量汇总、平均或乘积不能混淆",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "008a460ee5edf48c19a4a3d81acfa2b1a1fa3d8505e5b638801f73fc8a329e64"
+    },
+    {
+      "id": "AX23-93",
+      "year": 2023,
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2023年国家公务员考试《行测》真题（行政执法类）_2023122614_56.docx",
+      "question": 93,
+      "digest": "原棉/脱脂棉",
+      "application": "原料加工与同层产品",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "008a460ee5edf48c19a4a3d81acfa2b1a1fa3d8505e5b638801f73fc8a329e64"
+    },
+    {
+      "id": "AX23-94",
+      "year": 2023,
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2023年国家公务员考试《行测》真题（行政执法类）_2023122614_56.docx",
+      "question": 94,
+      "digest": "海棠红/南瓜橙",
+      "application": "颜色名称及借用对象类别",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "008a460ee5edf48c19a4a3d81acfa2b1a1fa3d8505e5b638801f73fc8a329e64"
+    },
+    {
+      "id": "AX24-91",
+      "year": 2024,
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2024年国家公务员考试《行测》真题（行政执法类）_2023122610_53.docx",
+      "question": 91,
+      "digest": "法庭/质证",
+      "application": "场所与活动；不照搬解析中未经证明的必然性",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "23c34ce34b17fe6dbd1fc65bedd9aa87059787d735b31aeab3bdb91b33d31a7f"
+    },
+    {
+      "id": "AX24-92",
+      "year": 2024,
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2024年国家公务员考试《行测》真题（行政执法类）_2023122610_53.docx",
+      "question": 92,
+      "digest": "植物及其部分",
+      "application": "天然组成与加工物不同",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "23c34ce34b17fe6dbd1fc65bedd9aa87059787d735b31aeab3bdb91b33d31a7f"
+    },
+    {
+      "id": "AX24-93",
+      "year": 2024,
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2024年国家公务员考试《行测》真题（行政执法类）_2023122610_53.docx",
+      "question": 93,
+      "digest": "古句分句对应",
+      "application": "因果、并列及词序",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "23c34ce34b17fe6dbd1fc65bedd9aa87059787d735b31aeab3bdb91b33d31a7f"
+    },
+    {
+      "id": "AX24-94",
+      "year": 2024,
+      "path": "E:\\XcodeProject_sang\\真题\\试卷\\公务员笔试-行测真题试卷\\word版公务员笔试行测665套\\2024年国家公务员考试《行测》真题（行政执法类）_2023122610_53.docx",
+      "question": 94,
+      "digest": "花香四溢/分子运动",
+      "application": "现象与机理对应",
+      "read_method": "实际读取题干、四项与本地解析；不把解析结论等同官方定论",
+      "file_sha256": "23c34ce34b17fe6dbd1fc65bedd9aa87059787d735b31aeab3bdb91b33d31a7f"
+    }
+  ],
+  "source_count": 26,
+  "fact_sources": [
+    {
+      "id": "FACT-TEARS",
+      "claim": "泪腺分泌泪液；水是泪液成分",
+      "urls": [
+        "https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work/how-tears-work",
+        "https://www.nei.nih.gov/sites/default/files/health-pdfs/factsaboutdryeye.pdf"
+      ]
+    },
+    {
+      "id": "FACT-SWEAT",
+      "claim": "汗腺分泌汗液，汗液含盐分",
+      "urls": [
+        "https://my.clevelandclinic.org/health/body/sweat"
+      ]
+    },
+    {
+      "id": "FACT-WHALES",
+      "claim": "鲸类属于哺乳动物，鲸类完全水生；哺乳动物不等于鲸类或陆生动物之并",
+      "urls": [
+        "https://www.fisheries.noaa.gov/whales",
+        "https://oceanservice.noaa.gov/facts/dolphin.html",
+        "https://cdn.oceanservice.noaa.gov/oceanserviceprod/about/environmental-compliance/final-peis/Section%203.5%20Marine%20Mammals.pdf"
+      ]
+    },
+    {
+      "id": "FACT-BORROW",
+      "claim": "鸿雁借指书信、桑梓借指故乡",
+      "urls": [
+        "https://www.ccdi.gov.cn/lswh/wenhua/wyzd/201704/t20170405_156326.html",
+        "https://www.moe.gov.cn/jyb_xwfb/moe_2082/2025/2025_zl02/202509/t20250901_1411314.html"
+      ]
+    },
+    {
+      "id": "FACT-IDIOM",
+      "claim": "一丝不苟释义；风平浪静字面构词",
+      "urls": [
+        "https://dict.revised.moe.edu.tw/dictView.jsp?ID=149832&la=0&powerMode=0",
+        "https://dict.idioms.moe.edu.tw/idiomView.jsp?ID=1447"
+      ]
+    },
+    {
+      "id": "FACT-SETS",
+      "claim": "有限/无限在集合范围内构成互补划分",
+      "urls": [
+        "https://math.ecnu.edu.cn/~wsun/teaching/Analysis_short_course_2014/Analysis.pdf"
+      ]
+    }
+  ],
+  "limitations": [
+    "本地回忆整理题本不是官方完整题库",
+    "2025副省101—105才是类比，96—100为定义；没有用编号机械分类",
+    "2025跨卷重复逐客令、古句、属性、流程、稀树草原等只计原题一次",
+    "题量配额是用户专项要求，不代表国考整卷比例或历年频率统计"
+  ]
+}

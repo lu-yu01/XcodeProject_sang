@@ -1,0 +1,2626 @@
+{
+  "status": "geometry_content_and_ooxml_checks_passed_waiting_render",
+  "time": "2026-10-25T22:00:42.751235+08:00",
+  "source_word": "E:\\XcodeProject_sang\\.work\\ninegrid_square_20261025\\doc55\\before.docx",
+  "output_word": "E:\\XcodeProject_sang\\模式题\\国考图形与逻辑专项练习-55题（图片规范版，含答案解析）.docx",
+  "source_sha256": "e7b5123e41ea0123f2d49589299ef5b2008144ebfa009e78480557e4ba3d09e6",
+  "output_sha256": "8f22e32bc8e704c04511ae6229e83d458f299e6d55d8c60a3cc1773dc76b7031",
+  "changed_questions": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "all_true_ninegrid_questions": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "question_count": 55,
+  "embedded_image_count": 30,
+  "changed_zip_members": [
+    "word/media/image9.png",
+    "word/media/image10.png",
+    "word/media/image11.png",
+    "word/media/image12.png"
+  ],
+  "document_xml_byte_identical": true,
+  "numbering_xml_byte_identical": true,
+  "other_26_embedded_images_byte_identical": true,
+  "all_other_zip_members_byte_identical": true,
+  "all_36_stem_content_rois_pixel_identical_after_translation": true,
+  "all_option_pixels_identical": true,
+  "all_word_image_extents_unchanged": true,
+  "layout_strategy": "Narrow each ninegrid to a centered 840x840 square; use 280x280 cells. Translate columns +20/0/-20 px; no scaling, rotation, redrawing of artwork or option changes.",
+  "per_question": [
+    {
+      "question": 9,
+      "media": "word/media/image9.png",
+      "relationship_id": "rId19",
+      "old_png_size": [
+        1800,
+        1170
+      ],
+      "new_png_size": [
+        1800,
+        1170
+      ],
+      "old_outer_box": [
+        450,
+        40,
+        1350,
+        880
+      ],
+      "new_outer_box": [
+        480,
+        40,
+        1320,
+        880
+      ],
+      "old_outer_dimensions": [
+        900,
+        840
+      ],
+      "new_outer_dimensions": [
+        840,
+        840
+      ],
+      "old_cell_sizes": [
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ]
+      ],
+      "new_cell_sizes": [
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ]
+      ],
+      "old_stem_centers": [
+        [
+          600,
+          180
+        ],
+        [
+          900,
+          180
+        ],
+        [
+          1200,
+          180
+        ],
+        [
+          600,
+          460
+        ],
+        [
+          900,
+          460
+        ],
+        [
+          1200,
+          460
+        ],
+        [
+          600,
+          740
+        ],
+        [
+          900,
+          740
+        ],
+        [
+          1200,
+          740
+        ]
+      ],
+      "new_stem_centers": [
+        [
+          620.0,
+          180.0
+        ],
+        [
+          900.0,
+          180.0
+        ],
+        [
+          1180.0,
+          180.0
+        ],
+        [
+          620.0,
+          460.0
+        ],
+        [
+          900.0,
+          460.0
+        ],
+        [
+          1180.0,
+          460.0
+        ],
+        [
+          620.0,
+          740.0
+        ],
+        [
+          900.0,
+          740.0
+        ],
+        [
+          1180.0,
+          740.0
+        ]
+      ],
+      "option_centers_unchanged": [
+        [
+          352.5,
+          1005.0
+        ],
+        [
+          717.5,
+          1005.0
+        ],
+        [
+          1082.5,
+          1005.0
+        ],
+        [
+          1447.5,
+          1005.0
+        ]
+      ],
+      "options_full_roi": [
+        0,
+        900,
+        1800,
+        1170
+      ],
+      "options_pixel_identical": true,
+      "source_png_sha256": "160280146374cc929d033c3fb2a741f5a1d1a5d580052c915661778d8b316e64",
+      "new_png_sha256": "6402aaeda45ccdd8d980611bb4b23d5d811c651c912b52ff0e038728eabcd036",
+      "content_roi_checks": [
+        {
+          "cell": 1,
+          "old_center": [
+            600,
+            180
+          ],
+          "new_center": [
+            620.0,
+            180.0
+          ],
+          "translation": [
+            20.0,
+            0.0
+          ],
+          "old_roi": [
+            475,
+            55,
+            725,
+            305
+          ],
+          "new_roi": [
+            495,
+            55,
+            745,
+            305
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "2a06c67843b3e353ccd88e1487319e52cdfc4a4cc9a19826a25c51d1c40f410c",
+          "actual_artwork_bbox_old": [
+            511,
+            91,
+            690,
+            270
+          ],
+          "actual_artwork_bbox_new": [
+            531.0,
+            91,
+            710.0,
+            270
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 2,
+          "old_center": [
+            900,
+            180
+          ],
+          "new_center": [
+            900.0,
+            180.0
+          ],
+          "translation": [
+            0.0,
+            0.0
+          ],
+          "old_roi": [
+            775,
+            55,
+            1025,
+            305
+          ],
+          "new_roi": [
+            775,
+            55,
+            1025,
+            305
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "3d05a310dd56f650e63143ed48378c59c0f77d3cfd58d74c93830c8cbdf9a051",
+          "actual_artwork_bbox_old": [
+            811,
+            91,
+            990,
+            270
+          ],
+          "actual_artwork_bbox_new": [
+            811.0,
+            91,
+            990.0,
+            270
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 3,
+          "old_center": [
+            1200,
+            180
+          ],
+          "new_center": [
+            1180.0,
+            180.0
+          ],
+          "translation": [
+            -20.0,
+            0.0
+          ],
+          "old_roi": [
+            1075,
+            55,
+            1325,
+            305
+          ],
+          "new_roi": [
+            1055,
+            55,
+            1305,
+            305
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "aaf52c5b0f90ee4ddca4644147f9f343318160ae7a360b732a84be1f94a1e4de",
+          "actual_artwork_bbox_old": [
+            1111,
+            91,
+            1290,
+            270
+          ],
+          "actual_artwork_bbox_new": [
+            1091.0,
+            91,
+            1270.0,
+            270
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 4,
+          "old_center": [
+            600,
+            460
+          ],
+          "new_center": [
+            620.0,
+            460.0
+          ],
+          "translation": [
+            20.0,
+            0.0
+          ],
+          "old_roi": [
+            475,
+            335,
+            725,
+            585
+          ],
+          "new_roi": [
+            495,
+            335,
+            745,
+            585
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "7d21bcc47caff81a5ea8b0cc95e6bd4cc10a3dd53202dc7ae3fc166e73fe58da",
+          "actual_artwork_bbox_old": [
+            511,
+            371,
+            690,
+            550
+          ],
+          "actual_artwork_bbox_new": [
+            531.0,
+            371,
+            710.0,
+            550
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 5,
+          "old_center": [
+            900,
+            460
+          ],
+          "new_center": [
+            900.0,
+            460.0
+          ],
+          "translation": [
+            0.0,
+            0.0
+          ],
+          "old_roi": [
+            775,
+            335,
+            1025,
+            585
+          ],
+          "new_roi": [
+            775,
+            335,
+            1025,
+            585
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "feb41c5b9cc18a9e89397e93760d4c8ed64ef235b28e2486e79777433b565421",
+          "actual_artwork_bbox_old": [
+            811,
+            371,
+            990,
+            550
+          ],
+          "actual_artwork_bbox_new": [
+            811.0,
+            371,
+            990.0,
+            550
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 6,
+          "old_center": [
+            1200,
+            460
+          ],
+          "new_center": [
+            1180.0,
+            460.0
+          ],
+          "translation": [
+            -20.0,
+            0.0
+          ],
+          "old_roi": [
+            1075,
+            335,
+            1325,
+            585
+          ],
+          "new_roi": [
+            1055,
+            335,
+            1305,
+            585
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "844b89fa9ff60d0084ca5a4fa17ef7ee405cb5cd6fce4e6a198327a8e35b7cc3",
+          "actual_artwork_bbox_old": [
+            1111,
+            371,
+            1290,
+            550
+          ],
+          "actual_artwork_bbox_new": [
+            1091.0,
+            371,
+            1270.0,
+            550
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 7,
+          "old_center": [
+            600,
+            740
+          ],
+          "new_center": [
+            620.0,
+            740.0
+          ],
+          "translation": [
+            20.0,
+            0.0
+          ],
+          "old_roi": [
+            475,
+            615,
+            725,
+            865
+          ],
+          "new_roi": [
+            495,
+            615,
+            745,
+            865
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "4f2977286b6554bc6a0ba7479a5f78d71165b32e3c417e03052252f732722dc2",
+          "actual_artwork_bbox_old": [
+            511,
+            651,
+            690,
+            830
+          ],
+          "actual_artwork_bbox_new": [
+            531.0,
+            651,
+            710.0,
+            830
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 8,
+          "old_center": [
+            900,
+            740
+          ],
+          "new_center": [
+            900.0,
+            740.0
+          ],
+          "translation": [
+            0.0,
+            0.0
+          ],
+          "old_roi": [
+            775,
+            615,
+            1025,
+            865
+          ],
+          "new_roi": [
+            775,
+            615,
+            1025,
+            865
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "37cf708372d5e8a0a26da7a081836e971661718b05072c3569506fa2d356daf9",
+          "actual_artwork_bbox_old": [
+            811,
+            651,
+            990,
+            830
+          ],
+          "actual_artwork_bbox_new": [
+            811.0,
+            651,
+            990.0,
+            830
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 9,
+          "old_center": [
+            1200,
+            740
+          ],
+          "new_center": [
+            1180.0,
+            740.0
+          ],
+          "translation": [
+            -20.0,
+            0.0
+          ],
+          "old_roi": [
+            1075,
+            615,
+            1325,
+            865
+          ],
+          "new_roi": [
+            1055,
+            615,
+            1305,
+            865
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "c51d63e730bc25be78d055b25c69c8181eb59072896ab79349465279240377ce",
+          "actual_artwork_bbox_old": [
+            1182,
+            703,
+            1220,
+            781
+          ],
+          "actual_artwork_bbox_new": [
+            1162.0,
+            703,
+            1200.0,
+            781
+          ],
+          "artwork_clearance_px_ltrb": [
+            122.0,
+            103,
+            120.0,
+            99
+          ]
+        }
+      ],
+      "wp_extent_unchanged": {
+        "cx": "5767753",
+        "cy": "3749039"
+      },
+      "picture_extent_unchanged": {
+        "cx": "5767753",
+        "cy": "3749039"
+      },
+      "ratio_rounding_error_emu": -0.4500000001862645,
+      "word_scaling_proportional": true
+    },
+    {
+      "question": 10,
+      "media": "word/media/image10.png",
+      "relationship_id": "rId20",
+      "old_png_size": [
+        1800,
+        1170
+      ],
+      "new_png_size": [
+        1800,
+        1170
+      ],
+      "old_outer_box": [
+        450,
+        40,
+        1350,
+        880
+      ],
+      "new_outer_box": [
+        480,
+        40,
+        1320,
+        880
+      ],
+      "old_outer_dimensions": [
+        900,
+        840
+      ],
+      "new_outer_dimensions": [
+        840,
+        840
+      ],
+      "old_cell_sizes": [
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ]
+      ],
+      "new_cell_sizes": [
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ]
+      ],
+      "old_stem_centers": [
+        [
+          600,
+          180
+        ],
+        [
+          900,
+          180
+        ],
+        [
+          1200,
+          180
+        ],
+        [
+          600,
+          460
+        ],
+        [
+          900,
+          460
+        ],
+        [
+          1200,
+          460
+        ],
+        [
+          600,
+          740
+        ],
+        [
+          900,
+          740
+        ],
+        [
+          1200,
+          740
+        ]
+      ],
+      "new_stem_centers": [
+        [
+          620.0,
+          180.0
+        ],
+        [
+          900.0,
+          180.0
+        ],
+        [
+          1180.0,
+          180.0
+        ],
+        [
+          620.0,
+          460.0
+        ],
+        [
+          900.0,
+          460.0
+        ],
+        [
+          1180.0,
+          460.0
+        ],
+        [
+          620.0,
+          740.0
+        ],
+        [
+          900.0,
+          740.0
+        ],
+        [
+          1180.0,
+          740.0
+        ]
+      ],
+      "option_centers_unchanged": [
+        [
+          352.5,
+          1005.0
+        ],
+        [
+          717.5,
+          1005.0
+        ],
+        [
+          1082.5,
+          1005.0
+        ],
+        [
+          1447.5,
+          1005.0
+        ]
+      ],
+      "options_full_roi": [
+        0,
+        900,
+        1800,
+        1170
+      ],
+      "options_pixel_identical": true,
+      "source_png_sha256": "0138ccbf13e46bfa09f5d7629468ae03e99521ec50f9eee6b11d005420703183",
+      "new_png_sha256": "5710a3bc90bb094ac4a8ee2afbbcb1d7230ff977715b3f766c123e5b4c68e07b",
+      "content_roi_checks": [
+        {
+          "cell": 1,
+          "old_center": [
+            600,
+            180
+          ],
+          "new_center": [
+            620.0,
+            180.0
+          ],
+          "translation": [
+            20.0,
+            0.0
+          ],
+          "old_roi": [
+            475,
+            55,
+            725,
+            305
+          ],
+          "new_roi": [
+            495,
+            55,
+            745,
+            305
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "5d3efce8fe847b1bd50bfe98e406cab901af17a07ca92f62761cf6133846252e",
+          "actual_artwork_bbox_old": [
+            572,
+            105,
+            614,
+            231
+          ],
+          "actual_artwork_bbox_new": [
+            592.0,
+            105,
+            634.0,
+            231
+          ],
+          "artwork_clearance_px_ltrb": [
+            112.0,
+            65,
+            126.0,
+            89
+          ]
+        },
+        {
+          "cell": 2,
+          "old_center": [
+            900,
+            180
+          ],
+          "new_center": [
+            900.0,
+            180.0
+          ],
+          "translation": [
+            0.0,
+            0.0
+          ],
+          "old_roi": [
+            775,
+            55,
+            1025,
+            305
+          ],
+          "new_roi": [
+            775,
+            55,
+            1025,
+            305
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "c9681e0f098122c83aa593d69ceee3dcc9657d5dd078a18bee9e3b5314ef5b06",
+          "actual_artwork_bbox_old": [
+            872,
+            114,
+            914,
+            231
+          ],
+          "actual_artwork_bbox_new": [
+            872.0,
+            114,
+            914.0,
+            231
+          ],
+          "artwork_clearance_px_ltrb": [
+            112.0,
+            74,
+            126.0,
+            89
+          ]
+        },
+        {
+          "cell": 3,
+          "old_center": [
+            1200,
+            180
+          ],
+          "new_center": [
+            1180.0,
+            180.0
+          ],
+          "translation": [
+            -20.0,
+            0.0
+          ],
+          "old_roi": [
+            1075,
+            55,
+            1325,
+            305
+          ],
+          "new_roi": [
+            1055,
+            55,
+            1305,
+            305
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "f02c007f034dd4b5f13b088f6d6c66c1ed75c17bae91eae8048f81ad22dc0a63",
+          "actual_artwork_bbox_old": [
+            1172,
+            105,
+            1229,
+            231
+          ],
+          "actual_artwork_bbox_new": [
+            1152.0,
+            105,
+            1209.0,
+            231
+          ],
+          "artwork_clearance_px_ltrb": [
+            112.0,
+            65,
+            111.0,
+            89
+          ]
+        },
+        {
+          "cell": 4,
+          "old_center": [
+            600,
+            460
+          ],
+          "new_center": [
+            620.0,
+            460.0
+          ],
+          "translation": [
+            20.0,
+            0.0
+          ],
+          "old_roi": [
+            475,
+            335,
+            725,
+            585
+          ],
+          "new_roi": [
+            495,
+            335,
+            745,
+            585
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "c207ea0147e4a7f4243b39ec61fa3af5506650fca13e8e99dc68733011b0304b",
+          "actual_artwork_bbox_old": [
+            559,
+            422,
+            650,
+            511
+          ],
+          "actual_artwork_bbox_new": [
+            579.0,
+            422,
+            670.0,
+            511
+          ],
+          "artwork_clearance_px_ltrb": [
+            99.0,
+            102,
+            90.0,
+            89
+          ]
+        },
+        {
+          "cell": 5,
+          "old_center": [
+            900,
+            460
+          ],
+          "new_center": [
+            900.0,
+            460.0
+          ],
+          "translation": [
+            0.0,
+            0.0
+          ],
+          "old_roi": [
+            775,
+            335,
+            1025,
+            585
+          ],
+          "new_roi": [
+            775,
+            335,
+            1025,
+            585
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "701cc3032382518ac0974a80184849d6f1e6d889b3f3bc7f40489d69ea471c5e",
+          "actual_artwork_bbox_old": [
+            850,
+            422,
+            941,
+            534
+          ],
+          "actual_artwork_bbox_new": [
+            850.0,
+            422,
+            941.0,
+            534
+          ],
+          "artwork_clearance_px_ltrb": [
+            90.0,
+            102,
+            99.0,
+            66
+          ]
+        },
+        {
+          "cell": 6,
+          "old_center": [
+            1200,
+            460
+          ],
+          "new_center": [
+            1180.0,
+            460.0
+          ],
+          "translation": [
+            -20.0,
+            0.0
+          ],
+          "old_roi": [
+            1075,
+            335,
+            1325,
+            585
+          ],
+          "new_roi": [
+            1055,
+            335,
+            1305,
+            585
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "019f932642b64990414144ffcaa09bebda91df4f106495fff805172621de7cbd",
+          "actual_artwork_bbox_old": [
+            1159,
+            422,
+            1250,
+            534
+          ],
+          "actual_artwork_bbox_new": [
+            1139.0,
+            422,
+            1230.0,
+            534
+          ],
+          "artwork_clearance_px_ltrb": [
+            99.0,
+            102,
+            90.0,
+            66
+          ]
+        },
+        {
+          "cell": 7,
+          "old_center": [
+            600,
+            740
+          ],
+          "new_center": [
+            620.0,
+            740.0
+          ],
+          "translation": [
+            20.0,
+            0.0
+          ],
+          "old_roi": [
+            475,
+            615,
+            725,
+            865
+          ],
+          "new_roi": [
+            495,
+            615,
+            745,
+            865
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "8bb68713b00a88fda8ef37f0164fee88a9a7b4c6bec766cb66d92a5f2aa35e58",
+          "actual_artwork_bbox_old": [
+            572,
+            674,
+            629,
+            791
+          ],
+          "actual_artwork_bbox_new": [
+            592.0,
+            674,
+            649.0,
+            791
+          ],
+          "artwork_clearance_px_ltrb": [
+            112.0,
+            74,
+            111.0,
+            89
+          ]
+        },
+        {
+          "cell": 8,
+          "old_center": [
+            900,
+            740
+          ],
+          "new_center": [
+            900.0,
+            740.0
+          ],
+          "translation": [
+            0.0,
+            0.0
+          ],
+          "old_roi": [
+            775,
+            615,
+            1025,
+            865
+          ],
+          "new_roi": [
+            775,
+            615,
+            1025,
+            865
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "7a075288ea00545204841a6dc467ac8047c7b1e9c23a781fa2ef88108748767b",
+          "actual_artwork_bbox_old": [
+            872,
+            665,
+            929,
+            814
+          ],
+          "actual_artwork_bbox_new": [
+            872.0,
+            665,
+            929.0,
+            814
+          ],
+          "artwork_clearance_px_ltrb": [
+            112.0,
+            65,
+            111.0,
+            66
+          ]
+        },
+        {
+          "cell": 9,
+          "old_center": [
+            1200,
+            740
+          ],
+          "new_center": [
+            1180.0,
+            740.0
+          ],
+          "translation": [
+            -20.0,
+            0.0
+          ],
+          "old_roi": [
+            1075,
+            615,
+            1325,
+            865
+          ],
+          "new_roi": [
+            1055,
+            615,
+            1305,
+            865
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "c51d63e730bc25be78d055b25c69c8181eb59072896ab79349465279240377ce",
+          "actual_artwork_bbox_old": [
+            1182,
+            703,
+            1220,
+            781
+          ],
+          "actual_artwork_bbox_new": [
+            1162.0,
+            703,
+            1200.0,
+            781
+          ],
+          "artwork_clearance_px_ltrb": [
+            122.0,
+            103,
+            120.0,
+            99
+          ]
+        }
+      ],
+      "wp_extent_unchanged": {
+        "cx": "5767753",
+        "cy": "3749039"
+      },
+      "picture_extent_unchanged": {
+        "cx": "5767753",
+        "cy": "3749039"
+      },
+      "ratio_rounding_error_emu": -0.4500000001862645,
+      "word_scaling_proportional": true
+    },
+    {
+      "question": 11,
+      "media": "word/media/image11.png",
+      "relationship_id": "rId21",
+      "old_png_size": [
+        1800,
+        1170
+      ],
+      "new_png_size": [
+        1800,
+        1170
+      ],
+      "old_outer_box": [
+        450,
+        40,
+        1350,
+        880
+      ],
+      "new_outer_box": [
+        480,
+        40,
+        1320,
+        880
+      ],
+      "old_outer_dimensions": [
+        900,
+        840
+      ],
+      "new_outer_dimensions": [
+        840,
+        840
+      ],
+      "old_cell_sizes": [
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ]
+      ],
+      "new_cell_sizes": [
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ]
+      ],
+      "old_stem_centers": [
+        [
+          600,
+          180
+        ],
+        [
+          900,
+          180
+        ],
+        [
+          1200,
+          180
+        ],
+        [
+          600,
+          460
+        ],
+        [
+          900,
+          460
+        ],
+        [
+          1200,
+          460
+        ],
+        [
+          600,
+          740
+        ],
+        [
+          900,
+          740
+        ],
+        [
+          1200,
+          740
+        ]
+      ],
+      "new_stem_centers": [
+        [
+          620.0,
+          180.0
+        ],
+        [
+          900.0,
+          180.0
+        ],
+        [
+          1180.0,
+          180.0
+        ],
+        [
+          620.0,
+          460.0
+        ],
+        [
+          900.0,
+          460.0
+        ],
+        [
+          1180.0,
+          460.0
+        ],
+        [
+          620.0,
+          740.0
+        ],
+        [
+          900.0,
+          740.0
+        ],
+        [
+          1180.0,
+          740.0
+        ]
+      ],
+      "option_centers_unchanged": [
+        [
+          352.5,
+          1005.0
+        ],
+        [
+          717.5,
+          1005.0
+        ],
+        [
+          1082.5,
+          1005.0
+        ],
+        [
+          1447.5,
+          1005.0
+        ]
+      ],
+      "options_full_roi": [
+        0,
+        900,
+        1800,
+        1170
+      ],
+      "options_pixel_identical": true,
+      "source_png_sha256": "143b5cf6f65c2c5c324d7e437a347a6da1ea3a7d7a7d69f9b53c7e837a627fac",
+      "new_png_sha256": "795e0eb0f1e7d30e8362d6527f0e641191cf677d882367050a8741247421d990",
+      "content_roi_checks": [
+        {
+          "cell": 1,
+          "old_center": [
+            600,
+            180
+          ],
+          "new_center": [
+            620.0,
+            180.0
+          ],
+          "translation": [
+            20.0,
+            0.0
+          ],
+          "old_roi": [
+            475,
+            55,
+            725,
+            305
+          ],
+          "new_roi": [
+            495,
+            55,
+            745,
+            305
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "f7213dbe3237251155ae984cdd158adbe4f820194a3a926478d3c89f98b25317",
+          "actual_artwork_bbox_old": [
+            524,
+            84,
+            676,
+            215
+          ],
+          "actual_artwork_bbox_new": [
+            544.0,
+            84,
+            696.0,
+            215
+          ],
+          "artwork_clearance_px_ltrb": [
+            64.0,
+            44,
+            64.0,
+            105
+          ]
+        },
+        {
+          "cell": 2,
+          "old_center": [
+            900,
+            180
+          ],
+          "new_center": [
+            900.0,
+            180.0
+          ],
+          "translation": [
+            0.0,
+            0.0
+          ],
+          "old_roi": [
+            775,
+            55,
+            1025,
+            305
+          ],
+          "new_roi": [
+            775,
+            55,
+            1025,
+            305
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "95833007fa3928004800084cf5a3744cd613882140fc90dd6782d574e50e9df8",
+          "actual_artwork_bbox_old": [
+            824,
+            84,
+            976,
+            215
+          ],
+          "actual_artwork_bbox_new": [
+            824.0,
+            84,
+            976.0,
+            215
+          ],
+          "artwork_clearance_px_ltrb": [
+            64.0,
+            44,
+            64.0,
+            105
+          ]
+        },
+        {
+          "cell": 3,
+          "old_center": [
+            1200,
+            180
+          ],
+          "new_center": [
+            1180.0,
+            180.0
+          ],
+          "translation": [
+            -20.0,
+            0.0
+          ],
+          "old_roi": [
+            1075,
+            55,
+            1325,
+            305
+          ],
+          "new_roi": [
+            1055,
+            55,
+            1305,
+            305
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "6e5bf87ba5d31d3c6989f488bd6577f61b2b0df4fe2335a1c58c9bc3d7872a93",
+          "actual_artwork_bbox_old": [
+            1124,
+            83,
+            1276,
+            258
+          ],
+          "actual_artwork_bbox_new": [
+            1104.0,
+            83,
+            1256.0,
+            258
+          ],
+          "artwork_clearance_px_ltrb": [
+            64.0,
+            43,
+            64.0,
+            62
+          ]
+        },
+        {
+          "cell": 4,
+          "old_center": [
+            600,
+            460
+          ],
+          "new_center": [
+            620.0,
+            460.0
+          ],
+          "translation": [
+            20.0,
+            0.0
+          ],
+          "old_roi": [
+            475,
+            335,
+            725,
+            585
+          ],
+          "new_roi": [
+            495,
+            335,
+            745,
+            585
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "963dc11e38d4418bfef3d6822e01c2e467e9bd4dd0b8040f1600fbaae2384860",
+          "actual_artwork_bbox_old": [
+            513,
+            364,
+            687,
+            537
+          ],
+          "actual_artwork_bbox_new": [
+            533.0,
+            364,
+            707.0,
+            537
+          ],
+          "artwork_clearance_px_ltrb": [
+            53.0,
+            44,
+            53.0,
+            63
+          ]
+        },
+        {
+          "cell": 5,
+          "old_center": [
+            900,
+            460
+          ],
+          "new_center": [
+            900.0,
+            460.0
+          ],
+          "translation": [
+            0.0,
+            0.0
+          ],
+          "old_roi": [
+            775,
+            335,
+            1025,
+            585
+          ],
+          "new_roi": [
+            775,
+            335,
+            1025,
+            585
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "95833007fa3928004800084cf5a3744cd613882140fc90dd6782d574e50e9df8",
+          "actual_artwork_bbox_old": [
+            824,
+            364,
+            976,
+            495
+          ],
+          "actual_artwork_bbox_new": [
+            824.0,
+            364,
+            976.0,
+            495
+          ],
+          "artwork_clearance_px_ltrb": [
+            64.0,
+            44,
+            64.0,
+            105
+          ]
+        },
+        {
+          "cell": 6,
+          "old_center": [
+            1200,
+            460
+          ],
+          "new_center": [
+            1180.0,
+            460.0
+          ],
+          "translation": [
+            -20.0,
+            0.0
+          ],
+          "old_roi": [
+            1075,
+            335,
+            1325,
+            585
+          ],
+          "new_roi": [
+            1055,
+            335,
+            1305,
+            585
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "02c78ca5216fc0192c45ef4d2eb3a5ef20c851e4f716280a07744e4cd3d55800",
+          "actual_artwork_bbox_old": [
+            1115,
+            363,
+            1285,
+            529
+          ],
+          "actual_artwork_bbox_new": [
+            1095.0,
+            363,
+            1265.0,
+            529
+          ],
+          "artwork_clearance_px_ltrb": [
+            55.0,
+            43,
+            55.0,
+            71
+          ]
+        },
+        {
+          "cell": 7,
+          "old_center": [
+            600,
+            740
+          ],
+          "new_center": [
+            620.0,
+            740.0
+          ],
+          "translation": [
+            20.0,
+            0.0
+          ],
+          "old_roi": [
+            475,
+            615,
+            725,
+            865
+          ],
+          "new_roi": [
+            495,
+            615,
+            745,
+            865
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "60d5e47da4490001f8d3f5798d4fbc294cb3c9a49739e578c3f794f6936f78e5",
+          "actual_artwork_bbox_old": [
+            517,
+            643,
+            683,
+            801
+          ],
+          "actual_artwork_bbox_new": [
+            537.0,
+            643,
+            703.0,
+            801
+          ],
+          "artwork_clearance_px_ltrb": [
+            57.0,
+            43,
+            57.0,
+            79
+          ]
+        },
+        {
+          "cell": 8,
+          "old_center": [
+            900,
+            740
+          ],
+          "new_center": [
+            900.0,
+            740.0
+          ],
+          "translation": [
+            0.0,
+            0.0
+          ],
+          "old_roi": [
+            775,
+            615,
+            1025,
+            865
+          ],
+          "new_roi": [
+            775,
+            615,
+            1025,
+            865
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "8eb1422620ddd223d3f237028c33090d6f0e9277ff2c1d9b3dd7c1134f72d17c",
+          "actual_artwork_bbox_old": [
+            824,
+            644,
+            976,
+            775
+          ],
+          "actual_artwork_bbox_new": [
+            824.0,
+            644,
+            976.0,
+            775
+          ],
+          "artwork_clearance_px_ltrb": [
+            64.0,
+            44,
+            64.0,
+            105
+          ]
+        },
+        {
+          "cell": 9,
+          "old_center": [
+            1200,
+            740
+          ],
+          "new_center": [
+            1180.0,
+            740.0
+          ],
+          "translation": [
+            -20.0,
+            0.0
+          ],
+          "old_roi": [
+            1075,
+            615,
+            1325,
+            865
+          ],
+          "new_roi": [
+            1055,
+            615,
+            1305,
+            865
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "c51d63e730bc25be78d055b25c69c8181eb59072896ab79349465279240377ce",
+          "actual_artwork_bbox_old": [
+            1182,
+            703,
+            1220,
+            781
+          ],
+          "actual_artwork_bbox_new": [
+            1162.0,
+            703,
+            1200.0,
+            781
+          ],
+          "artwork_clearance_px_ltrb": [
+            122.0,
+            103,
+            120.0,
+            99
+          ]
+        }
+      ],
+      "wp_extent_unchanged": {
+        "cx": "5767753",
+        "cy": "3749039"
+      },
+      "picture_extent_unchanged": {
+        "cx": "5767753",
+        "cy": "3749039"
+      },
+      "ratio_rounding_error_emu": -0.4500000001862645,
+      "word_scaling_proportional": true
+    },
+    {
+      "question": 12,
+      "media": "word/media/image12.png",
+      "relationship_id": "rId22",
+      "old_png_size": [
+        1800,
+        1170
+      ],
+      "new_png_size": [
+        1800,
+        1170
+      ],
+      "old_outer_box": [
+        450,
+        40,
+        1350,
+        880
+      ],
+      "new_outer_box": [
+        480,
+        40,
+        1320,
+        880
+      ],
+      "old_outer_dimensions": [
+        900,
+        840
+      ],
+      "new_outer_dimensions": [
+        840,
+        840
+      ],
+      "old_cell_sizes": [
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ],
+        [
+          300,
+          280
+        ]
+      ],
+      "new_cell_sizes": [
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ],
+        [
+          280,
+          280
+        ]
+      ],
+      "old_stem_centers": [
+        [
+          600,
+          180
+        ],
+        [
+          900,
+          180
+        ],
+        [
+          1200,
+          180
+        ],
+        [
+          600,
+          460
+        ],
+        [
+          900,
+          460
+        ],
+        [
+          1200,
+          460
+        ],
+        [
+          600,
+          740
+        ],
+        [
+          900,
+          740
+        ],
+        [
+          1200,
+          740
+        ]
+      ],
+      "new_stem_centers": [
+        [
+          620.0,
+          180.0
+        ],
+        [
+          900.0,
+          180.0
+        ],
+        [
+          1180.0,
+          180.0
+        ],
+        [
+          620.0,
+          460.0
+        ],
+        [
+          900.0,
+          460.0
+        ],
+        [
+          1180.0,
+          460.0
+        ],
+        [
+          620.0,
+          740.0
+        ],
+        [
+          900.0,
+          740.0
+        ],
+        [
+          1180.0,
+          740.0
+        ]
+      ],
+      "option_centers_unchanged": [
+        [
+          352.5,
+          1005.0
+        ],
+        [
+          717.5,
+          1005.0
+        ],
+        [
+          1082.5,
+          1005.0
+        ],
+        [
+          1447.5,
+          1005.0
+        ]
+      ],
+      "options_full_roi": [
+        0,
+        900,
+        1800,
+        1170
+      ],
+      "options_pixel_identical": true,
+      "source_png_sha256": "77e80ce1294bfd52fb2d56ce8cc59269d2021338af73d50fd18a0826d02fbcbc",
+      "new_png_sha256": "55d29db30fdacbc0356a4aa3580821b60fd5a63977ea28250655351b71189afc",
+      "content_roi_checks": [
+        {
+          "cell": 1,
+          "old_center": [
+            600,
+            180
+          ],
+          "new_center": [
+            620.0,
+            180.0
+          ],
+          "translation": [
+            20.0,
+            0.0
+          ],
+          "old_roi": [
+            475,
+            55,
+            725,
+            305
+          ],
+          "new_roi": [
+            495,
+            55,
+            745,
+            305
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "d4a80fd1f5f204025ee91954145437dbc387c1fd0d335c3b5cc4eb0aca58b507",
+          "actual_artwork_bbox_old": [
+            511,
+            91,
+            690,
+            270
+          ],
+          "actual_artwork_bbox_new": [
+            531.0,
+            91,
+            710.0,
+            270
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 2,
+          "old_center": [
+            900,
+            180
+          ],
+          "new_center": [
+            900.0,
+            180.0
+          ],
+          "translation": [
+            0.0,
+            0.0
+          ],
+          "old_roi": [
+            775,
+            55,
+            1025,
+            305
+          ],
+          "new_roi": [
+            775,
+            55,
+            1025,
+            305
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "40591c7ddcde34dd3fd7a7d8c786c857fadd1715e257e6d8319f00c33c792c60",
+          "actual_artwork_bbox_old": [
+            811,
+            91,
+            990,
+            270
+          ],
+          "actual_artwork_bbox_new": [
+            811.0,
+            91,
+            990.0,
+            270
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 3,
+          "old_center": [
+            1200,
+            180
+          ],
+          "new_center": [
+            1180.0,
+            180.0
+          ],
+          "translation": [
+            -20.0,
+            0.0
+          ],
+          "old_roi": [
+            1075,
+            55,
+            1325,
+            305
+          ],
+          "new_roi": [
+            1055,
+            55,
+            1305,
+            305
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "527738ef22b8c021ba1eea7d05cd1ae6cf49a0da9b0ea65b7f1645b9b3428e87",
+          "actual_artwork_bbox_old": [
+            1111,
+            91,
+            1290,
+            270
+          ],
+          "actual_artwork_bbox_new": [
+            1091.0,
+            91,
+            1270.0,
+            270
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 4,
+          "old_center": [
+            600,
+            460
+          ],
+          "new_center": [
+            620.0,
+            460.0
+          ],
+          "translation": [
+            20.0,
+            0.0
+          ],
+          "old_roi": [
+            475,
+            335,
+            725,
+            585
+          ],
+          "new_roi": [
+            495,
+            335,
+            745,
+            585
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "09bee4732e9a842669f99b89f94b74fd5e5ee78fc25333f23e0df56ed12bdd7c",
+          "actual_artwork_bbox_old": [
+            511,
+            371,
+            690,
+            550
+          ],
+          "actual_artwork_bbox_new": [
+            531.0,
+            371,
+            710.0,
+            550
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 5,
+          "old_center": [
+            900,
+            460
+          ],
+          "new_center": [
+            900.0,
+            460.0
+          ],
+          "translation": [
+            0.0,
+            0.0
+          ],
+          "old_roi": [
+            775,
+            335,
+            1025,
+            585
+          ],
+          "new_roi": [
+            775,
+            335,
+            1025,
+            585
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "8038050a1e07ae085e3ab71f26b0b375c819b93ee65f4de01fc7c33392bc2f11",
+          "actual_artwork_bbox_old": [
+            811,
+            371,
+            990,
+            550
+          ],
+          "actual_artwork_bbox_new": [
+            811.0,
+            371,
+            990.0,
+            550
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 6,
+          "old_center": [
+            1200,
+            460
+          ],
+          "new_center": [
+            1180.0,
+            460.0
+          ],
+          "translation": [
+            -20.0,
+            0.0
+          ],
+          "old_roi": [
+            1075,
+            335,
+            1325,
+            585
+          ],
+          "new_roi": [
+            1055,
+            335,
+            1305,
+            585
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "9138093f3ec44fca51ef28320a98f5604fbb92fd67f77868a45095e3bf9ddc35",
+          "actual_artwork_bbox_old": [
+            1111,
+            371,
+            1290,
+            550
+          ],
+          "actual_artwork_bbox_new": [
+            1091.0,
+            371,
+            1270.0,
+            550
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 7,
+          "old_center": [
+            600,
+            740
+          ],
+          "new_center": [
+            620.0,
+            740.0
+          ],
+          "translation": [
+            20.0,
+            0.0
+          ],
+          "old_roi": [
+            475,
+            615,
+            725,
+            865
+          ],
+          "new_roi": [
+            495,
+            615,
+            745,
+            865
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "dff513e8c34ca796377e43a0a4668a34769234b58f743cbeced80d05bc7cdcfb",
+          "actual_artwork_bbox_old": [
+            511,
+            651,
+            690,
+            830
+          ],
+          "actual_artwork_bbox_new": [
+            531.0,
+            651,
+            710.0,
+            830
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 8,
+          "old_center": [
+            900,
+            740
+          ],
+          "new_center": [
+            900.0,
+            740.0
+          ],
+          "translation": [
+            0.0,
+            0.0
+          ],
+          "old_roi": [
+            775,
+            615,
+            1025,
+            865
+          ],
+          "new_roi": [
+            775,
+            615,
+            1025,
+            865
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "527738ef22b8c021ba1eea7d05cd1ae6cf49a0da9b0ea65b7f1645b9b3428e87",
+          "actual_artwork_bbox_old": [
+            811,
+            651,
+            990,
+            830
+          ],
+          "actual_artwork_bbox_new": [
+            811.0,
+            651,
+            990.0,
+            830
+          ],
+          "artwork_clearance_px_ltrb": [
+            51.0,
+            51,
+            50.0,
+            50
+          ]
+        },
+        {
+          "cell": 9,
+          "old_center": [
+            1200,
+            740
+          ],
+          "new_center": [
+            1180.0,
+            740.0
+          ],
+          "translation": [
+            -20.0,
+            0.0
+          ],
+          "old_roi": [
+            1075,
+            615,
+            1325,
+            865
+          ],
+          "new_roi": [
+            1055,
+            615,
+            1305,
+            865
+          ],
+          "pixel_identical_after_translation": true,
+          "rgb_sha256": "c51d63e730bc25be78d055b25c69c8181eb59072896ab79349465279240377ce",
+          "actual_artwork_bbox_old": [
+            1182,
+            703,
+            1220,
+            781
+          ],
+          "actual_artwork_bbox_new": [
+            1162.0,
+            703,
+            1200.0,
+            781
+          ],
+          "artwork_clearance_px_ltrb": [
+            122.0,
+            103,
+            120.0,
+            99
+          ]
+        }
+      ],
+      "wp_extent_unchanged": {
+        "cx": "5767753",
+        "cy": "3749039"
+      },
+      "picture_extent_unchanged": {
+        "cx": "5767753",
+        "cy": "3749039"
+      },
+      "ratio_rounding_error_emu": -0.4500000001862645,
+      "word_scaling_proportional": true
+    }
+  ]
+}
