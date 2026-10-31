@@ -1,0 +1,23 @@
+{
+  "output": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\第001期_只有才_60秒_无声预览.mp4",
+  "duration_seconds": 60,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "codec": "H.264",
+  "audio_present": false,
+  "full_decode_error_count": 0,
+  "visual_frame_samples": [
+    0,
+    450,
+    900,
+    1380,
+    1799
+  ],
+  "visual_check": "题卡顺序正确，末帧完整",
+  "jianying_draft_name": "判断推理001_只有才_待配音",
+  "jianying_timeline_duration": "00:01:00:00",
+  "jianying_cover": "00_视频封面.png",
+  "jianying_save_confirmed_in_ui": true,
+  "sha256": "0DF5D29DE3CFB4DC7D186C2D192079EA6FC891072A200D61A23286E58CB54F1A"
+}

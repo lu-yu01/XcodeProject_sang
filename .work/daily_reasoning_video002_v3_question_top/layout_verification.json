@@ -1,0 +1,30 @@
+{
+  "canvas": [
+    1080,
+    1920
+  ],
+  "question_fixed_box": [
+    80,
+    290,
+    900,
+    644
+  ],
+  "derivation_crop": [
+    80,
+    490,
+    900,
+    1260
+  ],
+  "derivation_target": [
+    146,
+    700,
+    835,
+    1347
+  ],
+  "question_fixed_across_scene_2_3": true,
+  "scene1_unchanged": true,
+  "scene4_unchanged": true,
+  "timing_table_copy_identical": true,
+  "full_video_rendered": false,
+  "visual_review": "已实际查看关键帧05、09两张完整1080×1920及12帧总览，原题全图和A-D始终可见，下方动态推导等比缩放，无裁切重叠。"
+}

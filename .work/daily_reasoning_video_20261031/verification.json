@@ -1,0 +1,68 @@
+{
+  "episode": "001",
+  "assets": [
+    {
+      "file": "00_视频封面.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "97b278678b77ea91e683bfcd46e58f150f6dc91f3ee4c25aa2eac8829e7aec56"
+    },
+    {
+      "file": "01_先做一道题.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "6eec0a14a7af147bd45f955f1d8613dc784bad49acb607051046a5256f09b563"
+    },
+    {
+      "file": "02_揭晓答案.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "25ac2826511af3506cdb3d94a6b76c604d67cb6fdcbfbbf5e3d887334a9c6415"
+    },
+    {
+      "file": "03_记住方法.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "b0fc2ac46e211d0efde6c16a993a7a401c383278183fc04f18b6c04a847b0e35"
+    },
+    {
+      "file": "04_换题练一练.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "e772526aa1c40e0200b150b6256905954c36ece7f90c3de97873c055608c1665"
+    },
+    {
+      "file": "题卡总览.png",
+      "width": 1080,
+      "height": 2050,
+      "sha256": "55f684b6a13cff09e8ec3373fb2c2ccb57f8da115885e7f95b12e504383993ff"
+    }
+  ],
+  "logic": {
+    "premise": "B implies A",
+    "valid_valuations_A_B": [
+      [
+        false,
+        false
+      ],
+      [
+        true,
+        false
+      ],
+      [
+        true,
+        true
+      ]
+    ],
+    "example_answer": "B 不能确定",
+    "practice_answer": "B 不能确定",
+    "contrapositive_valid": true
+  },
+  "visual_review": {
+    "cover": "已实际查看",
+    "four_cards": "已在最终总览逐张查看，未见裁切或重叠",
+    "platform_preview": "待实际剪辑与发布预览时核对"
+  },
+  "voice": "逐页文本，未录制人声",
+  "video": "未合成成片；60秒为参考编排"
+}

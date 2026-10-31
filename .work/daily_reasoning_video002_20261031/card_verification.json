@@ -1,0 +1,44 @@
+{
+  "source_sha256": "37e500f10b990423cef52a9659acff488acfb7047e520fe3b633a6b5558458da",
+  "source_copy_identical": true,
+  "images": {
+    "00_视频封面.png": {
+      "size": [
+        1080,
+        1920
+      ],
+      "sha256": "fed09709fc9c1c8af611577a4b4852eac33d79e454c830213f66f257caf9af90"
+    },
+    "01_先做一道题.png": {
+      "size": [
+        1080,
+        1920
+      ],
+      "sha256": "589c31ef8a27426d3d7d7ccf38047d0b7ea5c5812c25f9101468ec203ea5cb39"
+    },
+    "02_第一组找规律.png": {
+      "size": [
+        1080,
+        1920
+      ],
+      "sha256": "2aaf19a4e68540a9249c27dfee5920400d4a563b898cfe89826176099b5e08a7"
+    },
+    "03_第二组用规律.png": {
+      "size": [
+        1080,
+        1920
+      ],
+      "sha256": "9cffb6968833adaa09944117a227b78032af6c63092511205f4c0ae6f1d042bb"
+    },
+    "04_记住三步方法.png": {
+      "size": [
+        1080,
+        1920
+      ],
+      "sha256": "956b47fb4aabe3ca584b9a4603729258ae8a8c35c6d6773cf0b0df9506f5ef5d"
+    }
+  },
+  "visual_review": "生成代理已实际逐张查看封面和四卡，未见文字裁切或重叠，原题和选项保留；无未经验证的精确交集叠图。",
+  "script_requires": "Python + Pillow; Windows Microsoft YaHei fonts",
+  "source_label": "用户提供题目与解析，未核实考试出处。"
+}

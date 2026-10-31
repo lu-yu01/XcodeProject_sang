@@ -1,0 +1,16 @@
+{
+  "video": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\第002讲_去异求同_sangsang口音版.mp4",
+  "sha256": "77aadb9c53c70664dca219b84dced1fe6b8ac598f3b0923979874ad8b8a9175a",
+  "duration_seconds": 49.8,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frame_count": 1494,
+  "decode": "passed",
+  "frame_review": "four representative decoded frames viewed",
+  "thinking_silence_seconds": 3.623016,
+  "manual_audio_review": "pending user",
+  "published": false
+}
