@@ -1,0 +1,24 @@
+{
+  "cards": [
+    "01_先做一道题.png",
+    "02_第一组找规律.png",
+    "03_第二组用规律.png",
+    "04_记住三步方法.png"
+  ],
+  "card_seconds": [
+    13.3,
+    12.0,
+    12.6,
+    11.9
+  ],
+  "source_audio_trim_seconds": [
+    10.5,
+    12.0,
+    12.6,
+    11.9
+  ],
+  "first_card_added_silence_seconds": 2.8,
+  "total_seconds": 49.8,
+  "output": "第002讲_去异求同_sangsang口音版.mp4",
+  "metadata": "Copy AIGC from first input; original metadata for all four audio sources retained in source exports."
+}

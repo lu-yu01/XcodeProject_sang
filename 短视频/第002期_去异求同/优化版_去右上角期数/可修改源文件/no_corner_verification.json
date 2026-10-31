@@ -1,0 +1,158 @@
+{
+  "changes": "仅去除header/question_top_layout右上期数及片尾静态卡角标",
+  "static_card_glyph_box": [
+    745,
+    171,
+    858,
+    201
+  ],
+  "sampled_frames": [
+    {
+      "scene": 1,
+      "seconds": 0.1,
+      "changed_bbox": [
+        748,
+        154,
+        856,
+        182
+      ],
+      "outside_corner_identical": true,
+      "corner_is_background": true
+    },
+    {
+      "scene": 1,
+      "seconds": 5,
+      "changed_bbox": [
+        748,
+        154,
+        856,
+        182
+      ],
+      "outside_corner_identical": true,
+      "corner_is_background": true
+    },
+    {
+      "scene": 1,
+      "seconds": 13.200000000000001,
+      "changed_bbox": [
+        748,
+        154,
+        856,
+        182
+      ],
+      "outside_corner_identical": true,
+      "corner_is_background": true
+    },
+    {
+      "scene": 2,
+      "seconds": 0.1,
+      "changed_bbox": [
+        748,
+        99,
+        849,
+        125
+      ],
+      "outside_corner_identical": true,
+      "corner_is_background": true
+    },
+    {
+      "scene": 2,
+      "seconds": 5,
+      "changed_bbox": [
+        748,
+        99,
+        849,
+        125
+      ],
+      "outside_corner_identical": true,
+      "corner_is_background": true
+    },
+    {
+      "scene": 2,
+      "seconds": 23.0,
+      "changed_bbox": [
+        748,
+        99,
+        849,
+        125
+      ],
+      "outside_corner_identical": true,
+      "corner_is_background": true
+    },
+    {
+      "scene": 3,
+      "seconds": 0.1,
+      "changed_bbox": [
+        748,
+        99,
+        849,
+        125
+      ],
+      "outside_corner_identical": true,
+      "corner_is_background": true
+    },
+    {
+      "scene": 3,
+      "seconds": 5,
+      "changed_bbox": [
+        748,
+        99,
+        849,
+        125
+      ],
+      "outside_corner_identical": true,
+      "corner_is_background": true
+    },
+    {
+      "scene": 3,
+      "seconds": 27.099999999999998,
+      "changed_bbox": [
+        748,
+        99,
+        849,
+        125
+      ],
+      "outside_corner_identical": true,
+      "corner_is_background": true
+    },
+    {
+      "scene": 4,
+      "seconds": 0.1,
+      "changed_bbox": [
+        745,
+        171,
+        858,
+        201
+      ],
+      "outside_corner_identical": true,
+      "corner_is_background": true
+    },
+    {
+      "scene": 4,
+      "seconds": 5,
+      "changed_bbox": [
+        745,
+        171,
+        858,
+        201
+      ],
+      "outside_corner_identical": true,
+      "corner_is_background": true
+    },
+    {
+      "scene": 4,
+      "seconds": 11.8,
+      "changed_bbox": [
+        745,
+        171,
+        858,
+        201
+      ],
+      "outside_corner_identical": true,
+      "corner_is_background": true
+    }
+  ],
+  "timing_table_copy_identical": true,
+  "full_video_rendered": false,
+  "visual_review": "已实际查看原始04静态卡与新关键帧01、05、09、12四张完整1080×1920，四段均无右上期数，进度和正文保留。"
+}

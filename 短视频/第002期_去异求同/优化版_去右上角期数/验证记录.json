@@ -1,0 +1,201 @@
+{
+  "video": "第002讲_去异求同_无角标版.mp4",
+  "duration_seconds": 75.5,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 2265,
+  "full_video_rendered": true,
+  "decode_exit_code": 0,
+  "black_segments_detected": false,
+  "AIGC_metadata_retained": true,
+  "audio_identical_to_previous_version": true,
+  "decoded_audio_sha256": "SHA256=c31143eb7a86b69a16b5543d241620c3c284b9a98a790d78a2d0d2cade8ce446",
+  "scene_durations": [
+    13.3,
+    23.1,
+    27.2,
+    11.9
+  ],
+  "question_visible_during": [
+    13.3,
+    63.6
+  ],
+  "question_and_options_fixed_box": [
+    80,
+    290,
+    900,
+    644
+  ],
+  "corner_source_verification": {
+    "changes": "仅去除header/question_top_layout右上期数及片尾静态卡角标",
+    "static_card_glyph_box": [
+      745,
+      171,
+      858,
+      201
+    ],
+    "sampled_frames": [
+      {
+        "scene": 1,
+        "seconds": 0.1,
+        "changed_bbox": [
+          748,
+          154,
+          856,
+          182
+        ],
+        "outside_corner_identical": true,
+        "corner_is_background": true
+      },
+      {
+        "scene": 1,
+        "seconds": 5,
+        "changed_bbox": [
+          748,
+          154,
+          856,
+          182
+        ],
+        "outside_corner_identical": true,
+        "corner_is_background": true
+      },
+      {
+        "scene": 1,
+        "seconds": 13.200000000000001,
+        "changed_bbox": [
+          748,
+          154,
+          856,
+          182
+        ],
+        "outside_corner_identical": true,
+        "corner_is_background": true
+      },
+      {
+        "scene": 2,
+        "seconds": 0.1,
+        "changed_bbox": [
+          748,
+          99,
+          849,
+          125
+        ],
+        "outside_corner_identical": true,
+        "corner_is_background": true
+      },
+      {
+        "scene": 2,
+        "seconds": 5,
+        "changed_bbox": [
+          748,
+          99,
+          849,
+          125
+        ],
+        "outside_corner_identical": true,
+        "corner_is_background": true
+      },
+      {
+        "scene": 2,
+        "seconds": 23.0,
+        "changed_bbox": [
+          748,
+          99,
+          849,
+          125
+        ],
+        "outside_corner_identical": true,
+        "corner_is_background": true
+      },
+      {
+        "scene": 3,
+        "seconds": 0.1,
+        "changed_bbox": [
+          748,
+          99,
+          849,
+          125
+        ],
+        "outside_corner_identical": true,
+        "corner_is_background": true
+      },
+      {
+        "scene": 3,
+        "seconds": 5,
+        "changed_bbox": [
+          748,
+          99,
+          849,
+          125
+        ],
+        "outside_corner_identical": true,
+        "corner_is_background": true
+      },
+      {
+        "scene": 3,
+        "seconds": 27.099999999999998,
+        "changed_bbox": [
+          748,
+          99,
+          849,
+          125
+        ],
+        "outside_corner_identical": true,
+        "corner_is_background": true
+      },
+      {
+        "scene": 4,
+        "seconds": 0.1,
+        "changed_bbox": [
+          745,
+          171,
+          858,
+          201
+        ],
+        "outside_corner_identical": true,
+        "corner_is_background": true
+      },
+      {
+        "scene": 4,
+        "seconds": 5,
+        "changed_bbox": [
+          745,
+          171,
+          858,
+          201
+        ],
+        "outside_corner_identical": true,
+        "corner_is_background": true
+      },
+      {
+        "scene": 4,
+        "seconds": 11.8,
+        "changed_bbox": [
+          745,
+          171,
+          858,
+          201
+        ],
+        "outside_corner_identical": true,
+        "corner_is_background": true
+      }
+    ],
+    "timing_table_copy_identical": true,
+    "full_video_rendered": false,
+    "visual_review": "已实际查看原始04静态卡与新关键帧01、05、09、12四张完整1080×1920，四段均无右上期数，进度和正文保留。"
+  },
+  "video_sha256": "415314e6a506212b3a1956bc93e29567b55f80a172e70fcf69dd73f583685a7b",
+  "actual_video_frame_samples": [
+    2,
+    12,
+    13.4,
+    33.6,
+    36.5,
+    63.5,
+    65.6,
+    74.8
+  ]
+}

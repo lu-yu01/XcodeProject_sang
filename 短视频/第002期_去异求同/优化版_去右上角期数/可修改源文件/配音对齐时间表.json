@@ -1,0 +1,27 @@
+{
+  "first": {
+    "move_start": 5.559,
+    "move_end": 7.015,
+    "green": 7.314,
+    "arc": 9.286,
+    "top_bottom": 10.674,
+    "middle": 12.248,
+    "fade_start": 16.693,
+    "fade_end": 19.150,
+    "compare": 19.458
+  },
+  "second": {
+    "move_start": 1.476,
+    "move_end": 3.150,
+    "color": 3.468,
+    "green": 5.662,
+    "fade_start": 8.718,
+    "fade_end": 11.156,
+    "left_tip": 12.920,
+    "upper_corner": 14.073,
+    "right_edge": 15.546,
+    "choices": 17.147,
+    "answer": 18.934,
+    "recap": 20.704
+  }
+}

@@ -1,0 +1,7 @@
+﻿使用带Pillow的Python：
+python build.py --output-dir 新一期输出目录
+
+本机当前已验证命令：
+"C:\Users\jiaga\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" build.py --output-dir "新一期输出目录"
+
+先在lesson.json修改文字、图源和裁剪范围，避免输出到既有成品目录。

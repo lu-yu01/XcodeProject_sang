@@ -1,0 +1,17 @@
+{
+  "total_deleted_files": 107,
+  "total_released_bytes": 72268131.0,
+  "total_released_MiB": 68.92,
+  "remaining_files": 88,
+  "media_and_source_hashes_unchanged": true,
+  "intentional_documentation_updates": [
+    "短视频\\第001期_只有才\\制作说明.txt",
+    "短视频\\第002期_去异求同\\优化版_原题常驻\\制作说明.txt",
+    "短视频\\第002期_去异求同\\优化版_去右上角期数\\制作说明.txt",
+    "短视频\\第002期_去异求同\\改进版_逐步演示\\制作说明.txt"
+  ],
+  "episode001_remaining_mp4": 0,
+  "deleted_episode001_links_updated_in": [
+    "知识库\\建议与变更记录.md"
+  ]
+}

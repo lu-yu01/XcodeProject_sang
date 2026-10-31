@@ -1,0 +1,82 @@
+{
+  "video": "第002讲_去异求同_原题常驻版.mp4",
+  "duration_seconds": 75.5,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 2265,
+  "decode_exit_code": 0,
+  "black_segments_detected": false,
+  "AIGC_metadata_retained": true,
+  "audio_identical_to_approved_v2": true,
+  "decoded_audio_sha256": "SHA256=c31143eb7a86b69a16b5543d241620c3c284b9a98a790d78a2d0d2cade8ce446",
+  "scene_durations": [
+    13.3,
+    23.1,
+    27.2,
+    11.9
+  ],
+  "question_visible_during": [
+    13.3,
+    63.6
+  ],
+  "question_and_options_fixed_box": [
+    80,
+    290,
+    900,
+    644
+  ],
+  "layout_source_verification": {
+    "canvas": [
+      1080,
+      1920
+    ],
+    "question_fixed_box": [
+      80,
+      290,
+      900,
+      644
+    ],
+    "derivation_crop": [
+      80,
+      490,
+      900,
+      1260
+    ],
+    "derivation_target": [
+      146,
+      700,
+      835,
+      1347
+    ],
+    "question_fixed_across_scene_2_3": true,
+    "scene1_unchanged": true,
+    "scene4_unchanged": true,
+    "timing_table_copy_identical": true,
+    "full_video_rendered": false,
+    "visual_review": "已实际查看关键帧05、09两张完整1080×1920及12帧总览，原题全图和A-D始终可见，下方动态推导等比缩放，无裁切重叠。"
+  },
+  "video_sha256": "15c68cf020e07b5dc7c2c45e764d3dffca1c5e5e2a662f87c5dc1bd9d724bcc6",
+  "actual_video_frame_samples": [
+    2,
+    12,
+    13.4,
+    18.7,
+    22.9,
+    26.5,
+    31.8,
+    33.6,
+    36.5,
+    40.6,
+    42.5,
+    46.9,
+    49.9,
+    52.9,
+    55.8,
+    61.4,
+    63.5,
+    74.8
+  ]
+}

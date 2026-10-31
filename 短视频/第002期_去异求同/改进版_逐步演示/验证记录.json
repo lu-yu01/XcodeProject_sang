@@ -1,0 +1,52 @@
+{
+  "video": "第002讲_去异求同_逐步叠加演示.mp4",
+  "duration_seconds": 75.5,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 2265,
+  "decode_exit_code": 0,
+  "black_segments_detected": false,
+  "AIGC_metadata_retained": true,
+  "thinking_silence_seconds": 3.626961,
+  "scene_durations": [
+    13.3,
+    23.1,
+    27.2,
+    11.9
+  ],
+  "scene_audio_cutoffs": {
+    "01": 10.5,
+    "02": 23.1,
+    "03": 27.2,
+    "04": 11.9
+  },
+  "audio2_main_end": 22.612132,
+  "audio2_footer_start": 23.82712,
+  "audio3_main_end": 26.735578,
+  "audio3_footer_start": 27.993787,
+  "video_sha256": "8cf51e05771ddd6c470d179b8fc4ba21906d8c563835d77522457b5c76dd9957",
+  "actual_video_frame_samples": [
+    2,
+    12,
+    18.7,
+    19.7,
+    22.9,
+    26.5,
+    31.8,
+    33.6,
+    37.2,
+    38.8,
+    40.6,
+    42.5,
+    46.9,
+    49.9,
+    52.9,
+    55.8,
+    61.4,
+    74.8
+  ],
+  "auditory_review": "待用户试听发音、抑扬顿挫和衔接；程序检查不能替代试听"
+}

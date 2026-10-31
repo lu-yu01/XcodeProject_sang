@@ -1,0 +1,149 @@
+{
+  "coordinate_convention": "x to right, y down, shared square [-1,1] x [-1,1]",
+  "first_polygon": [
+    [
+      -1,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      -1,
+      1
+    ]
+  ],
+  "second_polygon": [
+    [
+      0,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      -1,
+      0
+    ]
+  ],
+  "intersection_C": [
+    [
+      0,
+      -1
+    ],
+    [
+      0.5,
+      -0.5
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      -1,
+      0
+    ]
+  ],
+  "intersection_triangle_partition": [
+    [
+      [
+        -1,
+        0
+      ],
+      [
+        0,
+        -1
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    [
+      [
+        0,
+        -1
+      ],
+      [
+        0.5,
+        -0.5
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    [
+      [
+        -1,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  ],
+  "intersection_area": 1.25,
+  "display_instruction": "same size, centered alignment, translation only; no rotation or reflection",
+  "source_black_pixel_bbox_threshold_128": {
+    "first": [
+      319,
+      16,
+      372,
+      68
+    ],
+    "second": [
+      401,
+      16,
+      451,
+      69
+    ],
+    "C": [
+      300,
+      129,
+      339,
+      180
+    ]
+  },
+  "registration_note": "Source black-shape bbox centers are about 80.5px apart; grid centers are about85px apart. Do not align source shapes using grid offset alone. Normalized polygons idealize slight raster/printing distortions.",
+  "comparison": "Computed intersection has same five directed edges and notch as C; source scan differs by approximately 1-2px in edge proportions after shape-centered normalization."
+}

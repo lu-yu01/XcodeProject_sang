@@ -1,0 +1,24 @@
+{
+  "Root": "E:\\XcodeProject_sang\\短视频\\第001期_只有才",
+  "Authorization": "用户明确要求第001期视频全部删除",
+  "Files": [
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\第001讲_sangsang_保留口音版.mp4",
+      "Bytes": 10950343,
+      "SHA256": "77B316AD7B7199AA9CD3477977311281805F7C46C0A0D6631CD7D86F983025B9"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\第001讲_sangsang_去除结尾提示.mp4",
+      "Bytes": 8477029,
+      "SHA256": "AD082660A9331223C762C984E234D5B5FD4E04732D8C99F71D6BB085AF109211"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\第001讲_sangsang_有声预览.mp4",
+      "Bytes": 8964164,
+      "SHA256": "90D95E3F904F01EC3F70276E92F055C0AE7BDF4DF03C67B10544A30CDF2D0B9C"
+    }
+  ],
+  "Count": 3,
+  "Bytes": 28391536.0,
+  "PreparedAt": "2026-10-31T23:24:38.5298184+08:00"
+}

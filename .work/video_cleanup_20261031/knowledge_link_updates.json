@@ -1,0 +1,29 @@
+{
+  "changed_documents": [
+    "知识库\\建议与变更记录.md",
+    "知识库\\短视频索引\\第002讲_去异求同.md"
+  ],
+  "converted_deleted_links": [
+    {
+      "document": "知识库\\建议与变更记录.md",
+      "label": "音色克隆_讲题试听_01.mp3",
+      "deleted_target": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\音色克隆_讲题试听_01.mp3"
+    },
+    {
+      "document": "知识库\\短视频索引\\第002讲_去异求同.md",
+      "label": "抽帧总览",
+      "deleted_target": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\成片抽帧总览.png"
+    },
+    {
+      "document": "知识库\\短视频索引\\第002讲_去异求同.md",
+      "label": "抽帧总览",
+      "deleted_target": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧总览.png"
+    },
+    {
+      "document": "知识库\\短视频索引\\第002讲_去异求同.md",
+      "label": "抽帧总览",
+      "deleted_target": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧总览.png"
+    }
+  ],
+  "deleted_link_count": 4
+}

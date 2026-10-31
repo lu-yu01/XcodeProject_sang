@@ -1,0 +1,54 @@
+Input #0, rawvideo, from 'pipe:0':
+  Duration: N/A, start: 0.000000, bitrate: 746496 kb/s
+  Stream #0:0: Video: rawvideo (RGB[24] / 0x18424752), rgb24, 1080x1920, 746496 kb/s, 15 tbr, 15 tbn
+[mp3 @ 000001A50D889D40] Estimating duration from bitrate, this may be inaccurate
+Input #1, mp3, from 'E:\XcodeProject_sang\短视频\第002期_去异求同\002_01_原始配音.mp3':
+  Metadata:
+    encoder         : LAME3.101 (beta 2)
+    AIGC            : {"Label":"1","ContentProducer":"00119144030008867405X210000","ProduceID":"35d9599a-d67a-4660-ba5c-5646b5fdf498","ReservedCode1":"","ContentPropagator":"","PropagateID":"","ReservedCode2":""}
+  Duration: 00:00:13.19, start: 0.000000, bitrate: 192 kb/s
+  Stream #1:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 191 kb/s
+[mp3 @ 000001A50D8CEC00] Estimating duration from bitrate, this may be inaccurate
+Input #2, mp3, from 'E:\XcodeProject_sang\短视频\第002期_去异求同\改进版_逐步演示\002_v2_02_原始配音.mp3':
+  Metadata:
+    encoder         : LAME3.101 (beta 2)
+    AIGC            : {"Label":"1","ContentProducer":"00119144030008867405X210000","ProduceID":"13b580f4-67e7-4519-bb34-b3d96323ce38","ReservedCode1":"","ContentPropagator":"","PropagateID":"","ReservedCode2":""}
+  Duration: 00:00:25.68, start: 0.000000, bitrate: 192 kb/s
+  Stream #2:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 191 kb/s
+[mp3 @ 000001A50D8AFF00] Estimating duration from bitrate, this may be inaccurate
+Input #3, mp3, from 'E:\XcodeProject_sang\短视频\第002期_去异求同\改进版_逐步演示\002_v2_03_原始配音.mp3':
+  Metadata:
+    encoder         : LAME3.101 (beta 2)
+    AIGC            : {"Label":"1","ContentProducer":"00119144030008867405X210000","ProduceID":"8c7d03ef-3ec7-4435-a1e6-29ea13b82124","ReservedCode1":"","ContentPropagator":"","PropagateID":"","ReservedCode2":""}
+  Duration: 00:00:29.86, start: 0.000000, bitrate: 192 kb/s
+  Stream #3:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 191 kb/s
+[mp3 @ 000001A50D8D0280] Estimating duration from bitrate, this may be inaccurate
+Input #4, mp3, from 'E:\XcodeProject_sang\短视频\第002期_去异求同\002_04_原始配音.mp3':
+  Metadata:
+    encoder         : LAME3.101 (beta 2)
+    AIGC            : {"Label":"1","ContentProducer":"00119144030008867405X210000","ProduceID":"893fbaa5-8fc9-4ce2-9612-16583e80572a","ReservedCode1":"","ContentPropagator":"","PropagateID":"","ReservedCode2":""}
+  Duration: 00:00:14.24, start: 0.000000, bitrate: 192 kb/s
+  Stream #4:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 191 kb/s
+Stream mapping:
+  Stream #0:0 (rawvideo) -> fps:default
+  Stream #1:0 (mp3float) -> atrim:default
+  Stream #2:0 (mp3float) -> atrim:default
+  Stream #3:0 (mp3float) -> atrim:default
+  Stream #4:0 (mp3float) -> atrim:default
+  fps:default -> Stream #0:0 (h264_mf)
+  concat:out:a0 -> Stream #0:1 (aac)
+[h264_mf @ 000001A50D8B1600] MFT name: 'H264 Encoder MFT'
+Output #0, mp4, to 'E:\XcodeProject_sang\短视频\第002期_去异求同\改进版_逐步演示\第002讲_去异求同_逐步叠加演示.mp4':
+  Metadata:
+    AIGC            : {"Label":"1","ContentProducer":"00119144030008867405X210000","ProduceID":"35d9599a-d67a-4660-ba5c-5646b5fdf498","ReservedCode1":"","ContentPropagator":"","PropagateID":"","ReservedCode2":""}
+    encoder         : Lavf61.1.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(progressive), 1080x1920, q=2-31, 6000 kb/s, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.3.100 h264_mf
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 192 kb/s
+      Metadata:
+        encoder         : Lavc61.3.100 aac
+frame=   36 fps=0.0 q=-0.0 size=     256KiB time=00:00:01.16 bitrate=1797.9kbits/s speed= 2.3x    frame=   91 fps= 89 q=-0.0 size=     512KiB time=00:00:03.00 bitrate=1398.2kbits/s speed=2.95x    frame=  142 fps= 93 q=-0.0 size=     768KiB time=00:00:04.70 bitrate=1338.7kbits/s speed=3.07x    frame=  192 fps= 94 q=-0.0 size=    1280KiB time=00:00:06.36 bitrate=1647.0kbits/s speed=3.12x    frame=  236 fps= 93 q=-0.0 size=    1536KiB time=00:00:07.83 bitrate=1606.4kbits/s speed=3.08x    frame=  274 fps= 90 q=-0.0 size=    1792KiB time=00:00:09.10 bitrate=1613.2kbits/s speed=2.98x    frame=  318 fps= 89 q=-0.0 size=    2304KiB time=00:00:10.56 bitrate=1786.3kbits/s speed=2.96x    frame=  368 fps= 90 q=-0.0 size=    2560KiB time=00:00:12.23 bitrate=1714.3kbits/s speed=   3x    frame=  414 fps= 90 q=-0.0 size=    2816KiB time=00:00:13.76 bitrate=1675.7kbits/s speed=   3x    frame=  458 fps= 90 q=-0.0 size=    3328KiB time=00:00:15.23 bitrate=1789.7kbits/s speed=2.99x    frame=  518 fps= 92 q=-0.0 size=    3584KiB time=00:00:17.23 bitrate=1703.7kbits/s speed=3.08x    frame=  573 fps= 94 q=-0.0 size=    4096KiB time=00:00:19.06 bitrate=1759.9kbits/s speed=3.12x    frame=  624 fps= 94 q=-0.0 size=    4352KiB time=00:00:20.76 bitrate=1716.8kbits/s speed=3.13x    frame=  676 fps= 95 q=-0.0 size=    4864KiB time=00:00:22.50 bitrate=1770.9kbits/s speed=3.15x    frame=  722 fps= 95 q=-0.0 size=    5120KiB time=00:00:24.03 bitrate=1745.2kbits/s speed=3.15x    frame=  760 fps= 93 q=-0.0 size=    5376KiB time=00:00:25.30 bitrate=1740.7kbits/s speed= 3.1x    frame=  808 fps= 93 q=-0.0 size=    5888KiB time=00:00:26.90 bitrate=1793.1kbits/s speed=3.11x    frame=  852 fps= 93 q=-0.0 size=    6144KiB time=00:00:28.36 bitrate=1774.3kbits/s speed=3.09x    frame=  890 fps= 92 q=-0.0 size=    6400KiB time=00:00:29.63 bitrate=1769.3kbits/s speed=3.06x    frame=  928 fps= 91 q=-0.0 size=    6656KiB time=00:00:30.90 bitrate=1764.6kbits/s speed=3.03x    frame=  978 fps= 91 q=-0.0 size=    6912KiB time=00:00:32.56 bitrate=1738.7kbits/s speed=3.04x    frame= 1032 fps= 92 q=-0.0 size=    7424KiB time=00:00:34.36 bitrate=1769.7kbits/s speed=3.07x    frame= 1084 fps= 93 q=-0.0 size=    7680KiB time=00:00:36.10 bitrate=1742.8kbits/s speed=3.08x    frame= 1144 fps= 94 q=-0.0 size=    8192KiB time=00:00:38.10 bitrate=1761.4kbits/s speed=3.12x    frame= 1194 fps= 94 q=-0.0 size=    8448KiB time=00:00:39.76 bitrate=1740.3kbits/s speed=3.12x    frame= 1240 fps= 94 q=-0.0 size=    8704KiB time=00:00:41.30 bitrate=1726.5kbits/s speed=3.12x    frame= 1294 fps= 94 q=-0.0 size=    8960KiB time=00:00:43.10 bitrate=1703.0kbits/s speed=3.14x    frame= 1348 fps= 95 q=-0.0 size=    9472KiB time=00:00:44.90 bitrate=1728.2kbits/s speed=3.15x    frame= 1398 fps= 95 q=-0.0 size=    9728KiB time=00:00:46.56 bitrate=1711.4kbits/s speed=3.16x    frame= 1456 fps= 95 q=-0.0 size=   10240KiB time=00:00:48.50 bitrate=1729.6kbits/s speed=3.18x    frame= 1510 fps= 96 q=-0.0 size=   10496KiB time=00:00:50.30 bitrate=1709.4kbits/s speed=3.19x    frame= 1555 fps= 95 q=-0.0 size=   10752KiB time=00:00:51.80 bitrate=1700.4kbits/s speed=3.18x    frame= 1599 fps= 95 q=-0.0 size=   11264KiB time=00:00:53.26 bitrate=1732.3kbits/s speed=3.17x    frame= 1646 fps= 95 q=-0.0 size=   11520KiB time=00:00:54.83 bitrate=1721.1kbits/s speed=3.17x    frame= 1694 fps= 95 q=-0.0 size=   11776KiB time=00:00:56.43 bitrate=1709.4kbits/s speed=3.17x    frame= 1742 fps= 95 q=-0.0 size=   12032KiB time=00:00:58.03 bitrate=1698.4kbits/s speed=3.17x    frame= 1786 fps= 95 q=-0.0 size=   12544KiB time=00:00:59.50 bitrate=1727.1kbits/s speed=3.16x    frame= 1838 fps= 95 q=-0.0 size=   12800KiB time=00:01:01.23 bitrate=1712.4kbits/s speed=3.17x    frame= 1894 fps= 95 q=-0.0 size=   13056KiB time=00:01:03.10 bitrate=1695.0kbits/s speed=3.18x    frame= 1943 fps= 95 q=-0.0 size=   13568KiB time=00:01:04.73 bitrate=1717.0kbits/s speed=3.18x    frame= 1986 fps= 95 q=-0.0 size=   13824KiB time=00:01:06.16 bitrate=1711.5kbits/s speed=3.17x    frame= 2034 fps= 95 q=-0.0 size=   14336KiB time=00:01:07.76 bitrate=1733.0kbits/s speed=3.17x    frame= 2092 fps= 96 q=-0.0 size=   14592KiB time=00:01:09.70 bitrate=1715.0kbits/s speed=3.19x    frame= 2152 fps= 96 q=-0.0 size=   15104KiB time=00:01:11.70 bitrate=1725.7kbits/s speed= 3.2x    frame= 2196 fps= 96 q=-0.0 size=   15616KiB time=00:01:13.16 bitrate=1748.4kbits/s speed= 3.2x    frame= 2238 fps= 96 q=-0.0 size=   15872KiB time=00:01:14.56 bitrate=1743.7kbits/s speed=3.18x    [mp4 @ 000001A50D8F7840] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000001A50D8F8280] video:14583KiB audio:1678KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.397781%
+frame= 2265 fps= 96 q=-0.0 Lsize=   16326KiB time=00:01:15.46 bitrate=1772.2kbits/s speed=3.21x    
+[aac @ 000001A50D919540] Qavg: 13606.305

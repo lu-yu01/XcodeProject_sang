@@ -1,0 +1,1299 @@
+{
+  "Root": "E:\\XcodeProject_sang\\短视频",
+  "Authorization": "用户明确要求删除没用的本地生成素材",
+  "PreparedAt": "2026-10-31T23:19:57.6875744+08:00",
+  "Candidates": [
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\第001期_只有才_60秒_无声预览.mp4",
+      "RelativePath": "第001期_只有才\\第001期_只有才_60秒_无声预览.mp4",
+      "Category": "旧无声测试",
+      "Reason": "正式有声成片已保留，可由题卡重建；旧无声测试草稿可能缺媒体",
+      "Bytes": 12020589,
+      "SHA256": "0DF5D29DE3CFB4DC7D186C2D192079EA6FC891072A200D61A23286E58CB54F1A"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\定时视频片段\\01_先做一道题_15秒.mp4",
+      "RelativePath": "第001期_只有才\\定时视频片段\\01_先做一道题_15秒.mp4",
+      "Category": "旧无声测试",
+      "Reason": "初期固定时长试排片段，正式成片及题卡保留",
+      "Bytes": 2803098,
+      "SHA256": "9F5B04C62A85A7B1A56BFABE4575E5E0946C7B4C89CC128D2D0CF0EEAAADEBC4"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\定时视频片段\\02_揭晓答案_15秒.mp4",
+      "RelativePath": "第001期_只有才\\定时视频片段\\02_揭晓答案_15秒.mp4",
+      "Category": "旧无声测试",
+      "Reason": "初期固定时长试排片段，正式成片及题卡保留",
+      "Bytes": 3271673,
+      "SHA256": "9AC2239ECD5EFC8DAD0523B2C17815F86956B8822C84A4DF0BB13E1BED1DF269"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\定时视频片段\\03_记住方法_16秒.mp4",
+      "RelativePath": "第001期_只有才\\定时视频片段\\03_记住方法_16秒.mp4",
+      "Category": "旧无声测试",
+      "Reason": "初期固定时长试排片段，正式成片及题卡保留",
+      "Bytes": 3148985,
+      "SHA256": "179C02C4436D6407C82D26E0A44CC0CDD575F31AA0B60F0A8D23324C209B65C1"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\定时视频片段\\04_换题练一练_14秒.mp4",
+      "RelativePath": "第001期_只有才\\定时视频片段\\04_换题练一练_14秒.mp4",
+      "Category": "旧无声测试",
+      "Reason": "初期固定时长试排片段，正式成片及题卡保留",
+      "Bytes": 2799364,
+      "SHA256": "9776C90B3E1876F05F8F7AB6596BA1E6362A5E727EB86B9DB25FA86C73A825EE"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\题卡总览.png",
+      "RelativePath": "第001期_只有才\\题卡总览.png",
+      "Category": "可重建预览PNG",
+      "Reason": "题卡检查总览，不是正片输入",
+      "Bytes": 328424,
+      "SHA256": "55F684B6A13CFF09E8EC3373FB2C2CCB57F8DA115885E7F95B12E504383993FF"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\音色克隆_讲题试听_01.mp3",
+      "RelativePath": "第001期_只有才\\音色克隆_讲题试听_01.mp3",
+      "Category": "废弃试听",
+      "Reason": "未用于正式有声视频，正式标准版和口音版原始音源保留",
+      "Bytes": 293025,
+      "SHA256": "D208C77FAAE75A9133C304CF39FF6AB150198426F18A89B89C42A7EB0485C8F9"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\sangsang_讲题试听.mp3",
+      "RelativePath": "第001期_只有才\\sangsang_讲题试听.mp3",
+      "Category": "废弃试听",
+      "Reason": "未用于正式有声视频，正式标准版和口音版原始音源保留",
+      "Bytes": 293025,
+      "SHA256": "60F528D3BEB4A07798B2E8C6B5D36A8F997B2F1A55BFA0596E05D079A4AEFC18"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\sangsang_首段_0.92倍试听.m4a",
+      "RelativePath": "第001期_只有才\\sangsang_首段_0.92倍试听.m4a",
+      "Category": "废弃试听",
+      "Reason": "未用于正式有声视频，正式标准版和口音版原始音源保留",
+      "Bytes": 208211,
+      "SHA256": "A465B2A5E0269FDA80C825B7DFB7911D68CBDB1F9FCEB5B5D8343F34E244FCBA"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\sangsang_首段_原速试听.m4a",
+      "RelativePath": "第001期_只有才\\sangsang_首段_原速试听.m4a",
+      "Category": "废弃试听",
+      "Reason": "未用于正式有声视频，正式标准版和口音版原始音源保留",
+      "Bytes": 192482,
+      "SHA256": "7317835DCAC0532B38B9B3F009725C66E34F236C8A60AB26F6902BD175398F84"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\002.0s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\002.0s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 238792,
+      "SHA256": "0917D8AE541BF259B30DDFC40AFB419A9F8AF9D6A742136045781763520B4873"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\012.0s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\012.0s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 235514,
+      "SHA256": "B43C19585DDE10ED491950468ED447FE2F80F42F0F9E561DA37F68E55CA84FDE"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\018.7s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\018.7s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 223054,
+      "SHA256": "DD6F58A814F5BC11C7131737F371DABA299BB230402DF1C7241637B564E28FEA"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\019.7s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\019.7s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 227960,
+      "SHA256": "471876524B2ACF5E37FE58859FB7D2459BF0C9F0D5FB608D47A46A9094352D0B"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\022.9s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\022.9s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 218493,
+      "SHA256": "9DFF28E1735485F98C9F29D04BAB37091686FC68E9E75D4C12AC550CC53C54B1"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\026.5s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\026.5s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 219350,
+      "SHA256": "C1A020C7D62C26E326C97E6546091C9532B4DC7A160E566A707743D14B91FE32"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\031.8s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\031.8s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 214252,
+      "SHA256": "47C95A9F16BF62FCD0BDB4A6B3DDA1079B438EC009471195A49B8DC27EA525F6"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\033.6s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\033.6s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 221219,
+      "SHA256": "A7FFDD73DA468C1905BC01AE83D52D7B93DA5793A55D5B5D6A83CDC5AEF0829C"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\037.2s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\037.2s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 185525,
+      "SHA256": "03B80D7DCD729C760F6B455F6113E3E6538E5BF7C4E47D1038DDFD2B759F18D4"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\038.8s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\038.8s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 186149,
+      "SHA256": "086E1C1D01FAC241A72C78E189CCCF3B727C01B86F546F7178E1922FE0BC6A25"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\040.6s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\040.6s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 189906,
+      "SHA256": "2F6CD5D1BC656F268553AAC73974F4C82F36957E22E24956EA358BDA73212A6B"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\042.5s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\042.5s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 191117,
+      "SHA256": "ACAAB3D44ED107C48A02786E5170CD8E3D31D3E978CFF90B10F503ACBEC6966B"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\046.9s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\046.9s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 198965,
+      "SHA256": "5920D843588BC124658D1E0F40BB2C9AB83A8BBB075227478955BD14DC6072B5"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\049.9s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\049.9s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 200353,
+      "SHA256": "E2DDF318F5B88E5D90D3CF13ADD0947252A50D8F14402A5836CB4E86B6C31245"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\052.9s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\052.9s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 222932,
+      "SHA256": "5F6AD7A0D5451E872B147616C09EB5778CBD38CF1B381AF0D202328E788155D2"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\055.8s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\055.8s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 220363,
+      "SHA256": "36F353DF2EDC5DAF7D129FE34DD8DE1CC9AD2B4EA06153762CC43674B309CA5D"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\061.4s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\061.4s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 230974,
+      "SHA256": "FBB98F2E4A2C8988473AC5A1F5EE5EF7A0117A56C4CDAE2332F9010DFC8D339F"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧\\074.8s.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧\\074.8s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 240995,
+      "SHA256": "D2DAE33B54A31C669F517BAE1D39AD5D1BE9482630DC020991A3823F41946E57"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\成片抽帧总览.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\成片抽帧总览.png",
+      "Category": "可重建预览PNG",
+      "Reason": "检查用拼图，完整视频及验证记录保留",
+      "Bytes": 147989,
+      "SHA256": "DF17241FCF3003533FC7F9E1075FD2BAAFF6955129075CDC44965DCE3C9AB5BA"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\动态关键帧总览.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\动态关键帧总览.png",
+      "Category": "可重建预览PNG",
+      "Reason": "历史版本关键帧总览，可由源重建",
+      "Bytes": 245370,
+      "SHA256": "849EDD3D8AFA7410E65FD1D2EBF16616C02422A0EFFA475521336B3035900684"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\关键帧_01.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\关键帧_01.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 35272,
+      "SHA256": "673186DD89F6EDD341174DF5B3A34645F0AC88530C806AAE81B33746AC99F1A2"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\关键帧_02.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\关键帧_02.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 35861,
+      "SHA256": "72FA23CCEB9687C9AE75019D1C0825547302C14413378994AD16ADD7BB84BEE0"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\关键帧_03.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\关键帧_03.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 29960,
+      "SHA256": "BE7C635607531DC35F02039FAEF3750EE37E8DA9BAD557154BF1002D7F4FE3EA"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\关键帧_04.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\关键帧_04.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 29628,
+      "SHA256": "2ED212B7EEB79E3C55760FBA620A6DEE0B4DF7786DA52357826DC196A3483520"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\关键帧_05.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\关键帧_05.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 29302,
+      "SHA256": "B6670A83C2F844CC9BD83D588616835156CA5373A9BCE6847204C937EF65C577"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\关键帧_06.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\关键帧_06.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 30003,
+      "SHA256": "FF3EE0A867677CD3349C3B6EC22D4DCD2C5B42683B1AA777079435D684724008"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\关键帧_07.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\关键帧_07.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 27030,
+      "SHA256": "4005FA082F01D87F35848BD1A0881A3876756AC36391277EE00911BA84250895"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\关键帧_08.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\关键帧_08.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 26657,
+      "SHA256": "BD337B23543C4BCF431B1729F6C46A9EB5A34475ED0281DB70E30F987599F17C"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\关键帧_09.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\关键帧_09.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 31253,
+      "SHA256": "1C4A2F3D9EFA48FE7CFFE4EB1E12230400755242BE361671D07C1EB720F70404"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\关键帧_10.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\关键帧_10.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 30944,
+      "SHA256": "A7A6F15BA85BE4871A3C768B2EBF10FBB20DC06AFC9C25FF84631CB4614B3683"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\关键帧_11.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\关键帧_11.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 38254,
+      "SHA256": "2B080DACC2C12045A77BED4CC6390FB90CD1F1796CF195CD0ED909B87B035E27"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\关键帧_12.png",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\关键帧_12.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 38289,
+      "SHA256": "30756F996CD573CDB5444CE08500A310611C0935F43527E82E77950FC421CF07"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\原始配音\\002_01_原始配音.mp3",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\原始配音\\002_01_原始配音.mp3",
+      "Category": "重复配音备份",
+      "Reason": "与保留的默认音源及最新版本备份SHA-256相同，默认渲染路径不变",
+      "Bytes": 316849,
+      "SHA256": "3E117F2927E4FD3D187561333CA476944C7E550C2E3369D791426BB68A8AC388"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\原始配音\\002_04_原始配音.mp3",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\原始配音\\002_04_原始配音.mp3",
+      "Category": "重复配音备份",
+      "Reason": "与保留的默认音源及最新版本备份SHA-256相同，默认渲染路径不变",
+      "Bytes": 341926,
+      "SHA256": "92FD3E53B849406F3F3B7C3E728B019139133DD8B6C6B0DE2DDD1AB93E31C94A"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\原始配音\\002_v2_02_原始配音.mp3",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\原始配音\\002_v2_02_原始配音.mp3",
+      "Category": "重复配音备份",
+      "Reason": "与保留的默认音源及最新版本备份SHA-256相同，默认渲染路径不变",
+      "Bytes": 616525,
+      "SHA256": "DC14E73D82C0FA1966CECC12BA7D0B092BD11EC8BF7E548CEC4F9D5448283056"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\原始配音\\002_v2_03_原始配音.mp3",
+      "RelativePath": "第002期_去异求同\\改进版_逐步演示\\原始配音\\002_v2_03_原始配音.mp3",
+      "Category": "重复配音备份",
+      "Reason": "与保留的默认音源及最新版本备份SHA-256相同，默认渲染路径不变",
+      "Bytes": 716836,
+      "SHA256": "1027FD6BEDB8647571AABBE578F332B68B8A34A2B979BBABE09A3614788F8B77"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\题卡总览.png",
+      "RelativePath": "第002期_去异求同\\题卡总览.png",
+      "Category": "可重建预览PNG",
+      "Reason": "题卡检查总览，不是正片输入",
+      "Bytes": 134407,
+      "SHA256": "BCF146220B90AE02529F0823E3ADFEAD17FF4B46AA2A97B9C3614ADB79CD3A69"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\002.0s.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\002.0s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 231426,
+      "SHA256": "1F866F061E6EC550A783E6D978D2498735C437CDF99C56AA22867BFB10BE9FB0"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\012.0s.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\012.0s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 228259,
+      "SHA256": "A7397F113DDC97338FE829DA1A83A4D674577C23B189361F04098DEE4EBBB5C1"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\013.4s.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\013.4s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 231997,
+      "SHA256": "1DF34B80EFB18337C76C15CFFE0D58D5E507D629E923CC0F3CFDCBDD1DB483C2"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\033.6s.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\033.6s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 236228,
+      "SHA256": "AB0891D7748DC1BE2269A9BAEC92C675D9FDA6E3D08F32EED7577346A7469B48"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\036.5s.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\036.5s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 203940,
+      "SHA256": "1DBC9201962EE5320B240E1509188915E61677BB2B5780DC81536B7066A35F03"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\063.5s.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\063.5s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 234740,
+      "SHA256": "1A73F109121AF0F72942C2BD692AA31FA3D5CA2498E558455CE8CD65A161EE6D"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\065.6s.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\065.6s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 233018,
+      "SHA256": "60C5D2C4404578F4885D77FB4AAFCAB430B62D6CA7DE3BAC3BF997F371F46FAC"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\074.8s.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\成片抽帧\\074.8s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 232979,
+      "SHA256": "CFEEB7DB8E72EA8D4A93A7960B924131CAFD35222AE3AA1373D06ACF1A82ADC3"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\成片抽帧总览.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\成片抽帧总览.png",
+      "Category": "可重建预览PNG",
+      "Reason": "检查用拼图，完整视频及验证记录保留",
+      "Bytes": 90199,
+      "SHA256": "336A256116F757D30FC21235A6DF46174BDBD1936C6C67135DF0F4E5A66595D4"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\关键帧_01.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\关键帧_01.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 131974,
+      "SHA256": "92AEE31D147AB20E796BB43A92CC7F26BCD11AFE9EDC30AB0B9FDBF988C38BEC"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\关键帧_02.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\关键帧_02.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 130093,
+      "SHA256": "0547B2F5214362608836235E62A80E51BD7AAA1997FD7E204D5780824FAB8FDD"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\关键帧_03.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\关键帧_03.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 152020,
+      "SHA256": "7B75FF8CE6223808634CC755E9A925CB6C7B9FDBE388D86C97FB3357210D72FF"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\关键帧_04.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\关键帧_04.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 151397,
+      "SHA256": "D4CA8BD06518A8B2F43F75CAD735EBA1D9C48F9583D2975B8DCD78EB5739119C"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\关键帧_05.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\关键帧_05.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 150473,
+      "SHA256": "329B21DFDC778AFBCC61BC57BACFFB8C36A4371D699A6BE239B5D004DFE78C4D"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\关键帧_06.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\关键帧_06.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 147472,
+      "SHA256": "506AA47257C80D365B24348006E36A6E0C985C2AC50C03D34E3AF5D3AB1B772B"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\关键帧_07.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\关键帧_07.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 122474,
+      "SHA256": "0BA9EF27979B95BE5056A1EE1696B1906AC557397538212361197451C3974EBB"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\关键帧_08.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\关键帧_08.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 121969,
+      "SHA256": "336B5B31DE8413A06C79A5FFEB4AF0AD7644CBADD87AC02A5CCE3E5900316317"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\关键帧_09.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\关键帧_09.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 148061,
+      "SHA256": "6380E0273E0D72BEA96AA7DB5477CDBF96F48B879E564C3EF7B15F3478250375"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\关键帧_10.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\关键帧_10.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 143190,
+      "SHA256": "8613C1DB3813FBA020202F05EFC030AD49B5897DE80974333AE0777781E8F601"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\关键帧_11.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\关键帧_11.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 114885,
+      "SHA256": "C9C2E01D5A31CB4FEEB68A10CEDA2EB772E3428D9F386D5D1CD35BBECF8CEE6A"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\关键帧_12.png",
+      "RelativePath": "第002期_去异求同\\优化版_去右上角期数\\关键帧_12.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 114963,
+      "SHA256": "E6CA0F05C0DAEE545751A0AA291538183ADC33B0282D31DA45C214B6D70F1E2E"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\002.0s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\002.0s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 238792,
+      "SHA256": "0917D8AE541BF259B30DDFC40AFB419A9F8AF9D6A742136045781763520B4873"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\012.0s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\012.0s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 235514,
+      "SHA256": "B43C19585DDE10ED491950468ED447FE2F80F42F0F9E561DA37F68E55CA84FDE"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\013.4s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\013.4s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 238343,
+      "SHA256": "04FECFBF3B13E005C61EE763AA929F852E3C8EECC4A156C5B36597EB14B2E196"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\018.7s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\018.7s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 239030,
+      "SHA256": "CF36EEC41A20CE14E40A40A73A01165000FA037B0C365477CA0B3D6630C10463"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\022.9s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\022.9s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 237078,
+      "SHA256": "BB74D20035A6CA794539BAF7BD7B9DE38A24072FB28C1C31B08260DF8ECA236C"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\026.5s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\026.5s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 237980,
+      "SHA256": "C8D73A62E2CE64B57A3F3CD2A0C91887782FC474E1E7ACE224AF49BCAA6CC22B"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\031.8s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\031.8s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 233180,
+      "SHA256": "40AD0F033707AEAE72EDDBDB5F0E752CCC86D98541ADB4382B2CBB6801F305C3"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\033.6s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\033.6s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 241797,
+      "SHA256": "302E2B60EB1EA1B3A9FE0AED3B13112F7245B46644362A1C6FD831BA7CCA4A6A"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\036.5s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\036.5s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 210380,
+      "SHA256": "B3E6B515D711550B1A5C2F00C190308A8DAA9F60F8A03DF66DBA7E214D81AE8C"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\040.6s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\040.6s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 203899,
+      "SHA256": "14F5810DB0A84AF2141702C9F0977E199E204B1831C4B709F45A7B2025E63D12"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\042.5s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\042.5s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 204683,
+      "SHA256": "A380A7E8F27700EE731FDCCFD860D62FAEF375B0F8A25E1D09C8DCE47C7541DA"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\046.9s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\046.9s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 212841,
+      "SHA256": "86B96E8B4CA0539E5F372F0FCEBC91FFEC2DDD6F93DA1444EAABC008BEA96148"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\049.9s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\049.9s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 217353,
+      "SHA256": "B4D1AE9255B54DD7D6FDA592081DAD41FE2594F5F788F537480FCF8C07793755"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\052.9s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\052.9s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 242033,
+      "SHA256": "2E1DA6773D6CF6129E3710E518498945C846F0D099803863F5F24E5CBAA8A615"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\055.8s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\055.8s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 229355,
+      "SHA256": "2A2AAF47FECCE38754D40FA187BD254DF298E9243B7C24EE2F168A68F52F066E"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\061.4s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\061.4s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 241054,
+      "SHA256": "FF1AFE0C07656895E0F9EEBD8A68AC6FF9BD6ECA0D3B52738FEE949470B01062"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\063.5s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\063.5s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 241054,
+      "SHA256": "FF1AFE0C07656895E0F9EEBD8A68AC6FF9BD6ECA0D3B52738FEE949470B01062"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧\\074.8s.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧\\074.8s.png",
+      "Category": "可重建预览PNG",
+      "Reason": "可从保留的MP4重新抽取",
+      "Bytes": 240995,
+      "SHA256": "D2DAE33B54A31C669F517BAE1D39AD5D1BE9482630DC020991A3823F41946E57"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\成片抽帧总览.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\成片抽帧总览.png",
+      "Category": "可重建预览PNG",
+      "Reason": "检查用拼图，完整视频及验证记录保留",
+      "Bytes": 149897,
+      "SHA256": "603008EB465F658DD43043D0B63A8BE9E3CCFCB53E5E011A9C686001D958E3A9"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\关键帧_01.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\关键帧_01.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 134849,
+      "SHA256": "508C18000D6D9E8BE0702407D672CE4AF32F747556E9C5578A672F15BAFE7B16"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\关键帧_02.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\关键帧_02.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 133094,
+      "SHA256": "2C18D4316C51D9223EF957198A781999DCFB7987F17AA6871F117BD3EAD67D00"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\关键帧_03.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\关键帧_03.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 154294,
+      "SHA256": "CAED38C9C79E7C2024D48AEA4681054042BEF7E7A21136C75B7890C7AC4DBB1E"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\关键帧_04.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\关键帧_04.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 153710,
+      "SHA256": "AC9B1453C2E2024FF5BF7859ED61948A49FF98414AC3E99E47830508A70AA7FB"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\关键帧_05.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\关键帧_05.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 152870,
+      "SHA256": "96F6036D0AA513BFF0359AD7739F50B6E0C80EAE1484B3D5213342D838ED72F2"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\关键帧_06.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\关键帧_06.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 150019,
+      "SHA256": "27EE880370A4F673E6FC7ABABFA512047347F1E532AE7965CC8695856ACA42E1"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\关键帧_07.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\关键帧_07.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 125028,
+      "SHA256": "9A92D132DDD080E800DB40D015ED51962A2524C2369687B641573723B3A27132"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\关键帧_08.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\关键帧_08.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 124522,
+      "SHA256": "82FB56D232E37F8653C841E983AFDC626DE890DD43781D0686B469E053B327FB"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\关键帧_09.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\关键帧_09.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 150622,
+      "SHA256": "8BB602FF0212A2C39D0842E48661CF5FBB40FBFFEC2190D1E22923ACD4C92A5C"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\关键帧_10.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\关键帧_10.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 145801,
+      "SHA256": "D05A474F8B450997C3385FE57029A1F39A7420AD7F1F07ECDE1CC0AEB39A9248"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\关键帧_11.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\关键帧_11.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 117504,
+      "SHA256": "63A7B1258970DEDA269B162D09CDB73FAC3D47F3048AB7558F0293D7F9F1D203"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\关键帧_12.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\关键帧_12.png",
+      "Category": "可重建预览PNG",
+      "Reason": "渲染源输出的关键帧，源码不读取",
+      "Bytes": 117574,
+      "SHA256": "1B1C46191915B59BB39809C5F7C9C0EA101C51F1D8D68C8BCCDD4E20E6F62215"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\原始配音\\002_01_原始配音.mp3",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\原始配音\\002_01_原始配音.mp3",
+      "Category": "重复配音备份",
+      "Reason": "与保留的默认音源及最新版本备份SHA-256相同，默认渲染路径不变",
+      "Bytes": 316849,
+      "SHA256": "3E117F2927E4FD3D187561333CA476944C7E550C2E3369D791426BB68A8AC388"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\原始配音\\002_04_原始配音.mp3",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\原始配音\\002_04_原始配音.mp3",
+      "Category": "重复配音备份",
+      "Reason": "与保留的默认音源及最新版本备份SHA-256相同，默认渲染路径不变",
+      "Bytes": 341926,
+      "SHA256": "92FD3E53B849406F3F3B7C3E728B019139133DD8B6C6B0DE2DDD1AB93E31C94A"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\原始配音\\002_v2_02_原始配音.mp3",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\原始配音\\002_v2_02_原始配音.mp3",
+      "Category": "重复配音备份",
+      "Reason": "与保留的默认音源及最新版本备份SHA-256相同，默认渲染路径不变",
+      "Bytes": 616525,
+      "SHA256": "DC14E73D82C0FA1966CECC12BA7D0B092BD11EC8BF7E548CEC4F9D5448283056"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\原始配音\\002_v2_03_原始配音.mp3",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\原始配音\\002_v2_03_原始配音.mp3",
+      "Category": "重复配音备份",
+      "Reason": "与保留的默认音源及最新版本备份SHA-256相同，默认渲染路径不变",
+      "Bytes": 716836,
+      "SHA256": "1027FD6BEDB8647571AABBE578F332B68B8A34A2B979BBABE09A3614788F8B77"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\原题常驻关键帧总览.png",
+      "RelativePath": "第002期_去异求同\\优化版_原题常驻\\原题常驻关键帧总览.png",
+      "Category": "可重建预览PNG",
+      "Reason": "历史版本关键帧总览，可由源重建",
+      "Bytes": 250413,
+      "SHA256": "9574BC475ADCB55540072C5E7A23C7DAF5501CC5007C4996FD3E20CEA6A4FF68"
+    }
+  ],
+  "PreservedBaseline": [
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_题卡配音素材包.zip",
+      "Bytes": 532371,
+      "SHA256": "61EF16981ECAB2BF890A4E38CCF94776270FF0E8EFB3DF562C3E272F8B51768A"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\00_视频封面.png",
+      "Bytes": 45538,
+      "SHA256": "97B278678B77EA91E683BFCD46E58F150F6DC91F3EE4C25AA2EAC8829E7AEC56"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\01_先做一道题.png",
+      "Bytes": 60969,
+      "SHA256": "6EEC0A14A7AF147BD45F955F1D8613DC784BAD49ACB607051046A5256F09B563"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\02_揭晓答案.png",
+      "Bytes": 67180,
+      "SHA256": "25AC2826511AF3506CDB3D94A6B76C604D67CB6FDCBFBBF5E3D887334A9C6415"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\03_记住方法.png",
+      "Bytes": 63928,
+      "SHA256": "B0FC2AC46E211D0EFDE6C16A993A7A401C383278183FC04F18B6C04A847B0E35"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\04_换题练一练.png",
+      "Bytes": 64555,
+      "SHA256": "E772526AA1C40E0200B150B6256905954C36ECE7F90C3DE97873C055608C1665"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\第001讲_sangsang_保留口音版.mp4",
+      "Bytes": 10950343,
+      "SHA256": "77B316AD7B7199AA9CD3477977311281805F7C46C0A0D6631CD7D86F983025B9"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\第001讲_sangsang_去除结尾提示.mp4",
+      "Bytes": 8477029,
+      "SHA256": "AD082660A9331223C762C984E234D5B5FD4E04732D8C99F71D6BB085AF109211"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\第001讲_sangsang_有声预览.mp4",
+      "Bytes": 8964164,
+      "SHA256": "90D95E3F904F01EC3F70276E92F055C0AE7BDF4DF03C67B10544A30CDF2D0B9C"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\第二音色_参考录音.m4a",
+      "Bytes": 1829930,
+      "SHA256": "572EB00D19445EFAB51A3A188B7B8AAAC8780D560A4362BDD856A892F05CF358"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\配音稿.txt",
+      "Bytes": 1129,
+      "SHA256": "1E80BB8202BAD03750234721A7AAFA800BBCB4C49D4C4DC213CA2140BF47F45B"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\文字边界检查.json",
+      "Bytes": 12535,
+      "SHA256": "F41CD42981043D57D051B1083F6B4D377CFED6C047CA161F3EE745A2354B0487"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\制作说明.txt",
+      "Bytes": 6228,
+      "SHA256": "0E3EBF465FF20FFC2C66BC8907FAE49DB1B9BEDA87FF40CD76D735F588F614AB"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\sangsang_保留口音版_完整草稿导出.mp3",
+      "Bytes": 950057,
+      "SHA256": "FD1C97C179012C3DBCA388AB61E92E8D2990B41221C5345AF4C2D562B8A58F00"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\sangsang_第001讲_01.mp3",
+      "Bytes": 293025,
+      "SHA256": "AB20448B4B6A663BB448680F489493567B4297323072AAF4FD8AF5F06918388D"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\sangsang_第001讲_02.mp3",
+      "Bytes": 293025,
+      "SHA256": "16BA1BEB457FBFAE0D4B281D3237CBA78A3DE07C532E12F2F61B1A97F1C0CE14"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\sangsang_第001讲_03.mp3",
+      "Bytes": 293025,
+      "SHA256": "E2C78D239848A82365E5254F79BE1181E366F5E113BA56333A3660A1A93DAE91"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\sangsang_第001讲_04.mp3",
+      "Bytes": 296787,
+      "SHA256": "29C574267FDA6807C283E46367C64357AD9C51D9B46209F5A63993850BB89492"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\sangsang_第001讲_完整配音.mp3",
+      "Bytes": 950057,
+      "SHA256": "460645122990A92F359015D054A2519DE36E4D7A1A601B49498D640D147AAFD2"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\sangsang_口音版_02_原始导出.mp3",
+      "Bytes": 950057,
+      "SHA256": "52C4BE8BC0F5A2795A5A8668AC3D7EB01EC6D13F989D06A58A8C2B2E7E553830"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\sangsang_口音版_03_原始导出.mp3",
+      "Bytes": 950057,
+      "SHA256": "8EBE3F004D531D53C7CB96DF8AA734758F53937D7FEFCCFA7FD701B0525902C7"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\sangsang_口音版_04_原始导出.mp3",
+      "Bytes": 950057,
+      "SHA256": "5585E8C07921A6ACF88E59C290A8F21C0C385C154C76D4C2C360394EC8A7CC37"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\sangsang_首段_保留口音版试听.m4a",
+      "Bytes": 252149,
+      "SHA256": "ECA475DA379AAD00EA4CC0E36242A7128520A5DC758CBF77A584D93B13CC4A26"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\可修改源文件\\build.ps1",
+      "Bytes": 12170,
+      "SHA256": "DBC192DF9BBAD16C92F1B8C0D9B0D3E39C5C6E2066B801E919A478EEAE0306A7"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\可修改源文件\\lesson.json",
+      "Bytes": 1424,
+      "SHA256": "1854874B6C8E81E298179EF3B8E3175B24F0D42528FDA182D8F245DD737863AD"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第001期_只有才\\定时视频片段\\合并顺序.txt",
+      "Bytes": 142,
+      "SHA256": "1F0DC19AC6E1FBCFE150A99FF254E1899D67643F6DC51F5BDB72A9D124EE57A1"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\00_视频封面.png",
+      "Bytes": 106533,
+      "SHA256": "FED09709FC9C1C8AF611577A4B4852EAC33D79E454C830213F66F257CAF9AF90"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\002_01_原始配音.mp3",
+      "Bytes": 316849,
+      "SHA256": "3E117F2927E4FD3D187561333CA476944C7E550C2E3369D791426BB68A8AC388"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\002_02_原始配音.mp3",
+      "Bytes": 351330,
+      "SHA256": "A60D4EDDF5887F3BC4149B899E2D7AD117C0C411E1F2EAF4ECCEAE065972D3B0"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\002_03_原始配音.mp3",
+      "Bytes": 367004,
+      "SHA256": "5A5573645F3168813455100CB4BF56462040D32C3CD3DD17C0F985094C5FB276"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\002_04_原始配音.mp3",
+      "Bytes": 341926,
+      "SHA256": "92FD3E53B849406F3F3B7C3E728B019139133DD8B6C6B0DE2DDD1AB93E31C94A"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\01_先做一道题.png",
+      "Bytes": 149761,
+      "SHA256": "589C31EF8A27426D3D7D7CCF38047D0B7EA5C5812C25F9101468EC203EA5CB39"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\02_第一组找规律.png",
+      "Bytes": 126152,
+      "SHA256": "2AAF19A4E68540A9249C27DFEE5920400D4A563B898CFE89826176099B5E08A7"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\03_第二组用规律.png",
+      "Bytes": 113965,
+      "SHA256": "9CFFB6968833ADAA09944117A227B78032AF6C63092511205F4C0AE6F1D042BB"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\04_记住三步方法.png",
+      "Bytes": 117463,
+      "SHA256": "956B47FB4AABE3CA584B9A4603729258AE8A8C35C6D6773CF0B0DF9506F5EF5D"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\第002讲_去异求同_sangsang口音版.mp4",
+      "Bytes": 11351525,
+      "SHA256": "77AADB9C53C70664DCA219B84DCED1FE6B8AC598F3B0923979874AD8B8A9175A"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\剪辑时间表.json",
+      "Bytes": 558,
+      "SHA256": "BFE3A321032E8B4D2071C8683EFB8ECAF024C0AB544CFF0097918BAC6FCC68FD"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\配音稿.txt",
+      "Bytes": 1034,
+      "SHA256": "7F3788762C0DE2A79FDE022A4B039D7B27A6AB98325A110AEF91C9C287964E44"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\题卡制作说明.txt",
+      "Bytes": 759,
+      "SHA256": "6923E28B9A20DCC7AF84665F21C0C6A79A60B04693CCD757D73B1D1B4F3AA291"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\文字边界检查.json",
+      "Bytes": 8482,
+      "SHA256": "592345A645BEFE562859E416B5BEE3405A2C7A130F6E7529AF6CFC27B07DFFAF"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\原题.png",
+      "Bytes": 530795,
+      "SHA256": "37E500F10B990423CEF52A9659ACFF488ACFB7047E520FE3B633A6B5558458DA"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\制作说明.txt",
+      "Bytes": 1944,
+      "SHA256": "73269E48124FFB19B9F6ABEB407C98D4B44EC38E22AD1A4F3B0CC40FEE2FE3EB"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\第002讲_去异求同_原题常驻版.mp4",
+      "Bytes": 16589270,
+      "SHA256": "15C68CF020E07B5DC7C2C45E764D3DFFCA1C5E5E2A662F87C5DC1BD9D724BCC6"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\动画时间表.json",
+      "Bytes": 733,
+      "SHA256": "89BB92338E15EA3CA262352F88D90343EBDF07E20A451435608DED914851F1EB"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\配音稿.txt",
+      "Bytes": 1448,
+      "SHA256": "DF1270451DC99A69F04AD6D8249E29FB0ADD0ACD874F2C2BB1407A5E08C39B15"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\完整解码检查.txt",
+      "Bytes": 4613,
+      "SHA256": "3253AAD53C86F872D3E4D020B3DFE0063079AC6CF36FEF3284F4BB9FC8E2C3EE"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\渲染日志.txt",
+      "Bytes": 10587,
+      "SHA256": "BF5B907CE3F8C29A2BB0B58029B5EE0E3F26D801E048A9B6C479386D6BBC310D"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\验证记录.json",
+      "Bytes": 1650,
+      "SHA256": "43BF0F273509BBBA0273753B15395437BB19D0DCFDCE64CE2CBB61297403F219"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\制作说明.txt",
+      "Bytes": 1963,
+      "SHA256": "D60C0C002763EEAC6694999939B7BA4EA69748C7DAFCFB49EAAFAD82307B6AE4"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\可修改源文件\\配音对齐时间表.json",
+      "Bytes": 526,
+      "SHA256": "703C222F993A788872B169921596E5C7E264A8294AA1F7D894FC50D0003E7CAA"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\可修改源文件\\check_final.py",
+      "Bytes": 2945,
+      "SHA256": "60812B927A0565792F2E564B603B77BBA4ABAA65ADC311CD18DD10E7CFA60F4C"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\可修改源文件\\layout_verification.json",
+      "Bytes": 610,
+      "SHA256": "F3F21DFFA1785216451DDA93E5BE5E237280C20F7D3F52BC92BEEB02C1BDF7C2"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_原题常驻\\可修改源文件\\render_dynamic.py",
+      "Bytes": 18116,
+      "SHA256": "C511B3FAA537A6F9D7B1826262D335A8350CEFF03794B2A7E0FD388569BEC5B6"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\第002讲_去异求同_无角标版.mp4",
+      "Bytes": 16190390,
+      "SHA256": "415314E6A506212B3A1956BC93E29567B55F80A172E70FCF69DD73F583685A7B"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\动画时间表.json",
+      "Bytes": 733,
+      "SHA256": "89BB92338E15EA3CA262352F88D90343EBDF07E20A451435608DED914851F1EB"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\配音稿.txt",
+      "Bytes": 1448,
+      "SHA256": "DF1270451DC99A69F04AD6D8249E29FB0ADD0ACD874F2C2BB1407A5E08C39B15"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\完整解码检查.txt",
+      "Bytes": 4616,
+      "SHA256": "8B449C3C8CC88D5AA06B0AE3575B3386B315AFA73A49A25F3A2B3AE5E9C89939"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\无角标关键帧总览.png",
+      "Bytes": 245688,
+      "SHA256": "AD97C7C6CE3EE191428A5D89803DDF25C5FE29F1155AD634AA197B50EFEDD1A0"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\渲染日志.txt",
+      "Bytes": 11778,
+      "SHA256": "A2A835A39FE0C54A64707EB58ACD053DCA19A21A867DF8A7BDD3916069D2346A"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\验证记录.json",
+      "Bytes": 4358,
+      "SHA256": "86377B1D9394D947DD055E5E064D5FD7C6B29CF3AEA7656D2CC5725E6174A686"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\制作说明.txt",
+      "Bytes": 1657,
+      "SHA256": "896BDC713C0BB5E370D0F06455E5AC7AA3356933515F8171F8FFAACE2AB93766"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\原始配音\\002_01_原始配音.mp3",
+      "Bytes": 316849,
+      "SHA256": "3E117F2927E4FD3D187561333CA476944C7E550C2E3369D791426BB68A8AC388"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\原始配音\\002_04_原始配音.mp3",
+      "Bytes": 341926,
+      "SHA256": "92FD3E53B849406F3F3B7C3E728B019139133DD8B6C6B0DE2DDD1AB93E31C94A"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\原始配音\\002_v2_02_原始配音.mp3",
+      "Bytes": 616525,
+      "SHA256": "DC14E73D82C0FA1966CECC12BA7D0B092BD11EC8BF7E548CEC4F9D5448283056"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\原始配音\\002_v2_03_原始配音.mp3",
+      "Bytes": 716836,
+      "SHA256": "1027FD6BEDB8647571AABBE578F332B68B8A34A2B979BBABE09A3614788F8B77"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\可修改源文件\\配音对齐时间表.json",
+      "Bytes": 526,
+      "SHA256": "703C222F993A788872B169921596E5C7E264A8294AA1F7D894FC50D0003E7CAA"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\可修改源文件\\check_final.py",
+      "Bytes": 2933,
+      "SHA256": "88A48C7ED770AB50F7A74BDB2EB01606D9578597886487C1FCFC1C1CA4BAB3DE"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\可修改源文件\\no_corner_verification.json",
+      "Bytes": 3138,
+      "SHA256": "21F0B5101365EFC096F2105CB2DD8E6B89AD868A55C94142BD583F7D9D04D33D"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\可修改源文件\\render_dynamic.py",
+      "Bytes": 18134,
+      "SHA256": "E81737A41A01ECFF2DCA91E3EE381FE1766D95FA80CC5112EEEC14FFC6BD3E3B"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\可修改源文件\\构建命令.txt",
+      "Bytes": 353,
+      "SHA256": "04231BAAE23647AC9A4129782087AF12ADA41C36D0D59E06BEF373CDA160E3F3"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\可修改源文件\\原题.png",
+      "Bytes": 530795,
+      "SHA256": "37E500F10B990423CEF52A9659ACFF488ACFB7047E520FE3B633A6B5558458DA"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\可修改源文件\\build.py",
+      "Bytes": 8255,
+      "SHA256": "9FCC82082683CBBDBD8200AA188456FE7859F7BBDBB7EFC128D46188B17ED1AD"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\可修改源文件\\lesson.json",
+      "Bytes": 2243,
+      "SHA256": "FCA432DC3640C11F33F654C2022A61DF750F902F38DBD79988CB340321AF302D"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\002_v2_02_原始配音.mp3",
+      "Bytes": 616525,
+      "SHA256": "DC14E73D82C0FA1966CECC12BA7D0B092BD11EC8BF7E548CEC4F9D5448283056"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\002_v2_03_原始配音.mp3",
+      "Bytes": 716836,
+      "SHA256": "1027FD6BEDB8647571AABBE578F332B68B8A34A2B979BBABE09A3614788F8B77"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\第002讲_去异求同_逐步叠加演示.mp4",
+      "Bytes": 16717370,
+      "SHA256": "8CF51E05771DDD6C470D179B8FC4BA21906D8C563835D77522457B5C76DD9957"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\动画时间表.json",
+      "Bytes": 733,
+      "SHA256": "89BB92338E15EA3CA262352F88D90343EBDF07E20A451435608DED914851F1EB"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\配音稿.txt",
+      "Bytes": 1448,
+      "SHA256": "DF1270451DC99A69F04AD6D8249E29FB0ADD0ACD874F2C2BB1407A5E08C39B15"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\完整解码检查.txt",
+      "Bytes": 4616,
+      "SHA256": "EE73607F777C6E58C46F145DC3078E929DE259E5C4F75A4580D989764F53A3D9"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\渲染日志.txt",
+      "Bytes": 8637,
+      "SHA256": "C330B7FED96B7EF6D3C48C849FC2D6B6D88AB9B2D21FC4667B58F922AAC055CD"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\验证记录.json",
+      "Bytes": 1048,
+      "SHA256": "EC525F795395B2F973F2366CED9A7994C82B74A21339DBBF6367F7952EBB4F30"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\制作说明.txt",
+      "Bytes": 3048,
+      "SHA256": "7DD12B8356DA3FA8DAF5333A2564EAA4C14C696F11C1C338D5F3FEA2542039C0"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\可修改源文件\\配音对齐时间表.json",
+      "Bytes": 526,
+      "SHA256": "703C222F993A788872B169921596E5C7E264A8294AA1F7D894FC50D0003E7CAA"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\可修改源文件\\check_final.py",
+      "Bytes": 2835,
+      "SHA256": "2A5FDCB4BA43FF4C338AC409D729D7CA3BA53DE367B77E400E9A385BE44674B4"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\可修改源文件\\first_set_geometry_check.json",
+      "Bytes": 2443,
+      "SHA256": "2BC2D8DF02360210A2984AA97D8DEC51E35F89B196F2FECC0583C17EB37015AD"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\可修改源文件\\first_set_math_check.png",
+      "Bytes": 159912,
+      "SHA256": "748800B082BE204D161F2364E1715C22EC6AB468FFFF2E99AF9698DC6D336F4F"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\可修改源文件\\render_dynamic.py",
+      "Bytes": 16481,
+      "SHA256": "C323CD3A1520F360794C930105509FC95A39602DCBDAC04CCD30465C604BB194"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\可修改源文件\\second_group_geometry.json",
+      "Bytes": 2078,
+      "SHA256": "7883218F7B3261D92E5CE6D152FBCBA18CBDDAC041596FDC3B53BD87EB9C16CB"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\可修改源文件\\second_group_geometry.png",
+      "Bytes": 23281,
+      "SHA256": "FBD9D3A570B71DE8AA0D8EF921D57EB742B7AB83111A771B2A6AB74434BB56A9"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\可修改源文件\\second_group_geometry.py",
+      "Bytes": 2304,
+      "SHA256": "50419E5A67C091763E1B4727DB3EA21A6474F7CA2CA04B332452B5FEA74670EB"
+    },
+    {
+      "Path": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\改进版_逐步演示\\可修改源文件\\verify_first_set.py",
+      "Bytes": 5113,
+      "SHA256": "359094C7F4BE41A091CB1F874FD07F262A1DFC7579CC551CFABB7DFABAF4E407"
+    }
+  ],
+  "DeleteCount": 104,
+  "DeleteBytes": 43876595.0,
+  "KeptTemplatePreview": "E:\\XcodeProject_sang\\短视频\\第002期_去异求同\\优化版_去右上角期数\\无角标关键帧总览.png"
+}
